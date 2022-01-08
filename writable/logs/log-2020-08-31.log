@@ -1,0 +1,78 @@
+CRITICAL - 2020-08-31 05:33:16 --> Class 'App\Models\InsuranceQuotationModel' not found
+#0 D:\xampp\htdocs\policy-master\vendor\codeigniter4\framework\system\CodeIgniter.php(914): App\Controllers\InsuranceQuotation->index()
+#1 D:\xampp\htdocs\policy-master\vendor\codeigniter4\framework\system\CodeIgniter.php(400): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\InsuranceQuotation))
+#2 D:\xampp\htdocs\policy-master\vendor\codeigniter4\framework\system\CodeIgniter.php(308): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 D:\xampp\htdocs\policy-master\index.php(84): CodeIgniter\CodeIgniter->run()
+#4 {main}
+CRITICAL - 2020-08-31 05:57:35 --> Undefined variable: clienttype
+#0 D:\xampp\htdocs\policy-master\app\Views\quotation\add.php(57): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined varia...', 'D:\\xampp\\htdocs...', 57, Array)
+#1 D:\xampp\htdocs\policy-master\vendor\codeigniter4\framework\system\View\View.php(246): include('D:\\xampp\\htdocs...')
+#2 D:\xampp\htdocs\policy-master\vendor\codeigniter4\framework\system\Common.php(1087): CodeIgniter\View\View->render('quotation/add', Array, true)
+#3 D:\xampp\htdocs\policy-master\app\Controllers\BaseController.php(62): view('quotation/add', Array)
+#4 D:\xampp\htdocs\policy-master\app\Controllers\InsuranceQuotation.php(32): App\Controllers\BaseController->render_page('quotation/add', Array)
+#5 D:\xampp\htdocs\policy-master\vendor\codeigniter4\framework\system\CodeIgniter.php(914): App\Controllers\InsuranceQuotation->create()
+#6 D:\xampp\htdocs\policy-master\vendor\codeigniter4\framework\system\CodeIgniter.php(400): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\InsuranceQuotation))
+#7 D:\xampp\htdocs\policy-master\vendor\codeigniter4\framework\system\CodeIgniter.php(308): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#8 D:\xampp\htdocs\policy-master\index.php(84): CodeIgniter\CodeIgniter->run()
+#9 {main}
+CRITICAL - 2020-08-31 06:23:15 --> Undefined variable: clienttype
+#0 D:\xampp\htdocs\policy-master\app\Views\quotation\add.php(63): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined varia...', 'D:\\xampp\\htdocs...', 63, Array)
+#1 D:\xampp\htdocs\policy-master\vendor\codeigniter4\framework\system\View\View.php(246): include('D:\\xampp\\htdocs...')
+#2 D:\xampp\htdocs\policy-master\vendor\codeigniter4\framework\system\Common.php(1087): CodeIgniter\View\View->render('quotation/add', Array, true)
+#3 D:\xampp\htdocs\policy-master\app\Controllers\BaseController.php(62): view('quotation/add', Array)
+#4 D:\xampp\htdocs\policy-master\app\Controllers\InsuranceQuotation.php(33): App\Controllers\BaseController->render_page('quotation/add', Array)
+#5 D:\xampp\htdocs\policy-master\vendor\codeigniter4\framework\system\CodeIgniter.php(914): App\Controllers\InsuranceQuotation->create()
+#6 D:\xampp\htdocs\policy-master\vendor\codeigniter4\framework\system\CodeIgniter.php(400): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\InsuranceQuotation))
+#7 D:\xampp\htdocs\policy-master\vendor\codeigniter4\framework\system\CodeIgniter.php(308): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#8 D:\xampp\htdocs\policy-master\index.php(84): CodeIgniter\CodeIgniter->run()
+#9 {main}
+CRITICAL - 2020-08-31 06:23:19 --> Undefined variable: clienttype
+#0 D:\xampp\htdocs\policy-master\app\Views\quotation\add.php(63): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined varia...', 'D:\\xampp\\htdocs...', 63, Array)
+#1 D:\xampp\htdocs\policy-master\vendor\codeigniter4\framework\system\View\View.php(246): include('D:\\xampp\\htdocs...')
+#2 D:\xampp\htdocs\policy-master\vendor\codeigniter4\framework\system\Common.php(1087): CodeIgniter\View\View->render('quotation/add', Array, true)
+#3 D:\xampp\htdocs\policy-master\app\Controllers\BaseController.php(62): view('quotation/add', Array)
+#4 D:\xampp\htdocs\policy-master\app\Controllers\InsuranceQuotation.php(33): App\Controllers\BaseController->render_page('quotation/add', Array)
+#5 D:\xampp\htdocs\policy-master\vendor\codeigniter4\framework\system\CodeIgniter.php(914): App\Controllers\InsuranceQuotation->create()
+#6 D:\xampp\htdocs\policy-master\vendor\codeigniter4\framework\system\CodeIgniter.php(400): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\InsuranceQuotation))
+#7 D:\xampp\htdocs\policy-master\vendor\codeigniter4\framework\system\CodeIgniter.php(308): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#8 D:\xampp\htdocs\policy-master\index.php(84): CodeIgniter\CodeIgniter->run()
+#9 {main}
+CRITICAL - 2020-08-31 06:23:38 --> Undefined variable: occupation
+#0 D:\xampp\htdocs\policy-master\app\Views\quotation\add.php(78): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined varia...', 'D:\\xampp\\htdocs...', 78, Array)
+#1 D:\xampp\htdocs\policy-master\vendor\codeigniter4\framework\system\View\View.php(246): include('D:\\xampp\\htdocs...')
+#2 D:\xampp\htdocs\policy-master\vendor\codeigniter4\framework\system\Common.php(1087): CodeIgniter\View\View->render('quotation/add', Array, true)
+#3 D:\xampp\htdocs\policy-master\app\Controllers\BaseController.php(62): view('quotation/add', Array)
+#4 D:\xampp\htdocs\policy-master\app\Controllers\InsuranceQuotation.php(33): App\Controllers\BaseController->render_page('quotation/add', Array)
+#5 D:\xampp\htdocs\policy-master\vendor\codeigniter4\framework\system\CodeIgniter.php(914): App\Controllers\InsuranceQuotation->create()
+#6 D:\xampp\htdocs\policy-master\vendor\codeigniter4\framework\system\CodeIgniter.php(400): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\InsuranceQuotation))
+#7 D:\xampp\htdocs\policy-master\vendor\codeigniter4\framework\system\CodeIgniter.php(308): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#8 D:\xampp\htdocs\policy-master\index.php(84): CodeIgniter\CodeIgniter->run()
+#9 {main}
+CRITICAL - 2020-08-31 06:30:37 --> Undefined variable: businesstype
+#0 D:\xampp\htdocs\policy-master\app\Views\quotation\add.php(161): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined varia...', 'D:\\xampp\\htdocs...', 161, Array)
+#1 D:\xampp\htdocs\policy-master\vendor\codeigniter4\framework\system\View\View.php(246): include('D:\\xampp\\htdocs...')
+#2 D:\xampp\htdocs\policy-master\vendor\codeigniter4\framework\system\Common.php(1087): CodeIgniter\View\View->render('quotation/add', Array, true)
+#3 D:\xampp\htdocs\policy-master\app\Controllers\BaseController.php(62): view('quotation/add', Array)
+#4 D:\xampp\htdocs\policy-master\app\Controllers\InsuranceQuotation.php(33): App\Controllers\BaseController->render_page('quotation/add', Array)
+#5 D:\xampp\htdocs\policy-master\vendor\codeigniter4\framework\system\CodeIgniter.php(914): App\Controllers\InsuranceQuotation->create()
+#6 D:\xampp\htdocs\policy-master\vendor\codeigniter4\framework\system\CodeIgniter.php(400): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\InsuranceQuotation))
+#7 D:\xampp\htdocs\policy-master\vendor\codeigniter4\framework\system\CodeIgniter.php(308): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#8 D:\xampp\htdocs\policy-master\index.php(84): CodeIgniter\CodeIgniter->run()
+#9 {main}
+CRITICAL - 2020-08-31 08:36:59 --> Undefined variable: currency
+#0 D:\xampp\htdocs\policy-master\app\Views\quotation\add.php(113): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined varia...', 'D:\\xampp\\htdocs...', 113, Array)
+#1 D:\xampp\htdocs\policy-master\vendor\codeigniter4\framework\system\View\View.php(246): include('D:\\xampp\\htdocs...')
+#2 D:\xampp\htdocs\policy-master\vendor\codeigniter4\framework\system\Common.php(1087): CodeIgniter\View\View->render('quotation/add', Array, true)
+#3 D:\xampp\htdocs\policy-master\app\Controllers\BaseController.php(62): view('quotation/add', Array)
+#4 D:\xampp\htdocs\policy-master\app\Controllers\InsuranceQuotation.php(33): App\Controllers\BaseController->render_page('quotation/add', Array)
+#5 D:\xampp\htdocs\policy-master\vendor\codeigniter4\framework\system\CodeIgniter.php(914): App\Controllers\InsuranceQuotation->create()
+#6 D:\xampp\htdocs\policy-master\vendor\codeigniter4\framework\system\CodeIgniter.php(400): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\InsuranceQuotation))
+#7 D:\xampp\htdocs\policy-master\vendor\codeigniter4\framework\system\CodeIgniter.php(308): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#8 D:\xampp\htdocs\policy-master\index.php(84): CodeIgniter\CodeIgniter->run()
+#9 {main}
+CRITICAL - 2020-08-31 08:44:36 --> Class 'App\Models\CurrencyModel' not found
+#0 D:\xampp\htdocs\policy-master\vendor\codeigniter4\framework\system\CodeIgniter.php(914): App\Controllers\InsuranceQuotation->create()
+#1 D:\xampp\htdocs\policy-master\vendor\codeigniter4\framework\system\CodeIgniter.php(400): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\InsuranceQuotation))
+#2 D:\xampp\htdocs\policy-master\vendor\codeigniter4\framework\system\CodeIgniter.php(308): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 D:\xampp\htdocs\policy-master\index.php(84): CodeIgniter\CodeIgniter->run()
+#4 {main}

@@ -1,0 +1,452 @@
+CRITICAL - 2021-08-23 00:35:53 --> syntax error, unexpected '?'
+#0 F:\xampp\htdocs\policy-master-updated\vendor\codeigniter4\framework\system\Common.php(1087): CodeIgniter\View\View->render('quotation/displ...', Array, true)
+#1 F:\xampp\htdocs\policy-master-updated\app\Views\templete.php(4): view('quotation/displ...')
+#2 F:\xampp\htdocs\policy-master-updated\vendor\codeigniter4\framework\system\View\View.php(246): include('F:\\xampp\\htdocs...')
+#3 F:\xampp\htdocs\policy-master-updated\vendor\codeigniter4\framework\system\Common.php(1087): CodeIgniter\View\View->render('templete', Array, true)
+#4 F:\xampp\htdocs\policy-master-updated\app\Controllers\Quotation.php(209): view('templete', Array)
+#5 F:\xampp\htdocs\policy-master-updated\vendor\codeigniter4\framework\system\CodeIgniter.php(914): App\Controllers\Quotation->view_vehicle_quatation('52')
+#6 F:\xampp\htdocs\policy-master-updated\vendor\codeigniter4\framework\system\CodeIgniter.php(400): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Quotation))
+#7 F:\xampp\htdocs\policy-master-updated\vendor\codeigniter4\framework\system\CodeIgniter.php(308): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#8 F:\xampp\htdocs\policy-master-updated\index.php(84): CodeIgniter\CodeIgniter->run()
+#9 {main}
+CRITICAL - 2021-08-23 00:36:44 --> syntax error, unexpected 'echo' (T_ECHO)
+#0 F:\xampp\htdocs\policy-master-updated\vendor\codeigniter4\framework\system\Common.php(1087): CodeIgniter\View\View->render('quotation/displ...', Array, true)
+#1 F:\xampp\htdocs\policy-master-updated\app\Views\templete.php(4): view('quotation/displ...')
+#2 F:\xampp\htdocs\policy-master-updated\vendor\codeigniter4\framework\system\View\View.php(246): include('F:\\xampp\\htdocs...')
+#3 F:\xampp\htdocs\policy-master-updated\vendor\codeigniter4\framework\system\Common.php(1087): CodeIgniter\View\View->render('templete', Array, true)
+#4 F:\xampp\htdocs\policy-master-updated\app\Controllers\Quotation.php(209): view('templete', Array)
+#5 F:\xampp\htdocs\policy-master-updated\vendor\codeigniter4\framework\system\CodeIgniter.php(914): App\Controllers\Quotation->view_vehicle_quatation('52')
+#6 F:\xampp\htdocs\policy-master-updated\vendor\codeigniter4\framework\system\CodeIgniter.php(400): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Quotation))
+#7 F:\xampp\htdocs\policy-master-updated\vendor\codeigniter4\framework\system\CodeIgniter.php(308): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#8 F:\xampp\htdocs\policy-master-updated\index.php(84): CodeIgniter\CodeIgniter->run()
+#9 {main}
+CRITICAL - 2021-08-23 00:37:15 --> syntax error, unexpected ';'
+#0 F:\xampp\htdocs\policy-master-updated\vendor\codeigniter4\framework\system\Common.php(1087): CodeIgniter\View\View->render('quotation/displ...', Array, true)
+#1 F:\xampp\htdocs\policy-master-updated\app\Views\templete.php(4): view('quotation/displ...')
+#2 F:\xampp\htdocs\policy-master-updated\vendor\codeigniter4\framework\system\View\View.php(246): include('F:\\xampp\\htdocs...')
+#3 F:\xampp\htdocs\policy-master-updated\vendor\codeigniter4\framework\system\Common.php(1087): CodeIgniter\View\View->render('templete', Array, true)
+#4 F:\xampp\htdocs\policy-master-updated\app\Controllers\Quotation.php(209): view('templete', Array)
+#5 F:\xampp\htdocs\policy-master-updated\vendor\codeigniter4\framework\system\CodeIgniter.php(914): App\Controllers\Quotation->view_vehicle_quatation('52')
+#6 F:\xampp\htdocs\policy-master-updated\vendor\codeigniter4\framework\system\CodeIgniter.php(400): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Quotation))
+#7 F:\xampp\htdocs\policy-master-updated\vendor\codeigniter4\framework\system\CodeIgniter.php(308): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#8 F:\xampp\htdocs\policy-master-updated\index.php(84): CodeIgniter\CodeIgniter->run()
+#9 {main}
+CRITICAL - 2021-08-23 00:40:40 --> syntax error, unexpected ';'
+#0 F:\xampp\htdocs\policy-master-updated\vendor\codeigniter4\framework\system\Common.php(1087): CodeIgniter\View\View->render('quotation/displ...', Array, true)
+#1 F:\xampp\htdocs\policy-master-updated\app\Views\templete.php(4): view('quotation/displ...')
+#2 F:\xampp\htdocs\policy-master-updated\vendor\codeigniter4\framework\system\View\View.php(246): include('F:\\xampp\\htdocs...')
+#3 F:\xampp\htdocs\policy-master-updated\vendor\codeigniter4\framework\system\Common.php(1087): CodeIgniter\View\View->render('templete', Array, true)
+#4 F:\xampp\htdocs\policy-master-updated\app\Controllers\Quotation.php(209): view('templete', Array)
+#5 F:\xampp\htdocs\policy-master-updated\vendor\codeigniter4\framework\system\CodeIgniter.php(914): App\Controllers\Quotation->view_vehicle_quatation('52')
+#6 F:\xampp\htdocs\policy-master-updated\vendor\codeigniter4\framework\system\CodeIgniter.php(400): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Quotation))
+#7 F:\xampp\htdocs\policy-master-updated\vendor\codeigniter4\framework\system\CodeIgniter.php(308): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#8 F:\xampp\htdocs\policy-master-updated\index.php(84): CodeIgniter\CodeIgniter->run()
+#9 {main}
+CRITICAL - 2021-08-23 00:40:49 --> syntax error, unexpected '?>'
+#0 F:\xampp\htdocs\policy-master-updated\vendor\codeigniter4\framework\system\Common.php(1087): CodeIgniter\View\View->render('quotation/displ...', Array, true)
+#1 F:\xampp\htdocs\policy-master-updated\app\Views\templete.php(4): view('quotation/displ...')
+#2 F:\xampp\htdocs\policy-master-updated\vendor\codeigniter4\framework\system\View\View.php(246): include('F:\\xampp\\htdocs...')
+#3 F:\xampp\htdocs\policy-master-updated\vendor\codeigniter4\framework\system\Common.php(1087): CodeIgniter\View\View->render('templete', Array, true)
+#4 F:\xampp\htdocs\policy-master-updated\app\Controllers\Quotation.php(209): view('templete', Array)
+#5 F:\xampp\htdocs\policy-master-updated\vendor\codeigniter4\framework\system\CodeIgniter.php(914): App\Controllers\Quotation->view_vehicle_quatation('52')
+#6 F:\xampp\htdocs\policy-master-updated\vendor\codeigniter4\framework\system\CodeIgniter.php(400): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Quotation))
+#7 F:\xampp\htdocs\policy-master-updated\vendor\codeigniter4\framework\system\CodeIgniter.php(308): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#8 F:\xampp\htdocs\policy-master-updated\index.php(84): CodeIgniter\CodeIgniter->run()
+#9 {main}
+CRITICAL - 2021-08-23 00:41:06 --> syntax error, unexpected '?>'
+#0 F:\xampp\htdocs\policy-master-updated\vendor\codeigniter4\framework\system\Common.php(1087): CodeIgniter\View\View->render('quotation/displ...', Array, true)
+#1 F:\xampp\htdocs\policy-master-updated\app\Views\templete.php(4): view('quotation/displ...')
+#2 F:\xampp\htdocs\policy-master-updated\vendor\codeigniter4\framework\system\View\View.php(246): include('F:\\xampp\\htdocs...')
+#3 F:\xampp\htdocs\policy-master-updated\vendor\codeigniter4\framework\system\Common.php(1087): CodeIgniter\View\View->render('templete', Array, true)
+#4 F:\xampp\htdocs\policy-master-updated\app\Controllers\Quotation.php(209): view('templete', Array)
+#5 F:\xampp\htdocs\policy-master-updated\vendor\codeigniter4\framework\system\CodeIgniter.php(914): App\Controllers\Quotation->view_vehicle_quatation('52')
+#6 F:\xampp\htdocs\policy-master-updated\vendor\codeigniter4\framework\system\CodeIgniter.php(400): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Quotation))
+#7 F:\xampp\htdocs\policy-master-updated\vendor\codeigniter4\framework\system\CodeIgniter.php(308): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#8 F:\xampp\htdocs\policy-master-updated\index.php(84): CodeIgniter\CodeIgniter->run()
+#9 {main}
+CRITICAL - 2021-08-23 00:41:12 --> syntax error, unexpected '?>'
+#0 F:\xampp\htdocs\policy-master-updated\vendor\codeigniter4\framework\system\Common.php(1087): CodeIgniter\View\View->render('quotation/displ...', Array, true)
+#1 F:\xampp\htdocs\policy-master-updated\app\Views\templete.php(4): view('quotation/displ...')
+#2 F:\xampp\htdocs\policy-master-updated\vendor\codeigniter4\framework\system\View\View.php(246): include('F:\\xampp\\htdocs...')
+#3 F:\xampp\htdocs\policy-master-updated\vendor\codeigniter4\framework\system\Common.php(1087): CodeIgniter\View\View->render('templete', Array, true)
+#4 F:\xampp\htdocs\policy-master-updated\app\Controllers\Quotation.php(209): view('templete', Array)
+#5 F:\xampp\htdocs\policy-master-updated\vendor\codeigniter4\framework\system\CodeIgniter.php(914): App\Controllers\Quotation->view_vehicle_quatation('52')
+#6 F:\xampp\htdocs\policy-master-updated\vendor\codeigniter4\framework\system\CodeIgniter.php(400): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Quotation))
+#7 F:\xampp\htdocs\policy-master-updated\vendor\codeigniter4\framework\system\CodeIgniter.php(308): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#8 F:\xampp\htdocs\policy-master-updated\index.php(84): CodeIgniter\CodeIgniter->run()
+#9 {main}
+CRITICAL - 2021-08-23 00:41:36 --> syntax error, unexpected '}', expecting ',' or ';'
+#0 F:\xampp\htdocs\policy-master-updated\vendor\codeigniter4\framework\system\Common.php(1087): CodeIgniter\View\View->render('quotation/displ...', Array, true)
+#1 F:\xampp\htdocs\policy-master-updated\app\Views\templete.php(4): view('quotation/displ...')
+#2 F:\xampp\htdocs\policy-master-updated\vendor\codeigniter4\framework\system\View\View.php(246): include('F:\\xampp\\htdocs...')
+#3 F:\xampp\htdocs\policy-master-updated\vendor\codeigniter4\framework\system\Common.php(1087): CodeIgniter\View\View->render('templete', Array, true)
+#4 F:\xampp\htdocs\policy-master-updated\app\Controllers\Quotation.php(209): view('templete', Array)
+#5 F:\xampp\htdocs\policy-master-updated\vendor\codeigniter4\framework\system\CodeIgniter.php(914): App\Controllers\Quotation->view_vehicle_quatation('52')
+#6 F:\xampp\htdocs\policy-master-updated\vendor\codeigniter4\framework\system\CodeIgniter.php(400): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Quotation))
+#7 F:\xampp\htdocs\policy-master-updated\vendor\codeigniter4\framework\system\CodeIgniter.php(308): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#8 F:\xampp\htdocs\policy-master-updated\index.php(84): CodeIgniter\CodeIgniter->run()
+#9 {main}
+CRITICAL - 2021-08-23 01:03:14 --> Undefined variable: vehicle
+#0 F:\xampp\htdocs\policy-master-updated\app\Views\quotation\display2.php(224): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined varia...', 'F:\\xampp\\htdocs...', 224, Array)
+#1 F:\xampp\htdocs\policy-master-updated\vendor\codeigniter4\framework\system\View\View.php(246): include('F:\\xampp\\htdocs...')
+#2 F:\xampp\htdocs\policy-master-updated\vendor\codeigniter4\framework\system\Common.php(1087): CodeIgniter\View\View->render('quotation/displ...', Array, true)
+#3 F:\xampp\htdocs\policy-master-updated\app\Views\templete.php(4): view('quotation/displ...')
+#4 F:\xampp\htdocs\policy-master-updated\vendor\codeigniter4\framework\system\View\View.php(246): include('F:\\xampp\\htdocs...')
+#5 F:\xampp\htdocs\policy-master-updated\vendor\codeigniter4\framework\system\Common.php(1087): CodeIgniter\View\View->render('templete', Array, true)
+#6 F:\xampp\htdocs\policy-master-updated\app\Controllers\Quotation.php(210): view('templete', Array)
+#7 F:\xampp\htdocs\policy-master-updated\vendor\codeigniter4\framework\system\CodeIgniter.php(914): App\Controllers\Quotation->view_vehicle_quatation('55')
+#8 F:\xampp\htdocs\policy-master-updated\vendor\codeigniter4\framework\system\CodeIgniter.php(400): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Quotation))
+#9 F:\xampp\htdocs\policy-master-updated\vendor\codeigniter4\framework\system\CodeIgniter.php(308): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#10 F:\xampp\htdocs\policy-master-updated\index.php(84): CodeIgniter\CodeIgniter->run()
+#11 {main}
+CRITICAL - 2021-08-23 01:03:31 --> Undefined variable: vehicle
+#0 F:\xampp\htdocs\policy-master-updated\app\Views\quotation\display2.php(224): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined varia...', 'F:\\xampp\\htdocs...', 224, Array)
+#1 F:\xampp\htdocs\policy-master-updated\vendor\codeigniter4\framework\system\View\View.php(246): include('F:\\xampp\\htdocs...')
+#2 F:\xampp\htdocs\policy-master-updated\vendor\codeigniter4\framework\system\Common.php(1087): CodeIgniter\View\View->render('quotation/displ...', Array, true)
+#3 F:\xampp\htdocs\policy-master-updated\app\Views\templete.php(4): view('quotation/displ...')
+#4 F:\xampp\htdocs\policy-master-updated\vendor\codeigniter4\framework\system\View\View.php(246): include('F:\\xampp\\htdocs...')
+#5 F:\xampp\htdocs\policy-master-updated\vendor\codeigniter4\framework\system\Common.php(1087): CodeIgniter\View\View->render('templete', Array, true)
+#6 F:\xampp\htdocs\policy-master-updated\app\Controllers\Quotation.php(210): view('templete', Array)
+#7 F:\xampp\htdocs\policy-master-updated\vendor\codeigniter4\framework\system\CodeIgniter.php(914): App\Controllers\Quotation->view_vehicle_quatation('55')
+#8 F:\xampp\htdocs\policy-master-updated\vendor\codeigniter4\framework\system\CodeIgniter.php(400): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Quotation))
+#9 F:\xampp\htdocs\policy-master-updated\vendor\codeigniter4\framework\system\CodeIgniter.php(308): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#10 F:\xampp\htdocs\policy-master-updated\index.php(84): CodeIgniter\CodeIgniter->run()
+#11 {main}
+CRITICAL - 2021-08-23 01:39:03 --> Undefined index: insurance_class
+#0 F:\xampp\htdocs\policy-master-updated\app\Controllers\Quotation.php(205): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined index...', 'F:\\xampp\\htdocs...', 205, Array)
+#1 F:\xampp\htdocs\policy-master-updated\vendor\codeigniter4\framework\system\CodeIgniter.php(914): App\Controllers\Quotation->view_vehicle_quatation('55')
+#2 F:\xampp\htdocs\policy-master-updated\vendor\codeigniter4\framework\system\CodeIgniter.php(400): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Quotation))
+#3 F:\xampp\htdocs\policy-master-updated\vendor\codeigniter4\framework\system\CodeIgniter.php(308): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 F:\xampp\htdocs\policy-master-updated\index.php(84): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2021-08-23 01:58:17 --> Undefined index: token
+#0 F:\xampp\htdocs\policy-master-updated\app\Controllers\Quotation.php(776): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined index...', 'F:\\xampp\\htdocs...', 776, Array)
+#1 F:\xampp\htdocs\policy-master-updated\vendor\codeigniter4\framework\system\CodeIgniter.php(914): App\Controllers\Quotation->get_insertpaneltb()
+#2 F:\xampp\htdocs\policy-master-updated\vendor\codeigniter4\framework\system\CodeIgniter.php(400): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Quotation))
+#3 F:\xampp\htdocs\policy-master-updated\vendor\codeigniter4\framework\system\CodeIgniter.php(308): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 F:\xampp\htdocs\policy-master-updated\index.php(84): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2021-08-23 01:58:28 --> Undefined index: token
+#0 F:\xampp\htdocs\policy-master-updated\app\Controllers\Quotation.php(776): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined index...', 'F:\\xampp\\htdocs...', 776, Array)
+#1 F:\xampp\htdocs\policy-master-updated\vendor\codeigniter4\framework\system\CodeIgniter.php(914): App\Controllers\Quotation->get_insertpaneltb()
+#2 F:\xampp\htdocs\policy-master-updated\vendor\codeigniter4\framework\system\CodeIgniter.php(400): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Quotation))
+#3 F:\xampp\htdocs\policy-master-updated\vendor\codeigniter4\framework\system\CodeIgniter.php(308): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 F:\xampp\htdocs\policy-master-updated\index.php(84): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2021-08-23 02:05:19 --> Undefined index: token
+#0 F:\xampp\htdocs\policy-master-updated\app\Controllers\Quotation.php(779): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined index...', 'F:\\xampp\\htdocs...', 779, Array)
+#1 F:\xampp\htdocs\policy-master-updated\vendor\codeigniter4\framework\system\CodeIgniter.php(914): App\Controllers\Quotation->get_insertpaneltb()
+#2 F:\xampp\htdocs\policy-master-updated\vendor\codeigniter4\framework\system\CodeIgniter.php(400): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Quotation))
+#3 F:\xampp\htdocs\policy-master-updated\vendor\codeigniter4\framework\system\CodeIgniter.php(308): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 F:\xampp\htdocs\policy-master-updated\index.php(84): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2021-08-23 02:30:21 --> Undefined index: token
+#0 F:\xampp\htdocs\policy-master-updated\app\Controllers\Quotation.php(779): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined index...', 'F:\\xampp\\htdocs...', 779, Array)
+#1 F:\xampp\htdocs\policy-master-updated\vendor\codeigniter4\framework\system\CodeIgniter.php(914): App\Controllers\Quotation->get_insertpaneltb()
+#2 F:\xampp\htdocs\policy-master-updated\vendor\codeigniter4\framework\system\CodeIgniter.php(400): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Quotation))
+#3 F:\xampp\htdocs\policy-master-updated\vendor\codeigniter4\framework\system\CodeIgniter.php(308): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 F:\xampp\htdocs\policy-master-updated\index.php(84): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2021-08-23 02:31:00 --> Undefined index: token
+#0 F:\xampp\htdocs\policy-master-updated\app\Controllers\Quotation.php(779): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined index...', 'F:\\xampp\\htdocs...', 779, Array)
+#1 F:\xampp\htdocs\policy-master-updated\vendor\codeigniter4\framework\system\CodeIgniter.php(914): App\Controllers\Quotation->get_insertpaneltb()
+#2 F:\xampp\htdocs\policy-master-updated\vendor\codeigniter4\framework\system\CodeIgniter.php(400): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Quotation))
+#3 F:\xampp\htdocs\policy-master-updated\vendor\codeigniter4\framework\system\CodeIgniter.php(308): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 F:\xampp\htdocs\policy-master-updated\index.php(84): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2021-08-23 02:31:16 --> Undefined index: token
+#0 F:\xampp\htdocs\policy-master-updated\app\Controllers\Quotation.php(779): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined index...', 'F:\\xampp\\htdocs...', 779, Array)
+#1 F:\xampp\htdocs\policy-master-updated\vendor\codeigniter4\framework\system\CodeIgniter.php(914): App\Controllers\Quotation->get_insertpaneltb()
+#2 F:\xampp\htdocs\policy-master-updated\vendor\codeigniter4\framework\system\CodeIgniter.php(400): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Quotation))
+#3 F:\xampp\htdocs\policy-master-updated\vendor\codeigniter4\framework\system\CodeIgniter.php(308): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 F:\xampp\htdocs\policy-master-updated\index.php(84): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2021-08-23 02:33:05 --> Undefined index: token
+#0 F:\xampp\htdocs\policy-master-updated\app\Controllers\Quotation.php(779): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined index...', 'F:\\xampp\\htdocs...', 779, Array)
+#1 F:\xampp\htdocs\policy-master-updated\vendor\codeigniter4\framework\system\CodeIgniter.php(914): App\Controllers\Quotation->get_insertpaneltb()
+#2 F:\xampp\htdocs\policy-master-updated\vendor\codeigniter4\framework\system\CodeIgniter.php(400): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Quotation))
+#3 F:\xampp\htdocs\policy-master-updated\vendor\codeigniter4\framework\system\CodeIgniter.php(308): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 F:\xampp\htdocs\policy-master-updated\index.php(84): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2021-08-23 02:33:15 --> Undefined index: token
+#0 F:\xampp\htdocs\policy-master-updated\app\Controllers\Quotation.php(779): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined index...', 'F:\\xampp\\htdocs...', 779, Array)
+#1 F:\xampp\htdocs\policy-master-updated\vendor\codeigniter4\framework\system\CodeIgniter.php(914): App\Controllers\Quotation->get_insertpaneltb()
+#2 F:\xampp\htdocs\policy-master-updated\vendor\codeigniter4\framework\system\CodeIgniter.php(400): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Quotation))
+#3 F:\xampp\htdocs\policy-master-updated\vendor\codeigniter4\framework\system\CodeIgniter.php(308): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 F:\xampp\htdocs\policy-master-updated\index.php(84): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2021-08-23 02:33:26 --> Undefined index: token
+#0 F:\xampp\htdocs\policy-master-updated\app\Controllers\Quotation.php(779): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined index...', 'F:\\xampp\\htdocs...', 779, Array)
+#1 F:\xampp\htdocs\policy-master-updated\vendor\codeigniter4\framework\system\CodeIgniter.php(914): App\Controllers\Quotation->get_insertpaneltb()
+#2 F:\xampp\htdocs\policy-master-updated\vendor\codeigniter4\framework\system\CodeIgniter.php(400): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Quotation))
+#3 F:\xampp\htdocs\policy-master-updated\vendor\codeigniter4\framework\system\CodeIgniter.php(308): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 F:\xampp\htdocs\policy-master-updated\index.php(84): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2021-08-23 02:36:58 --> A non-numeric value encountered
+#0 F:\xampp\htdocs\policy-master-updated\app\Controllers\Quotation.php(914): CodeIgniter\Debug\Exceptions->errorHandler(2, 'A non-numeric v...', 'F:\\xampp\\htdocs...', 914, Array)
+#1 F:\xampp\htdocs\policy-master-updated\vendor\codeigniter4\framework\system\CodeIgniter.php(914): App\Controllers\Quotation->calculation()
+#2 F:\xampp\htdocs\policy-master-updated\vendor\codeigniter4\framework\system\CodeIgniter.php(400): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Quotation))
+#3 F:\xampp\htdocs\policy-master-updated\vendor\codeigniter4\framework\system\CodeIgniter.php(308): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 F:\xampp\htdocs\policy-master-updated\index.php(84): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2021-08-23 02:37:57 --> Undefined index: token
+#0 F:\xampp\htdocs\policy-master-updated\app\Controllers\Quotation.php(779): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined index...', 'F:\\xampp\\htdocs...', 779, Array)
+#1 F:\xampp\htdocs\policy-master-updated\vendor\codeigniter4\framework\system\CodeIgniter.php(914): App\Controllers\Quotation->get_insertpaneltb()
+#2 F:\xampp\htdocs\policy-master-updated\vendor\codeigniter4\framework\system\CodeIgniter.php(400): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Quotation))
+#3 F:\xampp\htdocs\policy-master-updated\vendor\codeigniter4\framework\system\CodeIgniter.php(308): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 F:\xampp\htdocs\policy-master-updated\index.php(84): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2021-08-23 02:41:11 --> Undefined index: token
+#0 F:\xampp\htdocs\policy-master-updated\app\Views\quotation\edit1.php(248): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined index...', 'F:\\xampp\\htdocs...', 248, Array)
+#1 F:\xampp\htdocs\policy-master-updated\vendor\codeigniter4\framework\system\View\View.php(246): include('F:\\xampp\\htdocs...')
+#2 F:\xampp\htdocs\policy-master-updated\vendor\codeigniter4\framework\system\Common.php(1087): CodeIgniter\View\View->render('quotation/edit1', Array, true)
+#3 F:\xampp\htdocs\policy-master-updated\app\Views\templete.php(4): view('quotation/edit1')
+#4 F:\xampp\htdocs\policy-master-updated\vendor\codeigniter4\framework\system\View\View.php(246): include('F:\\xampp\\htdocs...')
+#5 F:\xampp\htdocs\policy-master-updated\vendor\codeigniter4\framework\system\Common.php(1087): CodeIgniter\View\View->render('templete', Array, true)
+#6 F:\xampp\htdocs\policy-master-updated\app\Controllers\Quotation.php(397): view('templete', Array)
+#7 F:\xampp\htdocs\policy-master-updated\vendor\codeigniter4\framework\system\CodeIgniter.php(914): App\Controllers\Quotation->edit_general_quatation('59')
+#8 F:\xampp\htdocs\policy-master-updated\vendor\codeigniter4\framework\system\CodeIgniter.php(400): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Quotation))
+#9 F:\xampp\htdocs\policy-master-updated\vendor\codeigniter4\framework\system\CodeIgniter.php(308): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#10 F:\xampp\htdocs\policy-master-updated\index.php(84): CodeIgniter\CodeIgniter->run()
+#11 {main}
+CRITICAL - 2021-08-23 02:45:04 --> Undefined index: token
+#0 F:\xampp\htdocs\policy-master-updated\app\Controllers\Quotation.php(779): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined index...', 'F:\\xampp\\htdocs...', 779, Array)
+#1 F:\xampp\htdocs\policy-master-updated\vendor\codeigniter4\framework\system\CodeIgniter.php(914): App\Controllers\Quotation->get_insertpaneltb()
+#2 F:\xampp\htdocs\policy-master-updated\vendor\codeigniter4\framework\system\CodeIgniter.php(400): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Quotation))
+#3 F:\xampp\htdocs\policy-master-updated\vendor\codeigniter4\framework\system\CodeIgniter.php(308): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 F:\xampp\htdocs\policy-master-updated\index.php(84): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2021-08-23 02:46:21 --> Undefined index: token
+#0 F:\xampp\htdocs\policy-master-updated\app\Controllers\Quotation.php(779): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined index...', 'F:\\xampp\\htdocs...', 779, Array)
+#1 F:\xampp\htdocs\policy-master-updated\vendor\codeigniter4\framework\system\CodeIgniter.php(914): App\Controllers\Quotation->get_insertpaneltb()
+#2 F:\xampp\htdocs\policy-master-updated\vendor\codeigniter4\framework\system\CodeIgniter.php(400): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Quotation))
+#3 F:\xampp\htdocs\policy-master-updated\vendor\codeigniter4\framework\system\CodeIgniter.php(308): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 F:\xampp\htdocs\policy-master-updated\index.php(84): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2021-08-23 02:48:03 --> Undefined index: token
+#0 F:\xampp\htdocs\policy-master-updated\app\Controllers\Quotation.php(390): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined index...', 'F:\\xampp\\htdocs...', 390, Array)
+#1 F:\xampp\htdocs\policy-master-updated\vendor\codeigniter4\framework\system\CodeIgniter.php(914): App\Controllers\Quotation->edit_general_quatation('59')
+#2 F:\xampp\htdocs\policy-master-updated\vendor\codeigniter4\framework\system\CodeIgniter.php(400): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Quotation))
+#3 F:\xampp\htdocs\policy-master-updated\vendor\codeigniter4\framework\system\CodeIgniter.php(308): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 F:\xampp\htdocs\policy-master-updated\index.php(84): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2021-08-23 02:49:01 --> Undefined index: token
+#0 F:\xampp\htdocs\policy-master-updated\app\Controllers\Quotation.php(780): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined index...', 'F:\\xampp\\htdocs...', 780, Array)
+#1 F:\xampp\htdocs\policy-master-updated\vendor\codeigniter4\framework\system\CodeIgniter.php(914): App\Controllers\Quotation->get_insertpaneltb()
+#2 F:\xampp\htdocs\policy-master-updated\vendor\codeigniter4\framework\system\CodeIgniter.php(400): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Quotation))
+#3 F:\xampp\htdocs\policy-master-updated\vendor\codeigniter4\framework\system\CodeIgniter.php(308): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 F:\xampp\htdocs\policy-master-updated\index.php(84): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2021-08-23 02:49:21 --> Undefined index: token
+#0 F:\xampp\htdocs\policy-master-updated\app\Controllers\Quotation.php(780): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined index...', 'F:\\xampp\\htdocs...', 780, Array)
+#1 F:\xampp\htdocs\policy-master-updated\vendor\codeigniter4\framework\system\CodeIgniter.php(914): App\Controllers\Quotation->get_insertpaneltb()
+#2 F:\xampp\htdocs\policy-master-updated\vendor\codeigniter4\framework\system\CodeIgniter.php(400): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Quotation))
+#3 F:\xampp\htdocs\policy-master-updated\vendor\codeigniter4\framework\system\CodeIgniter.php(308): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 F:\xampp\htdocs\policy-master-updated\index.php(84): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2021-08-23 02:50:31 --> Undefined index: token
+#0 F:\xampp\htdocs\policy-master-updated\app\Controllers\Quotation.php(780): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined index...', 'F:\\xampp\\htdocs...', 780, Array)
+#1 F:\xampp\htdocs\policy-master-updated\vendor\codeigniter4\framework\system\CodeIgniter.php(914): App\Controllers\Quotation->get_insertpaneltb()
+#2 F:\xampp\htdocs\policy-master-updated\vendor\codeigniter4\framework\system\CodeIgniter.php(400): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Quotation))
+#3 F:\xampp\htdocs\policy-master-updated\vendor\codeigniter4\framework\system\CodeIgniter.php(308): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 F:\xampp\htdocs\policy-master-updated\index.php(84): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2021-08-23 02:51:28 --> A non-numeric value encountered
+#0 F:\xampp\htdocs\policy-master-updated\app\Controllers\Quotation.php(915): CodeIgniter\Debug\Exceptions->errorHandler(2, 'A non-numeric v...', 'F:\\xampp\\htdocs...', 915, Array)
+#1 F:\xampp\htdocs\policy-master-updated\vendor\codeigniter4\framework\system\CodeIgniter.php(914): App\Controllers\Quotation->calculation()
+#2 F:\xampp\htdocs\policy-master-updated\vendor\codeigniter4\framework\system\CodeIgniter.php(400): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Quotation))
+#3 F:\xampp\htdocs\policy-master-updated\vendor\codeigniter4\framework\system\CodeIgniter.php(308): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 F:\xampp\htdocs\policy-master-updated\index.php(84): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2021-08-23 02:51:42 --> A non-numeric value encountered
+#0 F:\xampp\htdocs\policy-master-updated\app\Controllers\Quotation.php(915): CodeIgniter\Debug\Exceptions->errorHandler(2, 'A non-numeric v...', 'F:\\xampp\\htdocs...', 915, Array)
+#1 F:\xampp\htdocs\policy-master-updated\vendor\codeigniter4\framework\system\CodeIgniter.php(914): App\Controllers\Quotation->calculation()
+#2 F:\xampp\htdocs\policy-master-updated\vendor\codeigniter4\framework\system\CodeIgniter.php(400): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Quotation))
+#3 F:\xampp\htdocs\policy-master-updated\vendor\codeigniter4\framework\system\CodeIgniter.php(308): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 F:\xampp\htdocs\policy-master-updated\index.php(84): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2021-08-23 02:59:34 --> A non-numeric value encountered
+#0 F:\xampp\htdocs\policy-master-updated\app\Controllers\Quotation.php(915): CodeIgniter\Debug\Exceptions->errorHandler(2, 'A non-numeric v...', 'F:\\xampp\\htdocs...', 915, Array)
+#1 F:\xampp\htdocs\policy-master-updated\vendor\codeigniter4\framework\system\CodeIgniter.php(914): App\Controllers\Quotation->calculation()
+#2 F:\xampp\htdocs\policy-master-updated\vendor\codeigniter4\framework\system\CodeIgniter.php(400): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Quotation))
+#3 F:\xampp\htdocs\policy-master-updated\vendor\codeigniter4\framework\system\CodeIgniter.php(308): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 F:\xampp\htdocs\policy-master-updated\index.php(84): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2021-08-23 03:05:33 --> Call to undefined function App\Controllers\alert()
+#0 F:\xampp\htdocs\policy-master-updated\vendor\codeigniter4\framework\system\CodeIgniter.php(914): App\Controllers\Quotation->get_insertpaneltb()
+#1 F:\xampp\htdocs\policy-master-updated\vendor\codeigniter4\framework\system\CodeIgniter.php(400): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Quotation))
+#2 F:\xampp\htdocs\policy-master-updated\vendor\codeigniter4\framework\system\CodeIgniter.php(308): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 F:\xampp\htdocs\policy-master-updated\index.php(84): CodeIgniter\CodeIgniter->run()
+#4 {main}
+CRITICAL - 2021-08-23 03:05:41 --> Call to undefined function App\Controllers\alert()
+#0 F:\xampp\htdocs\policy-master-updated\vendor\codeigniter4\framework\system\CodeIgniter.php(914): App\Controllers\Quotation->get_insertpaneltb()
+#1 F:\xampp\htdocs\policy-master-updated\vendor\codeigniter4\framework\system\CodeIgniter.php(400): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Quotation))
+#2 F:\xampp\htdocs\policy-master-updated\vendor\codeigniter4\framework\system\CodeIgniter.php(308): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 F:\xampp\htdocs\policy-master-updated\index.php(84): CodeIgniter\CodeIgniter->run()
+#4 {main}
+CRITICAL - 2021-08-23 03:11:47 --> A non-numeric value encountered
+#0 F:\xampp\htdocs\policy-master-updated\app\Controllers\Quotation.php(914): CodeIgniter\Debug\Exceptions->errorHandler(2, 'A non-numeric v...', 'F:\\xampp\\htdocs...', 914, Array)
+#1 F:\xampp\htdocs\policy-master-updated\vendor\codeigniter4\framework\system\CodeIgniter.php(914): App\Controllers\Quotation->calculation()
+#2 F:\xampp\htdocs\policy-master-updated\vendor\codeigniter4\framework\system\CodeIgniter.php(400): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Quotation))
+#3 F:\xampp\htdocs\policy-master-updated\vendor\codeigniter4\framework\system\CodeIgniter.php(308): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 F:\xampp\htdocs\policy-master-updated\index.php(84): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2021-08-23 03:12:15 --> A non-numeric value encountered
+#0 F:\xampp\htdocs\policy-master-updated\app\Controllers\Quotation.php(914): CodeIgniter\Debug\Exceptions->errorHandler(2, 'A non-numeric v...', 'F:\\xampp\\htdocs...', 914, Array)
+#1 F:\xampp\htdocs\policy-master-updated\vendor\codeigniter4\framework\system\CodeIgniter.php(914): App\Controllers\Quotation->calculation()
+#2 F:\xampp\htdocs\policy-master-updated\vendor\codeigniter4\framework\system\CodeIgniter.php(400): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Quotation))
+#3 F:\xampp\htdocs\policy-master-updated\vendor\codeigniter4\framework\system\CodeIgniter.php(308): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 F:\xampp\htdocs\policy-master-updated\index.php(84): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2021-08-23 03:13:48 --> A non-numeric value encountered
+#0 F:\xampp\htdocs\policy-master-updated\app\Controllers\Quotation.php(914): CodeIgniter\Debug\Exceptions->errorHandler(2, 'A non-numeric v...', 'F:\\xampp\\htdocs...', 914, Array)
+#1 F:\xampp\htdocs\policy-master-updated\vendor\codeigniter4\framework\system\CodeIgniter.php(914): App\Controllers\Quotation->calculation()
+#2 F:\xampp\htdocs\policy-master-updated\vendor\codeigniter4\framework\system\CodeIgniter.php(400): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Quotation))
+#3 F:\xampp\htdocs\policy-master-updated\vendor\codeigniter4\framework\system\CodeIgniter.php(308): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 F:\xampp\htdocs\policy-master-updated\index.php(84): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2021-08-23 03:14:48 --> A non-numeric value encountered
+#0 F:\xampp\htdocs\policy-master-updated\app\Controllers\Quotation.php(914): CodeIgniter\Debug\Exceptions->errorHandler(2, 'A non-numeric v...', 'F:\\xampp\\htdocs...', 914, Array)
+#1 F:\xampp\htdocs\policy-master-updated\vendor\codeigniter4\framework\system\CodeIgniter.php(914): App\Controllers\Quotation->calculation()
+#2 F:\xampp\htdocs\policy-master-updated\vendor\codeigniter4\framework\system\CodeIgniter.php(400): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Quotation))
+#3 F:\xampp\htdocs\policy-master-updated\vendor\codeigniter4\framework\system\CodeIgniter.php(308): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 F:\xampp\htdocs\policy-master-updated\index.php(84): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2021-08-23 03:15:24 --> A non-numeric value encountered
+#0 F:\xampp\htdocs\policy-master-updated\app\Controllers\Quotation.php(914): CodeIgniter\Debug\Exceptions->errorHandler(2, 'A non-numeric v...', 'F:\\xampp\\htdocs...', 914, Array)
+#1 F:\xampp\htdocs\policy-master-updated\vendor\codeigniter4\framework\system\CodeIgniter.php(914): App\Controllers\Quotation->calculation()
+#2 F:\xampp\htdocs\policy-master-updated\vendor\codeigniter4\framework\system\CodeIgniter.php(400): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Quotation))
+#3 F:\xampp\htdocs\policy-master-updated\vendor\codeigniter4\framework\system\CodeIgniter.php(308): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 F:\xampp\htdocs\policy-master-updated\index.php(84): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2021-08-23 04:43:10 --> Undefined index: token
+#0 F:\xampp\htdocs\policy-master-updated\app\Controllers\Quotation.php(779): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined index...', 'F:\\xampp\\htdocs...', 779, Array)
+#1 F:\xampp\htdocs\policy-master-updated\vendor\codeigniter4\framework\system\CodeIgniter.php(914): App\Controllers\Quotation->get_insertpaneltb()
+#2 F:\xampp\htdocs\policy-master-updated\vendor\codeigniter4\framework\system\CodeIgniter.php(400): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Quotation))
+#3 F:\xampp\htdocs\policy-master-updated\vendor\codeigniter4\framework\system\CodeIgniter.php(308): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 F:\xampp\htdocs\policy-master-updated\index.php(84): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2021-08-23 04:50:01 --> Undefined variable: insert
+#0 F:\xampp\htdocs\policy-master-updated\app\Controllers\Quotation.php(908): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined varia...', 'F:\\xampp\\htdocs...', 908, Array)
+#1 F:\xampp\htdocs\policy-master-updated\vendor\codeigniter4\framework\system\CodeIgniter.php(914): App\Controllers\Quotation->calculation()
+#2 F:\xampp\htdocs\policy-master-updated\vendor\codeigniter4\framework\system\CodeIgniter.php(400): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Quotation))
+#3 F:\xampp\htdocs\policy-master-updated\vendor\codeigniter4\framework\system\CodeIgniter.php(308): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 F:\xampp\htdocs\policy-master-updated\index.php(84): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2021-08-23 04:50:02 --> Undefined variable: insert
+#0 F:\xampp\htdocs\policy-master-updated\app\Controllers\Quotation.php(908): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined varia...', 'F:\\xampp\\htdocs...', 908, Array)
+#1 F:\xampp\htdocs\policy-master-updated\vendor\codeigniter4\framework\system\CodeIgniter.php(914): App\Controllers\Quotation->calculation()
+#2 F:\xampp\htdocs\policy-master-updated\vendor\codeigniter4\framework\system\CodeIgniter.php(400): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Quotation))
+#3 F:\xampp\htdocs\policy-master-updated\vendor\codeigniter4\framework\system\CodeIgniter.php(308): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 F:\xampp\htdocs\policy-master-updated\index.php(84): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2021-08-23 04:57:55 --> Undefined variable: insert
+#0 F:\xampp\htdocs\policy-master-updated\app\Controllers\Quotation.php(908): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined varia...', 'F:\\xampp\\htdocs...', 908, Array)
+#1 F:\xampp\htdocs\policy-master-updated\vendor\codeigniter4\framework\system\CodeIgniter.php(914): App\Controllers\Quotation->calculation()
+#2 F:\xampp\htdocs\policy-master-updated\vendor\codeigniter4\framework\system\CodeIgniter.php(400): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Quotation))
+#3 F:\xampp\htdocs\policy-master-updated\vendor\codeigniter4\framework\system\CodeIgniter.php(308): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 F:\xampp\htdocs\policy-master-updated\index.php(84): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2021-08-23 05:53:01 --> Undefined index: user_role
+#0 F:\xampp\htdocs\policy-master-updated\app\Controllers\User_Role.php(57): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined index...', 'F:\\xampp\\htdocs...', 57, Array)
+#1 F:\xampp\htdocs\policy-master-updated\vendor\codeigniter4\framework\system\CodeIgniter.php(914): App\Controllers\User_Role->search()
+#2 F:\xampp\htdocs\policy-master-updated\vendor\codeigniter4\framework\system\CodeIgniter.php(400): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\User_Role))
+#3 F:\xampp\htdocs\policy-master-updated\vendor\codeigniter4\framework\system\CodeIgniter.php(308): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 F:\xampp\htdocs\policy-master-updated\index.php(84): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2021-08-23 06:09:03 --> Undefined index: perils_group
+#0 F:\xampp\htdocs\policy-master-updated\app\Controllers\Perils_group.php(178): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined index...', 'F:\\xampp\\htdocs...', 178, Array)
+#1 F:\xampp\htdocs\policy-master-updated\vendor\codeigniter4\framework\system\CodeIgniter.php(914): App\Controllers\Perils_group->search()
+#2 F:\xampp\htdocs\policy-master-updated\vendor\codeigniter4\framework\system\CodeIgniter.php(400): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Perils_group))
+#3 F:\xampp\htdocs\policy-master-updated\vendor\codeigniter4\framework\system\CodeIgniter.php(308): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 F:\xampp\htdocs\policy-master-updated\index.php(84): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2021-08-23 06:10:12 --> Undefined index: vehicle_model
+#0 F:\xampp\htdocs\policy-master-updated\app\Controllers\Vehicle_Type.php(68): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined index...', 'F:\\xampp\\htdocs...', 68, Array)
+#1 F:\xampp\htdocs\policy-master-updated\vendor\codeigniter4\framework\system\CodeIgniter.php(914): App\Controllers\Vehicle_Type->search()
+#2 F:\xampp\htdocs\policy-master-updated\vendor\codeigniter4\framework\system\CodeIgniter.php(400): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Vehicle_Type))
+#3 F:\xampp\htdocs\policy-master-updated\vendor\codeigniter4\framework\system\CodeIgniter.php(308): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 F:\xampp\htdocs\policy-master-updated\index.php(84): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2021-08-23 06:10:29 --> Undefined index: vehicle_model
+#0 F:\xampp\htdocs\policy-master-updated\app\Controllers\Vehicle_Type.php(68): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined index...', 'F:\\xampp\\htdocs...', 68, Array)
+#1 F:\xampp\htdocs\policy-master-updated\vendor\codeigniter4\framework\system\CodeIgniter.php(914): App\Controllers\Vehicle_Type->search()
+#2 F:\xampp\htdocs\policy-master-updated\vendor\codeigniter4\framework\system\CodeIgniter.php(400): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Vehicle_Type))
+#3 F:\xampp\htdocs\policy-master-updated\vendor\codeigniter4\framework\system\CodeIgniter.php(308): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 F:\xampp\htdocs\policy-master-updated\index.php(84): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2021-08-23 06:11:51 --> Undefined index: vehicle_maker
+#0 F:\xampp\htdocs\policy-master-updated\app\Controllers\Vehicle_Type.php(68): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined index...', 'F:\\xampp\\htdocs...', 68, Array)
+#1 F:\xampp\htdocs\policy-master-updated\vendor\codeigniter4\framework\system\CodeIgniter.php(914): App\Controllers\Vehicle_Type->search()
+#2 F:\xampp\htdocs\policy-master-updated\vendor\codeigniter4\framework\system\CodeIgniter.php(400): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Vehicle_Type))
+#3 F:\xampp\htdocs\policy-master-updated\vendor\codeigniter4\framework\system\CodeIgniter.php(308): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 F:\xampp\htdocs\policy-master-updated\index.php(84): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2021-08-23 06:12:03 --> Undefined index: vehicle_type_name
+#0 F:\xampp\htdocs\policy-master-updated\app\Controllers\Vehicle_Type.php(68): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined index...', 'F:\\xampp\\htdocs...', 68, Array)
+#1 F:\xampp\htdocs\policy-master-updated\vendor\codeigniter4\framework\system\CodeIgniter.php(914): App\Controllers\Vehicle_Type->search()
+#2 F:\xampp\htdocs\policy-master-updated\vendor\codeigniter4\framework\system\CodeIgniter.php(400): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Vehicle_Type))
+#3 F:\xampp\htdocs\policy-master-updated\vendor\codeigniter4\framework\system\CodeIgniter.php(308): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 F:\xampp\htdocs\policy-master-updated\index.php(84): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2021-08-23 06:13:48 --> Undefined index: vehicle_maker_name
+#0 F:\xampp\htdocs\policy-master-updated\app\Controllers\Vehicle.php(149): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined index...', 'F:\\xampp\\htdocs...', 149, Array)
+#1 F:\xampp\htdocs\policy-master-updated\vendor\codeigniter4\framework\system\CodeIgniter.php(914): App\Controllers\Vehicle->vehiclemake_search()
+#2 F:\xampp\htdocs\policy-master-updated\vendor\codeigniter4\framework\system\CodeIgniter.php(400): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Vehicle))
+#3 F:\xampp\htdocs\policy-master-updated\vendor\codeigniter4\framework\system\CodeIgniter.php(308): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 F:\xampp\htdocs\policy-master-updated\index.php(84): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2021-08-23 07:24:31 --> Undefined index: name
+#0 F:\xampp\htdocs\policy-master-updated\app\Controllers\User.php(130): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined index...', 'F:\\xampp\\htdocs...', 130, Array)
+#1 F:\xampp\htdocs\policy-master-updated\vendor\codeigniter4\framework\system\CodeIgniter.php(914): App\Controllers\User->search_user()
+#2 F:\xampp\htdocs\policy-master-updated\vendor\codeigniter4\framework\system\CodeIgniter.php(400): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\User))
+#3 F:\xampp\htdocs\policy-master-updated\vendor\codeigniter4\framework\system\CodeIgniter.php(308): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 F:\xampp\htdocs\policy-master-updated\index.php(84): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2021-08-23 07:29:49 --> Undefined variable: branch
+#0 F:\xampp\htdocs\policy-master-updated\app\Views\user\list.php(167): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined varia...', 'F:\\xampp\\htdocs...', 167, Array)
+#1 F:\xampp\htdocs\policy-master-updated\vendor\codeigniter4\framework\system\View\View.php(246): include('F:\\xampp\\htdocs...')
+#2 F:\xampp\htdocs\policy-master-updated\vendor\codeigniter4\framework\system\Common.php(1087): CodeIgniter\View\View->render('user/list', Array, true)
+#3 F:\xampp\htdocs\policy-master-updated\app\Views\templete.php(4): view('user/list')
+#4 F:\xampp\htdocs\policy-master-updated\vendor\codeigniter4\framework\system\View\View.php(246): include('F:\\xampp\\htdocs...')
+#5 F:\xampp\htdocs\policy-master-updated\vendor\codeigniter4\framework\system\Common.php(1087): CodeIgniter\View\View->render('templete', Array, true)
+#6 F:\xampp\htdocs\policy-master-updated\app\Controllers\User.php(135): view('templete', Array)
+#7 F:\xampp\htdocs\policy-master-updated\vendor\codeigniter4\framework\system\CodeIgniter.php(914): App\Controllers\User->search_user()
+#8 F:\xampp\htdocs\policy-master-updated\vendor\codeigniter4\framework\system\CodeIgniter.php(400): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\User))
+#9 F:\xampp\htdocs\policy-master-updated\vendor\codeigniter4\framework\system\CodeIgniter.php(308): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#10 F:\xampp\htdocs\policy-master-updated\index.php(84): CodeIgniter\CodeIgniter->run()
+#11 {main}
+CRITICAL - 2021-08-23 07:30:50 --> Undefined index: user_code
+#0 F:\xampp\htdocs\policy-master-updated\app\Controllers\User.php(135): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined index...', 'F:\\xampp\\htdocs...', 135, Array)
+#1 F:\xampp\htdocs\policy-master-updated\vendor\codeigniter4\framework\system\CodeIgniter.php(914): App\Controllers\User->search_user()
+#2 F:\xampp\htdocs\policy-master-updated\vendor\codeigniter4\framework\system\CodeIgniter.php(400): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\User))
+#3 F:\xampp\htdocs\policy-master-updated\vendor\codeigniter4\framework\system\CodeIgniter.php(308): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 F:\xampp\htdocs\policy-master-updated\index.php(84): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2021-08-23 07:31:29 --> Undefined index: user_code
+#0 F:\xampp\htdocs\policy-master-updated\app\Controllers\User.php(135): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined index...', 'F:\\xampp\\htdocs...', 135, Array)
+#1 F:\xampp\htdocs\policy-master-updated\vendor\codeigniter4\framework\system\CodeIgniter.php(914): App\Controllers\User->search_user()
+#2 F:\xampp\htdocs\policy-master-updated\vendor\codeigniter4\framework\system\CodeIgniter.php(400): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\User))
+#3 F:\xampp\htdocs\policy-master-updated\vendor\codeigniter4\framework\system\CodeIgniter.php(308): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 F:\xampp\htdocs\policy-master-updated\index.php(84): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2021-08-23 07:43:38 --> Undefined index: status
+#0 F:\xampp\htdocs\policy-master-updated\app\Controllers\User.php(127): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined index...', 'F:\\xampp\\htdocs...', 127, Array)
+#1 F:\xampp\htdocs\policy-master-updated\vendor\codeigniter4\framework\system\CodeIgniter.php(914): App\Controllers\User->search_user()
+#2 F:\xampp\htdocs\policy-master-updated\vendor\codeigniter4\framework\system\CodeIgniter.php(400): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\User))
+#3 F:\xampp\htdocs\policy-master-updated\vendor\codeigniter4\framework\system\CodeIgniter.php(308): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 F:\xampp\htdocs\policy-master-updated\index.php(84): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2021-08-23 08:50:06 --> Undefined index: excel_reports_type
+#0 F:\xampp\htdocs\policy-master-updated\app\Views\extensionclausesterms\list.php(23): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined index...', 'F:\\xampp\\htdocs...', 23, Array)
+#1 F:\xampp\htdocs\policy-master-updated\vendor\codeigniter4\framework\system\View\View.php(246): include('F:\\xampp\\htdocs...')
+#2 F:\xampp\htdocs\policy-master-updated\vendor\codeigniter4\framework\system\Common.php(1087): CodeIgniter\View\View->render('extensionclause...', Array, true)
+#3 F:\xampp\htdocs\policy-master-updated\app\Views\templete.php(4): view('extensionclause...')
+#4 F:\xampp\htdocs\policy-master-updated\vendor\codeigniter4\framework\system\View\View.php(246): include('F:\\xampp\\htdocs...')
+#5 F:\xampp\htdocs\policy-master-updated\vendor\codeigniter4\framework\system\Common.php(1087): CodeIgniter\View\View->render('templete', Array, true)
+#6 F:\xampp\htdocs\policy-master-updated\app\Controllers\Extensionclausesterms.php(130): view('templete', Array)
+#7 F:\xampp\htdocs\policy-master-updated\vendor\codeigniter4\framework\system\CodeIgniter.php(914): App\Controllers\Extensionclausesterms->search()
+#8 F:\xampp\htdocs\policy-master-updated\vendor\codeigniter4\framework\system\CodeIgniter.php(400): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Extensionclausesterms))
+#9 F:\xampp\htdocs\policy-master-updated\vendor\codeigniter4\framework\system\CodeIgniter.php(308): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#10 F:\xampp\htdocs\policy-master-updated\index.php(84): CodeIgniter\CodeIgniter->run()
+#11 {main}

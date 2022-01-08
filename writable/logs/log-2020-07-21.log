@@ -1,0 +1,788 @@
+CRITICAL - 2020-07-21 00:20:19 --> Undefined variable: relation
+#0 E:\wamp64\www\healthyhabbits\app\Views\family\add.php(22): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined varia...', 'E:\\wamp64\\www\\h...', 22, Array)
+#1 E:\wamp64\www\healthyhabbits\vendor\codeigniter4\framework\system\View\View.php(246): include('E:\\wamp64\\www\\h...')
+#2 E:\wamp64\www\healthyhabbits\vendor\codeigniter4\framework\system\Common.php(1087): CodeIgniter\View\View->render('family/add', Array, true)
+#3 E:\wamp64\www\healthyhabbits\app\Controllers\BaseController.php(56): view('family/add', Array)
+#4 E:\wamp64\www\healthyhabbits\app\Controllers\FamilyMember.php(76): App\Controllers\BaseController->render_page('family/add', Array)
+#5 E:\wamp64\www\healthyhabbits\vendor\codeigniter4\framework\system\CodeIgniter.php(914): App\Controllers\FamilyMember->store()
+#6 E:\wamp64\www\healthyhabbits\vendor\codeigniter4\framework\system\CodeIgniter.php(400): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\FamilyMember))
+#7 E:\wamp64\www\healthyhabbits\vendor\codeigniter4\framework\system\CodeIgniter.php(308): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#8 E:\wamp64\www\healthyhabbits\index.php(84): CodeIgniter\CodeIgniter->run()
+#9 {main}
+CRITICAL - 2020-07-21 00:22:40 --> Undefined variable: relation
+#0 E:\wamp64\www\healthyhabbits\app\Views\family\add.php(22): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined varia...', 'E:\\wamp64\\www\\h...', 22, Array)
+#1 E:\wamp64\www\healthyhabbits\vendor\codeigniter4\framework\system\View\View.php(246): include('E:\\wamp64\\www\\h...')
+#2 E:\wamp64\www\healthyhabbits\vendor\codeigniter4\framework\system\Common.php(1087): CodeIgniter\View\View->render('family/add', Array, true)
+#3 E:\wamp64\www\healthyhabbits\app\Controllers\BaseController.php(56): view('family/add', Array)
+#4 E:\wamp64\www\healthyhabbits\app\Controllers\FamilyMember.php(78): App\Controllers\BaseController->render_page('family/add', Array)
+#5 E:\wamp64\www\healthyhabbits\vendor\codeigniter4\framework\system\CodeIgniter.php(914): App\Controllers\FamilyMember->store()
+#6 E:\wamp64\www\healthyhabbits\vendor\codeigniter4\framework\system\CodeIgniter.php(400): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\FamilyMember))
+#7 E:\wamp64\www\healthyhabbits\vendor\codeigniter4\framework\system\CodeIgniter.php(308): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#8 E:\wamp64\www\healthyhabbits\index.php(84): CodeIgniter\CodeIgniter->run()
+#9 {main}
+CRITICAL - 2020-07-21 00:24:29 --> Request URI segment is our of range: 2
+#0 E:\wamp64\www\healthyhabbits\vendor\codeigniter4\framework\system\HTTP\URI.php(485): CodeIgniter\HTTP\Exceptions\HTTPException::forURISegmentOutOfRange(2)
+#1 E:\wamp64\www\healthyhabbits\app\Controllers\FamilyMember.php(15): CodeIgniter\HTTP\URI->getSegment(2)
+#2 E:\wamp64\www\healthyhabbits\vendor\codeigniter4\framework\system\CodeIgniter.php(914): App\Controllers\FamilyMember->index()
+#3 E:\wamp64\www\healthyhabbits\vendor\codeigniter4\framework\system\CodeIgniter.php(400): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\FamilyMember))
+#4 E:\wamp64\www\healthyhabbits\vendor\codeigniter4\framework\system\CodeIgniter.php(308): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#5 E:\wamp64\www\healthyhabbits\index.php(84): CodeIgniter\CodeIgniter->run()
+#6 {main}
+CRITICAL - 2020-07-21 00:24:45 --> Request URI segment is our of range: 2
+#0 E:\wamp64\www\healthyhabbits\vendor\codeigniter4\framework\system\HTTP\URI.php(485): CodeIgniter\HTTP\Exceptions\HTTPException::forURISegmentOutOfRange(2)
+#1 E:\wamp64\www\healthyhabbits\app\Controllers\FamilyMember.php(15): CodeIgniter\HTTP\URI->getSegment(2)
+#2 E:\wamp64\www\healthyhabbits\vendor\codeigniter4\framework\system\CodeIgniter.php(914): App\Controllers\FamilyMember->index()
+#3 E:\wamp64\www\healthyhabbits\vendor\codeigniter4\framework\system\CodeIgniter.php(400): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\FamilyMember))
+#4 E:\wamp64\www\healthyhabbits\vendor\codeigniter4\framework\system\CodeIgniter.php(308): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#5 E:\wamp64\www\healthyhabbits\index.php(84): CodeIgniter\CodeIgniter->run()
+#6 {main}
+CRITICAL - 2020-07-21 00:24:47 --> Request URI segment is our of range: 2
+#0 E:\wamp64\www\healthyhabbits\vendor\codeigniter4\framework\system\HTTP\URI.php(485): CodeIgniter\HTTP\Exceptions\HTTPException::forURISegmentOutOfRange(2)
+#1 E:\wamp64\www\healthyhabbits\app\Controllers\FamilyMember.php(15): CodeIgniter\HTTP\URI->getSegment(2)
+#2 E:\wamp64\www\healthyhabbits\vendor\codeigniter4\framework\system\CodeIgniter.php(914): App\Controllers\FamilyMember->index()
+#3 E:\wamp64\www\healthyhabbits\vendor\codeigniter4\framework\system\CodeIgniter.php(400): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\FamilyMember))
+#4 E:\wamp64\www\healthyhabbits\vendor\codeigniter4\framework\system\CodeIgniter.php(308): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#5 E:\wamp64\www\healthyhabbits\index.php(84): CodeIgniter\CodeIgniter->run()
+#6 {main}
+CRITICAL - 2020-07-21 00:26:01 --> Undefined variable: id
+#0 E:\wamp64\www\healthyhabbits\app\Controllers\FamilyMember.php(84): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined varia...', 'E:\\wamp64\\www\\h...', 84, Array)
+#1 E:\wamp64\www\healthyhabbits\vendor\codeigniter4\framework\system\CodeIgniter.php(914): App\Controllers\FamilyMember->store()
+#2 E:\wamp64\www\healthyhabbits\vendor\codeigniter4\framework\system\CodeIgniter.php(400): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\FamilyMember))
+#3 E:\wamp64\www\healthyhabbits\vendor\codeigniter4\framework\system\CodeIgniter.php(308): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 E:\wamp64\www\healthyhabbits\index.php(84): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2020-07-21 00:27:53 --> syntax error, unexpected '='
+#0 E:\wamp64\www\healthyhabbits\vendor\codeigniter4\framework\system\Router\Router.php(192): CodeIgniter\Router\Router->autoRoute('/familymember/s...')
+#1 E:\wamp64\www\healthyhabbits\vendor\codeigniter4\framework\system\CodeIgniter.php(789): CodeIgniter\Router\Router->handle('/familymember/s...')
+#2 E:\wamp64\www\healthyhabbits\vendor\codeigniter4\framework\system\CodeIgniter.php(360): CodeIgniter\CodeIgniter->tryToRouteIt(Object(CodeIgniter\Router\RouteCollection))
+#3 E:\wamp64\www\healthyhabbits\vendor\codeigniter4\framework\system\CodeIgniter.php(308): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 E:\wamp64\www\healthyhabbits\index.php(84): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2020-07-21 00:32:34 --> syntax error, unexpected 'var_dump' (T_STRING)
+#0 E:\wamp64\www\healthyhabbits\vendor\codeigniter4\framework\system\Router\Router.php(192): CodeIgniter\Router\Router->autoRoute('/familymember/c...')
+#1 E:\wamp64\www\healthyhabbits\vendor\codeigniter4\framework\system\CodeIgniter.php(789): CodeIgniter\Router\Router->handle('/familymember/c...')
+#2 E:\wamp64\www\healthyhabbits\vendor\codeigniter4\framework\system\CodeIgniter.php(360): CodeIgniter\CodeIgniter->tryToRouteIt(Object(CodeIgniter\Router\RouteCollection))
+#3 E:\wamp64\www\healthyhabbits\vendor\codeigniter4\framework\system\CodeIgniter.php(308): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 E:\wamp64\www\healthyhabbits\index.php(84): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2020-07-21 00:32:40 --> syntax error, unexpected 'var_dump' (T_STRING)
+#0 E:\wamp64\www\healthyhabbits\vendor\codeigniter4\framework\system\Router\Router.php(192): CodeIgniter\Router\Router->autoRoute('/familymember/c...')
+#1 E:\wamp64\www\healthyhabbits\vendor\codeigniter4\framework\system\CodeIgniter.php(789): CodeIgniter\Router\Router->handle('/familymember/c...')
+#2 E:\wamp64\www\healthyhabbits\vendor\codeigniter4\framework\system\CodeIgniter.php(360): CodeIgniter\CodeIgniter->tryToRouteIt(Object(CodeIgniter\Router\RouteCollection))
+#3 E:\wamp64\www\healthyhabbits\vendor\codeigniter4\framework\system\CodeIgniter.php(308): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 E:\wamp64\www\healthyhabbits\index.php(84): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2020-07-21 00:54:37 --> Undefined variable: family
+#0 E:\wamp64\www\healthyhabbits\app\Views\family\edit.php(12): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined varia...', 'E:\\wamp64\\www\\h...', 12, Array)
+#1 E:\wamp64\www\healthyhabbits\vendor\codeigniter4\framework\system\View\View.php(246): include('E:\\wamp64\\www\\h...')
+#2 E:\wamp64\www\healthyhabbits\vendor\codeigniter4\framework\system\Common.php(1087): CodeIgniter\View\View->render('family/edit', Array, true)
+#3 E:\wamp64\www\healthyhabbits\app\Controllers\FamilyMember.php(161): view('family/edit', Array)
+#4 E:\wamp64\www\healthyhabbits\vendor\codeigniter4\framework\system\CodeIgniter.php(914): App\Controllers\FamilyMember->update()
+#5 E:\wamp64\www\healthyhabbits\vendor\codeigniter4\framework\system\CodeIgniter.php(400): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\FamilyMember))
+#6 E:\wamp64\www\healthyhabbits\vendor\codeigniter4\framework\system\CodeIgniter.php(308): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#7 E:\wamp64\www\healthyhabbits\index.php(84): CodeIgniter\CodeIgniter->run()
+#8 {main}
+CRITICAL - 2020-07-21 00:56:04 --> Undefined variable: family
+#0 E:\wamp64\www\healthyhabbits\app\Views\family\edit.php(12): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined varia...', 'E:\\wamp64\\www\\h...', 12, Array)
+#1 E:\wamp64\www\healthyhabbits\vendor\codeigniter4\framework\system\View\View.php(246): include('E:\\wamp64\\www\\h...')
+#2 E:\wamp64\www\healthyhabbits\vendor\codeigniter4\framework\system\Common.php(1087): CodeIgniter\View\View->render('family/edit', Array, true)
+#3 E:\wamp64\www\healthyhabbits\app\Controllers\FamilyMember.php(161): view('family/edit', Array)
+#4 E:\wamp64\www\healthyhabbits\vendor\codeigniter4\framework\system\CodeIgniter.php(914): App\Controllers\FamilyMember->update()
+#5 E:\wamp64\www\healthyhabbits\vendor\codeigniter4\framework\system\CodeIgniter.php(400): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\FamilyMember))
+#6 E:\wamp64\www\healthyhabbits\vendor\codeigniter4\framework\system\CodeIgniter.php(308): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#7 E:\wamp64\www\healthyhabbits\index.php(84): CodeIgniter\CodeIgniter->run()
+#8 {main}
+CRITICAL - 2020-07-21 00:56:10 --> Undefined index: id
+#0 E:\wamp64\www\healthyhabbits\app\Views\family\edit.php(12): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined index...', 'E:\\wamp64\\www\\h...', 12, Array)
+#1 E:\wamp64\www\healthyhabbits\vendor\codeigniter4\framework\system\View\View.php(246): include('E:\\wamp64\\www\\h...')
+#2 E:\wamp64\www\healthyhabbits\vendor\codeigniter4\framework\system\Common.php(1087): CodeIgniter\View\View->render('family/edit', Array, true)
+#3 E:\wamp64\www\healthyhabbits\app\Controllers\BaseController.php(56): view('family/edit', Array)
+#4 E:\wamp64\www\healthyhabbits\app\Controllers\FamilyMember.php(127): App\Controllers\BaseController->render_page('family/edit', Array)
+#5 E:\wamp64\www\healthyhabbits\vendor\codeigniter4\framework\system\CodeIgniter.php(914): App\Controllers\FamilyMember->edit('7')
+#6 E:\wamp64\www\healthyhabbits\vendor\codeigniter4\framework\system\CodeIgniter.php(400): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\FamilyMember))
+#7 E:\wamp64\www\healthyhabbits\vendor\codeigniter4\framework\system\CodeIgniter.php(308): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#8 E:\wamp64\www\healthyhabbits\index.php(84): CodeIgniter\CodeIgniter->run()
+#9 {main}
+CRITICAL - 2020-07-21 01:07:08 --> Undefined index: user_family.id
+#0 E:\wamp64\www\healthyhabbits\app\Views\family\list.php(58): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined index...', 'E:\\wamp64\\www\\h...', 58, Array)
+#1 E:\wamp64\www\healthyhabbits\vendor\codeigniter4\framework\system\View\View.php(246): include('E:\\wamp64\\www\\h...')
+#2 E:\wamp64\www\healthyhabbits\vendor\codeigniter4\framework\system\Common.php(1087): CodeIgniter\View\View->render('Family/list', Array, true)
+#3 E:\wamp64\www\healthyhabbits\app\Controllers\BaseController.php(56): view('Family/list', Array)
+#4 E:\wamp64\www\healthyhabbits\app\Controllers\FamilyMember.php(24): App\Controllers\BaseController->render_page('Family/list', Array)
+#5 E:\wamp64\www\healthyhabbits\vendor\codeigniter4\framework\system\CodeIgniter.php(914): App\Controllers\FamilyMember->index('41')
+#6 E:\wamp64\www\healthyhabbits\vendor\codeigniter4\framework\system\CodeIgniter.php(400): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\FamilyMember))
+#7 E:\wamp64\www\healthyhabbits\vendor\codeigniter4\framework\system\CodeIgniter.php(308): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#8 E:\wamp64\www\healthyhabbits\index.php(84): CodeIgniter\CodeIgniter->run()
+#9 {main}
+CRITICAL - 2020-07-21 01:10:33 --> Table 'user_family.id' doesn't exist
+#0 E:\wamp64\www\healthyhabbits\vendor\codeigniter4\framework\system\Database\MySQLi\Connection.php(331): mysqli->query('SELECT * FROM u...')
+#1 E:\wamp64\www\healthyhabbits\vendor\codeigniter4\framework\system\Database\BaseConnection.php(738): CodeIgniter\Database\MySQLi\Connection->execute('SELECT * FROM u...')
+#2 E:\wamp64\www\healthyhabbits\vendor\codeigniter4\framework\system\Database\BaseConnection.php(666): CodeIgniter\Database\BaseConnection->simpleQuery('SELECT * FROM u...')
+#3 E:\wamp64\www\healthyhabbits\app\Models\FamilyModel.php(15): CodeIgniter\Database\BaseConnection->query('SELECT * FROM u...')
+#4 E:\wamp64\www\healthyhabbits\app\Controllers\FamilyMember.php(22): App\Models\FamilyModel->get_list('41')
+#5 E:\wamp64\www\healthyhabbits\vendor\codeigniter4\framework\system\CodeIgniter.php(914): App\Controllers\FamilyMember->index('41')
+#6 E:\wamp64\www\healthyhabbits\vendor\codeigniter4\framework\system\CodeIgniter.php(400): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\FamilyMember))
+#7 E:\wamp64\www\healthyhabbits\vendor\codeigniter4\framework\system\CodeIgniter.php(308): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#8 E:\wamp64\www\healthyhabbits\index.php(84): CodeIgniter\CodeIgniter->run()
+#9 {main}
+CRITICAL - 2020-07-21 01:11:38 --> You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near '* LEFT JOIN family_member_master ON family_member_master.id=user_family.fk_relat' at line 1
+#0 E:\wamp64\www\healthyhabbits\vendor\codeigniter4\framework\system\Database\MySQLi\Connection.php(331): mysqli->query('SELECT user_fam...')
+#1 E:\wamp64\www\healthyhabbits\vendor\codeigniter4\framework\system\Database\BaseConnection.php(738): CodeIgniter\Database\MySQLi\Connection->execute('SELECT user_fam...')
+#2 E:\wamp64\www\healthyhabbits\vendor\codeigniter4\framework\system\Database\BaseConnection.php(666): CodeIgniter\Database\BaseConnection->simpleQuery('SELECT user_fam...')
+#3 E:\wamp64\www\healthyhabbits\app\Models\FamilyModel.php(15): CodeIgniter\Database\BaseConnection->query('SELECT user_fam...')
+#4 E:\wamp64\www\healthyhabbits\app\Controllers\FamilyMember.php(22): App\Models\FamilyModel->get_list('41')
+#5 E:\wamp64\www\healthyhabbits\vendor\codeigniter4\framework\system\CodeIgniter.php(914): App\Controllers\FamilyMember->index('41')
+#6 E:\wamp64\www\healthyhabbits\vendor\codeigniter4\framework\system\CodeIgniter.php(400): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\FamilyMember))
+#7 E:\wamp64\www\healthyhabbits\vendor\codeigniter4\framework\system\CodeIgniter.php(308): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#8 E:\wamp64\www\healthyhabbits\index.php(84): CodeIgniter\CodeIgniter->run()
+#9 {main}
+CRITICAL - 2020-07-21 01:14:20 --> Undefined index: user_id
+#0 E:\wamp64\www\healthyhabbits\app\Views\family\list.php(58): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined index...', 'E:\\wamp64\\www\\h...', 58, Array)
+#1 E:\wamp64\www\healthyhabbits\vendor\codeigniter4\framework\system\View\View.php(246): include('E:\\wamp64\\www\\h...')
+#2 E:\wamp64\www\healthyhabbits\vendor\codeigniter4\framework\system\Common.php(1087): CodeIgniter\View\View->render('Family/list', Array, true)
+#3 E:\wamp64\www\healthyhabbits\app\Controllers\BaseController.php(56): view('Family/list', Array)
+#4 E:\wamp64\www\healthyhabbits\app\Controllers\FamilyMember.php(24): App\Controllers\BaseController->render_page('Family/list', Array)
+#5 E:\wamp64\www\healthyhabbits\vendor\codeigniter4\framework\system\CodeIgniter.php(914): App\Controllers\FamilyMember->index('41')
+#6 E:\wamp64\www\healthyhabbits\vendor\codeigniter4\framework\system\CodeIgniter.php(400): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\FamilyMember))
+#7 E:\wamp64\www\healthyhabbits\vendor\codeigniter4\framework\system\CodeIgniter.php(308): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#8 E:\wamp64\www\healthyhabbits\index.php(84): CodeIgniter\CodeIgniter->run()
+#9 {main}
+CRITICAL - 2020-07-21 01:15:11 --> Undefined index: id
+#0 E:\wamp64\www\healthyhabbits\app\Views\family\edit.php(12): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined index...', 'E:\\wamp64\\www\\h...', 12, Array)
+#1 E:\wamp64\www\healthyhabbits\vendor\codeigniter4\framework\system\View\View.php(246): include('E:\\wamp64\\www\\h...')
+#2 E:\wamp64\www\healthyhabbits\vendor\codeigniter4\framework\system\Common.php(1087): CodeIgniter\View\View->render('family/edit', Array, true)
+#3 E:\wamp64\www\healthyhabbits\app\Controllers\BaseController.php(56): view('family/edit', Array)
+#4 E:\wamp64\www\healthyhabbits\app\Controllers\FamilyMember.php(127): App\Controllers\BaseController->render_page('family/edit', Array)
+#5 E:\wamp64\www\healthyhabbits\vendor\codeigniter4\framework\system\CodeIgniter.php(914): App\Controllers\FamilyMember->edit('5')
+#6 E:\wamp64\www\healthyhabbits\vendor\codeigniter4\framework\system\CodeIgniter.php(400): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\FamilyMember))
+#7 E:\wamp64\www\healthyhabbits\vendor\codeigniter4\framework\system\CodeIgniter.php(308): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#8 E:\wamp64\www\healthyhabbits\index.php(84): CodeIgniter\CodeIgniter->run()
+#9 {main}
+CRITICAL - 2020-07-21 01:23:53 --> Undefined index: id
+#0 E:\wamp64\www\healthyhabbits\app\Views\family\edit.php(12): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined index...', 'E:\\wamp64\\www\\h...', 12, Array)
+#1 E:\wamp64\www\healthyhabbits\vendor\codeigniter4\framework\system\View\View.php(246): include('E:\\wamp64\\www\\h...')
+#2 E:\wamp64\www\healthyhabbits\vendor\codeigniter4\framework\system\Common.php(1087): CodeIgniter\View\View->render('family/edit', Array, true)
+#3 E:\wamp64\www\healthyhabbits\app\Controllers\BaseController.php(56): view('family/edit', Array)
+#4 E:\wamp64\www\healthyhabbits\app\Controllers\FamilyMember.php(127): App\Controllers\BaseController->render_page('family/edit', Array)
+#5 E:\wamp64\www\healthyhabbits\vendor\codeigniter4\framework\system\CodeIgniter.php(914): App\Controllers\FamilyMember->edit('5')
+#6 E:\wamp64\www\healthyhabbits\vendor\codeigniter4\framework\system\CodeIgniter.php(400): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\FamilyMember))
+#7 E:\wamp64\www\healthyhabbits\vendor\codeigniter4\framework\system\CodeIgniter.php(308): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#8 E:\wamp64\www\healthyhabbits\index.php(84): CodeIgniter\CodeIgniter->run()
+#9 {main}
+CRITICAL - 2020-07-21 01:45:28 --> Undefined variable: info
+#0 E:\wamp64\www\healthyhabbits\app\Views\users\profile.php(10): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined varia...', 'E:\\wamp64\\www\\h...', 10, Array)
+#1 E:\wamp64\www\healthyhabbits\vendor\codeigniter4\framework\system\View\View.php(246): include('E:\\wamp64\\www\\h...')
+#2 E:\wamp64\www\healthyhabbits\vendor\codeigniter4\framework\system\Common.php(1087): CodeIgniter\View\View->render('users/profile', Array, true)
+#3 E:\wamp64\www\healthyhabbits\app\Controllers\BaseController.php(56): view('users/profile', Array)
+#4 E:\wamp64\www\healthyhabbits\app\Controllers\Users.php(193): App\Controllers\BaseController->render_page('users/profile', Array)
+#5 E:\wamp64\www\healthyhabbits\vendor\codeigniter4\framework\system\CodeIgniter.php(914): App\Controllers\Users->profile('79')
+#6 E:\wamp64\www\healthyhabbits\vendor\codeigniter4\framework\system\CodeIgniter.php(400): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Users))
+#7 E:\wamp64\www\healthyhabbits\vendor\codeigniter4\framework\system\CodeIgniter.php(308): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#8 E:\wamp64\www\healthyhabbits\index.php(84): CodeIgniter\CodeIgniter->run()
+#9 {main}
+CRITICAL - 2020-07-21 01:47:30 --> Undefined variable: users
+#0 E:\wamp64\www\healthyhabbits\app\Views\users\profile.php(6): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined varia...', 'E:\\wamp64\\www\\h...', 6, Array)
+#1 E:\wamp64\www\healthyhabbits\vendor\codeigniter4\framework\system\View\View.php(246): include('E:\\wamp64\\www\\h...')
+#2 E:\wamp64\www\healthyhabbits\vendor\codeigniter4\framework\system\Common.php(1087): CodeIgniter\View\View->render('users/profile', Array, true)
+#3 E:\wamp64\www\healthyhabbits\app\Controllers\BaseController.php(56): view('users/profile', Array)
+#4 E:\wamp64\www\healthyhabbits\app\Controllers\Users.php(193): App\Controllers\BaseController->render_page('users/profile', Array)
+#5 E:\wamp64\www\healthyhabbits\vendor\codeigniter4\framework\system\CodeIgniter.php(914): App\Controllers\Users->profile('79')
+#6 E:\wamp64\www\healthyhabbits\vendor\codeigniter4\framework\system\CodeIgniter.php(400): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Users))
+#7 E:\wamp64\www\healthyhabbits\vendor\codeigniter4\framework\system\CodeIgniter.php(308): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#8 E:\wamp64\www\healthyhabbits\index.php(84): CodeIgniter\CodeIgniter->run()
+#9 {main}
+CRITICAL - 2020-07-21 01:52:18 --> Undefined variable: users
+#0 E:\wamp64\www\healthyhabbits\app\Views\users\profile.php(21): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined varia...', 'E:\\wamp64\\www\\h...', 21, Array)
+#1 E:\wamp64\www\healthyhabbits\vendor\codeigniter4\framework\system\View\View.php(246): include('E:\\wamp64\\www\\h...')
+#2 E:\wamp64\www\healthyhabbits\vendor\codeigniter4\framework\system\Common.php(1087): CodeIgniter\View\View->render('users/profile', Array, true)
+#3 E:\wamp64\www\healthyhabbits\app\Controllers\BaseController.php(56): view('users/profile', Array)
+#4 E:\wamp64\www\healthyhabbits\app\Controllers\Users.php(193): App\Controllers\BaseController->render_page('users/profile', Array)
+#5 E:\wamp64\www\healthyhabbits\vendor\codeigniter4\framework\system\CodeIgniter.php(914): App\Controllers\Users->profile('79')
+#6 E:\wamp64\www\healthyhabbits\vendor\codeigniter4\framework\system\CodeIgniter.php(400): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Users))
+#7 E:\wamp64\www\healthyhabbits\vendor\codeigniter4\framework\system\CodeIgniter.php(308): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#8 E:\wamp64\www\healthyhabbits\index.php(84): CodeIgniter\CodeIgniter->run()
+#9 {main}
+CRITICAL - 2020-07-21 04:38:00 --> syntax error, unexpected ';', expecting ']'
+#0 E:\wamp64\www\healthyhabbits\vendor\codeigniter4\framework\system\Autoloader\Autoloader.php(296): CodeIgniter\Autoloader\Autoloader->requireFile('E:\\wamp64\\www\\h...')
+#1 E:\wamp64\www\healthyhabbits\vendor\codeigniter4\framework\system\Autoloader\Autoloader.php(258): CodeIgniter\Autoloader\Autoloader->loadInNamespace('App\\Controllers...')
+#2 [internal function]: CodeIgniter\Autoloader\Autoloader->loadClass('App\\Controllers...')
+#3 [internal function]: spl_autoload_call('App\\Controllers...')
+#4 E:\wamp64\www\healthyhabbits\vendor\codeigniter4\framework\system\CodeIgniter.php(865): class_exists('\\App\\Controller...', true)
+#5 E:\wamp64\www\healthyhabbits\vendor\codeigniter4\framework\system\CodeIgniter.php(390): CodeIgniter\CodeIgniter->startController()
+#6 E:\wamp64\www\healthyhabbits\vendor\codeigniter4\framework\system\CodeIgniter.php(308): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#7 E:\wamp64\www\healthyhabbits\index.php(84): CodeIgniter\CodeIgniter->run()
+#8 {main}
+CRITICAL - 2020-07-21 04:54:09 --> syntax error, unexpected '$str' (T_VARIABLE)
+#0 E:\wamp64\www\healthyhabbits\vendor\codeigniter4\framework\system\Autoloader\Autoloader.php(296): CodeIgniter\Autoloader\Autoloader->requireFile('E:\\wamp64\\www\\h...')
+#1 E:\wamp64\www\healthyhabbits\vendor\codeigniter4\framework\system\Autoloader\Autoloader.php(258): CodeIgniter\Autoloader\Autoloader->loadInNamespace('App\\Controllers...')
+#2 [internal function]: CodeIgniter\Autoloader\Autoloader->loadClass('App\\Controllers...')
+#3 [internal function]: spl_autoload_call('App\\Controllers...')
+#4 E:\wamp64\www\healthyhabbits\vendor\codeigniter4\framework\system\CodeIgniter.php(865): class_exists('\\App\\Controller...', true)
+#5 E:\wamp64\www\healthyhabbits\vendor\codeigniter4\framework\system\CodeIgniter.php(390): CodeIgniter\CodeIgniter->startController()
+#6 E:\wamp64\www\healthyhabbits\vendor\codeigniter4\framework\system\CodeIgniter.php(308): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#7 E:\wamp64\www\healthyhabbits\index.php(84): CodeIgniter\CodeIgniter->run()
+#8 {main}
+CRITICAL - 2020-07-21 04:56:45 --> date() expects parameter 2 to be int, string given
+#0 [internal function]: CodeIgniter\Debug\Exceptions->errorHandler(2, 'date() expects ...', 'E:\\wamp64\\www\\h...', 94, Array)
+#1 E:\wamp64\www\healthyhabbits\app\Controllers\Users.php(94): date('dd-mm-yyyy', 'DOB')
+#2 E:\wamp64\www\healthyhabbits\vendor\codeigniter4\framework\system\CodeIgniter.php(914): App\Controllers\Users->store()
+#3 E:\wamp64\www\healthyhabbits\vendor\codeigniter4\framework\system\CodeIgniter.php(400): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Users))
+#4 E:\wamp64\www\healthyhabbits\vendor\codeigniter4\framework\system\CodeIgniter.php(308): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#5 E:\wamp64\www\healthyhabbits\index.php(84): CodeIgniter\CodeIgniter->run()
+#6 {main}
+CRITICAL - 2020-07-21 05:33:49 --> Undefined index: full_name
+#0 E:\wamp64\www\healthyhabbits\app\Views\booking\list.php(43): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined index...', 'E:\\wamp64\\www\\h...', 43, Array)
+#1 E:\wamp64\www\healthyhabbits\vendor\codeigniter4\framework\system\View\View.php(246): include('E:\\wamp64\\www\\h...')
+#2 E:\wamp64\www\healthyhabbits\vendor\codeigniter4\framework\system\Common.php(1087): CodeIgniter\View\View->render('booking/list', Array, true)
+#3 E:\wamp64\www\healthyhabbits\app\Controllers\BaseController.php(56): view('booking/list', Array)
+#4 E:\wamp64\www\healthyhabbits\app\Controllers\BookingAppointment.php(19): App\Controllers\BaseController->render_page('booking/list', Array)
+#5 E:\wamp64\www\healthyhabbits\vendor\codeigniter4\framework\system\CodeIgniter.php(914): App\Controllers\BookingAppointment->index()
+#6 E:\wamp64\www\healthyhabbits\vendor\codeigniter4\framework\system\CodeIgniter.php(400): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\BookingAppointment))
+#7 E:\wamp64\www\healthyhabbits\vendor\codeigniter4\framework\system\CodeIgniter.php(308): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#8 E:\wamp64\www\healthyhabbits\index.php(84): CodeIgniter\CodeIgniter->run()
+#9 {main}
+CRITICAL - 2020-07-21 05:35:55 --> Undefined index: addres_1
+#0 E:\wamp64\www\healthyhabbits\app\Views\booking\list.php(45): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined index...', 'E:\\wamp64\\www\\h...', 45, Array)
+#1 E:\wamp64\www\healthyhabbits\vendor\codeigniter4\framework\system\View\View.php(246): include('E:\\wamp64\\www\\h...')
+#2 E:\wamp64\www\healthyhabbits\vendor\codeigniter4\framework\system\Common.php(1087): CodeIgniter\View\View->render('booking/list', Array, true)
+#3 E:\wamp64\www\healthyhabbits\app\Controllers\BaseController.php(56): view('booking/list', Array)
+#4 E:\wamp64\www\healthyhabbits\app\Controllers\BookingAppointment.php(19): App\Controllers\BaseController->render_page('booking/list', Array)
+#5 E:\wamp64\www\healthyhabbits\vendor\codeigniter4\framework\system\CodeIgniter.php(914): App\Controllers\BookingAppointment->index()
+#6 E:\wamp64\www\healthyhabbits\vendor\codeigniter4\framework\system\CodeIgniter.php(400): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\BookingAppointment))
+#7 E:\wamp64\www\healthyhabbits\vendor\codeigniter4\framework\system\CodeIgniter.php(308): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#8 E:\wamp64\www\healthyhabbits\index.php(84): CodeIgniter\CodeIgniter->run()
+#9 {main}
+CRITICAL - 2020-07-21 05:37:40 --> Class 'App\Controllers\RelationModel' not found
+#0 E:\wamp64\www\healthyhabbits\vendor\codeigniter4\framework\system\CodeIgniter.php(914): App\Controllers\BookingAppointment->update_status()
+#1 E:\wamp64\www\healthyhabbits\vendor\codeigniter4\framework\system\CodeIgniter.php(400): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\BookingAppointment))
+#2 E:\wamp64\www\healthyhabbits\vendor\codeigniter4\framework\system\CodeIgniter.php(308): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 E:\wamp64\www\healthyhabbits\index.php(84): CodeIgniter\CodeIgniter->run()
+#4 {main}
+CRITICAL - 2020-07-21 05:37:41 --> Class 'App\Controllers\RelationModel' not found
+#0 E:\wamp64\www\healthyhabbits\vendor\codeigniter4\framework\system\CodeIgniter.php(914): App\Controllers\BookingAppointment->update_status()
+#1 E:\wamp64\www\healthyhabbits\vendor\codeigniter4\framework\system\CodeIgniter.php(400): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\BookingAppointment))
+#2 E:\wamp64\www\healthyhabbits\vendor\codeigniter4\framework\system\CodeIgniter.php(308): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 E:\wamp64\www\healthyhabbits\index.php(84): CodeIgniter\CodeIgniter->run()
+#4 {main}
+CRITICAL - 2020-07-21 05:41:06 --> Undefined index: bookin_id
+#0 E:\wamp64\www\healthyhabbits\app\Views\booking\list.php(48): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined index...', 'E:\\wamp64\\www\\h...', 48, Array)
+#1 E:\wamp64\www\healthyhabbits\vendor\codeigniter4\framework\system\View\View.php(246): include('E:\\wamp64\\www\\h...')
+#2 E:\wamp64\www\healthyhabbits\vendor\codeigniter4\framework\system\Common.php(1087): CodeIgniter\View\View->render('booking/list', Array, true)
+#3 E:\wamp64\www\healthyhabbits\app\Controllers\BaseController.php(56): view('booking/list', Array)
+#4 E:\wamp64\www\healthyhabbits\app\Controllers\BookingAppointment.php(19): App\Controllers\BaseController->render_page('booking/list', Array)
+#5 E:\wamp64\www\healthyhabbits\vendor\codeigniter4\framework\system\CodeIgniter.php(914): App\Controllers\BookingAppointment->index()
+#6 E:\wamp64\www\healthyhabbits\vendor\codeigniter4\framework\system\CodeIgniter.php(400): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\BookingAppointment))
+#7 E:\wamp64\www\healthyhabbits\vendor\codeigniter4\framework\system\CodeIgniter.php(308): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#8 E:\wamp64\www\healthyhabbits\index.php(84): CodeIgniter\CodeIgniter->run()
+#9 {main}
+CRITICAL - 2020-07-21 05:41:07 --> Undefined index: bookin_id
+#0 E:\wamp64\www\healthyhabbits\app\Views\booking\list.php(48): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined index...', 'E:\\wamp64\\www\\h...', 48, Array)
+#1 E:\wamp64\www\healthyhabbits\vendor\codeigniter4\framework\system\View\View.php(246): include('E:\\wamp64\\www\\h...')
+#2 E:\wamp64\www\healthyhabbits\vendor\codeigniter4\framework\system\Common.php(1087): CodeIgniter\View\View->render('booking/list', Array, true)
+#3 E:\wamp64\www\healthyhabbits\app\Controllers\BaseController.php(56): view('booking/list', Array)
+#4 E:\wamp64\www\healthyhabbits\app\Controllers\BookingAppointment.php(19): App\Controllers\BaseController->render_page('booking/list', Array)
+#5 E:\wamp64\www\healthyhabbits\vendor\codeigniter4\framework\system\CodeIgniter.php(914): App\Controllers\BookingAppointment->index()
+#6 E:\wamp64\www\healthyhabbits\vendor\codeigniter4\framework\system\CodeIgniter.php(400): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\BookingAppointment))
+#7 E:\wamp64\www\healthyhabbits\vendor\codeigniter4\framework\system\CodeIgniter.php(308): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#8 E:\wamp64\www\healthyhabbits\index.php(84): CodeIgniter\CodeIgniter->run()
+#9 {main}
+CRITICAL - 2020-07-21 05:41:15 --> Undefined index: bookin_id
+#0 E:\wamp64\www\healthyhabbits\app\Views\booking\list.php(48): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined index...', 'E:\\wamp64\\www\\h...', 48, Array)
+#1 E:\wamp64\www\healthyhabbits\vendor\codeigniter4\framework\system\View\View.php(246): include('E:\\wamp64\\www\\h...')
+#2 E:\wamp64\www\healthyhabbits\vendor\codeigniter4\framework\system\Common.php(1087): CodeIgniter\View\View->render('booking/list', Array, true)
+#3 E:\wamp64\www\healthyhabbits\app\Controllers\BaseController.php(56): view('booking/list', Array)
+#4 E:\wamp64\www\healthyhabbits\app\Controllers\BookingAppointment.php(19): App\Controllers\BaseController->render_page('booking/list', Array)
+#5 E:\wamp64\www\healthyhabbits\vendor\codeigniter4\framework\system\CodeIgniter.php(914): App\Controllers\BookingAppointment->index()
+#6 E:\wamp64\www\healthyhabbits\vendor\codeigniter4\framework\system\CodeIgniter.php(400): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\BookingAppointment))
+#7 E:\wamp64\www\healthyhabbits\vendor\codeigniter4\framework\system\CodeIgniter.php(308): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#8 E:\wamp64\www\healthyhabbits\index.php(84): CodeIgniter\CodeIgniter->run()
+#9 {main}
+CRITICAL - 2020-07-21 05:41:17 --> Undefined index: bookin_id
+#0 E:\wamp64\www\healthyhabbits\app\Views\booking\list.php(48): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined index...', 'E:\\wamp64\\www\\h...', 48, Array)
+#1 E:\wamp64\www\healthyhabbits\vendor\codeigniter4\framework\system\View\View.php(246): include('E:\\wamp64\\www\\h...')
+#2 E:\wamp64\www\healthyhabbits\vendor\codeigniter4\framework\system\Common.php(1087): CodeIgniter\View\View->render('booking/list', Array, true)
+#3 E:\wamp64\www\healthyhabbits\app\Controllers\BaseController.php(56): view('booking/list', Array)
+#4 E:\wamp64\www\healthyhabbits\app\Controllers\BookingAppointment.php(19): App\Controllers\BaseController->render_page('booking/list', Array)
+#5 E:\wamp64\www\healthyhabbits\vendor\codeigniter4\framework\system\CodeIgniter.php(914): App\Controllers\BookingAppointment->index()
+#6 E:\wamp64\www\healthyhabbits\vendor\codeigniter4\framework\system\CodeIgniter.php(400): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\BookingAppointment))
+#7 E:\wamp64\www\healthyhabbits\vendor\codeigniter4\framework\system\CodeIgniter.php(308): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#8 E:\wamp64\www\healthyhabbits\index.php(84): CodeIgniter\CodeIgniter->run()
+#9 {main}
+CRITICAL - 2020-07-21 05:41:19 --> Undefined index: bookin_id
+#0 E:\wamp64\www\healthyhabbits\app\Views\booking\list.php(48): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined index...', 'E:\\wamp64\\www\\h...', 48, Array)
+#1 E:\wamp64\www\healthyhabbits\vendor\codeigniter4\framework\system\View\View.php(246): include('E:\\wamp64\\www\\h...')
+#2 E:\wamp64\www\healthyhabbits\vendor\codeigniter4\framework\system\Common.php(1087): CodeIgniter\View\View->render('booking/list', Array, true)
+#3 E:\wamp64\www\healthyhabbits\app\Controllers\BaseController.php(56): view('booking/list', Array)
+#4 E:\wamp64\www\healthyhabbits\app\Controllers\BookingAppointment.php(19): App\Controllers\BaseController->render_page('booking/list', Array)
+#5 E:\wamp64\www\healthyhabbits\vendor\codeigniter4\framework\system\CodeIgniter.php(914): App\Controllers\BookingAppointment->index()
+#6 E:\wamp64\www\healthyhabbits\vendor\codeigniter4\framework\system\CodeIgniter.php(400): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\BookingAppointment))
+#7 E:\wamp64\www\healthyhabbits\vendor\codeigniter4\framework\system\CodeIgniter.php(308): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#8 E:\wamp64\www\healthyhabbits\index.php(84): CodeIgniter\CodeIgniter->run()
+#9 {main}
+CRITICAL - 2020-07-21 05:41:20 --> Undefined index: bookin_id
+#0 E:\wamp64\www\healthyhabbits\app\Views\booking\list.php(48): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined index...', 'E:\\wamp64\\www\\h...', 48, Array)
+#1 E:\wamp64\www\healthyhabbits\vendor\codeigniter4\framework\system\View\View.php(246): include('E:\\wamp64\\www\\h...')
+#2 E:\wamp64\www\healthyhabbits\vendor\codeigniter4\framework\system\Common.php(1087): CodeIgniter\View\View->render('booking/list', Array, true)
+#3 E:\wamp64\www\healthyhabbits\app\Controllers\BaseController.php(56): view('booking/list', Array)
+#4 E:\wamp64\www\healthyhabbits\app\Controllers\BookingAppointment.php(19): App\Controllers\BaseController->render_page('booking/list', Array)
+#5 E:\wamp64\www\healthyhabbits\vendor\codeigniter4\framework\system\CodeIgniter.php(914): App\Controllers\BookingAppointment->index()
+#6 E:\wamp64\www\healthyhabbits\vendor\codeigniter4\framework\system\CodeIgniter.php(400): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\BookingAppointment))
+#7 E:\wamp64\www\healthyhabbits\vendor\codeigniter4\framework\system\CodeIgniter.php(308): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#8 E:\wamp64\www\healthyhabbits\index.php(84): CodeIgniter\CodeIgniter->run()
+#9 {main}
+CRITICAL - 2020-07-21 06:16:54 --> Class 'App\Models\CheckupModel' not found
+#0 E:\wamp64\www\healthyhabbits\vendor\codeigniter4\framework\system\CodeIgniter.php(914): App\Controllers\CheckupMaster->index()
+#1 E:\wamp64\www\healthyhabbits\vendor\codeigniter4\framework\system\CodeIgniter.php(400): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\CheckupMaster))
+#2 E:\wamp64\www\healthyhabbits\vendor\codeigniter4\framework\system\CodeIgniter.php(308): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 E:\wamp64\www\healthyhabbits\index.php(84): CodeIgniter\CodeIgniter->run()
+#4 {main}
+CRITICAL - 2020-07-21 06:20:03 --> Undefined variable: checkupplan
+#0 E:\wamp64\www\healthyhabbits\app\Views\checkupmaster\list.php(37): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined varia...', 'E:\\wamp64\\www\\h...', 37, Array)
+#1 E:\wamp64\www\healthyhabbits\vendor\codeigniter4\framework\system\View\View.php(246): include('E:\\wamp64\\www\\h...')
+#2 E:\wamp64\www\healthyhabbits\vendor\codeigniter4\framework\system\Common.php(1087): CodeIgniter\View\View->render('checkupmaster/l...', Array, true)
+#3 E:\wamp64\www\healthyhabbits\app\Controllers\BaseController.php(56): view('checkupmaster/l...', Array)
+#4 E:\wamp64\www\healthyhabbits\app\Controllers\CheckupMaster.php(19): App\Controllers\BaseController->render_page('checkupmaster/l...', Array)
+#5 E:\wamp64\www\healthyhabbits\vendor\codeigniter4\framework\system\CodeIgniter.php(914): App\Controllers\CheckupMaster->index()
+#6 E:\wamp64\www\healthyhabbits\vendor\codeigniter4\framework\system\CodeIgniter.php(400): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\CheckupMaster))
+#7 E:\wamp64\www\healthyhabbits\vendor\codeigniter4\framework\system\CodeIgniter.php(308): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#8 E:\wamp64\www\healthyhabbits\index.php(84): CodeIgniter\CodeIgniter->run()
+#9 {main}
+CRITICAL - 2020-07-21 06:32:18 --> Undefined variable: db
+#0 E:\wamp64\www\healthyhabbits\app\Controllers\FamilyMember.php(87): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined varia...', 'E:\\wamp64\\www\\h...', 87, Array)
+#1 E:\wamp64\www\healthyhabbits\vendor\codeigniter4\framework\system\CodeIgniter.php(914): App\Controllers\FamilyMember->store()
+#2 E:\wamp64\www\healthyhabbits\vendor\codeigniter4\framework\system\CodeIgniter.php(400): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\FamilyMember))
+#3 E:\wamp64\www\healthyhabbits\vendor\codeigniter4\framework\system\CodeIgniter.php(308): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 E:\wamp64\www\healthyhabbits\index.php(84): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2020-07-21 06:32:41 --> Call to undefined function App\Controllers\insertID()
+#0 E:\wamp64\www\healthyhabbits\vendor\codeigniter4\framework\system\CodeIgniter.php(914): App\Controllers\FamilyMember->store()
+#1 E:\wamp64\www\healthyhabbits\vendor\codeigniter4\framework\system\CodeIgniter.php(400): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\FamilyMember))
+#2 E:\wamp64\www\healthyhabbits\vendor\codeigniter4\framework\system\CodeIgniter.php(308): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 E:\wamp64\www\healthyhabbits\index.php(84): CodeIgniter\CodeIgniter->run()
+#4 {main}
+CRITICAL - 2020-07-21 06:32:54 --> Call to undefined method App\Controllers\FamilyMember::insertID()
+#0 E:\wamp64\www\healthyhabbits\vendor\codeigniter4\framework\system\CodeIgniter.php(914): App\Controllers\FamilyMember->store()
+#1 E:\wamp64\www\healthyhabbits\vendor\codeigniter4\framework\system\CodeIgniter.php(400): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\FamilyMember))
+#2 E:\wamp64\www\healthyhabbits\vendor\codeigniter4\framework\system\CodeIgniter.php(308): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 E:\wamp64\www\healthyhabbits\index.php(84): CodeIgniter\CodeIgniter->run()
+#4 {main}
+CRITICAL - 2020-07-21 06:32:55 --> Call to undefined method App\Controllers\FamilyMember::insertID()
+#0 E:\wamp64\www\healthyhabbits\vendor\codeigniter4\framework\system\CodeIgniter.php(914): App\Controllers\FamilyMember->store()
+#1 E:\wamp64\www\healthyhabbits\vendor\codeigniter4\framework\system\CodeIgniter.php(400): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\FamilyMember))
+#2 E:\wamp64\www\healthyhabbits\vendor\codeigniter4\framework\system\CodeIgniter.php(308): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 E:\wamp64\www\healthyhabbits\index.php(84): CodeIgniter\CodeIgniter->run()
+#4 {main}
+CRITICAL - 2020-07-21 06:32:55 --> Call to undefined method App\Controllers\FamilyMember::insertID()
+#0 E:\wamp64\www\healthyhabbits\vendor\codeigniter4\framework\system\CodeIgniter.php(914): App\Controllers\FamilyMember->store()
+#1 E:\wamp64\www\healthyhabbits\vendor\codeigniter4\framework\system\CodeIgniter.php(400): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\FamilyMember))
+#2 E:\wamp64\www\healthyhabbits\vendor\codeigniter4\framework\system\CodeIgniter.php(308): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 E:\wamp64\www\healthyhabbits\index.php(84): CodeIgniter\CodeIgniter->run()
+#4 {main}
+CRITICAL - 2020-07-21 06:33:21 --> Call to undefined method App\Models\FamilyModel::insertID
+#0 E:\wamp64\www\healthyhabbits\app\Controllers\FamilyMember.php(87): CodeIgniter\Model->__call('insertID', Array)
+#1 E:\wamp64\www\healthyhabbits\vendor\codeigniter4\framework\system\CodeIgniter.php(914): App\Controllers\FamilyMember->store()
+#2 E:\wamp64\www\healthyhabbits\vendor\codeigniter4\framework\system\CodeIgniter.php(400): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\FamilyMember))
+#3 E:\wamp64\www\healthyhabbits\vendor\codeigniter4\framework\system\CodeIgniter.php(308): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 E:\wamp64\www\healthyhabbits\index.php(84): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2020-07-21 06:33:23 --> Call to undefined method App\Models\FamilyModel::insertID
+#0 E:\wamp64\www\healthyhabbits\app\Controllers\FamilyMember.php(87): CodeIgniter\Model->__call('insertID', Array)
+#1 E:\wamp64\www\healthyhabbits\vendor\codeigniter4\framework\system\CodeIgniter.php(914): App\Controllers\FamilyMember->store()
+#2 E:\wamp64\www\healthyhabbits\vendor\codeigniter4\framework\system\CodeIgniter.php(400): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\FamilyMember))
+#3 E:\wamp64\www\healthyhabbits\vendor\codeigniter4\framework\system\CodeIgniter.php(308): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 E:\wamp64\www\healthyhabbits\index.php(84): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2020-07-21 06:33:44 --> Call to undefined method App\Models\FamilyModel::insert_ID
+#0 E:\wamp64\www\healthyhabbits\app\Controllers\FamilyMember.php(87): CodeIgniter\Model->__call('insert_ID', Array)
+#1 E:\wamp64\www\healthyhabbits\vendor\codeigniter4\framework\system\CodeIgniter.php(914): App\Controllers\FamilyMember->store()
+#2 E:\wamp64\www\healthyhabbits\vendor\codeigniter4\framework\system\CodeIgniter.php(400): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\FamilyMember))
+#3 E:\wamp64\www\healthyhabbits\vendor\codeigniter4\framework\system\CodeIgniter.php(308): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 E:\wamp64\www\healthyhabbits\index.php(84): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2020-07-21 06:35:14 --> Call to undefined method App\Models\FamilyModel::insert_id
+#0 E:\wamp64\www\healthyhabbits\app\Controllers\FamilyMember.php(87): CodeIgniter\Model->__call('insert_id', Array)
+#1 E:\wamp64\www\healthyhabbits\vendor\codeigniter4\framework\system\CodeIgniter.php(914): App\Controllers\FamilyMember->store()
+#2 E:\wamp64\www\healthyhabbits\vendor\codeigniter4\framework\system\CodeIgniter.php(400): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\FamilyMember))
+#3 E:\wamp64\www\healthyhabbits\vendor\codeigniter4\framework\system\CodeIgniter.php(308): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 E:\wamp64\www\healthyhabbits\index.php(84): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2020-07-21 06:35:15 --> Call to undefined method App\Models\FamilyModel::insert_id
+#0 E:\wamp64\www\healthyhabbits\app\Controllers\FamilyMember.php(87): CodeIgniter\Model->__call('insert_id', Array)
+#1 E:\wamp64\www\healthyhabbits\vendor\codeigniter4\framework\system\CodeIgniter.php(914): App\Controllers\FamilyMember->store()
+#2 E:\wamp64\www\healthyhabbits\vendor\codeigniter4\framework\system\CodeIgniter.php(400): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\FamilyMember))
+#3 E:\wamp64\www\healthyhabbits\vendor\codeigniter4\framework\system\CodeIgniter.php(308): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 E:\wamp64\www\healthyhabbits\index.php(84): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2020-07-21 06:35:28 --> Call to undefined method App\Controllers\FamilyMember::insert_id()
+#0 E:\wamp64\www\healthyhabbits\vendor\codeigniter4\framework\system\CodeIgniter.php(914): App\Controllers\FamilyMember->store()
+#1 E:\wamp64\www\healthyhabbits\vendor\codeigniter4\framework\system\CodeIgniter.php(400): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\FamilyMember))
+#2 E:\wamp64\www\healthyhabbits\vendor\codeigniter4\framework\system\CodeIgniter.php(308): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 E:\wamp64\www\healthyhabbits\index.php(84): CodeIgniter\CodeIgniter->run()
+#4 {main}
+CRITICAL - 2020-07-21 06:35:29 --> Call to undefined method App\Controllers\FamilyMember::insert_id()
+#0 E:\wamp64\www\healthyhabbits\vendor\codeigniter4\framework\system\CodeIgniter.php(914): App\Controllers\FamilyMember->store()
+#1 E:\wamp64\www\healthyhabbits\vendor\codeigniter4\framework\system\CodeIgniter.php(400): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\FamilyMember))
+#2 E:\wamp64\www\healthyhabbits\vendor\codeigniter4\framework\system\CodeIgniter.php(308): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 E:\wamp64\www\healthyhabbits\index.php(84): CodeIgniter\CodeIgniter->run()
+#4 {main}
+CRITICAL - 2020-07-21 06:46:39 --> Undefined variable: insertedId
+#0 E:\wamp64\www\healthyhabbits\app\Controllers\Users.php(80): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined varia...', 'E:\\wamp64\\www\\h...', 80, Array)
+#1 E:\wamp64\www\healthyhabbits\vendor\codeigniter4\framework\system\CodeIgniter.php(914): App\Controllers\Users->store()
+#2 E:\wamp64\www\healthyhabbits\vendor\codeigniter4\framework\system\CodeIgniter.php(400): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Users))
+#3 E:\wamp64\www\healthyhabbits\vendor\codeigniter4\framework\system\CodeIgniter.php(308): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 E:\wamp64\www\healthyhabbits\index.php(84): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2020-07-21 06:49:28 --> A non well formed numeric value encountered
+#0 [internal function]: CodeIgniter\Debug\Exceptions->errorHandler(8, 'A non well form...', 'E:\\wamp64\\www\\h...', 79, Array)
+#1 E:\wamp64\www\healthyhabbits\app\Controllers\Users.php(79): date('m-Y', '2000-12-10')
+#2 E:\wamp64\www\healthyhabbits\vendor\codeigniter4\framework\system\CodeIgniter.php(914): App\Controllers\Users->store()
+#3 E:\wamp64\www\healthyhabbits\vendor\codeigniter4\framework\system\CodeIgniter.php(400): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Users))
+#4 E:\wamp64\www\healthyhabbits\vendor\codeigniter4\framework\system\CodeIgniter.php(308): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#5 E:\wamp64\www\healthyhabbits\index.php(84): CodeIgniter\CodeIgniter->run()
+#6 {main}
+CRITICAL - 2020-07-21 06:49:48 --> A non well formed numeric value encountered
+#0 [internal function]: CodeIgniter\Debug\Exceptions->errorHandler(8, 'A non well form...', 'E:\\wamp64\\www\\h...', 79, Array)
+#1 E:\wamp64\www\healthyhabbits\app\Controllers\Users.php(79): date('m-Y', '2000-12-10')
+#2 E:\wamp64\www\healthyhabbits\vendor\codeigniter4\framework\system\CodeIgniter.php(914): App\Controllers\Users->store()
+#3 E:\wamp64\www\healthyhabbits\vendor\codeigniter4\framework\system\CodeIgniter.php(400): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Users))
+#4 E:\wamp64\www\healthyhabbits\vendor\codeigniter4\framework\system\CodeIgniter.php(308): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#5 E:\wamp64\www\healthyhabbits\index.php(84): CodeIgniter\CodeIgniter->run()
+#6 {main}
+CRITICAL - 2020-07-21 06:49:49 --> A non well formed numeric value encountered
+#0 [internal function]: CodeIgniter\Debug\Exceptions->errorHandler(8, 'A non well form...', 'E:\\wamp64\\www\\h...', 79, Array)
+#1 E:\wamp64\www\healthyhabbits\app\Controllers\Users.php(79): date('m-Y', '2000-12-10')
+#2 E:\wamp64\www\healthyhabbits\vendor\codeigniter4\framework\system\CodeIgniter.php(914): App\Controllers\Users->store()
+#3 E:\wamp64\www\healthyhabbits\vendor\codeigniter4\framework\system\CodeIgniter.php(400): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Users))
+#4 E:\wamp64\www\healthyhabbits\vendor\codeigniter4\framework\system\CodeIgniter.php(308): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#5 E:\wamp64\www\healthyhabbits\index.php(84): CodeIgniter\CodeIgniter->run()
+#6 {main}
+CRITICAL - 2020-07-21 06:49:49 --> A non well formed numeric value encountered
+#0 [internal function]: CodeIgniter\Debug\Exceptions->errorHandler(8, 'A non well form...', 'E:\\wamp64\\www\\h...', 79, Array)
+#1 E:\wamp64\www\healthyhabbits\app\Controllers\Users.php(79): date('m-Y', '2000-12-10')
+#2 E:\wamp64\www\healthyhabbits\vendor\codeigniter4\framework\system\CodeIgniter.php(914): App\Controllers\Users->store()
+#3 E:\wamp64\www\healthyhabbits\vendor\codeigniter4\framework\system\CodeIgniter.php(400): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Users))
+#4 E:\wamp64\www\healthyhabbits\vendor\codeigniter4\framework\system\CodeIgniter.php(308): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#5 E:\wamp64\www\healthyhabbits\index.php(84): CodeIgniter\CodeIgniter->run()
+#6 {main}
+CRITICAL - 2020-07-21 06:50:18 --> A non well formed numeric value encountered
+#0 [internal function]: CodeIgniter\Debug\Exceptions->errorHandler(8, 'A non well form...', 'E:\\wamp64\\www\\h...', 79, Array)
+#1 E:\wamp64\www\healthyhabbits\app\Controllers\Users.php(79): date('m-Y', '2000-12-10')
+#2 E:\wamp64\www\healthyhabbits\vendor\codeigniter4\framework\system\CodeIgniter.php(914): App\Controllers\Users->store()
+#3 E:\wamp64\www\healthyhabbits\vendor\codeigniter4\framework\system\CodeIgniter.php(400): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Users))
+#4 E:\wamp64\www\healthyhabbits\vendor\codeigniter4\framework\system\CodeIgniter.php(308): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#5 E:\wamp64\www\healthyhabbits\index.php(84): CodeIgniter\CodeIgniter->run()
+#6 {main}
+CRITICAL - 2020-07-21 06:50:18 --> A non well formed numeric value encountered
+#0 [internal function]: CodeIgniter\Debug\Exceptions->errorHandler(8, 'A non well form...', 'E:\\wamp64\\www\\h...', 79, Array)
+#1 E:\wamp64\www\healthyhabbits\app\Controllers\Users.php(79): date('m-Y', '2000-12-10')
+#2 E:\wamp64\www\healthyhabbits\vendor\codeigniter4\framework\system\CodeIgniter.php(914): App\Controllers\Users->store()
+#3 E:\wamp64\www\healthyhabbits\vendor\codeigniter4\framework\system\CodeIgniter.php(400): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Users))
+#4 E:\wamp64\www\healthyhabbits\vendor\codeigniter4\framework\system\CodeIgniter.php(308): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#5 E:\wamp64\www\healthyhabbits\index.php(84): CodeIgniter\CodeIgniter->run()
+#6 {main}
+CRITICAL - 2020-07-21 06:50:36 --> A non well formed numeric value encountered
+#0 [internal function]: CodeIgniter\Debug\Exceptions->errorHandler(8, 'A non well form...', 'E:\\wamp64\\www\\h...', 79, Array)
+#1 E:\wamp64\www\healthyhabbits\app\Controllers\Users.php(79): date('d-m-Y', '2000-12-10')
+#2 E:\wamp64\www\healthyhabbits\vendor\codeigniter4\framework\system\CodeIgniter.php(914): App\Controllers\Users->store()
+#3 E:\wamp64\www\healthyhabbits\vendor\codeigniter4\framework\system\CodeIgniter.php(400): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Users))
+#4 E:\wamp64\www\healthyhabbits\vendor\codeigniter4\framework\system\CodeIgniter.php(308): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#5 E:\wamp64\www\healthyhabbits\index.php(84): CodeIgniter\CodeIgniter->run()
+#6 {main}
+CRITICAL - 2020-07-21 06:50:37 --> A non well formed numeric value encountered
+#0 [internal function]: CodeIgniter\Debug\Exceptions->errorHandler(8, 'A non well form...', 'E:\\wamp64\\www\\h...', 79, Array)
+#1 E:\wamp64\www\healthyhabbits\app\Controllers\Users.php(79): date('d-m-Y', '2000-12-10')
+#2 E:\wamp64\www\healthyhabbits\vendor\codeigniter4\framework\system\CodeIgniter.php(914): App\Controllers\Users->store()
+#3 E:\wamp64\www\healthyhabbits\vendor\codeigniter4\framework\system\CodeIgniter.php(400): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Users))
+#4 E:\wamp64\www\healthyhabbits\vendor\codeigniter4\framework\system\CodeIgniter.php(308): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#5 E:\wamp64\www\healthyhabbits\index.php(84): CodeIgniter\CodeIgniter->run()
+#6 {main}
+CRITICAL - 2020-07-21 07:17:32 --> Invalid file: checkupmaster/add.php
+#0 E:\wamp64\www\healthyhabbits\vendor\codeigniter4\framework\system\View\View.php(228): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('checkupmaster/a...')
+#1 E:\wamp64\www\healthyhabbits\vendor\codeigniter4\framework\system\Common.php(1087): CodeIgniter\View\View->render('checkupmaster/a...', Array, true)
+#2 E:\wamp64\www\healthyhabbits\app\Controllers\BaseController.php(56): view('checkupmaster/a...', Array)
+#3 E:\wamp64\www\healthyhabbits\app\Controllers\CheckupMaster.php(38): App\Controllers\BaseController->render_page('checkupmaster/a...', Array)
+#4 E:\wamp64\www\healthyhabbits\vendor\codeigniter4\framework\system\CodeIgniter.php(914): App\Controllers\CheckupMaster->create()
+#5 E:\wamp64\www\healthyhabbits\vendor\codeigniter4\framework\system\CodeIgniter.php(400): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\CheckupMaster))
+#6 E:\wamp64\www\healthyhabbits\vendor\codeigniter4\framework\system\CodeIgniter.php(308): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#7 E:\wamp64\www\healthyhabbits\index.php(84): CodeIgniter\CodeIgniter->run()
+#8 {main}
+CRITICAL - 2020-07-21 07:43:36 --> Undefined variable: users
+#0 E:\wamp64\www\healthyhabbits\app\Views\checkupmaster\add.php(14): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined varia...', 'E:\\wamp64\\www\\h...', 14, Array)
+#1 E:\wamp64\www\healthyhabbits\vendor\codeigniter4\framework\system\View\View.php(246): include('E:\\wamp64\\www\\h...')
+#2 E:\wamp64\www\healthyhabbits\vendor\codeigniter4\framework\system\Common.php(1087): CodeIgniter\View\View->render('checkupmaster/a...', Array, true)
+#3 E:\wamp64\www\healthyhabbits\app\Controllers\BaseController.php(56): view('checkupmaster/a...', Array)
+#4 E:\wamp64\www\healthyhabbits\app\Controllers\CheckupMaster.php(66): App\Controllers\BaseController->render_page('checkupmaster/a...', Array)
+#5 E:\wamp64\www\healthyhabbits\vendor\codeigniter4\framework\system\CodeIgniter.php(914): App\Controllers\CheckupMaster->store()
+#6 E:\wamp64\www\healthyhabbits\vendor\codeigniter4\framework\system\CodeIgniter.php(400): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\CheckupMaster))
+#7 E:\wamp64\www\healthyhabbits\vendor\codeigniter4\framework\system\CodeIgniter.php(308): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#8 E:\wamp64\www\healthyhabbits\index.php(84): CodeIgniter\CodeIgniter->run()
+#9 {main}
+CRITICAL - 2020-07-21 07:48:41 --> Undefined index: booking_id
+#0 E:\wamp64\www\healthyhabbits\app\Views\checkupmaster\list.php(51): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined index...', 'E:\\wamp64\\www\\h...', 51, Array)
+#1 E:\wamp64\www\healthyhabbits\vendor\codeigniter4\framework\system\View\View.php(246): include('E:\\wamp64\\www\\h...')
+#2 E:\wamp64\www\healthyhabbits\vendor\codeigniter4\framework\system\Common.php(1087): CodeIgniter\View\View->render('checkupmaster/l...', Array, true)
+#3 E:\wamp64\www\healthyhabbits\app\Controllers\BaseController.php(56): view('checkupmaster/l...', Array)
+#4 E:\wamp64\www\healthyhabbits\app\Controllers\CheckupMaster.php(19): App\Controllers\BaseController->render_page('checkupmaster/l...', Array)
+#5 E:\wamp64\www\healthyhabbits\vendor\codeigniter4\framework\system\CodeIgniter.php(914): App\Controllers\CheckupMaster->index()
+#6 E:\wamp64\www\healthyhabbits\vendor\codeigniter4\framework\system\CodeIgniter.php(400): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\CheckupMaster))
+#7 E:\wamp64\www\healthyhabbits\vendor\codeigniter4\framework\system\CodeIgniter.php(308): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#8 E:\wamp64\www\healthyhabbits\index.php(84): CodeIgniter\CodeIgniter->run()
+#9 {main}
+CRITICAL - 2020-07-21 08:00:13 --> Unknown column 'id' in 'where clause'
+#0 E:\wamp64\www\healthyhabbits\vendor\codeigniter4\framework\system\Database\MySQLi\Connection.php(331): mysqli->query('SELECT *\nFROM `...')
+#1 E:\wamp64\www\healthyhabbits\vendor\codeigniter4\framework\system\Database\BaseConnection.php(738): CodeIgniter\Database\MySQLi\Connection->execute('SELECT *\nFROM `...')
+#2 E:\wamp64\www\healthyhabbits\vendor\codeigniter4\framework\system\Database\BaseConnection.php(666): CodeIgniter\Database\BaseConnection->simpleQuery('SELECT *\nFROM `...')
+#3 E:\wamp64\www\healthyhabbits\vendor\codeigniter4\framework\system\Database\BaseBuilder.php(1845): CodeIgniter\Database\BaseConnection->query('SELECT *\nFROM `...', Array, false)
+#4 E:\wamp64\www\healthyhabbits\vendor\codeigniter4\framework\system\Model.php(489): CodeIgniter\Database\BaseBuilder->get()
+#5 E:\wamp64\www\healthyhabbits\app\Controllers\CheckupMaster.php(106): CodeIgniter\Model->first()
+#6 E:\wamp64\www\healthyhabbits\vendor\codeigniter4\framework\system\CodeIgniter.php(914): App\Controllers\CheckupMaster->edit('1')
+#7 E:\wamp64\www\healthyhabbits\vendor\codeigniter4\framework\system\CodeIgniter.php(400): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\CheckupMaster))
+#8 E:\wamp64\www\healthyhabbits\vendor\codeigniter4\framework\system\CodeIgniter.php(308): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#9 E:\wamp64\www\healthyhabbits\index.php(84): CodeIgniter\CodeIgniter->run()
+#10 {main}
+CRITICAL - 2020-07-21 08:02:06 --> Unknown column 'id' in 'where clause'
+#0 E:\wamp64\www\healthyhabbits\vendor\codeigniter4\framework\system\Database\MySQLi\Connection.php(331): mysqli->query('SELECT *\nFROM `...')
+#1 E:\wamp64\www\healthyhabbits\vendor\codeigniter4\framework\system\Database\BaseConnection.php(738): CodeIgniter\Database\MySQLi\Connection->execute('SELECT *\nFROM `...')
+#2 E:\wamp64\www\healthyhabbits\vendor\codeigniter4\framework\system\Database\BaseConnection.php(666): CodeIgniter\Database\BaseConnection->simpleQuery('SELECT *\nFROM `...')
+#3 E:\wamp64\www\healthyhabbits\vendor\codeigniter4\framework\system\Database\BaseBuilder.php(1845): CodeIgniter\Database\BaseConnection->query('SELECT *\nFROM `...', Array, false)
+#4 E:\wamp64\www\healthyhabbits\vendor\codeigniter4\framework\system\Model.php(489): CodeIgniter\Database\BaseBuilder->get()
+#5 E:\wamp64\www\healthyhabbits\app\Controllers\CheckupMaster.php(106): CodeIgniter\Model->first()
+#6 E:\wamp64\www\healthyhabbits\vendor\codeigniter4\framework\system\CodeIgniter.php(914): App\Controllers\CheckupMaster->edit('1')
+#7 E:\wamp64\www\healthyhabbits\vendor\codeigniter4\framework\system\CodeIgniter.php(400): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\CheckupMaster))
+#8 E:\wamp64\www\healthyhabbits\vendor\codeigniter4\framework\system\CodeIgniter.php(308): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#9 E:\wamp64\www\healthyhabbits\index.php(84): CodeIgniter\CodeIgniter->run()
+#10 {main}
+CRITICAL - 2020-07-21 08:02:07 --> Unknown column 'id' in 'where clause'
+#0 E:\wamp64\www\healthyhabbits\vendor\codeigniter4\framework\system\Database\MySQLi\Connection.php(331): mysqli->query('SELECT *\nFROM `...')
+#1 E:\wamp64\www\healthyhabbits\vendor\codeigniter4\framework\system\Database\BaseConnection.php(738): CodeIgniter\Database\MySQLi\Connection->execute('SELECT *\nFROM `...')
+#2 E:\wamp64\www\healthyhabbits\vendor\codeigniter4\framework\system\Database\BaseConnection.php(666): CodeIgniter\Database\BaseConnection->simpleQuery('SELECT *\nFROM `...')
+#3 E:\wamp64\www\healthyhabbits\vendor\codeigniter4\framework\system\Database\BaseBuilder.php(1845): CodeIgniter\Database\BaseConnection->query('SELECT *\nFROM `...', Array, false)
+#4 E:\wamp64\www\healthyhabbits\vendor\codeigniter4\framework\system\Model.php(489): CodeIgniter\Database\BaseBuilder->get()
+#5 E:\wamp64\www\healthyhabbits\app\Controllers\CheckupMaster.php(106): CodeIgniter\Model->first()
+#6 E:\wamp64\www\healthyhabbits\vendor\codeigniter4\framework\system\CodeIgniter.php(914): App\Controllers\CheckupMaster->edit('1')
+#7 E:\wamp64\www\healthyhabbits\vendor\codeigniter4\framework\system\CodeIgniter.php(400): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\CheckupMaster))
+#8 E:\wamp64\www\healthyhabbits\vendor\codeigniter4\framework\system\CodeIgniter.php(308): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#9 E:\wamp64\www\healthyhabbits\index.php(84): CodeIgniter\CodeIgniter->run()
+#10 {main}
+CRITICAL - 2020-07-21 08:02:08 --> Unknown column 'id' in 'where clause'
+#0 E:\wamp64\www\healthyhabbits\vendor\codeigniter4\framework\system\Database\MySQLi\Connection.php(331): mysqli->query('SELECT *\nFROM `...')
+#1 E:\wamp64\www\healthyhabbits\vendor\codeigniter4\framework\system\Database\BaseConnection.php(738): CodeIgniter\Database\MySQLi\Connection->execute('SELECT *\nFROM `...')
+#2 E:\wamp64\www\healthyhabbits\vendor\codeigniter4\framework\system\Database\BaseConnection.php(666): CodeIgniter\Database\BaseConnection->simpleQuery('SELECT *\nFROM `...')
+#3 E:\wamp64\www\healthyhabbits\vendor\codeigniter4\framework\system\Database\BaseBuilder.php(1845): CodeIgniter\Database\BaseConnection->query('SELECT *\nFROM `...', Array, false)
+#4 E:\wamp64\www\healthyhabbits\vendor\codeigniter4\framework\system\Model.php(489): CodeIgniter\Database\BaseBuilder->get()
+#5 E:\wamp64\www\healthyhabbits\app\Controllers\CheckupMaster.php(106): CodeIgniter\Model->first()
+#6 E:\wamp64\www\healthyhabbits\vendor\codeigniter4\framework\system\CodeIgniter.php(914): App\Controllers\CheckupMaster->edit('1')
+#7 E:\wamp64\www\healthyhabbits\vendor\codeigniter4\framework\system\CodeIgniter.php(400): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\CheckupMaster))
+#8 E:\wamp64\www\healthyhabbits\vendor\codeigniter4\framework\system\CodeIgniter.php(308): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#9 E:\wamp64\www\healthyhabbits\index.php(84): CodeIgniter\CodeIgniter->run()
+#10 {main}
+CRITICAL - 2020-07-21 08:02:15 --> Unknown column 'id' in 'where clause'
+#0 E:\wamp64\www\healthyhabbits\vendor\codeigniter4\framework\system\Database\MySQLi\Connection.php(331): mysqli->query('SELECT *\nFROM `...')
+#1 E:\wamp64\www\healthyhabbits\vendor\codeigniter4\framework\system\Database\BaseConnection.php(738): CodeIgniter\Database\MySQLi\Connection->execute('SELECT *\nFROM `...')
+#2 E:\wamp64\www\healthyhabbits\vendor\codeigniter4\framework\system\Database\BaseConnection.php(666): CodeIgniter\Database\BaseConnection->simpleQuery('SELECT *\nFROM `...')
+#3 E:\wamp64\www\healthyhabbits\vendor\codeigniter4\framework\system\Database\BaseBuilder.php(1845): CodeIgniter\Database\BaseConnection->query('SELECT *\nFROM `...', Array, false)
+#4 E:\wamp64\www\healthyhabbits\vendor\codeigniter4\framework\system\Model.php(489): CodeIgniter\Database\BaseBuilder->get()
+#5 E:\wamp64\www\healthyhabbits\app\Controllers\CheckupMaster.php(106): CodeIgniter\Model->first()
+#6 E:\wamp64\www\healthyhabbits\vendor\codeigniter4\framework\system\CodeIgniter.php(914): App\Controllers\CheckupMaster->edit('1')
+#7 E:\wamp64\www\healthyhabbits\vendor\codeigniter4\framework\system\CodeIgniter.php(400): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\CheckupMaster))
+#8 E:\wamp64\www\healthyhabbits\vendor\codeigniter4\framework\system\CodeIgniter.php(308): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#9 E:\wamp64\www\healthyhabbits\index.php(84): CodeIgniter\CodeIgniter->run()
+#10 {main}
+CRITICAL - 2020-07-21 08:05:36 --> Unknown column 'id' in 'where clause'
+#0 E:\wamp64\www\healthyhabbits\vendor\codeigniter4\framework\system\Database\MySQLi\Connection.php(331): mysqli->query('SELECT *\nFROM `...')
+#1 E:\wamp64\www\healthyhabbits\vendor\codeigniter4\framework\system\Database\BaseConnection.php(738): CodeIgniter\Database\MySQLi\Connection->execute('SELECT *\nFROM `...')
+#2 E:\wamp64\www\healthyhabbits\vendor\codeigniter4\framework\system\Database\BaseConnection.php(666): CodeIgniter\Database\BaseConnection->simpleQuery('SELECT *\nFROM `...')
+#3 E:\wamp64\www\healthyhabbits\vendor\codeigniter4\framework\system\Database\BaseBuilder.php(1845): CodeIgniter\Database\BaseConnection->query('SELECT *\nFROM `...', Array, false)
+#4 E:\wamp64\www\healthyhabbits\vendor\codeigniter4\framework\system\Model.php(489): CodeIgniter\Database\BaseBuilder->get()
+#5 E:\wamp64\www\healthyhabbits\app\Controllers\CheckupMaster.php(106): CodeIgniter\Model->first()
+#6 E:\wamp64\www\healthyhabbits\vendor\codeigniter4\framework\system\CodeIgniter.php(914): App\Controllers\CheckupMaster->edit('1')
+#7 E:\wamp64\www\healthyhabbits\vendor\codeigniter4\framework\system\CodeIgniter.php(400): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\CheckupMaster))
+#8 E:\wamp64\www\healthyhabbits\vendor\codeigniter4\framework\system\CodeIgniter.php(308): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#9 E:\wamp64\www\healthyhabbits\index.php(84): CodeIgniter\CodeIgniter->run()
+#10 {main}
+CRITICAL - 2020-07-21 08:07:46 --> Class 'App\Controllers\RelationModel' not found
+#0 E:\wamp64\www\healthyhabbits\vendor\codeigniter4\framework\system\CodeIgniter.php(914): App\Controllers\CheckupMaster->update()
+#1 E:\wamp64\www\healthyhabbits\vendor\codeigniter4\framework\system\CodeIgniter.php(400): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\CheckupMaster))
+#2 E:\wamp64\www\healthyhabbits\vendor\codeigniter4\framework\system\CodeIgniter.php(308): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 E:\wamp64\www\healthyhabbits\index.php(84): CodeIgniter\CodeIgniter->run()
+#4 {main}
+CRITICAL - 2020-07-21 08:08:16 --> Undefined index: id
+#0 E:\wamp64\www\healthyhabbits\app\Views\relationmaster\edit.php(12): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined index...', 'E:\\wamp64\\www\\h...', 12, Array)
+#1 E:\wamp64\www\healthyhabbits\vendor\codeigniter4\framework\system\View\View.php(246): include('E:\\wamp64\\www\\h...')
+#2 E:\wamp64\www\healthyhabbits\vendor\codeigniter4\framework\system\Common.php(1087): CodeIgniter\View\View->render('relationmaster/...', Array, true)
+#3 E:\wamp64\www\healthyhabbits\app\Controllers\CheckupMaster.php(135): view('relationmaster/...', Array)
+#4 E:\wamp64\www\healthyhabbits\vendor\codeigniter4\framework\system\CodeIgniter.php(914): App\Controllers\CheckupMaster->update()
+#5 E:\wamp64\www\healthyhabbits\vendor\codeigniter4\framework\system\CodeIgniter.php(400): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\CheckupMaster))
+#6 E:\wamp64\www\healthyhabbits\vendor\codeigniter4\framework\system\CodeIgniter.php(308): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#7 E:\wamp64\www\healthyhabbits\index.php(84): CodeIgniter\CodeIgniter->run()
+#8 {main}
+CRITICAL - 2020-07-21 08:09:56 --> Undefined index: id
+#0 E:\wamp64\www\healthyhabbits\app\Views\relationmaster\edit.php(12): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined index...', 'E:\\wamp64\\www\\h...', 12, Array)
+#1 E:\wamp64\www\healthyhabbits\vendor\codeigniter4\framework\system\View\View.php(246): include('E:\\wamp64\\www\\h...')
+#2 E:\wamp64\www\healthyhabbits\vendor\codeigniter4\framework\system\Common.php(1087): CodeIgniter\View\View->render('relationmaster/...', Array, true)
+#3 E:\wamp64\www\healthyhabbits\app\Controllers\CheckupMaster.php(135): view('relationmaster/...', Array)
+#4 E:\wamp64\www\healthyhabbits\vendor\codeigniter4\framework\system\CodeIgniter.php(914): App\Controllers\CheckupMaster->update()
+#5 E:\wamp64\www\healthyhabbits\vendor\codeigniter4\framework\system\CodeIgniter.php(400): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\CheckupMaster))
+#6 E:\wamp64\www\healthyhabbits\vendor\codeigniter4\framework\system\CodeIgniter.php(308): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#7 E:\wamp64\www\healthyhabbits\index.php(84): CodeIgniter\CodeIgniter->run()
+#8 {main}
+CRITICAL - 2020-07-21 08:10:37 --> Undefined index: id
+#0 E:\wamp64\www\healthyhabbits\app\Views\relationmaster\edit.php(12): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined index...', 'E:\\wamp64\\www\\h...', 12, Array)
+#1 E:\wamp64\www\healthyhabbits\vendor\codeigniter4\framework\system\View\View.php(246): include('E:\\wamp64\\www\\h...')
+#2 E:\wamp64\www\healthyhabbits\vendor\codeigniter4\framework\system\Common.php(1087): CodeIgniter\View\View->render('relationmaster/...', Array, true)
+#3 E:\wamp64\www\healthyhabbits\app\Controllers\CheckupMaster.php(135): view('relationmaster/...', Array)
+#4 E:\wamp64\www\healthyhabbits\vendor\codeigniter4\framework\system\CodeIgniter.php(914): App\Controllers\CheckupMaster->update()
+#5 E:\wamp64\www\healthyhabbits\vendor\codeigniter4\framework\system\CodeIgniter.php(400): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\CheckupMaster))
+#6 E:\wamp64\www\healthyhabbits\vendor\codeigniter4\framework\system\CodeIgniter.php(308): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#7 E:\wamp64\www\healthyhabbits\index.php(84): CodeIgniter\CodeIgniter->run()
+#8 {main}
+CRITICAL - 2020-07-21 08:10:38 --> syntax error, unexpected '}', expecting ',' or ';'
+#0 E:\wamp64\www\healthyhabbits\vendor\codeigniter4\framework\system\Common.php(1087): CodeIgniter\View\View->render('checkupmaster/e...', Array, true)
+#1 E:\wamp64\www\healthyhabbits\app\Controllers\BaseController.php(56): view('checkupmaster/e...', Array)
+#2 E:\wamp64\www\healthyhabbits\app\Controllers\CheckupMaster.php(108): App\Controllers\BaseController->render_page('checkupmaster/e...', Array)
+#3 E:\wamp64\www\healthyhabbits\vendor\codeigniter4\framework\system\CodeIgniter.php(914): App\Controllers\CheckupMaster->edit('1')
+#4 E:\wamp64\www\healthyhabbits\vendor\codeigniter4\framework\system\CodeIgniter.php(400): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\CheckupMaster))
+#5 E:\wamp64\www\healthyhabbits\vendor\codeigniter4\framework\system\CodeIgniter.php(308): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 E:\wamp64\www\healthyhabbits\index.php(84): CodeIgniter\CodeIgniter->run()
+#7 {main}
+CRITICAL - 2020-07-21 08:11:07 --> Undefined index: relation
+#0 E:\wamp64\www\healthyhabbits\app\Views\relationmaster\edit.php(15): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined index...', 'E:\\wamp64\\www\\h...', 15, Array)
+#1 E:\wamp64\www\healthyhabbits\vendor\codeigniter4\framework\system\View\View.php(246): include('E:\\wamp64\\www\\h...')
+#2 E:\wamp64\www\healthyhabbits\vendor\codeigniter4\framework\system\Common.php(1087): CodeIgniter\View\View->render('relationmaster/...', Array, true)
+#3 E:\wamp64\www\healthyhabbits\app\Controllers\CheckupMaster.php(135): view('relationmaster/...', Array)
+#4 E:\wamp64\www\healthyhabbits\vendor\codeigniter4\framework\system\CodeIgniter.php(914): App\Controllers\CheckupMaster->update()
+#5 E:\wamp64\www\healthyhabbits\vendor\codeigniter4\framework\system\CodeIgniter.php(400): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\CheckupMaster))
+#6 E:\wamp64\www\healthyhabbits\vendor\codeigniter4\framework\system\CodeIgniter.php(308): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#7 E:\wamp64\www\healthyhabbits\index.php(84): CodeIgniter\CodeIgniter->run()
+#8 {main}
+CRITICAL - 2020-07-21 08:12:38 --> Undefined index: relation
+#0 E:\wamp64\www\healthyhabbits\app\Views\relationmaster\edit.php(15): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined index...', 'E:\\wamp64\\www\\h...', 15, Array)
+#1 E:\wamp64\www\healthyhabbits\vendor\codeigniter4\framework\system\View\View.php(246): include('E:\\wamp64\\www\\h...')
+#2 E:\wamp64\www\healthyhabbits\vendor\codeigniter4\framework\system\Common.php(1087): CodeIgniter\View\View->render('relationmaster/...', Array, true)
+#3 E:\wamp64\www\healthyhabbits\app\Controllers\CheckupMaster.php(135): view('relationmaster/...', Array)
+#4 E:\wamp64\www\healthyhabbits\vendor\codeigniter4\framework\system\CodeIgniter.php(914): App\Controllers\CheckupMaster->update()
+#5 E:\wamp64\www\healthyhabbits\vendor\codeigniter4\framework\system\CodeIgniter.php(400): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\CheckupMaster))
+#6 E:\wamp64\www\healthyhabbits\vendor\codeigniter4\framework\system\CodeIgniter.php(308): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#7 E:\wamp64\www\healthyhabbits\index.php(84): CodeIgniter\CodeIgniter->run()
+#8 {main}
+CRITICAL - 2020-07-21 08:14:30 --> Undefined index: description
+#0 E:\wamp64\www\healthyhabbits\app\Views\relationmaster\edit.php(21): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined index...', 'E:\\wamp64\\www\\h...', 21, Array)
+#1 E:\wamp64\www\healthyhabbits\vendor\codeigniter4\framework\system\View\View.php(246): include('E:\\wamp64\\www\\h...')
+#2 E:\wamp64\www\healthyhabbits\vendor\codeigniter4\framework\system\Common.php(1087): CodeIgniter\View\View->render('relationmaster/...', Array, true)
+#3 E:\wamp64\www\healthyhabbits\app\Controllers\CheckupMaster.php(135): view('relationmaster/...', Array)
+#4 E:\wamp64\www\healthyhabbits\vendor\codeigniter4\framework\system\CodeIgniter.php(914): App\Controllers\CheckupMaster->update()
+#5 E:\wamp64\www\healthyhabbits\vendor\codeigniter4\framework\system\CodeIgniter.php(400): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\CheckupMaster))
+#6 E:\wamp64\www\healthyhabbits\vendor\codeigniter4\framework\system\CodeIgniter.php(308): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#7 E:\wamp64\www\healthyhabbits\index.php(84): CodeIgniter\CodeIgniter->run()
+#8 {main}
+CRITICAL - 2020-07-21 08:16:35 --> Undefined variable: plan
+#0 E:\wamp64\www\healthyhabbits\app\Views\checkupmaster\edit.php(38): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined varia...', 'E:\\wamp64\\www\\h...', 38, Array)
+#1 E:\wamp64\www\healthyhabbits\vendor\codeigniter4\framework\system\View\View.php(246): include('E:\\wamp64\\www\\h...')
+#2 E:\wamp64\www\healthyhabbits\vendor\codeigniter4\framework\system\Common.php(1087): CodeIgniter\View\View->render('checkupmaster/e...', Array, true)
+#3 E:\wamp64\www\healthyhabbits\app\Controllers\CheckupMaster.php(135): view('checkupmaster/e...', Array)
+#4 E:\wamp64\www\healthyhabbits\vendor\codeigniter4\framework\system\CodeIgniter.php(914): App\Controllers\CheckupMaster->update()
+#5 E:\wamp64\www\healthyhabbits\vendor\codeigniter4\framework\system\CodeIgniter.php(400): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\CheckupMaster))
+#6 E:\wamp64\www\healthyhabbits\vendor\codeigniter4\framework\system\CodeIgniter.php(308): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#7 E:\wamp64\www\healthyhabbits\index.php(84): CodeIgniter\CodeIgniter->run()
+#8 {main}
+CRITICAL - 2020-07-21 08:19:23 --> Undefined variable: plan
+#0 E:\wamp64\www\healthyhabbits\app\Views\checkupmaster\edit.php(38): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined varia...', 'E:\\wamp64\\www\\h...', 38, Array)
+#1 E:\wamp64\www\healthyhabbits\vendor\codeigniter4\framework\system\View\View.php(246): include('E:\\wamp64\\www\\h...')
+#2 E:\wamp64\www\healthyhabbits\vendor\codeigniter4\framework\system\Common.php(1087): CodeIgniter\View\View->render('checkupmaster/e...', Array, true)
+#3 E:\wamp64\www\healthyhabbits\app\Controllers\BaseController.php(56): view('checkupmaster/e...', Array)
+#4 E:\wamp64\www\healthyhabbits\app\Controllers\CheckupMaster.php(135): App\Controllers\BaseController->render_page('checkupmaster/e...', Array)
+#5 E:\wamp64\www\healthyhabbits\vendor\codeigniter4\framework\system\CodeIgniter.php(914): App\Controllers\CheckupMaster->update()
+#6 E:\wamp64\www\healthyhabbits\vendor\codeigniter4\framework\system\CodeIgniter.php(400): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\CheckupMaster))
+#7 E:\wamp64\www\healthyhabbits\vendor\codeigniter4\framework\system\CodeIgniter.php(308): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#8 E:\wamp64\www\healthyhabbits\index.php(84): CodeIgniter\CodeIgniter->run()
+#9 {main}
+CRITICAL - 2020-07-21 08:22:14 --> Undefined index: details
+#0 E:\wamp64\www\healthyhabbits\app\Views\checkupmaster\edit.php(38): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined index...', 'E:\\wamp64\\www\\h...', 38, Array)
+#1 E:\wamp64\www\healthyhabbits\vendor\codeigniter4\framework\system\View\View.php(246): include('E:\\wamp64\\www\\h...')
+#2 E:\wamp64\www\healthyhabbits\vendor\codeigniter4\framework\system\Common.php(1087): CodeIgniter\View\View->render('checkupmaster/e...', Array, true)
+#3 E:\wamp64\www\healthyhabbits\app\Controllers\BaseController.php(56): view('checkupmaster/e...', Array)
+#4 E:\wamp64\www\healthyhabbits\app\Controllers\CheckupMaster.php(137): App\Controllers\BaseController->render_page('checkupmaster/e...', Array)
+#5 E:\wamp64\www\healthyhabbits\vendor\codeigniter4\framework\system\CodeIgniter.php(914): App\Controllers\CheckupMaster->update()
+#6 E:\wamp64\www\healthyhabbits\vendor\codeigniter4\framework\system\CodeIgniter.php(400): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\CheckupMaster))
+#7 E:\wamp64\www\healthyhabbits\vendor\codeigniter4\framework\system\CodeIgniter.php(308): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#8 E:\wamp64\www\healthyhabbits\index.php(84): CodeIgniter\CodeIgniter->run()
+#9 {main}
+CRITICAL - 2020-07-21 08:24:25 --> Undefined index: details
+#0 E:\wamp64\www\healthyhabbits\app\Views\checkupmaster\edit.php(38): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined index...', 'E:\\wamp64\\www\\h...', 38, Array)
+#1 E:\wamp64\www\healthyhabbits\vendor\codeigniter4\framework\system\View\View.php(246): include('E:\\wamp64\\www\\h...')
+#2 E:\wamp64\www\healthyhabbits\vendor\codeigniter4\framework\system\Common.php(1087): CodeIgniter\View\View->render('checkupmaster/e...', Array, true)
+#3 E:\wamp64\www\healthyhabbits\app\Controllers\BaseController.php(56): view('checkupmaster/e...', Array)
+#4 E:\wamp64\www\healthyhabbits\app\Controllers\CheckupMaster.php(137): App\Controllers\BaseController->render_page('checkupmaster/e...', Array)
+#5 E:\wamp64\www\healthyhabbits\vendor\codeigniter4\framework\system\CodeIgniter.php(914): App\Controllers\CheckupMaster->update()
+#6 E:\wamp64\www\healthyhabbits\vendor\codeigniter4\framework\system\CodeIgniter.php(400): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\CheckupMaster))
+#7 E:\wamp64\www\healthyhabbits\vendor\codeigniter4\framework\system\CodeIgniter.php(308): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#8 E:\wamp64\www\healthyhabbits\index.php(84): CodeIgniter\CodeIgniter->run()
+#9 {main}
+CRITICAL - 2020-07-21 08:25:54 --> Unknown column 'checkup_plan.id' in 'where clause'
+#0 E:\wamp64\www\healthyhabbits\vendor\codeigniter4\framework\system\Database\MySQLi\Connection.php(331): mysqli->query('UPDATE `checkup...')
+#1 E:\wamp64\www\healthyhabbits\vendor\codeigniter4\framework\system\Database\BaseConnection.php(738): CodeIgniter\Database\MySQLi\Connection->execute('UPDATE `checkup...')
+#2 E:\wamp64\www\healthyhabbits\vendor\codeigniter4\framework\system\Database\BaseConnection.php(666): CodeIgniter\Database\BaseConnection->simpleQuery('UPDATE `checkup...')
+#3 E:\wamp64\www\healthyhabbits\vendor\codeigniter4\framework\system\Database\BaseBuilder.php(2441): CodeIgniter\Database\BaseConnection->query('UPDATE `checkup...', Array, false)
+#4 E:\wamp64\www\healthyhabbits\vendor\codeigniter4\framework\system\Model.php(864): CodeIgniter\Database\BaseBuilder->update()
+#5 E:\wamp64\www\healthyhabbits\app\Controllers\CheckupMaster.php(148): CodeIgniter\Model->update(Array, Array)
+#6 E:\wamp64\www\healthyhabbits\vendor\codeigniter4\framework\system\CodeIgniter.php(914): App\Controllers\CheckupMaster->update()
+#7 E:\wamp64\www\healthyhabbits\vendor\codeigniter4\framework\system\CodeIgniter.php(400): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\CheckupMaster))
+#8 E:\wamp64\www\healthyhabbits\vendor\codeigniter4\framework\system\CodeIgniter.php(308): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#9 E:\wamp64\www\healthyhabbits\index.php(84): CodeIgniter\CodeIgniter->run()
+#10 {main}
+CRITICAL - 2020-07-21 08:32:03 --> Argument 1 passed to CodeIgniter\Model::doProtectFields() must be of the type array, string given, called in E:\wamp64\www\healthyhabbits\vendor\codeigniter4\framework\system\Model.php on line 845
+#0 E:\wamp64\www\healthyhabbits\vendor\codeigniter4\framework\system\Model.php(845): CodeIgniter\Model->doProtectFields('1')
+#1 E:\wamp64\www\healthyhabbits\app\Controllers\CheckupMaster.php(149): CodeIgniter\Model->update(Array, '1', Array)
+#2 E:\wamp64\www\healthyhabbits\vendor\codeigniter4\framework\system\CodeIgniter.php(914): App\Controllers\CheckupMaster->update()
+#3 E:\wamp64\www\healthyhabbits\vendor\codeigniter4\framework\system\CodeIgniter.php(400): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\CheckupMaster))
+#4 E:\wamp64\www\healthyhabbits\vendor\codeigniter4\framework\system\CodeIgniter.php(308): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#5 E:\wamp64\www\healthyhabbits\index.php(84): CodeIgniter\CodeIgniter->run()
+#6 {main}
+CRITICAL - 2020-07-21 08:32:15 --> Unknown column 'checkup_plan.id' in 'where clause'
+#0 E:\wamp64\www\healthyhabbits\vendor\codeigniter4\framework\system\Database\MySQLi\Connection.php(331): mysqli->query('UPDATE `checkup...')
+#1 E:\wamp64\www\healthyhabbits\vendor\codeigniter4\framework\system\Database\BaseConnection.php(738): CodeIgniter\Database\MySQLi\Connection->execute('UPDATE `checkup...')
+#2 E:\wamp64\www\healthyhabbits\vendor\codeigniter4\framework\system\Database\BaseConnection.php(666): CodeIgniter\Database\BaseConnection->simpleQuery('UPDATE `checkup...')
+#3 E:\wamp64\www\healthyhabbits\vendor\codeigniter4\framework\system\Database\BaseBuilder.php(2441): CodeIgniter\Database\BaseConnection->query('UPDATE `checkup...', Array, false)
+#4 E:\wamp64\www\healthyhabbits\vendor\codeigniter4\framework\system\Model.php(864): CodeIgniter\Database\BaseBuilder->update()
+#5 E:\wamp64\www\healthyhabbits\app\Controllers\CheckupMaster.php(149): CodeIgniter\Model->update(Array, Array)
+#6 E:\wamp64\www\healthyhabbits\vendor\codeigniter4\framework\system\CodeIgniter.php(914): App\Controllers\CheckupMaster->update()
+#7 E:\wamp64\www\healthyhabbits\vendor\codeigniter4\framework\system\CodeIgniter.php(400): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\CheckupMaster))
+#8 E:\wamp64\www\healthyhabbits\vendor\codeigniter4\framework\system\CodeIgniter.php(308): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#9 E:\wamp64\www\healthyhabbits\index.php(84): CodeIgniter\CodeIgniter->run()
+#10 {main}
+CRITICAL - 2020-07-21 08:33:51 --> Unknown column 'checkup_plan.id' in 'where clause'
+#0 E:\wamp64\www\healthyhabbits\vendor\codeigniter4\framework\system\Database\MySQLi\Connection.php(331): mysqli->query('UPDATE `checkup...')
+#1 E:\wamp64\www\healthyhabbits\vendor\codeigniter4\framework\system\Database\BaseConnection.php(738): CodeIgniter\Database\MySQLi\Connection->execute('UPDATE `checkup...')
+#2 E:\wamp64\www\healthyhabbits\vendor\codeigniter4\framework\system\Database\BaseConnection.php(666): CodeIgniter\Database\BaseConnection->simpleQuery('UPDATE `checkup...')
+#3 E:\wamp64\www\healthyhabbits\vendor\codeigniter4\framework\system\Database\BaseBuilder.php(2441): CodeIgniter\Database\BaseConnection->query('UPDATE `checkup...', Array, false)
+#4 E:\wamp64\www\healthyhabbits\vendor\codeigniter4\framework\system\Model.php(864): CodeIgniter\Database\BaseBuilder->update()
+#5 E:\wamp64\www\healthyhabbits\app\Controllers\CheckupMaster.php(149): CodeIgniter\Model->update(Array, Array)
+#6 E:\wamp64\www\healthyhabbits\vendor\codeigniter4\framework\system\CodeIgniter.php(914): App\Controllers\CheckupMaster->update()
+#7 E:\wamp64\www\healthyhabbits\vendor\codeigniter4\framework\system\CodeIgniter.php(400): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\CheckupMaster))
+#8 E:\wamp64\www\healthyhabbits\vendor\codeigniter4\framework\system\CodeIgniter.php(308): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#9 E:\wamp64\www\healthyhabbits\index.php(84): CodeIgniter\CodeIgniter->run()
+#10 {main}
+CRITICAL - 2020-07-21 08:45:19 --> Unknown column 'checkup_plan.id' in 'where clause'
+#0 E:\wamp64\www\healthyhabbits\vendor\codeigniter4\framework\system\Database\MySQLi\Connection.php(331): mysqli->query('UPDATE `checkup...')
+#1 E:\wamp64\www\healthyhabbits\vendor\codeigniter4\framework\system\Database\BaseConnection.php(738): CodeIgniter\Database\MySQLi\Connection->execute('UPDATE `checkup...')
+#2 E:\wamp64\www\healthyhabbits\vendor\codeigniter4\framework\system\Database\BaseConnection.php(666): CodeIgniter\Database\BaseConnection->simpleQuery('UPDATE `checkup...')
+#3 E:\wamp64\www\healthyhabbits\vendor\codeigniter4\framework\system\Database\BaseBuilder.php(2441): CodeIgniter\Database\BaseConnection->query('UPDATE `checkup...', Array, false)
+#4 E:\wamp64\www\healthyhabbits\vendor\codeigniter4\framework\system\Model.php(865): CodeIgniter\Database\BaseBuilder->update()
+#5 E:\wamp64\www\healthyhabbits\app\Controllers\CheckupMaster.php(149): CodeIgniter\Model->update(Array, Array)
+#6 E:\wamp64\www\healthyhabbits\vendor\codeigniter4\framework\system\CodeIgniter.php(914): App\Controllers\CheckupMaster->update()
+#7 E:\wamp64\www\healthyhabbits\vendor\codeigniter4\framework\system\CodeIgniter.php(400): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\CheckupMaster))
+#8 E:\wamp64\www\healthyhabbits\vendor\codeigniter4\framework\system\CodeIgniter.php(308): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#9 E:\wamp64\www\healthyhabbits\index.php(84): CodeIgniter\CodeIgniter->run()
+#10 {main}
+CRITICAL - 2020-07-21 08:45:45 --> Unknown column 'checkup_plan.id' in 'where clause'
+#0 E:\wamp64\www\healthyhabbits\vendor\codeigniter4\framework\system\Database\MySQLi\Connection.php(331): mysqli->query('UPDATE `checkup...')
+#1 E:\wamp64\www\healthyhabbits\vendor\codeigniter4\framework\system\Database\BaseConnection.php(738): CodeIgniter\Database\MySQLi\Connection->execute('UPDATE `checkup...')
+#2 E:\wamp64\www\healthyhabbits\vendor\codeigniter4\framework\system\Database\BaseConnection.php(666): CodeIgniter\Database\BaseConnection->simpleQuery('UPDATE `checkup...')
+#3 E:\wamp64\www\healthyhabbits\vendor\codeigniter4\framework\system\Database\BaseBuilder.php(2441): CodeIgniter\Database\BaseConnection->query('UPDATE `checkup...', Array, false)
+#4 E:\wamp64\www\healthyhabbits\vendor\codeigniter4\framework\system\Model.php(865): CodeIgniter\Database\BaseBuilder->update()
+#5 E:\wamp64\www\healthyhabbits\app\Controllers\CheckupMaster.php(149): CodeIgniter\Model->update(Array, Array)
+#6 E:\wamp64\www\healthyhabbits\vendor\codeigniter4\framework\system\CodeIgniter.php(914): App\Controllers\CheckupMaster->update()
+#7 E:\wamp64\www\healthyhabbits\vendor\codeigniter4\framework\system\CodeIgniter.php(400): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\CheckupMaster))
+#8 E:\wamp64\www\healthyhabbits\vendor\codeigniter4\framework\system\CodeIgniter.php(308): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#9 E:\wamp64\www\healthyhabbits\index.php(84): CodeIgniter\CodeIgniter->run()
+#10 {main}

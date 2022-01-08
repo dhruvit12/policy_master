@@ -1,0 +1,86 @@
+CRITICAL - 2021-11-12 02:40:50 --> readfile(sample.pdf): failed to open stream: No such file or directory
+#0 [internal function]: CodeIgniter\Debug\Exceptions->errorHandler(2, 'readfile(sample...', 'C:\\xampp\\htdocs...', 53, Array)
+#1 C:\xampp\htdocs\policy-master-updated\app\Controllers\Download_risk_notes.php(53): readfile('sample.pdf')
+#2 C:\xampp\htdocs\policy-master-updated\vendor\codeigniter4\framework\system\CodeIgniter.php(914): App\Controllers\Download_risk_notes->download()
+#3 C:\xampp\htdocs\policy-master-updated\vendor\codeigniter4\framework\system\CodeIgniter.php(400): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Download_risk_notes))
+#4 C:\xampp\htdocs\policy-master-updated\vendor\codeigniter4\framework\system\CodeIgniter.php(308): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#5 C:\xampp\htdocs\policy-master-updated\index.php(84): CodeIgniter\CodeIgniter->run()
+#6 {main}
+CRITICAL - 2021-11-12 02:49:26 --> syntax error, unexpected 'if' (T_IF), expecting function (T_FUNCTION) or const (T_CONST)
+#0 C:\xampp\htdocs\policy-master-updated\vendor\codeigniter4\framework\system\Router\Router.php(192): CodeIgniter\Router\Router->autoRoute('/Download_risk_...')
+#1 C:\xampp\htdocs\policy-master-updated\vendor\codeigniter4\framework\system\CodeIgniter.php(789): CodeIgniter\Router\Router->handle('/Download_risk_...')
+#2 C:\xampp\htdocs\policy-master-updated\vendor\codeigniter4\framework\system\CodeIgniter.php(360): CodeIgniter\CodeIgniter->tryToRouteIt(Object(CodeIgniter\Router\RouteCollection))
+#3 C:\xampp\htdocs\policy-master-updated\vendor\codeigniter4\framework\system\CodeIgniter.php(308): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp\htdocs\policy-master-updated\index.php(84): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2021-11-12 02:53:39 --> syntax error, unexpected ')'
+#0 C:\xampp\htdocs\policy-master-updated\vendor\codeigniter4\framework\system\Router\Router.php(192): CodeIgniter\Router\Router->autoRoute('/Download_risk_...')
+#1 C:\xampp\htdocs\policy-master-updated\vendor\codeigniter4\framework\system\CodeIgniter.php(789): CodeIgniter\Router\Router->handle('/Download_risk_...')
+#2 C:\xampp\htdocs\policy-master-updated\vendor\codeigniter4\framework\system\CodeIgniter.php(360): CodeIgniter\CodeIgniter->tryToRouteIt(Object(CodeIgniter\Router\RouteCollection))
+#3 C:\xampp\htdocs\policy-master-updated\vendor\codeigniter4\framework\system\CodeIgniter.php(308): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp\htdocs\policy-master-updated\index.php(84): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2021-11-12 02:54:44 --> Undefined variable: url
+#0 C:\xampp\htdocs\policy-master-updated\app\Controllers\Download_risk_notes.php(59): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined varia...', 'C:\\xampp\\htdocs...', 59, Array)
+#1 C:\xampp\htdocs\policy-master-updated\vendor\codeigniter4\framework\system\CodeIgniter.php(914): App\Controllers\Download_risk_notes->download()
+#2 C:\xampp\htdocs\policy-master-updated\vendor\codeigniter4\framework\system\CodeIgniter.php(400): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Download_risk_notes))
+#3 C:\xampp\htdocs\policy-master-updated\vendor\codeigniter4\framework\system\CodeIgniter.php(308): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp\htdocs\policy-master-updated\index.php(84): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2021-11-12 02:55:17 --> filesize(): stat failed for FingerTips - Artifical Intelligence.pdf
+#0 [internal function]: CodeIgniter\Debug\Exceptions->errorHandler(2, 'filesize(): sta...', 'C:\\xampp\\htdocs...', 59, Array)
+#1 C:\xampp\htdocs\policy-master-updated\app\Controllers\Download_risk_notes.php(59): filesize('FingerTips - Ar...')
+#2 C:\xampp\htdocs\policy-master-updated\vendor\codeigniter4\framework\system\CodeIgniter.php(914): App\Controllers\Download_risk_notes->download()
+#3 C:\xampp\htdocs\policy-master-updated\vendor\codeigniter4\framework\system\CodeIgniter.php(400): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Download_risk_notes))
+#4 C:\xampp\htdocs\policy-master-updated\vendor\codeigniter4\framework\system\CodeIgniter.php(308): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#5 C:\xampp\htdocs\policy-master-updated\index.php(84): CodeIgniter\CodeIgniter->run()
+#6 {main}
+CRITICAL - 2021-11-12 02:55:24 --> filesize(): stat failed for FingerTips - Artifical Intelligence.pdf
+#0 [internal function]: CodeIgniter\Debug\Exceptions->errorHandler(2, 'filesize(): sta...', 'C:\\xampp\\htdocs...', 59, Array)
+#1 C:\xampp\htdocs\policy-master-updated\app\Controllers\Download_risk_notes.php(59): filesize('FingerTips - Ar...')
+#2 C:\xampp\htdocs\policy-master-updated\vendor\codeigniter4\framework\system\CodeIgniter.php(914): App\Controllers\Download_risk_notes->download()
+#3 C:\xampp\htdocs\policy-master-updated\vendor\codeigniter4\framework\system\CodeIgniter.php(400): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Download_risk_notes))
+#4 C:\xampp\htdocs\policy-master-updated\vendor\codeigniter4\framework\system\CodeIgniter.php(308): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#5 C:\xampp\htdocs\policy-master-updated\index.php(84): CodeIgniter\CodeIgniter->run()
+#6 {main}
+CRITICAL - 2021-11-12 02:56:25 --> filesize(): stat failed for FingerTips - Artifical Intelligence.pdf
+#0 [internal function]: CodeIgniter\Debug\Exceptions->errorHandler(2, 'filesize(): sta...', 'C:\\xampp\\htdocs...', 59, Array)
+#1 C:\xampp\htdocs\policy-master-updated\app\Controllers\Download_risk_notes.php(59): filesize('FingerTips - Ar...')
+#2 C:\xampp\htdocs\policy-master-updated\vendor\codeigniter4\framework\system\CodeIgniter.php(914): App\Controllers\Download_risk_notes->download()
+#3 C:\xampp\htdocs\policy-master-updated\vendor\codeigniter4\framework\system\CodeIgniter.php(400): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Download_risk_notes))
+#4 C:\xampp\htdocs\policy-master-updated\vendor\codeigniter4\framework\system\CodeIgniter.php(308): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#5 C:\xampp\htdocs\policy-master-updated\index.php(84): CodeIgniter\CodeIgniter->run()
+#6 {main}
+CRITICAL - 2021-11-12 02:56:35 --> filesize(): stat failed for FingerTips - Artifical Intelligence.pdf
+#0 [internal function]: CodeIgniter\Debug\Exceptions->errorHandler(2, 'filesize(): sta...', 'C:\\xampp\\htdocs...', 59, Array)
+#1 C:\xampp\htdocs\policy-master-updated\app\Controllers\Download_risk_notes.php(59): filesize('FingerTips - Ar...')
+#2 C:\xampp\htdocs\policy-master-updated\vendor\codeigniter4\framework\system\CodeIgniter.php(914): App\Controllers\Download_risk_notes->download()
+#3 C:\xampp\htdocs\policy-master-updated\vendor\codeigniter4\framework\system\CodeIgniter.php(400): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Download_risk_notes))
+#4 C:\xampp\htdocs\policy-master-updated\vendor\codeigniter4\framework\system\CodeIgniter.php(308): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#5 C:\xampp\htdocs\policy-master-updated\index.php(84): CodeIgniter\CodeIgniter->run()
+#6 {main}
+CRITICAL - 2021-11-12 03:01:38 --> Undefined variable: usersData
+#0 C:\xampp\htdocs\policy-master-updated\app\Controllers\Download_risk_notes.php(95): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined varia...', 'C:\\xampp\\htdocs...', 95, Array)
+#1 C:\xampp\htdocs\policy-master-updated\vendor\codeigniter4\framework\system\CodeIgniter.php(914): App\Controllers\Download_risk_notes->download()
+#2 C:\xampp\htdocs\policy-master-updated\vendor\codeigniter4\framework\system\CodeIgniter.php(400): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Download_risk_notes))
+#3 C:\xampp\htdocs\policy-master-updated\vendor\codeigniter4\framework\system\CodeIgniter.php(308): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp\htdocs\policy-master-updated\index.php(84): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2021-11-12 03:16:29 --> Call to undefined function App\Controllers\download_file()
+#0 C:\xampp\htdocs\policy-master-updated\vendor\codeigniter4\framework\system\CodeIgniter.php(914): App\Controllers\Download_risk_notes->download()
+#1 C:\xampp\htdocs\policy-master-updated\vendor\codeigniter4\framework\system\CodeIgniter.php(400): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Download_risk_notes))
+#2 C:\xampp\htdocs\policy-master-updated\vendor\codeigniter4\framework\system\CodeIgniter.php(308): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 C:\xampp\htdocs\policy-master-updated\index.php(84): CodeIgniter\CodeIgniter->run()
+#4 {main}
+CRITICAL - 2021-11-12 03:17:13 --> Call to undefined function App\Controllers\fputpdf()
+#0 C:\xampp\htdocs\policy-master-updated\vendor\codeigniter4\framework\system\CodeIgniter.php(914): App\Controllers\Download_risk_notes->download()
+#1 C:\xampp\htdocs\policy-master-updated\vendor\codeigniter4\framework\system\CodeIgniter.php(400): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Download_risk_notes))
+#2 C:\xampp\htdocs\policy-master-updated\vendor\codeigniter4\framework\system\CodeIgniter.php(308): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 C:\xampp\htdocs\policy-master-updated\index.php(84): CodeIgniter\CodeIgniter->run()
+#4 {main}
+CRITICAL - 2021-11-12 03:23:47 --> Class 'Mpdf\Mpdf' not found
+#0 C:\xampp\htdocs\policy-master-updated\vendor\codeigniter4\framework\system\CodeIgniter.php(914): App\Controllers\Download_risk_notes->download()
+#1 C:\xampp\htdocs\policy-master-updated\vendor\codeigniter4\framework\system\CodeIgniter.php(400): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Download_risk_notes))
+#2 C:\xampp\htdocs\policy-master-updated\vendor\codeigniter4\framework\system\CodeIgniter.php(308): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 C:\xampp\htdocs\policy-master-updated\index.php(84): CodeIgniter\CodeIgniter->run()
+#4 {main}

@@ -1,0 +1,1151 @@
+CRITICAL - 2021-09-29 00:18:07 --> Undefined index: id
+#0 F:\xampp\htdocs\policy-master-updated\app\Controllers\Quotation.php(1191): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined index...', 'F:\\xampp\\htdocs...', 1191, Array)
+#1 F:\xampp\htdocs\policy-master-updated\vendor\codeigniter4\framework\system\CodeIgniter.php(914): App\Controllers\Quotation->get_lifequotationsecondtb()
+#2 F:\xampp\htdocs\policy-master-updated\vendor\codeigniter4\framework\system\CodeIgniter.php(400): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Quotation))
+#3 F:\xampp\htdocs\policy-master-updated\vendor\codeigniter4\framework\system\CodeIgniter.php(308): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 F:\xampp\htdocs\policy-master-updated\index.php(84): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2021-09-29 00:33:01 --> Undefined index: quot_id
+#0 F:\xampp\htdocs\policy-master-updated\app\Controllers\Quotation.php(941): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined index...', 'F:\\xampp\\htdocs...', 941, Array)
+#1 F:\xampp\htdocs\policy-master-updated\vendor\codeigniter4\framework\system\CodeIgniter.php(914): App\Controllers\Quotation->edit_life_quotation()
+#2 F:\xampp\htdocs\policy-master-updated\vendor\codeigniter4\framework\system\CodeIgniter.php(400): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Quotation))
+#3 F:\xampp\htdocs\policy-master-updated\vendor\codeigniter4\framework\system\CodeIgniter.php(308): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 F:\xampp\htdocs\policy-master-updated\index.php(84): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2021-09-29 00:33:04 --> Undefined index: quot_id
+#0 F:\xampp\htdocs\policy-master-updated\app\Controllers\Quotation.php(941): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined index...', 'F:\\xampp\\htdocs...', 941, Array)
+#1 F:\xampp\htdocs\policy-master-updated\vendor\codeigniter4\framework\system\CodeIgniter.php(914): App\Controllers\Quotation->edit_life_quotation()
+#2 F:\xampp\htdocs\policy-master-updated\vendor\codeigniter4\framework\system\CodeIgniter.php(400): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Quotation))
+#3 F:\xampp\htdocs\policy-master-updated\vendor\codeigniter4\framework\system\CodeIgniter.php(308): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 F:\xampp\htdocs\policy-master-updated\index.php(84): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2021-09-29 00:35:02 --> Undefined index: quot_id
+#0 F:\xampp\htdocs\policy-master-updated\app\Controllers\Quotation.php(941): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined index...', 'F:\\xampp\\htdocs...', 941, Array)
+#1 F:\xampp\htdocs\policy-master-updated\vendor\codeigniter4\framework\system\CodeIgniter.php(914): App\Controllers\Quotation->edit_life_quotation()
+#2 F:\xampp\htdocs\policy-master-updated\vendor\codeigniter4\framework\system\CodeIgniter.php(400): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Quotation))
+#3 F:\xampp\htdocs\policy-master-updated\vendor\codeigniter4\framework\system\CodeIgniter.php(308): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 F:\xampp\htdocs\policy-master-updated\index.php(84): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2021-09-29 00:35:04 --> Undefined index: quot_id
+#0 F:\xampp\htdocs\policy-master-updated\app\Controllers\Quotation.php(941): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined index...', 'F:\\xampp\\htdocs...', 941, Array)
+#1 F:\xampp\htdocs\policy-master-updated\vendor\codeigniter4\framework\system\CodeIgniter.php(914): App\Controllers\Quotation->edit_life_quotation()
+#2 F:\xampp\htdocs\policy-master-updated\vendor\codeigniter4\framework\system\CodeIgniter.php(400): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Quotation))
+#3 F:\xampp\htdocs\policy-master-updated\vendor\codeigniter4\framework\system\CodeIgniter.php(308): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 F:\xampp\htdocs\policy-master-updated\index.php(84): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2021-09-29 00:36:14 --> Undefined index: quot_id
+#0 F:\xampp\htdocs\policy-master-updated\app\Controllers\Quotation.php(941): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined index...', 'F:\\xampp\\htdocs...', 941, Array)
+#1 F:\xampp\htdocs\policy-master-updated\vendor\codeigniter4\framework\system\CodeIgniter.php(914): App\Controllers\Quotation->edit_life_quotation()
+#2 F:\xampp\htdocs\policy-master-updated\vendor\codeigniter4\framework\system\CodeIgniter.php(400): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Quotation))
+#3 F:\xampp\htdocs\policy-master-updated\vendor\codeigniter4\framework\system\CodeIgniter.php(308): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 F:\xampp\htdocs\policy-master-updated\index.php(84): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2021-09-29 00:39:13 --> syntax error, unexpected '}'
+#0 F:\xampp\htdocs\policy-master-updated\vendor\codeigniter4\framework\system\Router\Router.php(192): CodeIgniter\Router\Router->autoRoute('/quotation/add_...')
+#1 F:\xampp\htdocs\policy-master-updated\vendor\codeigniter4\framework\system\CodeIgniter.php(789): CodeIgniter\Router\Router->handle('/quotation/add_...')
+#2 F:\xampp\htdocs\policy-master-updated\vendor\codeigniter4\framework\system\CodeIgniter.php(360): CodeIgniter\CodeIgniter->tryToRouteIt(Object(CodeIgniter\Router\RouteCollection))
+#3 F:\xampp\htdocs\policy-master-updated\vendor\codeigniter4\framework\system\CodeIgniter.php(308): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 F:\xampp\htdocs\policy-master-updated\index.php(84): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2021-09-29 00:39:50 --> Undefined index: premium
+#0 F:\xampp\htdocs\policy-master-updated\app\Controllers\Quotation.php(962): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined index...', 'F:\\xampp\\htdocs...', 962, Array)
+#1 F:\xampp\htdocs\policy-master-updated\vendor\codeigniter4\framework\system\CodeIgniter.php(914): App\Controllers\Quotation->edit_life_secondquotation()
+#2 F:\xampp\htdocs\policy-master-updated\vendor\codeigniter4\framework\system\CodeIgniter.php(400): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Quotation))
+#3 F:\xampp\htdocs\policy-master-updated\vendor\codeigniter4\framework\system\CodeIgniter.php(308): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 F:\xampp\htdocs\policy-master-updated\index.php(84): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2021-09-29 00:39:56 --> Undefined index: premium
+#0 F:\xampp\htdocs\policy-master-updated\app\Controllers\Quotation.php(962): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined index...', 'F:\\xampp\\htdocs...', 962, Array)
+#1 F:\xampp\htdocs\policy-master-updated\vendor\codeigniter4\framework\system\CodeIgniter.php(914): App\Controllers\Quotation->edit_life_secondquotation()
+#2 F:\xampp\htdocs\policy-master-updated\vendor\codeigniter4\framework\system\CodeIgniter.php(400): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Quotation))
+#3 F:\xampp\htdocs\policy-master-updated\vendor\codeigniter4\framework\system\CodeIgniter.php(308): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 F:\xampp\htdocs\policy-master-updated\index.php(84): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2021-09-29 00:43:08 --> syntax error, unexpected '=>' (T_DOUBLE_ARROW), expecting ')'
+#0 F:\xampp\htdocs\policy-master-updated\vendor\codeigniter4\framework\system\Router\Router.php(192): CodeIgniter\Router\Router->autoRoute('/quotation/add_...')
+#1 F:\xampp\htdocs\policy-master-updated\vendor\codeigniter4\framework\system\CodeIgniter.php(789): CodeIgniter\Router\Router->handle('/quotation/add_...')
+#2 F:\xampp\htdocs\policy-master-updated\vendor\codeigniter4\framework\system\CodeIgniter.php(360): CodeIgniter\CodeIgniter->tryToRouteIt(Object(CodeIgniter\Router\RouteCollection))
+#3 F:\xampp\htdocs\policy-master-updated\vendor\codeigniter4\framework\system\CodeIgniter.php(308): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 F:\xampp\htdocs\policy-master-updated\index.php(84): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2021-09-29 00:46:48 --> Undefined index: id
+#0 F:\xampp\htdocs\policy-master-updated\app\Controllers\Quotation.php(1207): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined index...', 'F:\\xampp\\htdocs...', 1207, Array)
+#1 F:\xampp\htdocs\policy-master-updated\vendor\codeigniter4\framework\system\CodeIgniter.php(914): App\Controllers\Quotation->get_lifequotationsecondtb()
+#2 F:\xampp\htdocs\policy-master-updated\vendor\codeigniter4\framework\system\CodeIgniter.php(400): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Quotation))
+#3 F:\xampp\htdocs\policy-master-updated\vendor\codeigniter4\framework\system\CodeIgniter.php(308): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 F:\xampp\htdocs\policy-master-updated\index.php(84): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2021-09-29 00:48:03 --> Undefined index: id
+#0 F:\xampp\htdocs\policy-master-updated\app\Controllers\Quotation.php(1207): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined index...', 'F:\\xampp\\htdocs...', 1207, Array)
+#1 F:\xampp\htdocs\policy-master-updated\vendor\codeigniter4\framework\system\CodeIgniter.php(914): App\Controllers\Quotation->get_lifequotationsecondtb()
+#2 F:\xampp\htdocs\policy-master-updated\vendor\codeigniter4\framework\system\CodeIgniter.php(400): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Quotation))
+#3 F:\xampp\htdocs\policy-master-updated\vendor\codeigniter4\framework\system\CodeIgniter.php(308): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 F:\xampp\htdocs\policy-master-updated\index.php(84): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2021-09-29 00:49:24 --> Undefined index: id
+#0 F:\xampp\htdocs\policy-master-updated\app\Controllers\Quotation.php(1207): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined index...', 'F:\\xampp\\htdocs...', 1207, Array)
+#1 F:\xampp\htdocs\policy-master-updated\vendor\codeigniter4\framework\system\CodeIgniter.php(914): App\Controllers\Quotation->get_lifequotationsecondtb()
+#2 F:\xampp\htdocs\policy-master-updated\vendor\codeigniter4\framework\system\CodeIgniter.php(400): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Quotation))
+#3 F:\xampp\htdocs\policy-master-updated\vendor\codeigniter4\framework\system\CodeIgniter.php(308): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 F:\xampp\htdocs\policy-master-updated\index.php(84): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2021-09-29 01:02:04 --> Undefined index: id
+#0 F:\xampp\htdocs\policy-master-updated\app\Controllers\Quotation.php(1207): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined index...', 'F:\\xampp\\htdocs...', 1207, Array)
+#1 F:\xampp\htdocs\policy-master-updated\vendor\codeigniter4\framework\system\CodeIgniter.php(914): App\Controllers\Quotation->get_lifequotationsecondtb()
+#2 F:\xampp\htdocs\policy-master-updated\vendor\codeigniter4\framework\system\CodeIgniter.php(400): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Quotation))
+#3 F:\xampp\htdocs\policy-master-updated\vendor\codeigniter4\framework\system\CodeIgniter.php(308): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 F:\xampp\htdocs\policy-master-updated\index.php(84): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2021-09-29 01:03:21 --> Undefined index: id
+#0 F:\xampp\htdocs\policy-master-updated\app\Controllers\Quotation.php(1207): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined index...', 'F:\\xampp\\htdocs...', 1207, Array)
+#1 F:\xampp\htdocs\policy-master-updated\vendor\codeigniter4\framework\system\CodeIgniter.php(914): App\Controllers\Quotation->get_lifequotationsecondtb()
+#2 F:\xampp\htdocs\policy-master-updated\vendor\codeigniter4\framework\system\CodeIgniter.php(400): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Quotation))
+#3 F:\xampp\htdocs\policy-master-updated\vendor\codeigniter4\framework\system\CodeIgniter.php(308): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 F:\xampp\htdocs\policy-master-updated\index.php(84): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2021-09-29 01:03:49 --> Undefined index: id
+#0 F:\xampp\htdocs\policy-master-updated\app\Controllers\Quotation.php(1207): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined index...', 'F:\\xampp\\htdocs...', 1207, Array)
+#1 F:\xampp\htdocs\policy-master-updated\vendor\codeigniter4\framework\system\CodeIgniter.php(914): App\Controllers\Quotation->get_lifequotationsecondtb()
+#2 F:\xampp\htdocs\policy-master-updated\vendor\codeigniter4\framework\system\CodeIgniter.php(400): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Quotation))
+#3 F:\xampp\htdocs\policy-master-updated\vendor\codeigniter4\framework\system\CodeIgniter.php(308): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 F:\xampp\htdocs\policy-master-updated\index.php(84): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2021-09-29 01:06:59 --> Undefined index: id
+#0 F:\xampp\htdocs\policy-master-updated\app\Controllers\Quotation.php(1207): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined index...', 'F:\\xampp\\htdocs...', 1207, Array)
+#1 F:\xampp\htdocs\policy-master-updated\vendor\codeigniter4\framework\system\CodeIgniter.php(914): App\Controllers\Quotation->get_lifequotationsecondtb()
+#2 F:\xampp\htdocs\policy-master-updated\vendor\codeigniter4\framework\system\CodeIgniter.php(400): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Quotation))
+#3 F:\xampp\htdocs\policy-master-updated\vendor\codeigniter4\framework\system\CodeIgniter.php(308): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 F:\xampp\htdocs\policy-master-updated\index.php(84): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2021-09-29 01:07:14 --> Undefined index: id
+#0 F:\xampp\htdocs\policy-master-updated\app\Controllers\Quotation.php(1207): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined index...', 'F:\\xampp\\htdocs...', 1207, Array)
+#1 F:\xampp\htdocs\policy-master-updated\vendor\codeigniter4\framework\system\CodeIgniter.php(914): App\Controllers\Quotation->get_lifequotationsecondtb()
+#2 F:\xampp\htdocs\policy-master-updated\vendor\codeigniter4\framework\system\CodeIgniter.php(400): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Quotation))
+#3 F:\xampp\htdocs\policy-master-updated\vendor\codeigniter4\framework\system\CodeIgniter.php(308): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 F:\xampp\htdocs\policy-master-updated\index.php(84): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2021-09-29 01:07:40 --> Undefined index: id
+#0 F:\xampp\htdocs\policy-master-updated\app\Controllers\Ajaxcontroler.php(159): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined index...', 'F:\\xampp\\htdocs...', 159, Array)
+#1 F:\xampp\htdocs\policy-master-updated\vendor\codeigniter4\framework\system\CodeIgniter.php(914): App\Controllers\Ajaxcontroler->setrisknoteupload()
+#2 F:\xampp\htdocs\policy-master-updated\vendor\codeigniter4\framework\system\CodeIgniter.php(400): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Ajaxcontroler))
+#3 F:\xampp\htdocs\policy-master-updated\vendor\codeigniter4\framework\system\CodeIgniter.php(308): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 F:\xampp\htdocs\policy-master-updated\index.php(84): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2021-09-29 01:09:39 --> Undefined index: id
+#0 F:\xampp\htdocs\policy-master-updated\app\Controllers\Quotation.php(1207): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined index...', 'F:\\xampp\\htdocs...', 1207, Array)
+#1 F:\xampp\htdocs\policy-master-updated\vendor\codeigniter4\framework\system\CodeIgniter.php(914): App\Controllers\Quotation->get_lifequotationsecondtb()
+#2 F:\xampp\htdocs\policy-master-updated\vendor\codeigniter4\framework\system\CodeIgniter.php(400): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Quotation))
+#3 F:\xampp\htdocs\policy-master-updated\vendor\codeigniter4\framework\system\CodeIgniter.php(308): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 F:\xampp\htdocs\policy-master-updated\index.php(84): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2021-09-29 01:10:06 --> Undefined index: id
+#0 F:\xampp\htdocs\policy-master-updated\app\Controllers\Quotation.php(1207): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined index...', 'F:\\xampp\\htdocs...', 1207, Array)
+#1 F:\xampp\htdocs\policy-master-updated\vendor\codeigniter4\framework\system\CodeIgniter.php(914): App\Controllers\Quotation->get_lifequotationsecondtb()
+#2 F:\xampp\htdocs\policy-master-updated\vendor\codeigniter4\framework\system\CodeIgniter.php(400): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Quotation))
+#3 F:\xampp\htdocs\policy-master-updated\vendor\codeigniter4\framework\system\CodeIgniter.php(308): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 F:\xampp\htdocs\policy-master-updated\index.php(84): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2021-09-29 01:11:02 --> Undefined index: id
+#0 F:\xampp\htdocs\policy-master-updated\app\Controllers\Quotation.php(1207): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined index...', 'F:\\xampp\\htdocs...', 1207, Array)
+#1 F:\xampp\htdocs\policy-master-updated\vendor\codeigniter4\framework\system\CodeIgniter.php(914): App\Controllers\Quotation->get_lifequotationsecondtb()
+#2 F:\xampp\htdocs\policy-master-updated\vendor\codeigniter4\framework\system\CodeIgniter.php(400): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Quotation))
+#3 F:\xampp\htdocs\policy-master-updated\vendor\codeigniter4\framework\system\CodeIgniter.php(308): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 F:\xampp\htdocs\policy-master-updated\index.php(84): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2021-09-29 01:12:05 --> Undefined index: id
+#0 F:\xampp\htdocs\policy-master-updated\app\Controllers\Quotation.php(1207): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined index...', 'F:\\xampp\\htdocs...', 1207, Array)
+#1 F:\xampp\htdocs\policy-master-updated\vendor\codeigniter4\framework\system\CodeIgniter.php(914): App\Controllers\Quotation->get_lifequotationsecondtb()
+#2 F:\xampp\htdocs\policy-master-updated\vendor\codeigniter4\framework\system\CodeIgniter.php(400): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Quotation))
+#3 F:\xampp\htdocs\policy-master-updated\vendor\codeigniter4\framework\system\CodeIgniter.php(308): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 F:\xampp\htdocs\policy-master-updated\index.php(84): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2021-09-29 01:12:19 --> Undefined index: id
+#0 F:\xampp\htdocs\policy-master-updated\app\Controllers\Quotation.php(1207): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined index...', 'F:\\xampp\\htdocs...', 1207, Array)
+#1 F:\xampp\htdocs\policy-master-updated\vendor\codeigniter4\framework\system\CodeIgniter.php(914): App\Controllers\Quotation->get_lifequotationsecondtb()
+#2 F:\xampp\htdocs\policy-master-updated\vendor\codeigniter4\framework\system\CodeIgniter.php(400): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Quotation))
+#3 F:\xampp\htdocs\policy-master-updated\vendor\codeigniter4\framework\system\CodeIgniter.php(308): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 F:\xampp\htdocs\policy-master-updated\index.php(84): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2021-09-29 01:12:42 --> Undefined index: id
+#0 F:\xampp\htdocs\policy-master-updated\app\Controllers\Quotation.php(1207): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined index...', 'F:\\xampp\\htdocs...', 1207, Array)
+#1 F:\xampp\htdocs\policy-master-updated\vendor\codeigniter4\framework\system\CodeIgniter.php(914): App\Controllers\Quotation->get_lifequotationsecondtb()
+#2 F:\xampp\htdocs\policy-master-updated\vendor\codeigniter4\framework\system\CodeIgniter.php(400): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Quotation))
+#3 F:\xampp\htdocs\policy-master-updated\vendor\codeigniter4\framework\system\CodeIgniter.php(308): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 F:\xampp\htdocs\policy-master-updated\index.php(84): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2021-09-29 01:16:28 --> Unknown column 'quot_id' in 'where clause'
+#0 F:\xampp\htdocs\policy-master-updated\vendor\codeigniter4\framework\system\Database\MySQLi\Connection.php(331): mysqli->query('SELECT *\nFROM `...')
+#1 F:\xampp\htdocs\policy-master-updated\vendor\codeigniter4\framework\system\Database\BaseConnection.php(738): CodeIgniter\Database\MySQLi\Connection->execute('SELECT *\nFROM `...')
+#2 F:\xampp\htdocs\policy-master-updated\vendor\codeigniter4\framework\system\Database\BaseConnection.php(666): CodeIgniter\Database\BaseConnection->simpleQuery('SELECT *\nFROM `...')
+#3 F:\xampp\htdocs\policy-master-updated\vendor\codeigniter4\framework\system\Database\BaseBuilder.php(2004): CodeIgniter\Database\BaseConnection->query('SELECT *\nFROM `...', Array, false)
+#4 F:\xampp\htdocs\policy-master-updated\app\Controllers\Export.php(3232): CodeIgniter\Database\BaseBuilder->getWhere(Array)
+#5 F:\xampp\htdocs\policy-master-updated\vendor\codeigniter4\framework\system\CodeIgniter.php(914): App\Controllers\Export->debitnote('1')
+#6 F:\xampp\htdocs\policy-master-updated\vendor\codeigniter4\framework\system\CodeIgniter.php(400): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Export))
+#7 F:\xampp\htdocs\policy-master-updated\vendor\codeigniter4\framework\system\CodeIgniter.php(308): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#8 F:\xampp\htdocs\policy-master-updated\index.php(84): CodeIgniter\CodeIgniter->run()
+#9 {main}
+CRITICAL - 2021-09-29 01:18:56 --> Unknown column 'quo_id' in 'where clause'
+#0 F:\xampp\htdocs\policy-master-updated\vendor\codeigniter4\framework\system\Database\MySQLi\Connection.php(331): mysqli->query('SELECT *\nFROM `...')
+#1 F:\xampp\htdocs\policy-master-updated\vendor\codeigniter4\framework\system\Database\BaseConnection.php(738): CodeIgniter\Database\MySQLi\Connection->execute('SELECT *\nFROM `...')
+#2 F:\xampp\htdocs\policy-master-updated\vendor\codeigniter4\framework\system\Database\BaseConnection.php(666): CodeIgniter\Database\BaseConnection->simpleQuery('SELECT *\nFROM `...')
+#3 F:\xampp\htdocs\policy-master-updated\vendor\codeigniter4\framework\system\Database\BaseBuilder.php(2004): CodeIgniter\Database\BaseConnection->query('SELECT *\nFROM `...', Array, false)
+#4 F:\xampp\htdocs\policy-master-updated\app\Controllers\Export.php(2921): CodeIgniter\Database\BaseBuilder->getWhere(Array)
+#5 F:\xampp\htdocs\policy-master-updated\vendor\codeigniter4\framework\system\CodeIgniter.php(914): App\Controllers\Export->risknote('1')
+#6 F:\xampp\htdocs\policy-master-updated\vendor\codeigniter4\framework\system\CodeIgniter.php(400): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Export))
+#7 F:\xampp\htdocs\policy-master-updated\vendor\codeigniter4\framework\system\CodeIgniter.php(308): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#8 F:\xampp\htdocs\policy-master-updated\index.php(84): CodeIgniter\CodeIgniter->run()
+#9 {main}
+CRITICAL - 2021-09-29 01:19:04 --> Undefined index: total_premium
+#0 F:\xampp\htdocs\policy-master-updated\app\Controllers\Export.php(2941): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined index...', 'F:\\xampp\\htdocs...', 2941, Array)
+#1 F:\xampp\htdocs\policy-master-updated\vendor\codeigniter4\framework\system\CodeIgniter.php(914): App\Controllers\Export->risknote('1')
+#2 F:\xampp\htdocs\policy-master-updated\vendor\codeigniter4\framework\system\CodeIgniter.php(400): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Export))
+#3 F:\xampp\htdocs\policy-master-updated\vendor\codeigniter4\framework\system\CodeIgniter.php(308): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 F:\xampp\htdocs\policy-master-updated\index.php(84): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2021-09-29 01:19:15 --> Undefined index: sum_insured
+#0 F:\xampp\htdocs\policy-master-updated\app\Controllers\Export.php(2990): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined index...', 'F:\\xampp\\htdocs...', 2990, Array)
+#1 F:\xampp\htdocs\policy-master-updated\vendor\codeigniter4\framework\system\CodeIgniter.php(914): App\Controllers\Export->risknote('1')
+#2 F:\xampp\htdocs\policy-master-updated\vendor\codeigniter4\framework\system\CodeIgniter.php(400): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Export))
+#3 F:\xampp\htdocs\policy-master-updated\vendor\codeigniter4\framework\system\CodeIgniter.php(308): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 F:\xampp\htdocs\policy-master-updated\index.php(84): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2021-09-29 01:20:07 --> Undefined index: sum_insured
+#0 F:\xampp\htdocs\policy-master-updated\app\Controllers\Export.php(2990): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined index...', 'F:\\xampp\\htdocs...', 2990, Array)
+#1 F:\xampp\htdocs\policy-master-updated\vendor\codeigniter4\framework\system\CodeIgniter.php(914): App\Controllers\Export->risknote('1')
+#2 F:\xampp\htdocs\policy-master-updated\vendor\codeigniter4\framework\system\CodeIgniter.php(400): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Export))
+#3 F:\xampp\htdocs\policy-master-updated\vendor\codeigniter4\framework\system\CodeIgniter.php(308): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 F:\xampp\htdocs\policy-master-updated\index.php(84): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2021-09-29 01:20:41 --> Undefined index: sum_assured
+#0 F:\xampp\htdocs\policy-master-updated\app\Controllers\Export.php(2938): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined index...', 'F:\\xampp\\htdocs...', 2938, Array)
+#1 F:\xampp\htdocs\policy-master-updated\vendor\codeigniter4\framework\system\CodeIgniter.php(914): App\Controllers\Export->risknote('1')
+#2 F:\xampp\htdocs\policy-master-updated\vendor\codeigniter4\framework\system\CodeIgniter.php(400): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Export))
+#3 F:\xampp\htdocs\policy-master-updated\vendor\codeigniter4\framework\system\CodeIgniter.php(308): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 F:\xampp\htdocs\policy-master-updated\index.php(84): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2021-09-29 01:20:53 --> Undefined index: sum_insured
+#0 F:\xampp\htdocs\policy-master-updated\app\Controllers\Export.php(2990): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined index...', 'F:\\xampp\\htdocs...', 2990, Array)
+#1 F:\xampp\htdocs\policy-master-updated\vendor\codeigniter4\framework\system\CodeIgniter.php(914): App\Controllers\Export->risknote('1')
+#2 F:\xampp\htdocs\policy-master-updated\vendor\codeigniter4\framework\system\CodeIgniter.php(400): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Export))
+#3 F:\xampp\htdocs\policy-master-updated\vendor\codeigniter4\framework\system\CodeIgniter.php(308): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 F:\xampp\htdocs\policy-master-updated\index.php(84): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2021-09-29 01:21:18 --> Undefined index: sum_insured
+#0 F:\xampp\htdocs\policy-master-updated\app\Controllers\Export.php(2990): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined index...', 'F:\\xampp\\htdocs...', 2990, Array)
+#1 F:\xampp\htdocs\policy-master-updated\vendor\codeigniter4\framework\system\CodeIgniter.php(914): App\Controllers\Export->risknote('1')
+#2 F:\xampp\htdocs\policy-master-updated\vendor\codeigniter4\framework\system\CodeIgniter.php(400): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Export))
+#3 F:\xampp\htdocs\policy-master-updated\vendor\codeigniter4\framework\system\CodeIgniter.php(308): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 F:\xampp\htdocs\policy-master-updated\index.php(84): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2021-09-29 01:21:45 --> Undefined index: sum_assured
+#0 F:\xampp\htdocs\policy-master-updated\app\Controllers\Export.php(2984): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined index...', 'F:\\xampp\\htdocs...', 2984, Array)
+#1 F:\xampp\htdocs\policy-master-updated\vendor\codeigniter4\framework\system\CodeIgniter.php(914): App\Controllers\Export->risknote('1')
+#2 F:\xampp\htdocs\policy-master-updated\vendor\codeigniter4\framework\system\CodeIgniter.php(400): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Export))
+#3 F:\xampp\htdocs\policy-master-updated\vendor\codeigniter4\framework\system\CodeIgniter.php(308): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 F:\xampp\htdocs\policy-master-updated\index.php(84): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2021-09-29 01:29:55 --> Unknown column 'quot_id' in 'where clause'
+#0 F:\xampp\htdocs\policy-master-updated\vendor\codeigniter4\framework\system\Database\MySQLi\Connection.php(331): mysqli->query('SELECT *\nFROM `...')
+#1 F:\xampp\htdocs\policy-master-updated\vendor\codeigniter4\framework\system\Database\BaseConnection.php(738): CodeIgniter\Database\MySQLi\Connection->execute('SELECT *\nFROM `...')
+#2 F:\xampp\htdocs\policy-master-updated\vendor\codeigniter4\framework\system\Database\BaseConnection.php(666): CodeIgniter\Database\BaseConnection->simpleQuery('SELECT *\nFROM `...')
+#3 F:\xampp\htdocs\policy-master-updated\vendor\codeigniter4\framework\system\Database\BaseBuilder.php(2004): CodeIgniter\Database\BaseConnection->query('SELECT *\nFROM `...', Array, false)
+#4 F:\xampp\htdocs\policy-master-updated\app\Controllers\Export.php(3233): CodeIgniter\Database\BaseBuilder->getWhere(Array)
+#5 F:\xampp\htdocs\policy-master-updated\vendor\codeigniter4\framework\system\CodeIgniter.php(914): App\Controllers\Export->debitnote('1')
+#6 F:\xampp\htdocs\policy-master-updated\vendor\codeigniter4\framework\system\CodeIgniter.php(400): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Export))
+#7 F:\xampp\htdocs\policy-master-updated\vendor\codeigniter4\framework\system\CodeIgniter.php(308): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#8 F:\xampp\htdocs\policy-master-updated\index.php(84): CodeIgniter\CodeIgniter->run()
+#9 {main}
+CRITICAL - 2021-09-29 01:31:09 --> Undefined index: description
+#0 F:\xampp\htdocs\policy-master-updated\app\Controllers\Export.php(3246): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined index...', 'F:\\xampp\\htdocs...', 3246, Array)
+#1 F:\xampp\htdocs\policy-master-updated\vendor\codeigniter4\framework\system\CodeIgniter.php(914): App\Controllers\Export->debitnote('1')
+#2 F:\xampp\htdocs\policy-master-updated\vendor\codeigniter4\framework\system\CodeIgniter.php(400): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Export))
+#3 F:\xampp\htdocs\policy-master-updated\vendor\codeigniter4\framework\system\CodeIgniter.php(308): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 F:\xampp\htdocs\policy-master-updated\index.php(84): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2021-09-29 01:32:01 --> Undefined index: sum_insured
+#0 F:\xampp\htdocs\policy-master-updated\app\Controllers\Export.php(3251): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined index...', 'F:\\xampp\\htdocs...', 3251, Array)
+#1 F:\xampp\htdocs\policy-master-updated\vendor\codeigniter4\framework\system\CodeIgniter.php(914): App\Controllers\Export->debitnote('1')
+#2 F:\xampp\htdocs\policy-master-updated\vendor\codeigniter4\framework\system\CodeIgniter.php(400): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Export))
+#3 F:\xampp\htdocs\policy-master-updated\vendor\codeigniter4\framework\system\CodeIgniter.php(308): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 F:\xampp\htdocs\policy-master-updated\index.php(84): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2021-09-29 01:36:15 --> Call to undefined method CodeIgniter\Database\MySQLi\Connection::select()
+#0 F:\xampp\htdocs\policy-master-updated\vendor\codeigniter4\framework\system\CodeIgniter.php(914): App\Controllers\Export->debitnote('1')
+#1 F:\xampp\htdocs\policy-master-updated\vendor\codeigniter4\framework\system\CodeIgniter.php(400): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Export))
+#2 F:\xampp\htdocs\policy-master-updated\vendor\codeigniter4\framework\system\CodeIgniter.php(308): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 F:\xampp\htdocs\policy-master-updated\index.php(84): CodeIgniter\CodeIgniter->run()
+#4 {main}
+CRITICAL - 2021-09-29 01:37:00 --> Call to undefined method CodeIgniter\Database\MySQLi\Connection::select()
+#0 F:\xampp\htdocs\policy-master-updated\vendor\codeigniter4\framework\system\CodeIgniter.php(914): App\Controllers\Export->debitnote('1')
+#1 F:\xampp\htdocs\policy-master-updated\vendor\codeigniter4\framework\system\CodeIgniter.php(400): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Export))
+#2 F:\xampp\htdocs\policy-master-updated\vendor\codeigniter4\framework\system\CodeIgniter.php(308): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 F:\xampp\htdocs\policy-master-updated\index.php(84): CodeIgniter\CodeIgniter->run()
+#4 {main}
+CRITICAL - 2021-09-29 01:40:47 --> Class 'App\Controllers\Model\LifeInsurancequotationModel' not found
+#0 F:\xampp\htdocs\policy-master-updated\vendor\codeigniter4\framework\system\CodeIgniter.php(914): App\Controllers\Export->debitnote('1')
+#1 F:\xampp\htdocs\policy-master-updated\vendor\codeigniter4\framework\system\CodeIgniter.php(400): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Export))
+#2 F:\xampp\htdocs\policy-master-updated\vendor\codeigniter4\framework\system\CodeIgniter.php(308): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 F:\xampp\htdocs\policy-master-updated\index.php(84): CodeIgniter\CodeIgniter->run()
+#4 {main}
+CRITICAL - 2021-09-29 01:41:06 --> Not unique table/alias: 'LifeInsurancequotationModel'
+#0 F:\xampp\htdocs\policy-master-updated\vendor\codeigniter4\framework\system\Database\MySQLi\Connection.php(331): mysqli->query('SELECT `LifeIns...')
+#1 F:\xampp\htdocs\policy-master-updated\vendor\codeigniter4\framework\system\Database\BaseConnection.php(738): CodeIgniter\Database\MySQLi\Connection->execute('SELECT `LifeIns...')
+#2 F:\xampp\htdocs\policy-master-updated\vendor\codeigniter4\framework\system\Database\BaseConnection.php(666): CodeIgniter\Database\BaseConnection->simpleQuery('SELECT `LifeIns...')
+#3 F:\xampp\htdocs\policy-master-updated\vendor\codeigniter4\framework\system\Database\BaseBuilder.php(1845): CodeIgniter\Database\BaseConnection->query('SELECT `LifeIns...', Array, false)
+#4 F:\xampp\htdocs\policy-master-updated\vendor\codeigniter4\framework\system\Model.php(445): CodeIgniter\Database\BaseBuilder->get()
+#5 F:\xampp\htdocs\policy-master-updated\app\Controllers\Export.php(3238): CodeIgniter\Model->findAll()
+#6 F:\xampp\htdocs\policy-master-updated\vendor\codeigniter4\framework\system\CodeIgniter.php(914): App\Controllers\Export->debitnote('1')
+#7 F:\xampp\htdocs\policy-master-updated\vendor\codeigniter4\framework\system\CodeIgniter.php(400): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Export))
+#8 F:\xampp\htdocs\policy-master-updated\vendor\codeigniter4\framework\system\CodeIgniter.php(308): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#9 F:\xampp\htdocs\policy-master-updated\index.php(84): CodeIgniter\CodeIgniter->run()
+#10 {main}
+CRITICAL - 2021-09-29 01:41:26 --> Not unique table/alias: 'LifeInsurancequotationModel'
+#0 F:\xampp\htdocs\policy-master-updated\vendor\codeigniter4\framework\system\Database\MySQLi\Connection.php(331): mysqli->query('SELECT `LifeIns...')
+#1 F:\xampp\htdocs\policy-master-updated\vendor\codeigniter4\framework\system\Database\BaseConnection.php(738): CodeIgniter\Database\MySQLi\Connection->execute('SELECT `LifeIns...')
+#2 F:\xampp\htdocs\policy-master-updated\vendor\codeigniter4\framework\system\Database\BaseConnection.php(666): CodeIgniter\Database\BaseConnection->simpleQuery('SELECT `LifeIns...')
+#3 F:\xampp\htdocs\policy-master-updated\vendor\codeigniter4\framework\system\Database\BaseBuilder.php(1845): CodeIgniter\Database\BaseConnection->query('SELECT `LifeIns...', Array, false)
+#4 F:\xampp\htdocs\policy-master-updated\vendor\codeigniter4\framework\system\Model.php(445): CodeIgniter\Database\BaseBuilder->get()
+#5 F:\xampp\htdocs\policy-master-updated\app\Controllers\Export.php(3238): CodeIgniter\Model->findAll()
+#6 F:\xampp\htdocs\policy-master-updated\vendor\codeigniter4\framework\system\CodeIgniter.php(914): App\Controllers\Export->debitnote('1')
+#7 F:\xampp\htdocs\policy-master-updated\vendor\codeigniter4\framework\system\CodeIgniter.php(400): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Export))
+#8 F:\xampp\htdocs\policy-master-updated\vendor\codeigniter4\framework\system\CodeIgniter.php(308): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#9 F:\xampp\htdocs\policy-master-updated\index.php(84): CodeIgniter\CodeIgniter->run()
+#10 {main}
+CRITICAL - 2021-09-29 01:42:29 --> Not unique table/alias: 'LifeInsurancequotationModel'
+#0 F:\xampp\htdocs\policy-master-updated\vendor\codeigniter4\framework\system\Database\MySQLi\Connection.php(331): mysqli->query('SELECT `LifeIns...')
+#1 F:\xampp\htdocs\policy-master-updated\vendor\codeigniter4\framework\system\Database\BaseConnection.php(738): CodeIgniter\Database\MySQLi\Connection->execute('SELECT `LifeIns...')
+#2 F:\xampp\htdocs\policy-master-updated\vendor\codeigniter4\framework\system\Database\BaseConnection.php(666): CodeIgniter\Database\BaseConnection->simpleQuery('SELECT `LifeIns...')
+#3 F:\xampp\htdocs\policy-master-updated\vendor\codeigniter4\framework\system\Database\BaseBuilder.php(1845): CodeIgniter\Database\BaseConnection->query('SELECT `LifeIns...', Array, false)
+#4 F:\xampp\htdocs\policy-master-updated\vendor\codeigniter4\framework\system\Model.php(445): CodeIgniter\Database\BaseBuilder->get()
+#5 F:\xampp\htdocs\policy-master-updated\app\Controllers\Export.php(3238): CodeIgniter\Model->findAll()
+#6 F:\xampp\htdocs\policy-master-updated\vendor\codeigniter4\framework\system\CodeIgniter.php(914): App\Controllers\Export->debitnote('1')
+#7 F:\xampp\htdocs\policy-master-updated\vendor\codeigniter4\framework\system\CodeIgniter.php(400): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Export))
+#8 F:\xampp\htdocs\policy-master-updated\vendor\codeigniter4\framework\system\CodeIgniter.php(308): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#9 F:\xampp\htdocs\policy-master-updated\index.php(84): CodeIgniter\CodeIgniter->run()
+#10 {main}
+CRITICAL - 2021-09-29 01:43:37 --> Not unique table/alias: 'LifeInsurancequotationModel'
+#0 F:\xampp\htdocs\policy-master-updated\vendor\codeigniter4\framework\system\Database\MySQLi\Connection.php(331): mysqli->query('SELECT `LifeIns...')
+#1 F:\xampp\htdocs\policy-master-updated\vendor\codeigniter4\framework\system\Database\BaseConnection.php(738): CodeIgniter\Database\MySQLi\Connection->execute('SELECT `LifeIns...')
+#2 F:\xampp\htdocs\policy-master-updated\vendor\codeigniter4\framework\system\Database\BaseConnection.php(666): CodeIgniter\Database\BaseConnection->simpleQuery('SELECT `LifeIns...')
+#3 F:\xampp\htdocs\policy-master-updated\vendor\codeigniter4\framework\system\Database\BaseBuilder.php(1845): CodeIgniter\Database\BaseConnection->query('SELECT `LifeIns...', Array, false)
+#4 F:\xampp\htdocs\policy-master-updated\vendor\codeigniter4\framework\system\Model.php(445): CodeIgniter\Database\BaseBuilder->get()
+#5 F:\xampp\htdocs\policy-master-updated\app\Controllers\Export.php(3238): CodeIgniter\Model->findAll()
+#6 F:\xampp\htdocs\policy-master-updated\vendor\codeigniter4\framework\system\CodeIgniter.php(914): App\Controllers\Export->debitnote('1')
+#7 F:\xampp\htdocs\policy-master-updated\vendor\codeigniter4\framework\system\CodeIgniter.php(400): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Export))
+#8 F:\xampp\htdocs\policy-master-updated\vendor\codeigniter4\framework\system\CodeIgniter.php(308): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#9 F:\xampp\htdocs\policy-master-updated\index.php(84): CodeIgniter\CodeIgniter->run()
+#10 {main}
+CRITICAL - 2021-09-29 01:44:13 --> Not unique table/alias: 'LifeInsurancequotationModel'
+#0 F:\xampp\htdocs\policy-master-updated\vendor\codeigniter4\framework\system\Database\MySQLi\Connection.php(331): mysqli->query('SELECT `LifeIns...')
+#1 F:\xampp\htdocs\policy-master-updated\vendor\codeigniter4\framework\system\Database\BaseConnection.php(738): CodeIgniter\Database\MySQLi\Connection->execute('SELECT `LifeIns...')
+#2 F:\xampp\htdocs\policy-master-updated\vendor\codeigniter4\framework\system\Database\BaseConnection.php(666): CodeIgniter\Database\BaseConnection->simpleQuery('SELECT `LifeIns...')
+#3 F:\xampp\htdocs\policy-master-updated\vendor\codeigniter4\framework\system\Database\BaseBuilder.php(1845): CodeIgniter\Database\BaseConnection->query('SELECT `LifeIns...', Array, false)
+#4 F:\xampp\htdocs\policy-master-updated\vendor\codeigniter4\framework\system\Model.php(445): CodeIgniter\Database\BaseBuilder->get()
+#5 F:\xampp\htdocs\policy-master-updated\app\Controllers\Export.php(3238): CodeIgniter\Model->findAll()
+#6 F:\xampp\htdocs\policy-master-updated\vendor\codeigniter4\framework\system\CodeIgniter.php(914): App\Controllers\Export->debitnote('1')
+#7 F:\xampp\htdocs\policy-master-updated\vendor\codeigniter4\framework\system\CodeIgniter.php(400): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Export))
+#8 F:\xampp\htdocs\policy-master-updated\vendor\codeigniter4\framework\system\CodeIgniter.php(308): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#9 F:\xampp\htdocs\policy-master-updated\index.php(84): CodeIgniter\CodeIgniter->run()
+#10 {main}
+CRITICAL - 2021-09-29 01:46:08 --> Undefined variable: res1
+#0 F:\xampp\htdocs\policy-master-updated\app\Controllers\Export.php(3243): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined varia...', 'F:\\xampp\\htdocs...', 3243, Array)
+#1 F:\xampp\htdocs\policy-master-updated\vendor\codeigniter4\framework\system\CodeIgniter.php(914): App\Controllers\Export->debitnote('1')
+#2 F:\xampp\htdocs\policy-master-updated\vendor\codeigniter4\framework\system\CodeIgniter.php(400): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Export))
+#3 F:\xampp\htdocs\policy-master-updated\vendor\codeigniter4\framework\system\CodeIgniter.php(308): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 F:\xampp\htdocs\policy-master-updated\index.php(84): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2021-09-29 01:46:21 --> Undefined index: sum_insured
+#0 F:\xampp\htdocs\policy-master-updated\app\Controllers\Export.php(3249): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined index...', 'F:\\xampp\\htdocs...', 3249, Array)
+#1 F:\xampp\htdocs\policy-master-updated\vendor\codeigniter4\framework\system\CodeIgniter.php(914): App\Controllers\Export->debitnote('1')
+#2 F:\xampp\htdocs\policy-master-updated\vendor\codeigniter4\framework\system\CodeIgniter.php(400): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Export))
+#3 F:\xampp\htdocs\policy-master-updated\vendor\codeigniter4\framework\system\CodeIgniter.php(308): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 F:\xampp\htdocs\policy-master-updated\index.php(84): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2021-09-29 01:51:13 --> Undefined index: total_premium
+#0 F:\xampp\htdocs\policy-master-updated\app\Controllers\Export.php(3252): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined index...', 'F:\\xampp\\htdocs...', 3252, Array)
+#1 F:\xampp\htdocs\policy-master-updated\vendor\codeigniter4\framework\system\CodeIgniter.php(914): App\Controllers\Export->debitnote('1')
+#2 F:\xampp\htdocs\policy-master-updated\vendor\codeigniter4\framework\system\CodeIgniter.php(400): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Export))
+#3 F:\xampp\htdocs\policy-master-updated\vendor\codeigniter4\framework\system\CodeIgniter.php(308): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 F:\xampp\htdocs\policy-master-updated\index.php(84): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2021-09-29 01:51:20 --> Undefined index: sum_insured
+#0 F:\xampp\htdocs\policy-master-updated\app\Controllers\Export.php(3255): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined index...', 'F:\\xampp\\htdocs...', 3255, Array)
+#1 F:\xampp\htdocs\policy-master-updated\vendor\codeigniter4\framework\system\CodeIgniter.php(914): App\Controllers\Export->debitnote('1')
+#2 F:\xampp\htdocs\policy-master-updated\vendor\codeigniter4\framework\system\CodeIgniter.php(400): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Export))
+#3 F:\xampp\htdocs\policy-master-updated\vendor\codeigniter4\framework\system\CodeIgniter.php(308): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 F:\xampp\htdocs\policy-master-updated\index.php(84): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2021-09-29 01:51:32 --> Undefined index: total_premium
+#0 F:\xampp\htdocs\policy-master-updated\app\Controllers\Export.php(3256): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined index...', 'F:\\xampp\\htdocs...', 3256, Array)
+#1 F:\xampp\htdocs\policy-master-updated\vendor\codeigniter4\framework\system\CodeIgniter.php(914): App\Controllers\Export->debitnote('1')
+#2 F:\xampp\htdocs\policy-master-updated\vendor\codeigniter4\framework\system\CodeIgniter.php(400): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Export))
+#3 F:\xampp\htdocs\policy-master-updated\vendor\codeigniter4\framework\system\CodeIgniter.php(308): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 F:\xampp\htdocs\policy-master-updated\index.php(84): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2021-09-29 01:52:38 --> Undefined index: id
+#0 F:\xampp\htdocs\policy-master-updated\app\Controllers\Quotation.php(1207): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined index...', 'F:\\xampp\\htdocs...', 1207, Array)
+#1 F:\xampp\htdocs\policy-master-updated\vendor\codeigniter4\framework\system\CodeIgniter.php(914): App\Controllers\Quotation->get_lifequotationsecondtb()
+#2 F:\xampp\htdocs\policy-master-updated\vendor\codeigniter4\framework\system\CodeIgniter.php(400): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Quotation))
+#3 F:\xampp\htdocs\policy-master-updated\vendor\codeigniter4\framework\system\CodeIgniter.php(308): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 F:\xampp\htdocs\policy-master-updated\index.php(84): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2021-09-29 02:14:34 --> Undefined index: id
+#0 F:\xampp\htdocs\policy-master-updated\app\Controllers\Quotation.php(1207): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined index...', 'F:\\xampp\\htdocs...', 1207, Array)
+#1 F:\xampp\htdocs\policy-master-updated\vendor\codeigniter4\framework\system\CodeIgniter.php(914): App\Controllers\Quotation->get_lifequotationsecondtb()
+#2 F:\xampp\htdocs\policy-master-updated\vendor\codeigniter4\framework\system\CodeIgniter.php(400): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Quotation))
+#3 F:\xampp\htdocs\policy-master-updated\vendor\codeigniter4\framework\system\CodeIgniter.php(308): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 F:\xampp\htdocs\policy-master-updated\index.php(84): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2021-09-29 02:15:17 --> Undefined index: id
+#0 F:\xampp\htdocs\policy-master-updated\app\Controllers\Quotation.php(1207): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined index...', 'F:\\xampp\\htdocs...', 1207, Array)
+#1 F:\xampp\htdocs\policy-master-updated\vendor\codeigniter4\framework\system\CodeIgniter.php(914): App\Controllers\Quotation->get_lifequotationsecondtb()
+#2 F:\xampp\htdocs\policy-master-updated\vendor\codeigniter4\framework\system\CodeIgniter.php(400): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Quotation))
+#3 F:\xampp\htdocs\policy-master-updated\vendor\codeigniter4\framework\system\CodeIgniter.php(308): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 F:\xampp\htdocs\policy-master-updated\index.php(84): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2021-09-29 02:17:46 --> Undefined index: id
+#0 F:\xampp\htdocs\policy-master-updated\app\Controllers\Quotation.php(1207): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined index...', 'F:\\xampp\\htdocs...', 1207, Array)
+#1 F:\xampp\htdocs\policy-master-updated\vendor\codeigniter4\framework\system\CodeIgniter.php(914): App\Controllers\Quotation->get_lifequotationsecondtb()
+#2 F:\xampp\htdocs\policy-master-updated\vendor\codeigniter4\framework\system\CodeIgniter.php(400): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Quotation))
+#3 F:\xampp\htdocs\policy-master-updated\vendor\codeigniter4\framework\system\CodeIgniter.php(308): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 F:\xampp\htdocs\policy-master-updated\index.php(84): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2021-09-29 02:22:19 --> Undefined index: id
+#0 F:\xampp\htdocs\policy-master-updated\app\Controllers\Quotation.php(1207): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined index...', 'F:\\xampp\\htdocs...', 1207, Array)
+#1 F:\xampp\htdocs\policy-master-updated\vendor\codeigniter4\framework\system\CodeIgniter.php(914): App\Controllers\Quotation->get_lifequotationsecondtb()
+#2 F:\xampp\htdocs\policy-master-updated\vendor\codeigniter4\framework\system\CodeIgniter.php(400): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Quotation))
+#3 F:\xampp\htdocs\policy-master-updated\vendor\codeigniter4\framework\system\CodeIgniter.php(308): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 F:\xampp\htdocs\policy-master-updated\index.php(84): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2021-09-29 02:22:38 --> Undefined index: id
+#0 F:\xampp\htdocs\policy-master-updated\app\Controllers\Quotation.php(1207): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined index...', 'F:\\xampp\\htdocs...', 1207, Array)
+#1 F:\xampp\htdocs\policy-master-updated\vendor\codeigniter4\framework\system\CodeIgniter.php(914): App\Controllers\Quotation->get_lifequotationsecondtb()
+#2 F:\xampp\htdocs\policy-master-updated\vendor\codeigniter4\framework\system\CodeIgniter.php(400): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Quotation))
+#3 F:\xampp\htdocs\policy-master-updated\vendor\codeigniter4\framework\system\CodeIgniter.php(308): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 F:\xampp\htdocs\policy-master-updated\index.php(84): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2021-09-29 03:58:06 --> Undefined index: id
+#0 F:\xampp\htdocs\policy-master-updated\app\Controllers\Quotation.php(1207): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined index...', 'F:\\xampp\\htdocs...', 1207, Array)
+#1 F:\xampp\htdocs\policy-master-updated\vendor\codeigniter4\framework\system\CodeIgniter.php(914): App\Controllers\Quotation->get_lifequotationsecondtb()
+#2 F:\xampp\htdocs\policy-master-updated\vendor\codeigniter4\framework\system\CodeIgniter.php(400): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Quotation))
+#3 F:\xampp\htdocs\policy-master-updated\vendor\codeigniter4\framework\system\CodeIgniter.php(308): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 F:\xampp\htdocs\policy-master-updated\index.php(84): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2021-09-29 03:58:31 --> Undefined index: id
+#0 F:\xampp\htdocs\policy-master-updated\app\Controllers\Quotation.php(1207): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined index...', 'F:\\xampp\\htdocs...', 1207, Array)
+#1 F:\xampp\htdocs\policy-master-updated\vendor\codeigniter4\framework\system\CodeIgniter.php(914): App\Controllers\Quotation->get_lifequotationsecondtb()
+#2 F:\xampp\htdocs\policy-master-updated\vendor\codeigniter4\framework\system\CodeIgniter.php(400): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Quotation))
+#3 F:\xampp\htdocs\policy-master-updated\vendor\codeigniter4\framework\system\CodeIgniter.php(308): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 F:\xampp\htdocs\policy-master-updated\index.php(84): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2021-09-29 03:58:38 --> Undefined index: id
+#0 F:\xampp\htdocs\policy-master-updated\app\Controllers\Quotation.php(1207): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined index...', 'F:\\xampp\\htdocs...', 1207, Array)
+#1 F:\xampp\htdocs\policy-master-updated\vendor\codeigniter4\framework\system\CodeIgniter.php(914): App\Controllers\Quotation->get_lifequotationsecondtb()
+#2 F:\xampp\htdocs\policy-master-updated\vendor\codeigniter4\framework\system\CodeIgniter.php(400): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Quotation))
+#3 F:\xampp\htdocs\policy-master-updated\vendor\codeigniter4\framework\system\CodeIgniter.php(308): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 F:\xampp\htdocs\policy-master-updated\index.php(84): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2021-09-29 03:58:59 --> Undefined index: id
+#0 F:\xampp\htdocs\policy-master-updated\app\Controllers\Quotation.php(1207): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined index...', 'F:\\xampp\\htdocs...', 1207, Array)
+#1 F:\xampp\htdocs\policy-master-updated\vendor\codeigniter4\framework\system\CodeIgniter.php(914): App\Controllers\Quotation->get_lifequotationsecondtb()
+#2 F:\xampp\htdocs\policy-master-updated\vendor\codeigniter4\framework\system\CodeIgniter.php(400): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Quotation))
+#3 F:\xampp\htdocs\policy-master-updated\vendor\codeigniter4\framework\system\CodeIgniter.php(308): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 F:\xampp\htdocs\policy-master-updated\index.php(84): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2021-09-29 03:59:03 --> Undefined index: id
+#0 F:\xampp\htdocs\policy-master-updated\app\Controllers\Quotation.php(1207): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined index...', 'F:\\xampp\\htdocs...', 1207, Array)
+#1 F:\xampp\htdocs\policy-master-updated\vendor\codeigniter4\framework\system\CodeIgniter.php(914): App\Controllers\Quotation->get_lifequotationsecondtb()
+#2 F:\xampp\htdocs\policy-master-updated\vendor\codeigniter4\framework\system\CodeIgniter.php(400): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Quotation))
+#3 F:\xampp\htdocs\policy-master-updated\vendor\codeigniter4\framework\system\CodeIgniter.php(308): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 F:\xampp\htdocs\policy-master-updated\index.php(84): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2021-09-29 04:03:02 --> Undefined index: id
+#0 F:\xampp\htdocs\policy-master-updated\app\Controllers\Quotation.php(1207): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined index...', 'F:\\xampp\\htdocs...', 1207, Array)
+#1 F:\xampp\htdocs\policy-master-updated\vendor\codeigniter4\framework\system\CodeIgniter.php(914): App\Controllers\Quotation->get_lifequotationsecondtb()
+#2 F:\xampp\htdocs\policy-master-updated\vendor\codeigniter4\framework\system\CodeIgniter.php(400): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Quotation))
+#3 F:\xampp\htdocs\policy-master-updated\vendor\codeigniter4\framework\system\CodeIgniter.php(308): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 F:\xampp\htdocs\policy-master-updated\index.php(84): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2021-09-29 04:07:03 --> Undefined index: id
+#0 F:\xampp\htdocs\policy-master-updated\app\Controllers\Quotation.php(1207): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined index...', 'F:\\xampp\\htdocs...', 1207, Array)
+#1 F:\xampp\htdocs\policy-master-updated\vendor\codeigniter4\framework\system\CodeIgniter.php(914): App\Controllers\Quotation->get_lifequotationsecondtb()
+#2 F:\xampp\htdocs\policy-master-updated\vendor\codeigniter4\framework\system\CodeIgniter.php(400): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Quotation))
+#3 F:\xampp\htdocs\policy-master-updated\vendor\codeigniter4\framework\system\CodeIgniter.php(308): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 F:\xampp\htdocs\policy-master-updated\index.php(84): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2021-09-29 04:07:43 --> Undefined index: id
+#0 F:\xampp\htdocs\policy-master-updated\app\Controllers\Quotation.php(1207): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined index...', 'F:\\xampp\\htdocs...', 1207, Array)
+#1 F:\xampp\htdocs\policy-master-updated\vendor\codeigniter4\framework\system\CodeIgniter.php(914): App\Controllers\Quotation->get_lifequotationsecondtb()
+#2 F:\xampp\htdocs\policy-master-updated\vendor\codeigniter4\framework\system\CodeIgniter.php(400): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Quotation))
+#3 F:\xampp\htdocs\policy-master-updated\vendor\codeigniter4\framework\system\CodeIgniter.php(308): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 F:\xampp\htdocs\policy-master-updated\index.php(84): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2021-09-29 04:21:35 --> Undefined index: id
+#0 F:\xampp\htdocs\policy-master-updated\app\Controllers\Quotation.php(1207): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined index...', 'F:\\xampp\\htdocs...', 1207, Array)
+#1 F:\xampp\htdocs\policy-master-updated\vendor\codeigniter4\framework\system\CodeIgniter.php(914): App\Controllers\Quotation->get_lifequotationsecondtb()
+#2 F:\xampp\htdocs\policy-master-updated\vendor\codeigniter4\framework\system\CodeIgniter.php(400): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Quotation))
+#3 F:\xampp\htdocs\policy-master-updated\vendor\codeigniter4\framework\system\CodeIgniter.php(308): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 F:\xampp\htdocs\policy-master-updated\index.php(84): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2021-09-29 04:21:47 --> Undefined index: id
+#0 F:\xampp\htdocs\policy-master-updated\app\Controllers\Quotation.php(1207): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined index...', 'F:\\xampp\\htdocs...', 1207, Array)
+#1 F:\xampp\htdocs\policy-master-updated\vendor\codeigniter4\framework\system\CodeIgniter.php(914): App\Controllers\Quotation->get_lifequotationsecondtb()
+#2 F:\xampp\htdocs\policy-master-updated\vendor\codeigniter4\framework\system\CodeIgniter.php(400): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Quotation))
+#3 F:\xampp\htdocs\policy-master-updated\vendor\codeigniter4\framework\system\CodeIgniter.php(308): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 F:\xampp\htdocs\policy-master-updated\index.php(84): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2021-09-29 04:22:00 --> Undefined index: id
+#0 F:\xampp\htdocs\policy-master-updated\app\Controllers\Quotation.php(1207): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined index...', 'F:\\xampp\\htdocs...', 1207, Array)
+#1 F:\xampp\htdocs\policy-master-updated\vendor\codeigniter4\framework\system\CodeIgniter.php(914): App\Controllers\Quotation->get_lifequotationsecondtb()
+#2 F:\xampp\htdocs\policy-master-updated\vendor\codeigniter4\framework\system\CodeIgniter.php(400): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Quotation))
+#3 F:\xampp\htdocs\policy-master-updated\vendor\codeigniter4\framework\system\CodeIgniter.php(308): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 F:\xampp\htdocs\policy-master-updated\index.php(84): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2021-09-29 04:31:51 --> Undefined index: id
+#0 F:\xampp\htdocs\policy-master-updated\app\Controllers\Quotation.php(1207): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined index...', 'F:\\xampp\\htdocs...', 1207, Array)
+#1 F:\xampp\htdocs\policy-master-updated\vendor\codeigniter4\framework\system\CodeIgniter.php(914): App\Controllers\Quotation->get_lifequotationsecondtb()
+#2 F:\xampp\htdocs\policy-master-updated\vendor\codeigniter4\framework\system\CodeIgniter.php(400): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Quotation))
+#3 F:\xampp\htdocs\policy-master-updated\vendor\codeigniter4\framework\system\CodeIgniter.php(308): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 F:\xampp\htdocs\policy-master-updated\index.php(84): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2021-09-29 05:03:48 --> Undefined index: quot_id
+#0 F:\xampp\htdocs\policy-master-updated\app\Controllers\Quotation.php(1330): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined index...', 'F:\\xampp\\htdocs...', 1330, Array)
+#1 F:\xampp\htdocs\policy-master-updated\vendor\codeigniter4\framework\system\CodeIgniter.php(914): App\Controllers\Quotation->calculation()
+#2 F:\xampp\htdocs\policy-master-updated\vendor\codeigniter4\framework\system\CodeIgniter.php(400): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Quotation))
+#3 F:\xampp\htdocs\policy-master-updated\vendor\codeigniter4\framework\system\CodeIgniter.php(308): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 F:\xampp\htdocs\policy-master-updated\index.php(84): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2021-09-29 05:05:53 --> Undefined index: quot_id
+#0 F:\xampp\htdocs\policy-master-updated\app\Controllers\Quotation.php(1330): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined index...', 'F:\\xampp\\htdocs...', 1330, Array)
+#1 F:\xampp\htdocs\policy-master-updated\vendor\codeigniter4\framework\system\CodeIgniter.php(914): App\Controllers\Quotation->calculation()
+#2 F:\xampp\htdocs\policy-master-updated\vendor\codeigniter4\framework\system\CodeIgniter.php(400): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Quotation))
+#3 F:\xampp\htdocs\policy-master-updated\vendor\codeigniter4\framework\system\CodeIgniter.php(308): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 F:\xampp\htdocs\policy-master-updated\index.php(84): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2021-09-29 05:15:01 --> Undefined index: quot_id
+#0 F:\xampp\htdocs\policy-master-updated\app\Controllers\Quotation.php(1330): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined index...', 'F:\\xampp\\htdocs...', 1330, Array)
+#1 F:\xampp\htdocs\policy-master-updated\vendor\codeigniter4\framework\system\CodeIgniter.php(914): App\Controllers\Quotation->calculation()
+#2 F:\xampp\htdocs\policy-master-updated\vendor\codeigniter4\framework\system\CodeIgniter.php(400): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Quotation))
+#3 F:\xampp\htdocs\policy-master-updated\vendor\codeigniter4\framework\system\CodeIgniter.php(308): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 F:\xampp\htdocs\policy-master-updated\index.php(84): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2021-09-29 05:17:20 --> Undefined index: quot_id
+#0 F:\xampp\htdocs\policy-master-updated\app\Controllers\Quotation.php(1330): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined index...', 'F:\\xampp\\htdocs...', 1330, Array)
+#1 F:\xampp\htdocs\policy-master-updated\vendor\codeigniter4\framework\system\CodeIgniter.php(914): App\Controllers\Quotation->calculation()
+#2 F:\xampp\htdocs\policy-master-updated\vendor\codeigniter4\framework\system\CodeIgniter.php(400): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Quotation))
+#3 F:\xampp\htdocs\policy-master-updated\vendor\codeigniter4\framework\system\CodeIgniter.php(308): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 F:\xampp\htdocs\policy-master-updated\index.php(84): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2021-09-29 05:17:56 --> Undefined variable: insert
+#0 F:\xampp\htdocs\policy-master-updated\app\Controllers\Quotation.php(1330): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined varia...', 'F:\\xampp\\htdocs...', 1330, Array)
+#1 F:\xampp\htdocs\policy-master-updated\vendor\codeigniter4\framework\system\CodeIgniter.php(914): App\Controllers\Quotation->calculation()
+#2 F:\xampp\htdocs\policy-master-updated\vendor\codeigniter4\framework\system\CodeIgniter.php(400): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Quotation))
+#3 F:\xampp\htdocs\policy-master-updated\vendor\codeigniter4\framework\system\CodeIgniter.php(308): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 F:\xampp\htdocs\policy-master-updated\index.php(84): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2021-09-29 05:21:23 --> Undefined variable: insert
+#0 F:\xampp\htdocs\policy-master-updated\app\Controllers\Quotation.php(1330): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined varia...', 'F:\\xampp\\htdocs...', 1330, Array)
+#1 F:\xampp\htdocs\policy-master-updated\vendor\codeigniter4\framework\system\CodeIgniter.php(914): App\Controllers\Quotation->calculation()
+#2 F:\xampp\htdocs\policy-master-updated\vendor\codeigniter4\framework\system\CodeIgniter.php(400): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Quotation))
+#3 F:\xampp\htdocs\policy-master-updated\vendor\codeigniter4\framework\system\CodeIgniter.php(308): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 F:\xampp\htdocs\policy-master-updated\index.php(84): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2021-09-29 05:23:33 --> Undefined variable: insert
+#0 F:\xampp\htdocs\policy-master-updated\app\Controllers\Quotation.php(1330): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined varia...', 'F:\\xampp\\htdocs...', 1330, Array)
+#1 F:\xampp\htdocs\policy-master-updated\vendor\codeigniter4\framework\system\CodeIgniter.php(914): App\Controllers\Quotation->calculation()
+#2 F:\xampp\htdocs\policy-master-updated\vendor\codeigniter4\framework\system\CodeIgniter.php(400): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Quotation))
+#3 F:\xampp\htdocs\policy-master-updated\vendor\codeigniter4\framework\system\CodeIgniter.php(308): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 F:\xampp\htdocs\policy-master-updated\index.php(84): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2021-09-29 05:25:30 --> Undefined variable: insert
+#0 F:\xampp\htdocs\policy-master-updated\app\Controllers\Quotation.php(1330): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined varia...', 'F:\\xampp\\htdocs...', 1330, Array)
+#1 F:\xampp\htdocs\policy-master-updated\vendor\codeigniter4\framework\system\CodeIgniter.php(914): App\Controllers\Quotation->calculation()
+#2 F:\xampp\htdocs\policy-master-updated\vendor\codeigniter4\framework\system\CodeIgniter.php(400): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Quotation))
+#3 F:\xampp\htdocs\policy-master-updated\vendor\codeigniter4\framework\system\CodeIgniter.php(308): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 F:\xampp\htdocs\policy-master-updated\index.php(84): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2021-09-29 05:25:40 --> Undefined variable: insert
+#0 F:\xampp\htdocs\policy-master-updated\app\Controllers\Quotation.php(1330): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined varia...', 'F:\\xampp\\htdocs...', 1330, Array)
+#1 F:\xampp\htdocs\policy-master-updated\vendor\codeigniter4\framework\system\CodeIgniter.php(914): App\Controllers\Quotation->calculation()
+#2 F:\xampp\htdocs\policy-master-updated\vendor\codeigniter4\framework\system\CodeIgniter.php(400): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Quotation))
+#3 F:\xampp\htdocs\policy-master-updated\vendor\codeigniter4\framework\system\CodeIgniter.php(308): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 F:\xampp\htdocs\policy-master-updated\index.php(84): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2021-09-29 05:25:41 --> Undefined variable: insert
+#0 F:\xampp\htdocs\policy-master-updated\app\Controllers\Quotation.php(1330): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined varia...', 'F:\\xampp\\htdocs...', 1330, Array)
+#1 F:\xampp\htdocs\policy-master-updated\vendor\codeigniter4\framework\system\CodeIgniter.php(914): App\Controllers\Quotation->calculation()
+#2 F:\xampp\htdocs\policy-master-updated\vendor\codeigniter4\framework\system\CodeIgniter.php(400): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Quotation))
+#3 F:\xampp\htdocs\policy-master-updated\vendor\codeigniter4\framework\system\CodeIgniter.php(308): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 F:\xampp\htdocs\policy-master-updated\index.php(84): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2021-09-29 05:25:41 --> Undefined variable: insert
+#0 F:\xampp\htdocs\policy-master-updated\app\Controllers\Quotation.php(1330): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined varia...', 'F:\\xampp\\htdocs...', 1330, Array)
+#1 F:\xampp\htdocs\policy-master-updated\vendor\codeigniter4\framework\system\CodeIgniter.php(914): App\Controllers\Quotation->calculation()
+#2 F:\xampp\htdocs\policy-master-updated\vendor\codeigniter4\framework\system\CodeIgniter.php(400): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Quotation))
+#3 F:\xampp\htdocs\policy-master-updated\vendor\codeigniter4\framework\system\CodeIgniter.php(308): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 F:\xampp\htdocs\policy-master-updated\index.php(84): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2021-09-29 05:25:59 --> Undefined variable: insert
+#0 F:\xampp\htdocs\policy-master-updated\app\Controllers\Quotation.php(1330): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined varia...', 'F:\\xampp\\htdocs...', 1330, Array)
+#1 F:\xampp\htdocs\policy-master-updated\vendor\codeigniter4\framework\system\CodeIgniter.php(914): App\Controllers\Quotation->calculation()
+#2 F:\xampp\htdocs\policy-master-updated\vendor\codeigniter4\framework\system\CodeIgniter.php(400): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Quotation))
+#3 F:\xampp\htdocs\policy-master-updated\vendor\codeigniter4\framework\system\CodeIgniter.php(308): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 F:\xampp\htdocs\policy-master-updated\index.php(84): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2021-09-29 05:27:32 --> Undefined index: quot_id
+#0 F:\xampp\htdocs\policy-master-updated\app\Controllers\Quotation.php(1330): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined index...', 'F:\\xampp\\htdocs...', 1330, Array)
+#1 F:\xampp\htdocs\policy-master-updated\vendor\codeigniter4\framework\system\CodeIgniter.php(914): App\Controllers\Quotation->calculation()
+#2 F:\xampp\htdocs\policy-master-updated\vendor\codeigniter4\framework\system\CodeIgniter.php(400): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Quotation))
+#3 F:\xampp\htdocs\policy-master-updated\vendor\codeigniter4\framework\system\CodeIgniter.php(308): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 F:\xampp\htdocs\policy-master-updated\index.php(84): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2021-09-29 05:27:52 --> Undefined variable: insert
+#0 F:\xampp\htdocs\policy-master-updated\app\Controllers\Quotation.php(1330): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined varia...', 'F:\\xampp\\htdocs...', 1330, Array)
+#1 F:\xampp\htdocs\policy-master-updated\vendor\codeigniter4\framework\system\CodeIgniter.php(914): App\Controllers\Quotation->calculation()
+#2 F:\xampp\htdocs\policy-master-updated\vendor\codeigniter4\framework\system\CodeIgniter.php(400): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Quotation))
+#3 F:\xampp\htdocs\policy-master-updated\vendor\codeigniter4\framework\system\CodeIgniter.php(308): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 F:\xampp\htdocs\policy-master-updated\index.php(84): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2021-09-29 05:33:51 --> Undefined variable: insert
+#0 F:\xampp\htdocs\policy-master-updated\app\Controllers\Quotation.php(1330): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined varia...', 'F:\\xampp\\htdocs...', 1330, Array)
+#1 F:\xampp\htdocs\policy-master-updated\vendor\codeigniter4\framework\system\CodeIgniter.php(914): App\Controllers\Quotation->calculation()
+#2 F:\xampp\htdocs\policy-master-updated\vendor\codeigniter4\framework\system\CodeIgniter.php(400): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Quotation))
+#3 F:\xampp\htdocs\policy-master-updated\vendor\codeigniter4\framework\system\CodeIgniter.php(308): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 F:\xampp\htdocs\policy-master-updated\index.php(84): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2021-09-29 05:37:19 --> Undefined index: quot_id
+#0 F:\xampp\htdocs\policy-master-updated\app\Controllers\Quotation.php(1330): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined index...', 'F:\\xampp\\htdocs...', 1330, Array)
+#1 F:\xampp\htdocs\policy-master-updated\vendor\codeigniter4\framework\system\CodeIgniter.php(914): App\Controllers\Quotation->calculation()
+#2 F:\xampp\htdocs\policy-master-updated\vendor\codeigniter4\framework\system\CodeIgniter.php(400): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Quotation))
+#3 F:\xampp\htdocs\policy-master-updated\vendor\codeigniter4\framework\system\CodeIgniter.php(308): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 F:\xampp\htdocs\policy-master-updated\index.php(84): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2021-09-29 05:58:40 --> Undefined index: quot_id
+#0 F:\xampp\htdocs\policy-master-updated\app\Controllers\Quotation.php(1330): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined index...', 'F:\\xampp\\htdocs...', 1330, Array)
+#1 F:\xampp\htdocs\policy-master-updated\vendor\codeigniter4\framework\system\CodeIgniter.php(914): App\Controllers\Quotation->calculation()
+#2 F:\xampp\htdocs\policy-master-updated\vendor\codeigniter4\framework\system\CodeIgniter.php(400): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Quotation))
+#3 F:\xampp\htdocs\policy-master-updated\vendor\codeigniter4\framework\system\CodeIgniter.php(308): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 F:\xampp\htdocs\policy-master-updated\index.php(84): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2021-09-29 05:59:42 --> Undefined index: quot_id
+#0 F:\xampp\htdocs\policy-master-updated\app\Controllers\Quotation.php(1330): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined index...', 'F:\\xampp\\htdocs...', 1330, Array)
+#1 F:\xampp\htdocs\policy-master-updated\vendor\codeigniter4\framework\system\CodeIgniter.php(914): App\Controllers\Quotation->calculation()
+#2 F:\xampp\htdocs\policy-master-updated\vendor\codeigniter4\framework\system\CodeIgniter.php(400): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Quotation))
+#3 F:\xampp\htdocs\policy-master-updated\vendor\codeigniter4\framework\system\CodeIgniter.php(308): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 F:\xampp\htdocs\policy-master-updated\index.php(84): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2021-09-29 06:01:01 --> Undefined index: quot_id
+#0 F:\xampp\htdocs\policy-master-updated\app\Controllers\Quotation.php(1330): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined index...', 'F:\\xampp\\htdocs...', 1330, Array)
+#1 F:\xampp\htdocs\policy-master-updated\vendor\codeigniter4\framework\system\CodeIgniter.php(914): App\Controllers\Quotation->calculation()
+#2 F:\xampp\htdocs\policy-master-updated\vendor\codeigniter4\framework\system\CodeIgniter.php(400): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Quotation))
+#3 F:\xampp\htdocs\policy-master-updated\vendor\codeigniter4\framework\system\CodeIgniter.php(308): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 F:\xampp\htdocs\policy-master-updated\index.php(84): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2021-09-29 06:02:11 --> Undefined index: quot_id
+#0 F:\xampp\htdocs\policy-master-updated\app\Controllers\Quotation.php(1330): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined index...', 'F:\\xampp\\htdocs...', 1330, Array)
+#1 F:\xampp\htdocs\policy-master-updated\vendor\codeigniter4\framework\system\CodeIgniter.php(914): App\Controllers\Quotation->calculation()
+#2 F:\xampp\htdocs\policy-master-updated\vendor\codeigniter4\framework\system\CodeIgniter.php(400): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Quotation))
+#3 F:\xampp\htdocs\policy-master-updated\vendor\codeigniter4\framework\system\CodeIgniter.php(308): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 F:\xampp\htdocs\policy-master-updated\index.php(84): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2021-09-29 06:03:07 --> Undefined index: quot_id
+#0 F:\xampp\htdocs\policy-master-updated\app\Controllers\Quotation.php(1330): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined index...', 'F:\\xampp\\htdocs...', 1330, Array)
+#1 F:\xampp\htdocs\policy-master-updated\vendor\codeigniter4\framework\system\CodeIgniter.php(914): App\Controllers\Quotation->calculation()
+#2 F:\xampp\htdocs\policy-master-updated\vendor\codeigniter4\framework\system\CodeIgniter.php(400): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Quotation))
+#3 F:\xampp\htdocs\policy-master-updated\vendor\codeigniter4\framework\system\CodeIgniter.php(308): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 F:\xampp\htdocs\policy-master-updated\index.php(84): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2021-09-29 06:03:19 --> Undefined variable: insert
+#0 F:\xampp\htdocs\policy-master-updated\app\Controllers\Quotation.php(1330): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined varia...', 'F:\\xampp\\htdocs...', 1330, Array)
+#1 F:\xampp\htdocs\policy-master-updated\vendor\codeigniter4\framework\system\CodeIgniter.php(914): App\Controllers\Quotation->calculation()
+#2 F:\xampp\htdocs\policy-master-updated\vendor\codeigniter4\framework\system\CodeIgniter.php(400): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Quotation))
+#3 F:\xampp\htdocs\policy-master-updated\vendor\codeigniter4\framework\system\CodeIgniter.php(308): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 F:\xampp\htdocs\policy-master-updated\index.php(84): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2021-09-29 06:05:15 --> Undefined variable: insert
+#0 F:\xampp\htdocs\policy-master-updated\app\Controllers\Quotation.php(1330): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined varia...', 'F:\\xampp\\htdocs...', 1330, Array)
+#1 F:\xampp\htdocs\policy-master-updated\vendor\codeigniter4\framework\system\CodeIgniter.php(914): App\Controllers\Quotation->calculation()
+#2 F:\xampp\htdocs\policy-master-updated\vendor\codeigniter4\framework\system\CodeIgniter.php(400): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Quotation))
+#3 F:\xampp\htdocs\policy-master-updated\vendor\codeigniter4\framework\system\CodeIgniter.php(308): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 F:\xampp\htdocs\policy-master-updated\index.php(84): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2021-09-29 06:07:24 --> Undefined variable: insert
+#0 F:\xampp\htdocs\policy-master-updated\app\Controllers\Quotation.php(1330): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined varia...', 'F:\\xampp\\htdocs...', 1330, Array)
+#1 F:\xampp\htdocs\policy-master-updated\vendor\codeigniter4\framework\system\CodeIgniter.php(914): App\Controllers\Quotation->calculation()
+#2 F:\xampp\htdocs\policy-master-updated\vendor\codeigniter4\framework\system\CodeIgniter.php(400): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Quotation))
+#3 F:\xampp\htdocs\policy-master-updated\vendor\codeigniter4\framework\system\CodeIgniter.php(308): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 F:\xampp\htdocs\policy-master-updated\index.php(84): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2021-09-29 06:07:40 --> Undefined variable: insert
+#0 F:\xampp\htdocs\policy-master-updated\app\Controllers\Quotation.php(1330): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined varia...', 'F:\\xampp\\htdocs...', 1330, Array)
+#1 F:\xampp\htdocs\policy-master-updated\vendor\codeigniter4\framework\system\CodeIgniter.php(914): App\Controllers\Quotation->calculation()
+#2 F:\xampp\htdocs\policy-master-updated\vendor\codeigniter4\framework\system\CodeIgniter.php(400): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Quotation))
+#3 F:\xampp\htdocs\policy-master-updated\vendor\codeigniter4\framework\system\CodeIgniter.php(308): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 F:\xampp\htdocs\policy-master-updated\index.php(84): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2021-09-29 06:08:26 --> Undefined variable: insert
+#0 F:\xampp\htdocs\policy-master-updated\app\Controllers\Quotation.php(1330): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined varia...', 'F:\\xampp\\htdocs...', 1330, Array)
+#1 F:\xampp\htdocs\policy-master-updated\vendor\codeigniter4\framework\system\CodeIgniter.php(914): App\Controllers\Quotation->calculation()
+#2 F:\xampp\htdocs\policy-master-updated\vendor\codeigniter4\framework\system\CodeIgniter.php(400): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Quotation))
+#3 F:\xampp\htdocs\policy-master-updated\vendor\codeigniter4\framework\system\CodeIgniter.php(308): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 F:\xampp\htdocs\policy-master-updated\index.php(84): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2021-09-29 06:08:27 --> Undefined variable: insert
+#0 F:\xampp\htdocs\policy-master-updated\app\Controllers\Quotation.php(1330): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined varia...', 'F:\\xampp\\htdocs...', 1330, Array)
+#1 F:\xampp\htdocs\policy-master-updated\vendor\codeigniter4\framework\system\CodeIgniter.php(914): App\Controllers\Quotation->calculation()
+#2 F:\xampp\htdocs\policy-master-updated\vendor\codeigniter4\framework\system\CodeIgniter.php(400): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Quotation))
+#3 F:\xampp\htdocs\policy-master-updated\vendor\codeigniter4\framework\system\CodeIgniter.php(308): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 F:\xampp\htdocs\policy-master-updated\index.php(84): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2021-09-29 06:08:28 --> Undefined variable: insert
+#0 F:\xampp\htdocs\policy-master-updated\app\Controllers\Quotation.php(1330): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined varia...', 'F:\\xampp\\htdocs...', 1330, Array)
+#1 F:\xampp\htdocs\policy-master-updated\vendor\codeigniter4\framework\system\CodeIgniter.php(914): App\Controllers\Quotation->calculation()
+#2 F:\xampp\htdocs\policy-master-updated\vendor\codeigniter4\framework\system\CodeIgniter.php(400): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Quotation))
+#3 F:\xampp\htdocs\policy-master-updated\vendor\codeigniter4\framework\system\CodeIgniter.php(308): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 F:\xampp\htdocs\policy-master-updated\index.php(84): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2021-09-29 06:08:44 --> Undefined variable: insert
+#0 F:\xampp\htdocs\policy-master-updated\app\Controllers\Quotation.php(1330): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined varia...', 'F:\\xampp\\htdocs...', 1330, Array)
+#1 F:\xampp\htdocs\policy-master-updated\vendor\codeigniter4\framework\system\CodeIgniter.php(914): App\Controllers\Quotation->calculation()
+#2 F:\xampp\htdocs\policy-master-updated\vendor\codeigniter4\framework\system\CodeIgniter.php(400): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Quotation))
+#3 F:\xampp\htdocs\policy-master-updated\vendor\codeigniter4\framework\system\CodeIgniter.php(308): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 F:\xampp\htdocs\policy-master-updated\index.php(84): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2021-09-29 06:08:47 --> Undefined variable: insert
+#0 F:\xampp\htdocs\policy-master-updated\app\Controllers\Quotation.php(1330): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined varia...', 'F:\\xampp\\htdocs...', 1330, Array)
+#1 F:\xampp\htdocs\policy-master-updated\vendor\codeigniter4\framework\system\CodeIgniter.php(914): App\Controllers\Quotation->calculation()
+#2 F:\xampp\htdocs\policy-master-updated\vendor\codeigniter4\framework\system\CodeIgniter.php(400): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Quotation))
+#3 F:\xampp\htdocs\policy-master-updated\vendor\codeigniter4\framework\system\CodeIgniter.php(308): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 F:\xampp\htdocs\policy-master-updated\index.php(84): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2021-09-29 06:08:49 --> Undefined variable: insert
+#0 F:\xampp\htdocs\policy-master-updated\app\Controllers\Quotation.php(1330): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined varia...', 'F:\\xampp\\htdocs...', 1330, Array)
+#1 F:\xampp\htdocs\policy-master-updated\vendor\codeigniter4\framework\system\CodeIgniter.php(914): App\Controllers\Quotation->calculation()
+#2 F:\xampp\htdocs\policy-master-updated\vendor\codeigniter4\framework\system\CodeIgniter.php(400): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Quotation))
+#3 F:\xampp\htdocs\policy-master-updated\vendor\codeigniter4\framework\system\CodeIgniter.php(308): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 F:\xampp\htdocs\policy-master-updated\index.php(84): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2021-09-29 06:08:55 --> Undefined variable: insert
+#0 F:\xampp\htdocs\policy-master-updated\app\Controllers\Quotation.php(1330): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined varia...', 'F:\\xampp\\htdocs...', 1330, Array)
+#1 F:\xampp\htdocs\policy-master-updated\vendor\codeigniter4\framework\system\CodeIgniter.php(914): App\Controllers\Quotation->calculation()
+#2 F:\xampp\htdocs\policy-master-updated\vendor\codeigniter4\framework\system\CodeIgniter.php(400): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Quotation))
+#3 F:\xampp\htdocs\policy-master-updated\vendor\codeigniter4\framework\system\CodeIgniter.php(308): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 F:\xampp\htdocs\policy-master-updated\index.php(84): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2021-09-29 06:08:56 --> Undefined variable: insert
+#0 F:\xampp\htdocs\policy-master-updated\app\Controllers\Quotation.php(1330): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined varia...', 'F:\\xampp\\htdocs...', 1330, Array)
+#1 F:\xampp\htdocs\policy-master-updated\vendor\codeigniter4\framework\system\CodeIgniter.php(914): App\Controllers\Quotation->calculation()
+#2 F:\xampp\htdocs\policy-master-updated\vendor\codeigniter4\framework\system\CodeIgniter.php(400): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Quotation))
+#3 F:\xampp\htdocs\policy-master-updated\vendor\codeigniter4\framework\system\CodeIgniter.php(308): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 F:\xampp\htdocs\policy-master-updated\index.php(84): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2021-09-29 06:09:14 --> Undefined variable: insert
+#0 F:\xampp\htdocs\policy-master-updated\app\Controllers\Quotation.php(1330): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined varia...', 'F:\\xampp\\htdocs...', 1330, Array)
+#1 F:\xampp\htdocs\policy-master-updated\vendor\codeigniter4\framework\system\CodeIgniter.php(914): App\Controllers\Quotation->calculation()
+#2 F:\xampp\htdocs\policy-master-updated\vendor\codeigniter4\framework\system\CodeIgniter.php(400): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Quotation))
+#3 F:\xampp\htdocs\policy-master-updated\vendor\codeigniter4\framework\system\CodeIgniter.php(308): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 F:\xampp\htdocs\policy-master-updated\index.php(84): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2021-09-29 06:09:15 --> Undefined variable: insert
+#0 F:\xampp\htdocs\policy-master-updated\app\Controllers\Quotation.php(1330): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined varia...', 'F:\\xampp\\htdocs...', 1330, Array)
+#1 F:\xampp\htdocs\policy-master-updated\vendor\codeigniter4\framework\system\CodeIgniter.php(914): App\Controllers\Quotation->calculation()
+#2 F:\xampp\htdocs\policy-master-updated\vendor\codeigniter4\framework\system\CodeIgniter.php(400): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Quotation))
+#3 F:\xampp\htdocs\policy-master-updated\vendor\codeigniter4\framework\system\CodeIgniter.php(308): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 F:\xampp\htdocs\policy-master-updated\index.php(84): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2021-09-29 06:09:39 --> Undefined variable: insert
+#0 F:\xampp\htdocs\policy-master-updated\app\Controllers\Quotation.php(1330): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined varia...', 'F:\\xampp\\htdocs...', 1330, Array)
+#1 F:\xampp\htdocs\policy-master-updated\vendor\codeigniter4\framework\system\CodeIgniter.php(914): App\Controllers\Quotation->calculation()
+#2 F:\xampp\htdocs\policy-master-updated\vendor\codeigniter4\framework\system\CodeIgniter.php(400): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Quotation))
+#3 F:\xampp\htdocs\policy-master-updated\vendor\codeigniter4\framework\system\CodeIgniter.php(308): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 F:\xampp\htdocs\policy-master-updated\index.php(84): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2021-09-29 06:17:34 --> Undefined index: quot_id
+#0 F:\xampp\htdocs\policy-master-updated\app\Controllers\Quotation.php(1330): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined index...', 'F:\\xampp\\htdocs...', 1330, Array)
+#1 F:\xampp\htdocs\policy-master-updated\vendor\codeigniter4\framework\system\CodeIgniter.php(914): App\Controllers\Quotation->calculation()
+#2 F:\xampp\htdocs\policy-master-updated\vendor\codeigniter4\framework\system\CodeIgniter.php(400): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Quotation))
+#3 F:\xampp\htdocs\policy-master-updated\vendor\codeigniter4\framework\system\CodeIgniter.php(308): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 F:\xampp\htdocs\policy-master-updated\index.php(84): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2021-09-29 06:18:17 --> Undefined variable: insert
+#0 F:\xampp\htdocs\policy-master-updated\app\Controllers\Quotation.php(1330): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined varia...', 'F:\\xampp\\htdocs...', 1330, Array)
+#1 F:\xampp\htdocs\policy-master-updated\vendor\codeigniter4\framework\system\CodeIgniter.php(914): App\Controllers\Quotation->calculation()
+#2 F:\xampp\htdocs\policy-master-updated\vendor\codeigniter4\framework\system\CodeIgniter.php(400): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Quotation))
+#3 F:\xampp\htdocs\policy-master-updated\vendor\codeigniter4\framework\system\CodeIgniter.php(308): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 F:\xampp\htdocs\policy-master-updated\index.php(84): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2021-09-29 06:18:24 --> Undefined index: sum_assured
+#0 F:\xampp\htdocs\policy-master-updated\app\Controllers\Export.php(2984): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined index...', 'F:\\xampp\\htdocs...', 2984, Array)
+#1 F:\xampp\htdocs\policy-master-updated\vendor\codeigniter4\framework\system\CodeIgniter.php(914): App\Controllers\Export->risknote('1')
+#2 F:\xampp\htdocs\policy-master-updated\vendor\codeigniter4\framework\system\CodeIgniter.php(400): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Export))
+#3 F:\xampp\htdocs\policy-master-updated\vendor\codeigniter4\framework\system\CodeIgniter.php(308): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 F:\xampp\htdocs\policy-master-updated\index.php(84): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2021-09-29 06:21:48 --> syntax error, unexpected 'elseif' (T_ELSEIF), expecting function (T_FUNCTION) or const (T_CONST)
+#0 F:\xampp\htdocs\policy-master-updated\vendor\codeigniter4\framework\system\Router\Router.php(192): CodeIgniter\Router\Router->autoRoute('/export/risknot...')
+#1 F:\xampp\htdocs\policy-master-updated\vendor\codeigniter4\framework\system\CodeIgniter.php(789): CodeIgniter\Router\Router->handle('/export/risknot...')
+#2 F:\xampp\htdocs\policy-master-updated\vendor\codeigniter4\framework\system\CodeIgniter.php(360): CodeIgniter\CodeIgniter->tryToRouteIt(Object(CodeIgniter\Router\RouteCollection))
+#3 F:\xampp\htdocs\policy-master-updated\vendor\codeigniter4\framework\system\CodeIgniter.php(308): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 F:\xampp\htdocs\policy-master-updated\index.php(84): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2021-09-29 06:22:02 --> Undefined variable: sum
+#0 F:\xampp\htdocs\policy-master-updated\app\Controllers\Export.php(2926): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined varia...', 'F:\\xampp\\htdocs...', 2926, Array)
+#1 F:\xampp\htdocs\policy-master-updated\vendor\codeigniter4\framework\system\CodeIgniter.php(914): App\Controllers\Export->risknote('1')
+#2 F:\xampp\htdocs\policy-master-updated\vendor\codeigniter4\framework\system\CodeIgniter.php(400): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Export))
+#3 F:\xampp\htdocs\policy-master-updated\vendor\codeigniter4\framework\system\CodeIgniter.php(308): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 F:\xampp\htdocs\policy-master-updated\index.php(84): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2021-09-29 06:22:34 --> Undefined index: sum_assured
+#0 F:\xampp\htdocs\policy-master-updated\app\Controllers\Export.php(2934): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined index...', 'F:\\xampp\\htdocs...', 2934, Array)
+#1 F:\xampp\htdocs\policy-master-updated\vendor\codeigniter4\framework\system\CodeIgniter.php(914): App\Controllers\Export->risknote('1')
+#2 F:\xampp\htdocs\policy-master-updated\vendor\codeigniter4\framework\system\CodeIgniter.php(400): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Export))
+#3 F:\xampp\htdocs\policy-master-updated\vendor\codeigniter4\framework\system\CodeIgniter.php(308): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 F:\xampp\htdocs\policy-master-updated\index.php(84): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2021-09-29 06:22:58 --> Undefined index: sum_assured
+#0 F:\xampp\htdocs\policy-master-updated\app\Controllers\Export.php(2984): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined index...', 'F:\\xampp\\htdocs...', 2984, Array)
+#1 F:\xampp\htdocs\policy-master-updated\vendor\codeigniter4\framework\system\CodeIgniter.php(914): App\Controllers\Export->risknote('1')
+#2 F:\xampp\htdocs\policy-master-updated\vendor\codeigniter4\framework\system\CodeIgniter.php(400): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Export))
+#3 F:\xampp\htdocs\policy-master-updated\vendor\codeigniter4\framework\system\CodeIgniter.php(308): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 F:\xampp\htdocs\policy-master-updated\index.php(84): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2021-09-29 06:23:08 --> Undefined index: sum_assured
+#0 F:\xampp\htdocs\policy-master-updated\app\Controllers\Export.php(2984): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined index...', 'F:\\xampp\\htdocs...', 2984, Array)
+#1 F:\xampp\htdocs\policy-master-updated\vendor\codeigniter4\framework\system\CodeIgniter.php(914): App\Controllers\Export->risknote('1')
+#2 F:\xampp\htdocs\policy-master-updated\vendor\codeigniter4\framework\system\CodeIgniter.php(400): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Export))
+#3 F:\xampp\htdocs\policy-master-updated\vendor\codeigniter4\framework\system\CodeIgniter.php(308): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 F:\xampp\htdocs\policy-master-updated\index.php(84): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2021-09-29 06:35:18 --> Undefined index: vat
+#0 F:\xampp\htdocs\policy-master-updated\app\Controllers\Export.php(2937): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined index...', 'F:\\xampp\\htdocs...', 2937, Array)
+#1 F:\xampp\htdocs\policy-master-updated\vendor\codeigniter4\framework\system\CodeIgniter.php(914): App\Controllers\Export->risknote('1')
+#2 F:\xampp\htdocs\policy-master-updated\vendor\codeigniter4\framework\system\CodeIgniter.php(400): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Export))
+#3 F:\xampp\htdocs\policy-master-updated\vendor\codeigniter4\framework\system\CodeIgniter.php(308): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 F:\xampp\htdocs\policy-master-updated\index.php(84): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2021-09-29 06:38:52 --> Undefined index: vat
+#0 F:\xampp\htdocs\policy-master-updated\app\Controllers\Export.php(2937): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined index...', 'F:\\xampp\\htdocs...', 2937, Array)
+#1 F:\xampp\htdocs\policy-master-updated\vendor\codeigniter4\framework\system\CodeIgniter.php(914): App\Controllers\Export->risknote('1')
+#2 F:\xampp\htdocs\policy-master-updated\vendor\codeigniter4\framework\system\CodeIgniter.php(400): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Export))
+#3 F:\xampp\htdocs\policy-master-updated\vendor\codeigniter4\framework\system\CodeIgniter.php(308): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 F:\xampp\htdocs\policy-master-updated\index.php(84): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2021-09-29 06:45:47 --> Undefined index: administration_charges
+#0 F:\xampp\htdocs\policy-master-updated\app\Controllers\Quotation.php(1689): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined index...', 'F:\\xampp\\htdocs...', 1689, Array)
+#1 F:\xampp\htdocs\policy-master-updated\vendor\codeigniter4\framework\system\CodeIgniter.php(914): App\Controllers\Quotation->get_all_final_receivable()
+#2 F:\xampp\htdocs\policy-master-updated\vendor\codeigniter4\framework\system\CodeIgniter.php(400): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Quotation))
+#3 F:\xampp\htdocs\policy-master-updated\vendor\codeigniter4\framework\system\CodeIgniter.php(308): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 F:\xampp\htdocs\policy-master-updated\index.php(84): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2021-09-29 06:51:50 --> Call to undefined function App\Controllers\Int()
+#0 F:\xampp\htdocs\policy-master-updated\vendor\codeigniter4\framework\system\CodeIgniter.php(914): App\Controllers\Export->risknote('3')
+#1 F:\xampp\htdocs\policy-master-updated\vendor\codeigniter4\framework\system\CodeIgniter.php(400): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Export))
+#2 F:\xampp\htdocs\policy-master-updated\vendor\codeigniter4\framework\system\CodeIgniter.php(308): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 F:\xampp\htdocs\policy-master-updated\index.php(84): CodeIgniter\CodeIgniter->run()
+#4 {main}
+CRITICAL - 2021-09-29 06:52:07 --> Call to undefined function App\Controllers\ParseInt()
+#0 F:\xampp\htdocs\policy-master-updated\vendor\codeigniter4\framework\system\CodeIgniter.php(914): App\Controllers\Export->risknote('3')
+#1 F:\xampp\htdocs\policy-master-updated\vendor\codeigniter4\framework\system\CodeIgniter.php(400): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Export))
+#2 F:\xampp\htdocs\policy-master-updated\vendor\codeigniter4\framework\system\CodeIgniter.php(308): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 F:\xampp\htdocs\policy-master-updated\index.php(84): CodeIgniter\CodeIgniter->run()
+#4 {main}
+CRITICAL - 2021-09-29 06:52:25 --> Call to undefined function App\Controllers\parseInt()
+#0 F:\xampp\htdocs\policy-master-updated\vendor\codeigniter4\framework\system\CodeIgniter.php(914): App\Controllers\Export->risknote('3')
+#1 F:\xampp\htdocs\policy-master-updated\vendor\codeigniter4\framework\system\CodeIgniter.php(400): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Export))
+#2 F:\xampp\htdocs\policy-master-updated\vendor\codeigniter4\framework\system\CodeIgniter.php(308): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 F:\xampp\htdocs\policy-master-updated\index.php(84): CodeIgniter\CodeIgniter->run()
+#4 {main}
+CRITICAL - 2021-09-29 06:52:31 --> Call to undefined function App\Controllers\val()
+#0 F:\xampp\htdocs\policy-master-updated\vendor\codeigniter4\framework\system\CodeIgniter.php(914): App\Controllers\Export->risknote('3')
+#1 F:\xampp\htdocs\policy-master-updated\vendor\codeigniter4\framework\system\CodeIgniter.php(400): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Export))
+#2 F:\xampp\htdocs\policy-master-updated\vendor\codeigniter4\framework\system\CodeIgniter.php(308): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 F:\xampp\htdocs\policy-master-updated\index.php(84): CodeIgniter\CodeIgniter->run()
+#4 {main}
+CRITICAL - 2021-09-29 07:08:49 --> Undefined index: id
+#0 F:\xampp\htdocs\policy-master-updated\app\Controllers\Quotation.php(1207): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined index...', 'F:\\xampp\\htdocs...', 1207, Array)
+#1 F:\xampp\htdocs\policy-master-updated\vendor\codeigniter4\framework\system\CodeIgniter.php(914): App\Controllers\Quotation->get_lifequotationsecondtb()
+#2 F:\xampp\htdocs\policy-master-updated\vendor\codeigniter4\framework\system\CodeIgniter.php(400): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Quotation))
+#3 F:\xampp\htdocs\policy-master-updated\vendor\codeigniter4\framework\system\CodeIgniter.php(308): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 F:\xampp\htdocs\policy-master-updated\index.php(84): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2021-09-29 07:56:42 --> Undefined index: quot_id
+#0 F:\xampp\htdocs\policy-master-updated\app\Controllers\Quotation.php(1330): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined index...', 'F:\\xampp\\htdocs...', 1330, Array)
+#1 F:\xampp\htdocs\policy-master-updated\vendor\codeigniter4\framework\system\CodeIgniter.php(914): App\Controllers\Quotation->calculation()
+#2 F:\xampp\htdocs\policy-master-updated\vendor\codeigniter4\framework\system\CodeIgniter.php(400): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Quotation))
+#3 F:\xampp\htdocs\policy-master-updated\vendor\codeigniter4\framework\system\CodeIgniter.php(308): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 F:\xampp\htdocs\policy-master-updated\index.php(84): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2021-09-29 08:09:01 --> Undefined index: id
+#0 F:\xampp\htdocs\policy-master-updated\app\Controllers\Quotation.php(909): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined index...', 'F:\\xampp\\htdocs...', 909, Array)
+#1 F:\xampp\htdocs\policy-master-updated\vendor\codeigniter4\framework\system\CodeIgniter.php(914): App\Controllers\Quotation->medical_quotation_secondtab_store()
+#2 F:\xampp\htdocs\policy-master-updated\vendor\codeigniter4\framework\system\CodeIgniter.php(400): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Quotation))
+#3 F:\xampp\htdocs\policy-master-updated\vendor\codeigniter4\framework\system\CodeIgniter.php(308): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 F:\xampp\htdocs\policy-master-updated\index.php(84): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2021-09-29 08:11:10 --> Undefined index: description2
+#0 F:\xampp\htdocs\policy-master-updated\app\Controllers\Quotation.php(1249): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined index...', 'F:\\xampp\\htdocs...', 1249, Array)
+#1 F:\xampp\htdocs\policy-master-updated\vendor\codeigniter4\framework\system\CodeIgniter.php(914): App\Controllers\Quotation->get_medicalquotationsecondtb()
+#2 F:\xampp\htdocs\policy-master-updated\vendor\codeigniter4\framework\system\CodeIgniter.php(400): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Quotation))
+#3 F:\xampp\htdocs\policy-master-updated\vendor\codeigniter4\framework\system\CodeIgniter.php(308): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 F:\xampp\htdocs\policy-master-updated\index.php(84): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2021-09-29 08:17:50 --> Undefined variable: trs
+#0 F:\xampp\htdocs\policy-master-updated\app\Controllers\Quotation.php(1260): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined varia...', 'F:\\xampp\\htdocs...', 1260, Array)
+#1 F:\xampp\htdocs\policy-master-updated\vendor\codeigniter4\framework\system\CodeIgniter.php(914): App\Controllers\Quotation->get_medicalquotationsecondtb()
+#2 F:\xampp\htdocs\policy-master-updated\vendor\codeigniter4\framework\system\CodeIgniter.php(400): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Quotation))
+#3 F:\xampp\htdocs\policy-master-updated\vendor\codeigniter4\framework\system\CodeIgniter.php(308): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 F:\xampp\htdocs\policy-master-updated\index.php(84): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2021-09-29 08:22:57 --> Undefined variable: trs
+#0 F:\xampp\htdocs\policy-master-updated\app\Controllers\Quotation.php(1260): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined varia...', 'F:\\xampp\\htdocs...', 1260, Array)
+#1 F:\xampp\htdocs\policy-master-updated\vendor\codeigniter4\framework\system\CodeIgniter.php(914): App\Controllers\Quotation->get_medicalquotationsecondtb()
+#2 F:\xampp\htdocs\policy-master-updated\vendor\codeigniter4\framework\system\CodeIgniter.php(400): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Quotation))
+#3 F:\xampp\htdocs\policy-master-updated\vendor\codeigniter4\framework\system\CodeIgniter.php(308): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 F:\xampp\htdocs\policy-master-updated\index.php(84): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2021-09-29 08:24:10 --> syntax error, unexpected 'exit' (T_EXIT)
+#0 F:\xampp\htdocs\policy-master-updated\vendor\codeigniter4\framework\system\Router\Router.php(192): CodeIgniter\Router\Router->autoRoute('/quotation/add_...')
+#1 F:\xampp\htdocs\policy-master-updated\vendor\codeigniter4\framework\system\CodeIgniter.php(789): CodeIgniter\Router\Router->handle('/quotation/add_...')
+#2 F:\xampp\htdocs\policy-master-updated\vendor\codeigniter4\framework\system\CodeIgniter.php(360): CodeIgniter\CodeIgniter->tryToRouteIt(Object(CodeIgniter\Router\RouteCollection))
+#3 F:\xampp\htdocs\policy-master-updated\vendor\codeigniter4\framework\system\CodeIgniter.php(308): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 F:\xampp\htdocs\policy-master-updated\index.php(84): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2021-09-29 08:26:56 --> Undefined index: token
+#0 F:\xampp\htdocs\policy-master-updated\app\Controllers\Quotation.php(1240): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined index...', 'F:\\xampp\\htdocs...', 1240, Array)
+#1 F:\xampp\htdocs\policy-master-updated\vendor\codeigniter4\framework\system\CodeIgniter.php(914): App\Controllers\Quotation->get_medicalquotationsecondtb()
+#2 F:\xampp\htdocs\policy-master-updated\vendor\codeigniter4\framework\system\CodeIgniter.php(400): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Quotation))
+#3 F:\xampp\htdocs\policy-master-updated\vendor\codeigniter4\framework\system\CodeIgniter.php(308): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 F:\xampp\htdocs\policy-master-updated\index.php(84): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2021-09-29 08:29:33 --> Undefined index: description2
+#0 F:\xampp\htdocs\policy-master-updated\app\Views\quotation\display4.php(291): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined index...', 'F:\\xampp\\htdocs...', 291, Array)
+#1 F:\xampp\htdocs\policy-master-updated\vendor\codeigniter4\framework\system\View\View.php(246): include('F:\\xampp\\htdocs...')
+#2 F:\xampp\htdocs\policy-master-updated\vendor\codeigniter4\framework\system\Common.php(1087): CodeIgniter\View\View->render('quotation/displ...', Array, true)
+#3 F:\xampp\htdocs\policy-master-updated\app\Views\templete.php(4): view('quotation/displ...')
+#4 F:\xampp\htdocs\policy-master-updated\vendor\codeigniter4\framework\system\View\View.php(246): include('F:\\xampp\\htdocs...')
+#5 F:\xampp\htdocs\policy-master-updated\vendor\codeigniter4\framework\system\Common.php(1087): CodeIgniter\View\View->render('templete', Array, true)
+#6 F:\xampp\htdocs\policy-master-updated\app\Controllers\Quotation.php(710): view('templete', Array)
+#7 F:\xampp\htdocs\policy-master-updated\vendor\codeigniter4\framework\system\CodeIgniter.php(914): App\Controllers\Quotation->view_medical_quatation('1')
+#8 F:\xampp\htdocs\policy-master-updated\vendor\codeigniter4\framework\system\CodeIgniter.php(400): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Quotation))
+#9 F:\xampp\htdocs\policy-master-updated\vendor\codeigniter4\framework\system\CodeIgniter.php(308): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#10 F:\xampp\htdocs\policy-master-updated\index.php(84): CodeIgniter\CodeIgniter->run()
+#11 {main}
+CRITICAL - 2021-09-29 08:38:43 --> Undefined index: token
+#0 F:\xampp\htdocs\policy-master-updated\app\Controllers\Quotation.php(1246): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined index...', 'F:\\xampp\\htdocs...', 1246, Array)
+#1 F:\xampp\htdocs\policy-master-updated\vendor\codeigniter4\framework\system\CodeIgniter.php(914): App\Controllers\Quotation->get_medicalquotationsecondtb()
+#2 F:\xampp\htdocs\policy-master-updated\vendor\codeigniter4\framework\system\CodeIgniter.php(400): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Quotation))
+#3 F:\xampp\htdocs\policy-master-updated\vendor\codeigniter4\framework\system\CodeIgniter.php(308): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 F:\xampp\htdocs\policy-master-updated\index.php(84): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2021-09-29 08:39:58 --> Undefined index: token
+#0 F:\xampp\htdocs\policy-master-updated\app\Controllers\Quotation.php(1246): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined index...', 'F:\\xampp\\htdocs...', 1246, Array)
+#1 F:\xampp\htdocs\policy-master-updated\vendor\codeigniter4\framework\system\CodeIgniter.php(914): App\Controllers\Quotation->get_medicalquotationsecondtb()
+#2 F:\xampp\htdocs\policy-master-updated\vendor\codeigniter4\framework\system\CodeIgniter.php(400): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Quotation))
+#3 F:\xampp\htdocs\policy-master-updated\vendor\codeigniter4\framework\system\CodeIgniter.php(308): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 F:\xampp\htdocs\policy-master-updated\index.php(84): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2021-09-29 08:43:10 --> Undefined index: token
+#0 F:\xampp\htdocs\policy-master-updated\app\Controllers\Quotation.php(1250): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined index...', 'F:\\xampp\\htdocs...', 1250, Array)
+#1 F:\xampp\htdocs\policy-master-updated\vendor\codeigniter4\framework\system\CodeIgniter.php(914): App\Controllers\Quotation->get_medicalquotationsecondtb()
+#2 F:\xampp\htdocs\policy-master-updated\vendor\codeigniter4\framework\system\CodeIgniter.php(400): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Quotation))
+#3 F:\xampp\htdocs\policy-master-updated\vendor\codeigniter4\framework\system\CodeIgniter.php(308): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 F:\xampp\htdocs\policy-master-updated\index.php(84): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2021-09-29 08:44:21 --> Undefined index: sum_insured2
+#0 F:\xampp\htdocs\policy-master-updated\app\Views\quotation\display4.php(293): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined index...', 'F:\\xampp\\htdocs...', 293, Array)
+#1 F:\xampp\htdocs\policy-master-updated\vendor\codeigniter4\framework\system\View\View.php(246): include('F:\\xampp\\htdocs...')
+#2 F:\xampp\htdocs\policy-master-updated\vendor\codeigniter4\framework\system\Common.php(1087): CodeIgniter\View\View->render('quotation/displ...', Array, true)
+#3 F:\xampp\htdocs\policy-master-updated\app\Views\templete.php(4): view('quotation/displ...')
+#4 F:\xampp\htdocs\policy-master-updated\vendor\codeigniter4\framework\system\View\View.php(246): include('F:\\xampp\\htdocs...')
+#5 F:\xampp\htdocs\policy-master-updated\vendor\codeigniter4\framework\system\Common.php(1087): CodeIgniter\View\View->render('templete', Array, true)
+#6 F:\xampp\htdocs\policy-master-updated\app\Controllers\Quotation.php(720): view('templete', Array)
+#7 F:\xampp\htdocs\policy-master-updated\vendor\codeigniter4\framework\system\CodeIgniter.php(914): App\Controllers\Quotation->view_medical_quatation('1')
+#8 F:\xampp\htdocs\policy-master-updated\vendor\codeigniter4\framework\system\CodeIgniter.php(400): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Quotation))
+#9 F:\xampp\htdocs\policy-master-updated\vendor\codeigniter4\framework\system\CodeIgniter.php(308): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#10 F:\xampp\htdocs\policy-master-updated\index.php(84): CodeIgniter\CodeIgniter->run()
+#11 {main}
+CRITICAL - 2021-09-29 08:44:40 --> Undefined index: rate
+#0 F:\xampp\htdocs\policy-master-updated\app\Views\quotation\display4.php(294): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined index...', 'F:\\xampp\\htdocs...', 294, Array)
+#1 F:\xampp\htdocs\policy-master-updated\vendor\codeigniter4\framework\system\View\View.php(246): include('F:\\xampp\\htdocs...')
+#2 F:\xampp\htdocs\policy-master-updated\vendor\codeigniter4\framework\system\Common.php(1087): CodeIgniter\View\View->render('quotation/displ...', Array, true)
+#3 F:\xampp\htdocs\policy-master-updated\app\Views\templete.php(4): view('quotation/displ...')
+#4 F:\xampp\htdocs\policy-master-updated\vendor\codeigniter4\framework\system\View\View.php(246): include('F:\\xampp\\htdocs...')
+#5 F:\xampp\htdocs\policy-master-updated\vendor\codeigniter4\framework\system\Common.php(1087): CodeIgniter\View\View->render('templete', Array, true)
+#6 F:\xampp\htdocs\policy-master-updated\app\Controllers\Quotation.php(720): view('templete', Array)
+#7 F:\xampp\htdocs\policy-master-updated\vendor\codeigniter4\framework\system\CodeIgniter.php(914): App\Controllers\Quotation->view_medical_quatation('1')
+#8 F:\xampp\htdocs\policy-master-updated\vendor\codeigniter4\framework\system\CodeIgniter.php(400): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Quotation))
+#9 F:\xampp\htdocs\policy-master-updated\vendor\codeigniter4\framework\system\CodeIgniter.php(308): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#10 F:\xampp\htdocs\policy-master-updated\index.php(84): CodeIgniter\CodeIgniter->run()
+#11 {main}
+CRITICAL - 2021-09-29 08:45:25 --> Undefined index: actual_premium
+#0 F:\xampp\htdocs\policy-master-updated\app\Views\quotation\display4.php(295): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined index...', 'F:\\xampp\\htdocs...', 295, Array)
+#1 F:\xampp\htdocs\policy-master-updated\vendor\codeigniter4\framework\system\View\View.php(246): include('F:\\xampp\\htdocs...')
+#2 F:\xampp\htdocs\policy-master-updated\vendor\codeigniter4\framework\system\Common.php(1087): CodeIgniter\View\View->render('quotation/displ...', Array, true)
+#3 F:\xampp\htdocs\policy-master-updated\app\Views\templete.php(4): view('quotation/displ...')
+#4 F:\xampp\htdocs\policy-master-updated\vendor\codeigniter4\framework\system\View\View.php(246): include('F:\\xampp\\htdocs...')
+#5 F:\xampp\htdocs\policy-master-updated\vendor\codeigniter4\framework\system\Common.php(1087): CodeIgniter\View\View->render('templete', Array, true)
+#6 F:\xampp\htdocs\policy-master-updated\app\Controllers\Quotation.php(720): view('templete', Array)
+#7 F:\xampp\htdocs\policy-master-updated\vendor\codeigniter4\framework\system\CodeIgniter.php(914): App\Controllers\Quotation->view_medical_quatation('1')
+#8 F:\xampp\htdocs\policy-master-updated\vendor\codeigniter4\framework\system\CodeIgniter.php(400): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Quotation))
+#9 F:\xampp\htdocs\policy-master-updated\vendor\codeigniter4\framework\system\CodeIgniter.php(308): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#10 F:\xampp\htdocs\policy-master-updated\index.php(84): CodeIgniter\CodeIgniter->run()
+#11 {main}
+CRITICAL - 2021-09-29 08:50:51 --> Undefined index: token
+#0 F:\xampp\htdocs\policy-master-updated\app\Controllers\Quotation.php(1250): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined index...', 'F:\\xampp\\htdocs...', 1250, Array)
+#1 F:\xampp\htdocs\policy-master-updated\vendor\codeigniter4\framework\system\CodeIgniter.php(914): App\Controllers\Quotation->get_medicalquotationsecondtb()
+#2 F:\xampp\htdocs\policy-master-updated\vendor\codeigniter4\framework\system\CodeIgniter.php(400): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Quotation))
+#3 F:\xampp\htdocs\policy-master-updated\vendor\codeigniter4\framework\system\CodeIgniter.php(308): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 F:\xampp\htdocs\policy-master-updated\index.php(84): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2021-09-29 08:52:30 --> Undefined index: token
+#0 F:\xampp\htdocs\policy-master-updated\app\Controllers\Quotation.php(1250): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined index...', 'F:\\xampp\\htdocs...', 1250, Array)
+#1 F:\xampp\htdocs\policy-master-updated\vendor\codeigniter4\framework\system\CodeIgniter.php(914): App\Controllers\Quotation->get_medicalquotationsecondtb()
+#2 F:\xampp\htdocs\policy-master-updated\vendor\codeigniter4\framework\system\CodeIgniter.php(400): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Quotation))
+#3 F:\xampp\htdocs\policy-master-updated\vendor\codeigniter4\framework\system\CodeIgniter.php(308): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 F:\xampp\htdocs\policy-master-updated\index.php(84): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2021-09-29 08:52:39 --> Undefined index: token
+#0 F:\xampp\htdocs\policy-master-updated\app\Controllers\Quotation.php(1250): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined index...', 'F:\\xampp\\htdocs...', 1250, Array)
+#1 F:\xampp\htdocs\policy-master-updated\vendor\codeigniter4\framework\system\CodeIgniter.php(914): App\Controllers\Quotation->get_medicalquotationsecondtb()
+#2 F:\xampp\htdocs\policy-master-updated\vendor\codeigniter4\framework\system\CodeIgniter.php(400): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Quotation))
+#3 F:\xampp\htdocs\policy-master-updated\vendor\codeigniter4\framework\system\CodeIgniter.php(308): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 F:\xampp\htdocs\policy-master-updated\index.php(84): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2021-09-29 08:52:40 --> Undefined index: token
+#0 F:\xampp\htdocs\policy-master-updated\app\Controllers\Quotation.php(1250): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined index...', 'F:\\xampp\\htdocs...', 1250, Array)
+#1 F:\xampp\htdocs\policy-master-updated\vendor\codeigniter4\framework\system\CodeIgniter.php(914): App\Controllers\Quotation->get_medicalquotationsecondtb()
+#2 F:\xampp\htdocs\policy-master-updated\vendor\codeigniter4\framework\system\CodeIgniter.php(400): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Quotation))
+#3 F:\xampp\htdocs\policy-master-updated\vendor\codeigniter4\framework\system\CodeIgniter.php(308): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 F:\xampp\htdocs\policy-master-updated\index.php(84): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2021-09-29 08:53:06 --> Undefined index: token
+#0 F:\xampp\htdocs\policy-master-updated\app\Controllers\Quotation.php(1250): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined index...', 'F:\\xampp\\htdocs...', 1250, Array)
+#1 F:\xampp\htdocs\policy-master-updated\vendor\codeigniter4\framework\system\CodeIgniter.php(914): App\Controllers\Quotation->get_medicalquotationsecondtb()
+#2 F:\xampp\htdocs\policy-master-updated\vendor\codeigniter4\framework\system\CodeIgniter.php(400): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Quotation))
+#3 F:\xampp\htdocs\policy-master-updated\vendor\codeigniter4\framework\system\CodeIgniter.php(308): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 F:\xampp\htdocs\policy-master-updated\index.php(84): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2021-09-29 08:53:15 --> Undefined index: token
+#0 F:\xampp\htdocs\policy-master-updated\app\Controllers\Quotation.php(1250): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined index...', 'F:\\xampp\\htdocs...', 1250, Array)
+#1 F:\xampp\htdocs\policy-master-updated\vendor\codeigniter4\framework\system\CodeIgniter.php(914): App\Controllers\Quotation->get_medicalquotationsecondtb()
+#2 F:\xampp\htdocs\policy-master-updated\vendor\codeigniter4\framework\system\CodeIgniter.php(400): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Quotation))
+#3 F:\xampp\htdocs\policy-master-updated\vendor\codeigniter4\framework\system\CodeIgniter.php(308): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 F:\xampp\htdocs\policy-master-updated\index.php(84): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2021-09-29 08:53:23 --> Undefined index: token
+#0 F:\xampp\htdocs\policy-master-updated\app\Controllers\Quotation.php(1250): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined index...', 'F:\\xampp\\htdocs...', 1250, Array)
+#1 F:\xampp\htdocs\policy-master-updated\vendor\codeigniter4\framework\system\CodeIgniter.php(914): App\Controllers\Quotation->get_medicalquotationsecondtb()
+#2 F:\xampp\htdocs\policy-master-updated\vendor\codeigniter4\framework\system\CodeIgniter.php(400): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Quotation))
+#3 F:\xampp\htdocs\policy-master-updated\vendor\codeigniter4\framework\system\CodeIgniter.php(308): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 F:\xampp\htdocs\policy-master-updated\index.php(84): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2021-09-29 08:53:34 --> Undefined index: token
+#0 F:\xampp\htdocs\policy-master-updated\app\Controllers\Quotation.php(1250): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined index...', 'F:\\xampp\\htdocs...', 1250, Array)
+#1 F:\xampp\htdocs\policy-master-updated\vendor\codeigniter4\framework\system\CodeIgniter.php(914): App\Controllers\Quotation->get_medicalquotationsecondtb()
+#2 F:\xampp\htdocs\policy-master-updated\vendor\codeigniter4\framework\system\CodeIgniter.php(400): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Quotation))
+#3 F:\xampp\htdocs\policy-master-updated\vendor\codeigniter4\framework\system\CodeIgniter.php(308): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 F:\xampp\htdocs\policy-master-updated\index.php(84): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2021-09-29 08:53:51 --> Undefined index: token
+#0 F:\xampp\htdocs\policy-master-updated\app\Controllers\Quotation.php(1250): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined index...', 'F:\\xampp\\htdocs...', 1250, Array)
+#1 F:\xampp\htdocs\policy-master-updated\vendor\codeigniter4\framework\system\CodeIgniter.php(914): App\Controllers\Quotation->get_medicalquotationsecondtb()
+#2 F:\xampp\htdocs\policy-master-updated\vendor\codeigniter4\framework\system\CodeIgniter.php(400): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Quotation))
+#3 F:\xampp\htdocs\policy-master-updated\vendor\codeigniter4\framework\system\CodeIgniter.php(308): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 F:\xampp\htdocs\policy-master-updated\index.php(84): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2021-09-29 08:54:00 --> Undefined index: token
+#0 F:\xampp\htdocs\policy-master-updated\app\Controllers\Quotation.php(1250): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined index...', 'F:\\xampp\\htdocs...', 1250, Array)
+#1 F:\xampp\htdocs\policy-master-updated\vendor\codeigniter4\framework\system\CodeIgniter.php(914): App\Controllers\Quotation->get_medicalquotationsecondtb()
+#2 F:\xampp\htdocs\policy-master-updated\vendor\codeigniter4\framework\system\CodeIgniter.php(400): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Quotation))
+#3 F:\xampp\htdocs\policy-master-updated\vendor\codeigniter4\framework\system\CodeIgniter.php(308): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 F:\xampp\htdocs\policy-master-updated\index.php(84): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2021-09-29 08:59:59 --> Undefined index: token
+#0 F:\xampp\htdocs\policy-master-updated\app\Controllers\Quotation.php(1250): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined index...', 'F:\\xampp\\htdocs...', 1250, Array)
+#1 F:\xampp\htdocs\policy-master-updated\vendor\codeigniter4\framework\system\CodeIgniter.php(914): App\Controllers\Quotation->get_medicalquotationsecondtb()
+#2 F:\xampp\htdocs\policy-master-updated\vendor\codeigniter4\framework\system\CodeIgniter.php(400): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Quotation))
+#3 F:\xampp\htdocs\policy-master-updated\vendor\codeigniter4\framework\system\CodeIgniter.php(308): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 F:\xampp\htdocs\policy-master-updated\index.php(84): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2021-09-29 09:01:51 --> Undefined index: token
+#0 F:\xampp\htdocs\policy-master-updated\app\Controllers\Quotation.php(1250): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined index...', 'F:\\xampp\\htdocs...', 1250, Array)
+#1 F:\xampp\htdocs\policy-master-updated\vendor\codeigniter4\framework\system\CodeIgniter.php(914): App\Controllers\Quotation->get_medicalquotationsecondtb()
+#2 F:\xampp\htdocs\policy-master-updated\vendor\codeigniter4\framework\system\CodeIgniter.php(400): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Quotation))
+#3 F:\xampp\htdocs\policy-master-updated\vendor\codeigniter4\framework\system\CodeIgniter.php(308): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 F:\xampp\htdocs\policy-master-updated\index.php(84): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2021-09-29 09:04:24 --> Undefined index: token
+#0 F:\xampp\htdocs\policy-master-updated\app\Controllers\Quotation.php(1250): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined index...', 'F:\\xampp\\htdocs...', 1250, Array)
+#1 F:\xampp\htdocs\policy-master-updated\vendor\codeigniter4\framework\system\CodeIgniter.php(914): App\Controllers\Quotation->get_medicalquotationsecondtb()
+#2 F:\xampp\htdocs\policy-master-updated\vendor\codeigniter4\framework\system\CodeIgniter.php(400): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Quotation))
+#3 F:\xampp\htdocs\policy-master-updated\vendor\codeigniter4\framework\system\CodeIgniter.php(308): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 F:\xampp\htdocs\policy-master-updated\index.php(84): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2021-09-29 09:04:35 --> Undefined index: token
+#0 F:\xampp\htdocs\policy-master-updated\app\Controllers\Quotation.php(1250): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined index...', 'F:\\xampp\\htdocs...', 1250, Array)
+#1 F:\xampp\htdocs\policy-master-updated\vendor\codeigniter4\framework\system\CodeIgniter.php(914): App\Controllers\Quotation->get_medicalquotationsecondtb()
+#2 F:\xampp\htdocs\policy-master-updated\vendor\codeigniter4\framework\system\CodeIgniter.php(400): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Quotation))
+#3 F:\xampp\htdocs\policy-master-updated\vendor\codeigniter4\framework\system\CodeIgniter.php(308): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 F:\xampp\htdocs\policy-master-updated\index.php(84): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2021-09-29 09:05:01 --> Class 'Mpdf\Mpdf' not found
+#0 F:\xampp\htdocs\policy-master-updated\vendor\codeigniter4\framework\system\CodeIgniter.php(914): App\Controllers\Export->quotation('1')
+#1 F:\xampp\htdocs\policy-master-updated\vendor\codeigniter4\framework\system\CodeIgniter.php(400): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Export))
+#2 F:\xampp\htdocs\policy-master-updated\vendor\codeigniter4\framework\system\CodeIgniter.php(308): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 F:\xampp\htdocs\policy-master-updated\index.php(84): CodeIgniter\CodeIgniter->run()
+#4 {main}
+CRITICAL - 2021-09-29 09:05:07 --> Class 'Mpdf\Mpdf' not found
+#0 F:\xampp\htdocs\policy-master-updated\vendor\codeigniter4\framework\system\CodeIgniter.php(914): App\Controllers\Export->quotation('1')
+#1 F:\xampp\htdocs\policy-master-updated\vendor\codeigniter4\framework\system\CodeIgniter.php(400): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Export))
+#2 F:\xampp\htdocs\policy-master-updated\vendor\codeigniter4\framework\system\CodeIgniter.php(308): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 F:\xampp\htdocs\policy-master-updated\index.php(84): CodeIgniter\CodeIgniter->run()
+#4 {main}
+CRITICAL - 2021-09-29 09:12:11 --> syntax error, unexpected '$mpdf' (T_VARIABLE), expecting function (T_FUNCTION) or const (T_CONST)
+#0 F:\xampp\htdocs\policy-master-updated\vendor\codeigniter4\framework\system\Router\Router.php(192): CodeIgniter\Router\Router->autoRoute('/export/quotati...')
+#1 F:\xampp\htdocs\policy-master-updated\vendor\codeigniter4\framework\system\CodeIgniter.php(789): CodeIgniter\Router\Router->handle('/export/quotati...')
+#2 F:\xampp\htdocs\policy-master-updated\vendor\codeigniter4\framework\system\CodeIgniter.php(360): CodeIgniter\CodeIgniter->tryToRouteIt(Object(CodeIgniter\Router\RouteCollection))
+#3 F:\xampp\htdocs\policy-master-updated\vendor\codeigniter4\framework\system\CodeIgniter.php(308): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 F:\xampp\htdocs\policy-master-updated\index.php(84): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2021-09-29 09:12:22 --> syntax error, unexpected '$mpdf' (T_VARIABLE), expecting function (T_FUNCTION) or const (T_CONST)
+#0 F:\xampp\htdocs\policy-master-updated\vendor\codeigniter4\framework\system\Router\Router.php(192): CodeIgniter\Router\Router->autoRoute('/export/quotati...')
+#1 F:\xampp\htdocs\policy-master-updated\vendor\codeigniter4\framework\system\CodeIgniter.php(789): CodeIgniter\Router\Router->handle('/export/quotati...')
+#2 F:\xampp\htdocs\policy-master-updated\vendor\codeigniter4\framework\system\CodeIgniter.php(360): CodeIgniter\CodeIgniter->tryToRouteIt(Object(CodeIgniter\Router\RouteCollection))
+#3 F:\xampp\htdocs\policy-master-updated\vendor\codeigniter4\framework\system\CodeIgniter.php(308): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 F:\xampp\htdocs\policy-master-updated\index.php(84): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2021-09-29 09:12:28 --> syntax error, unexpected '$mpdf' (T_VARIABLE), expecting function (T_FUNCTION) or const (T_CONST)
+#0 F:\xampp\htdocs\policy-master-updated\vendor\codeigniter4\framework\system\Router\Router.php(192): CodeIgniter\Router\Router->autoRoute('/export/quotati...')
+#1 F:\xampp\htdocs\policy-master-updated\vendor\codeigniter4\framework\system\CodeIgniter.php(789): CodeIgniter\Router\Router->handle('/export/quotati...')
+#2 F:\xampp\htdocs\policy-master-updated\vendor\codeigniter4\framework\system\CodeIgniter.php(360): CodeIgniter\CodeIgniter->tryToRouteIt(Object(CodeIgniter\Router\RouteCollection))
+#3 F:\xampp\htdocs\policy-master-updated\vendor\codeigniter4\framework\system\CodeIgniter.php(308): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 F:\xampp\htdocs\policy-master-updated\index.php(84): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2021-09-29 09:13:40 --> Undefined variable: res
+#0 F:\xampp\htdocs\policy-master-updated\app\Controllers\Export.php(2446): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined varia...', 'F:\\xampp\\htdocs...', 2446, Array)
+#1 F:\xampp\htdocs\policy-master-updated\vendor\codeigniter4\framework\system\CodeIgniter.php(914): App\Controllers\Export->quotation('1')
+#2 F:\xampp\htdocs\policy-master-updated\vendor\codeigniter4\framework\system\CodeIgniter.php(400): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Export))
+#3 F:\xampp\htdocs\policy-master-updated\vendor\codeigniter4\framework\system\CodeIgniter.php(308): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 F:\xampp\htdocs\policy-master-updated\index.php(84): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2021-09-29 09:15:35 --> Undefined index: total_receivable
+#0 F:\xampp\htdocs\policy-master-updated\app\Controllers\Export.php(2461): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined index...', 'F:\\xampp\\htdocs...', 2461, Array)
+#1 F:\xampp\htdocs\policy-master-updated\vendor\codeigniter4\framework\system\CodeIgniter.php(914): App\Controllers\Export->quotation('1')
+#2 F:\xampp\htdocs\policy-master-updated\vendor\codeigniter4\framework\system\CodeIgniter.php(400): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Export))
+#3 F:\xampp\htdocs\policy-master-updated\vendor\codeigniter4\framework\system\CodeIgniter.php(308): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 F:\xampp\htdocs\policy-master-updated\index.php(84): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2021-09-29 23:53:39 --> Undefined index: token
+#0 F:\xampp\htdocs\policy-master-updated\app\Controllers\Quotation.php(1250): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined index...', 'F:\\xampp\\htdocs...', 1250, Array)
+#1 F:\xampp\htdocs\policy-master-updated\vendor\codeigniter4\framework\system\CodeIgniter.php(914): App\Controllers\Quotation->get_medicalquotationsecondtb()
+#2 F:\xampp\htdocs\policy-master-updated\vendor\codeigniter4\framework\system\CodeIgniter.php(400): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Quotation))
+#3 F:\xampp\htdocs\policy-master-updated\vendor\codeigniter4\framework\system\CodeIgniter.php(308): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 F:\xampp\htdocs\policy-master-updated\index.php(84): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2021-09-29 23:59:53 --> Undefined index: token
+#0 F:\xampp\htdocs\policy-master-updated\app\Controllers\Quotation.php(1250): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined index...', 'F:\\xampp\\htdocs...', 1250, Array)
+#1 F:\xampp\htdocs\policy-master-updated\vendor\codeigniter4\framework\system\CodeIgniter.php(914): App\Controllers\Quotation->get_medicalquotationsecondtb()
+#2 F:\xampp\htdocs\policy-master-updated\vendor\codeigniter4\framework\system\CodeIgniter.php(400): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Quotation))
+#3 F:\xampp\htdocs\policy-master-updated\vendor\codeigniter4\framework\system\CodeIgniter.php(308): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 F:\xampp\htdocs\policy-master-updated\index.php(84): CodeIgniter\CodeIgniter->run()
+#5 {main}

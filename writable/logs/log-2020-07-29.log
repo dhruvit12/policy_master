@@ -1,0 +1,602 @@
+CRITICAL - 2020-07-29 01:29:06 --> Invalid file: login/login.php
+#0 E:\wamp64\www\policy-master\vendor\codeigniter4\framework\system\View\View.php(228): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('login/login.php')
+#1 E:\wamp64\www\policy-master\vendor\codeigniter4\framework\system\Common.php(1087): CodeIgniter\View\View->render('login/login', Array, true)
+#2 E:\wamp64\www\policy-master\app\Controllers\Login.php(73): view('login/login', Array)
+#3 E:\wamp64\www\policy-master\vendor\codeigniter4\framework\system\CodeIgniter.php(914): App\Controllers\Login->index()
+#4 E:\wamp64\www\policy-master\vendor\codeigniter4\framework\system\CodeIgniter.php(400): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Login))
+#5 E:\wamp64\www\policy-master\vendor\codeigniter4\framework\system\CodeIgniter.php(308): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 E:\wamp64\www\policy-master\index.php(84): CodeIgniter\CodeIgniter->run()
+#7 {main}
+CRITICAL - 2020-07-29 05:04:34 --> Invalid file: login/login.php
+#0 E:\wamp64\www\policy-master\vendor\codeigniter4\framework\system\View\View.php(228): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('login/login.php')
+#1 E:\wamp64\www\policy-master\vendor\codeigniter4\framework\system\Common.php(1087): CodeIgniter\View\View->render('login/login', Array, true)
+#2 E:\wamp64\www\policy-master\app\Controllers\Login.php(73): view('login/login', Array)
+#3 E:\wamp64\www\policy-master\vendor\codeigniter4\framework\system\CodeIgniter.php(914): App\Controllers\Login->index()
+#4 E:\wamp64\www\policy-master\vendor\codeigniter4\framework\system\CodeIgniter.php(400): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Login))
+#5 E:\wamp64\www\policy-master\vendor\codeigniter4\framework\system\CodeIgniter.php(308): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 E:\wamp64\www\policy-master\index.php(84): CodeIgniter\CodeIgniter->run()
+#7 {main}
+CRITICAL - 2020-07-29 05:05:51 --> Invalid file: login/login.php
+#0 E:\wamp64\www\policy-master\vendor\codeigniter4\framework\system\View\View.php(228): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('login/login.php')
+#1 E:\wamp64\www\policy-master\vendor\codeigniter4\framework\system\Common.php(1087): CodeIgniter\View\View->render('login/login', Array, true)
+#2 E:\wamp64\www\policy-master\app\Controllers\Login.php(73): view('login/login', Array)
+#3 E:\wamp64\www\policy-master\vendor\codeigniter4\framework\system\CodeIgniter.php(914): App\Controllers\Login->index()
+#4 E:\wamp64\www\policy-master\vendor\codeigniter4\framework\system\CodeIgniter.php(400): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Login))
+#5 E:\wamp64\www\policy-master\vendor\codeigniter4\framework\system\CodeIgniter.php(308): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 E:\wamp64\www\policy-master\index.php(84): CodeIgniter\CodeIgniter->run()
+#7 {main}
+CRITICAL - 2020-07-29 05:07:19 --> Invalid file: login/login.php
+#0 E:\wamp64\www\policy-master\vendor\codeigniter4\framework\system\View\View.php(228): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('login/login.php')
+#1 E:\wamp64\www\policy-master\vendor\codeigniter4\framework\system\Common.php(1087): CodeIgniter\View\View->render('login/login', Array, true)
+#2 E:\wamp64\www\policy-master\app\Controllers\Login.php(73): view('login/login', Array)
+#3 E:\wamp64\www\policy-master\vendor\codeigniter4\framework\system\CodeIgniter.php(914): App\Controllers\Login->index()
+#4 E:\wamp64\www\policy-master\vendor\codeigniter4\framework\system\CodeIgniter.php(400): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Login))
+#5 E:\wamp64\www\policy-master\vendor\codeigniter4\framework\system\CodeIgniter.php(308): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 E:\wamp64\www\policy-master\index.php(84): CodeIgniter\CodeIgniter->run()
+#7 {main}
+CRITICAL - 2020-07-29 05:07:20 --> Invalid file: login/login.php
+#0 E:\wamp64\www\policy-master\vendor\codeigniter4\framework\system\View\View.php(228): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('login/login.php')
+#1 E:\wamp64\www\policy-master\vendor\codeigniter4\framework\system\Common.php(1087): CodeIgniter\View\View->render('login/login', Array, true)
+#2 E:\wamp64\www\policy-master\app\Controllers\Login.php(73): view('login/login', Array)
+#3 E:\wamp64\www\policy-master\vendor\codeigniter4\framework\system\CodeIgniter.php(914): App\Controllers\Login->index()
+#4 E:\wamp64\www\policy-master\vendor\codeigniter4\framework\system\CodeIgniter.php(400): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Login))
+#5 E:\wamp64\www\policy-master\vendor\codeigniter4\framework\system\CodeIgniter.php(308): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 E:\wamp64\www\policy-master\index.php(84): CodeIgniter\CodeIgniter->run()
+#7 {main}
+CRITICAL - 2020-07-29 05:07:20 --> Invalid file: login/login.php
+#0 E:\wamp64\www\policy-master\vendor\codeigniter4\framework\system\View\View.php(228): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('login/login.php')
+#1 E:\wamp64\www\policy-master\vendor\codeigniter4\framework\system\Common.php(1087): CodeIgniter\View\View->render('login/login', Array, true)
+#2 E:\wamp64\www\policy-master\app\Controllers\Login.php(73): view('login/login', Array)
+#3 E:\wamp64\www\policy-master\vendor\codeigniter4\framework\system\CodeIgniter.php(914): App\Controllers\Login->index()
+#4 E:\wamp64\www\policy-master\vendor\codeigniter4\framework\system\CodeIgniter.php(400): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Login))
+#5 E:\wamp64\www\policy-master\vendor\codeigniter4\framework\system\CodeIgniter.php(308): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 E:\wamp64\www\policy-master\index.php(84): CodeIgniter\CodeIgniter->run()
+#7 {main}
+CRITICAL - 2020-07-29 05:07:21 --> Invalid file: login/login.php
+#0 E:\wamp64\www\policy-master\vendor\codeigniter4\framework\system\View\View.php(228): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('login/login.php')
+#1 E:\wamp64\www\policy-master\vendor\codeigniter4\framework\system\Common.php(1087): CodeIgniter\View\View->render('login/login', Array, true)
+#2 E:\wamp64\www\policy-master\app\Controllers\Login.php(73): view('login/login', Array)
+#3 E:\wamp64\www\policy-master\vendor\codeigniter4\framework\system\CodeIgniter.php(914): App\Controllers\Login->index()
+#4 E:\wamp64\www\policy-master\vendor\codeigniter4\framework\system\CodeIgniter.php(400): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Login))
+#5 E:\wamp64\www\policy-master\vendor\codeigniter4\framework\system\CodeIgniter.php(308): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 E:\wamp64\www\policy-master\index.php(84): CodeIgniter\CodeIgniter->run()
+#7 {main}
+CRITICAL - 2020-07-29 05:07:21 --> Invalid file: login/login.php
+#0 E:\wamp64\www\policy-master\vendor\codeigniter4\framework\system\View\View.php(228): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('login/login.php')
+#1 E:\wamp64\www\policy-master\vendor\codeigniter4\framework\system\Common.php(1087): CodeIgniter\View\View->render('login/login', Array, true)
+#2 E:\wamp64\www\policy-master\app\Controllers\Login.php(73): view('login/login', Array)
+#3 E:\wamp64\www\policy-master\vendor\codeigniter4\framework\system\CodeIgniter.php(914): App\Controllers\Login->index()
+#4 E:\wamp64\www\policy-master\vendor\codeigniter4\framework\system\CodeIgniter.php(400): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Login))
+#5 E:\wamp64\www\policy-master\vendor\codeigniter4\framework\system\CodeIgniter.php(308): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 E:\wamp64\www\policy-master\index.php(84): CodeIgniter\CodeIgniter->run()
+#7 {main}
+CRITICAL - 2020-07-29 05:07:48 --> Invalid file: login/login.php
+#0 E:\wamp64\www\policy-master\vendor\codeigniter4\framework\system\View\View.php(228): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('login/login.php')
+#1 E:\wamp64\www\policy-master\vendor\codeigniter4\framework\system\Common.php(1087): CodeIgniter\View\View->render('login/login', Array, true)
+#2 E:\wamp64\www\policy-master\app\Controllers\Login.php(73): view('login/login', Array)
+#3 E:\wamp64\www\policy-master\vendor\codeigniter4\framework\system\CodeIgniter.php(914): App\Controllers\Login->index()
+#4 E:\wamp64\www\policy-master\vendor\codeigniter4\framework\system\CodeIgniter.php(400): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Login))
+#5 E:\wamp64\www\policy-master\vendor\codeigniter4\framework\system\CodeIgniter.php(308): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 E:\wamp64\www\policy-master\index.php(84): CodeIgniter\CodeIgniter->run()
+#7 {main}
+CRITICAL - 2020-07-29 05:15:34 --> Invalid file: login/login.php
+#0 E:\wamp64\www\policy-master\vendor\codeigniter4\framework\system\View\View.php(228): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('login/login.php')
+#1 E:\wamp64\www\policy-master\vendor\codeigniter4\framework\system\Common.php(1087): CodeIgniter\View\View->render('login/login', Array, true)
+#2 E:\wamp64\www\policy-master\app\Controllers\Login.php(73): view('login/login', Array)
+#3 E:\wamp64\www\policy-master\vendor\codeigniter4\framework\system\CodeIgniter.php(914): App\Controllers\Login->index()
+#4 E:\wamp64\www\policy-master\vendor\codeigniter4\framework\system\CodeIgniter.php(400): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Login))
+#5 E:\wamp64\www\policy-master\vendor\codeigniter4\framework\system\CodeIgniter.php(308): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 E:\wamp64\www\policy-master\index.php(84): CodeIgniter\CodeIgniter->run()
+#7 {main}
+CRITICAL - 2020-07-29 05:23:02 --> syntax error, unexpected '}', expecting ',' or ';'
+#0 E:\wamp64\www\policy-master\vendor\codeigniter4\framework\system\Router\Router.php(192): CodeIgniter\Router\Router->autoRoute('/')
+#1 E:\wamp64\www\policy-master\vendor\codeigniter4\framework\system\CodeIgniter.php(789): CodeIgniter\Router\Router->handle('/')
+#2 E:\wamp64\www\policy-master\vendor\codeigniter4\framework\system\CodeIgniter.php(360): CodeIgniter\CodeIgniter->tryToRouteIt(Object(CodeIgniter\Router\RouteCollection))
+#3 E:\wamp64\www\policy-master\vendor\codeigniter4\framework\system\CodeIgniter.php(308): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 E:\wamp64\www\policy-master\index.php(84): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2020-07-29 05:23:40 --> syntax error, unexpected 'die' (T_EXIT), expecting ',' or ';'
+#0 E:\wamp64\www\policy-master\vendor\codeigniter4\framework\system\Router\Router.php(192): CodeIgniter\Router\Router->autoRoute('/')
+#1 E:\wamp64\www\policy-master\vendor\codeigniter4\framework\system\CodeIgniter.php(789): CodeIgniter\Router\Router->handle('/')
+#2 E:\wamp64\www\policy-master\vendor\codeigniter4\framework\system\CodeIgniter.php(360): CodeIgniter\CodeIgniter->tryToRouteIt(Object(CodeIgniter\Router\RouteCollection))
+#3 E:\wamp64\www\policy-master\vendor\codeigniter4\framework\system\CodeIgniter.php(308): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 E:\wamp64\www\policy-master\index.php(84): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2020-07-29 05:24:11 --> syntax error, unexpected 'die' (T_EXIT), expecting ',' or ';'
+#0 E:\wamp64\www\policy-master\vendor\codeigniter4\framework\system\Router\Router.php(192): CodeIgniter\Router\Router->autoRoute('/')
+#1 E:\wamp64\www\policy-master\vendor\codeigniter4\framework\system\CodeIgniter.php(789): CodeIgniter\Router\Router->handle('/')
+#2 E:\wamp64\www\policy-master\vendor\codeigniter4\framework\system\CodeIgniter.php(360): CodeIgniter\CodeIgniter->tryToRouteIt(Object(CodeIgniter\Router\RouteCollection))
+#3 E:\wamp64\www\policy-master\vendor\codeigniter4\framework\system\CodeIgniter.php(308): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 E:\wamp64\www\policy-master\index.php(84): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2020-07-29 05:28:48 --> syntax error, unexpected 'if' (T_IF)
+#0 E:\wamp64\www\policy-master\vendor\codeigniter4\framework\system\Router\Router.php(192): CodeIgniter\Router\Router->autoRoute('/')
+#1 E:\wamp64\www\policy-master\vendor\codeigniter4\framework\system\CodeIgniter.php(789): CodeIgniter\Router\Router->handle('/')
+#2 E:\wamp64\www\policy-master\vendor\codeigniter4\framework\system\CodeIgniter.php(360): CodeIgniter\CodeIgniter->tryToRouteIt(Object(CodeIgniter\Router\RouteCollection))
+#3 E:\wamp64\www\policy-master\vendor\codeigniter4\framework\system\CodeIgniter.php(308): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 E:\wamp64\www\policy-master\index.php(84): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2020-07-29 05:30:07 --> Trying to get property 'views' of non-object
+#0 E:\wamp64\www\policy-master\app\Controllers\Auth.php(48): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Trying to get p...', 'E:\\wamp64\\www\\p...', 48, Array)
+#1 E:\wamp64\www\policy-master\vendor\codeigniter4\framework\system\CodeIgniter.php(914): App\Controllers\Auth->login()
+#2 E:\wamp64\www\policy-master\vendor\codeigniter4\framework\system\CodeIgniter.php(400): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Auth))
+#3 E:\wamp64\www\policy-master\vendor\codeigniter4\framework\system\CodeIgniter.php(308): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 E:\wamp64\www\policy-master\index.php(84): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2020-07-29 05:30:30 --> syntax error, unexpected '}', expecting ';'
+#0 E:\wamp64\www\policy-master\vendor\codeigniter4\framework\system\Router\Router.php(192): CodeIgniter\Router\Router->autoRoute('/')
+#1 E:\wamp64\www\policy-master\vendor\codeigniter4\framework\system\CodeIgniter.php(789): CodeIgniter\Router\Router->handle('/')
+#2 E:\wamp64\www\policy-master\vendor\codeigniter4\framework\system\CodeIgniter.php(360): CodeIgniter\CodeIgniter->tryToRouteIt(Object(CodeIgniter\Router\RouteCollection))
+#3 E:\wamp64\www\policy-master\vendor\codeigniter4\framework\system\CodeIgniter.php(308): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 E:\wamp64\www\policy-master\index.php(84): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2020-07-29 05:31:13 --> Trying to get property 'views' of non-object
+#0 E:\wamp64\www\policy-master\app\Controllers\Auth.php(48): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Trying to get p...', 'E:\\wamp64\\www\\p...', 48, Array)
+#1 E:\wamp64\www\policy-master\vendor\codeigniter4\framework\system\CodeIgniter.php(914): App\Controllers\Auth->login()
+#2 E:\wamp64\www\policy-master\vendor\codeigniter4\framework\system\CodeIgniter.php(400): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Auth))
+#3 E:\wamp64\www\policy-master\vendor\codeigniter4\framework\system\CodeIgniter.php(308): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 E:\wamp64\www\policy-master\index.php(84): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2020-07-29 05:45:11 --> Trying to get property 'views' of non-object
+#0 E:\wamp64\www\policy-master\app\Controllers\Auth.php(48): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Trying to get p...', 'E:\\wamp64\\www\\p...', 48, Array)
+#1 E:\wamp64\www\policy-master\vendor\codeigniter4\framework\system\CodeIgniter.php(914): App\Controllers\Auth->login()
+#2 E:\wamp64\www\policy-master\vendor\codeigniter4\framework\system\CodeIgniter.php(400): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Auth))
+#3 E:\wamp64\www\policy-master\vendor\codeigniter4\framework\system\CodeIgniter.php(308): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 E:\wamp64\www\policy-master\index.php(84): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2020-07-29 07:02:31 --> Trying to get property 'views' of non-object
+#0 E:\wamp64\www\policy-master\app\Controllers\Auth.php(48): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Trying to get p...', 'E:\\wamp64\\www\\p...', 48, Array)
+#1 E:\wamp64\www\policy-master\vendor\codeigniter4\framework\system\CodeIgniter.php(914): App\Controllers\Auth->login()
+#2 E:\wamp64\www\policy-master\vendor\codeigniter4\framework\system\CodeIgniter.php(400): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Auth))
+#3 E:\wamp64\www\policy-master\vendor\codeigniter4\framework\system\CodeIgniter.php(308): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 E:\wamp64\www\policy-master\index.php(84): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2020-07-29 07:02:32 --> Trying to get property 'views' of non-object
+#0 E:\wamp64\www\policy-master\app\Controllers\Auth.php(48): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Trying to get p...', 'E:\\wamp64\\www\\p...', 48, Array)
+#1 E:\wamp64\www\policy-master\vendor\codeigniter4\framework\system\CodeIgniter.php(914): App\Controllers\Auth->login()
+#2 E:\wamp64\www\policy-master\vendor\codeigniter4\framework\system\CodeIgniter.php(400): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Auth))
+#3 E:\wamp64\www\policy-master\vendor\codeigniter4\framework\system\CodeIgniter.php(308): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 E:\wamp64\www\policy-master\index.php(84): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2020-07-29 07:02:32 --> Trying to get property 'views' of non-object
+#0 E:\wamp64\www\policy-master\app\Controllers\Auth.php(48): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Trying to get p...', 'E:\\wamp64\\www\\p...', 48, Array)
+#1 E:\wamp64\www\policy-master\vendor\codeigniter4\framework\system\CodeIgniter.php(914): App\Controllers\Auth->login()
+#2 E:\wamp64\www\policy-master\vendor\codeigniter4\framework\system\CodeIgniter.php(400): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Auth))
+#3 E:\wamp64\www\policy-master\vendor\codeigniter4\framework\system\CodeIgniter.php(308): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 E:\wamp64\www\policy-master\index.php(84): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2020-07-29 07:12:21 --> Trying to get property 'views' of non-object
+#0 E:\wamp64\www\policy-master\app\Controllers\Auth.php(46): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Trying to get p...', 'E:\\wamp64\\www\\p...', 46, Array)
+#1 E:\wamp64\www\policy-master\vendor\codeigniter4\framework\system\CodeIgniter.php(914): App\Controllers\Auth->login()
+#2 E:\wamp64\www\policy-master\vendor\codeigniter4\framework\system\CodeIgniter.php(400): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Auth))
+#3 E:\wamp64\www\policy-master\vendor\codeigniter4\framework\system\CodeIgniter.php(308): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 E:\wamp64\www\policy-master\index.php(84): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2020-07-29 07:12:22 --> Trying to get property 'views' of non-object
+#0 E:\wamp64\www\policy-master\app\Controllers\Auth.php(46): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Trying to get p...', 'E:\\wamp64\\www\\p...', 46, Array)
+#1 E:\wamp64\www\policy-master\vendor\codeigniter4\framework\system\CodeIgniter.php(914): App\Controllers\Auth->login()
+#2 E:\wamp64\www\policy-master\vendor\codeigniter4\framework\system\CodeIgniter.php(400): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Auth))
+#3 E:\wamp64\www\policy-master\vendor\codeigniter4\framework\system\CodeIgniter.php(308): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 E:\wamp64\www\policy-master\index.php(84): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2020-07-29 07:13:45 --> Call to a member function views() on null
+#0 E:\wamp64\www\policy-master\vendor\codeigniter4\framework\system\CodeIgniter.php(914): App\Controllers\Auth->login()
+#1 E:\wamp64\www\policy-master\vendor\codeigniter4\framework\system\CodeIgniter.php(400): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Auth))
+#2 E:\wamp64\www\policy-master\vendor\codeigniter4\framework\system\CodeIgniter.php(308): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 E:\wamp64\www\policy-master\index.php(84): CodeIgniter\CodeIgniter->run()
+#4 {main}
+CRITICAL - 2020-07-29 07:16:17 --> Trying to get property 'views' of non-object
+#0 E:\wamp64\www\policy-master\app\Controllers\Auth.php(46): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Trying to get p...', 'E:\\wamp64\\www\\p...', 46, Array)
+#1 E:\wamp64\www\policy-master\vendor\codeigniter4\framework\system\CodeIgniter.php(914): App\Controllers\Auth->login()
+#2 E:\wamp64\www\policy-master\vendor\codeigniter4\framework\system\CodeIgniter.php(400): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Auth))
+#3 E:\wamp64\www\policy-master\vendor\codeigniter4\framework\system\CodeIgniter.php(308): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 E:\wamp64\www\policy-master\index.php(84): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2020-07-29 07:16:19 --> Trying to get property 'views' of non-object
+#0 E:\wamp64\www\policy-master\app\Controllers\Auth.php(46): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Trying to get p...', 'E:\\wamp64\\www\\p...', 46, Array)
+#1 E:\wamp64\www\policy-master\vendor\codeigniter4\framework\system\CodeIgniter.php(914): App\Controllers\Auth->login()
+#2 E:\wamp64\www\policy-master\vendor\codeigniter4\framework\system\CodeIgniter.php(400): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Auth))
+#3 E:\wamp64\www\policy-master\vendor\codeigniter4\framework\system\CodeIgniter.php(308): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 E:\wamp64\www\policy-master\index.php(84): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2020-07-29 07:43:50 --> Class 'Auth\Models\AuthModel' not found
+#0 E:\wamp64\www\policy-master\vendor\codeigniter4\framework\system\CodeIgniter.php(914): App\Controllers\Auth->attemptLogin()
+#1 E:\wamp64\www\policy-master\vendor\codeigniter4\framework\system\CodeIgniter.php(400): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Auth))
+#2 E:\wamp64\www\policy-master\vendor\codeigniter4\framework\system\CodeIgniter.php(308): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 E:\wamp64\www\policy-master\index.php(84): CodeIgniter\CodeIgniter->run()
+#4 {main}
+CRITICAL - 2020-07-29 07:45:02 --> Table 'mysite.admin' doesn't exist
+#0 E:\wamp64\www\policy-master\vendor\codeigniter4\framework\system\Database\MySQLi\Connection.php(331): mysqli->query('SELECT *\nFROM `...')
+#1 E:\wamp64\www\policy-master\vendor\codeigniter4\framework\system\Database\BaseConnection.php(738): CodeIgniter\Database\MySQLi\Connection->execute('SELECT *\nFROM `...')
+#2 E:\wamp64\www\policy-master\vendor\codeigniter4\framework\system\Database\BaseConnection.php(666): CodeIgniter\Database\BaseConnection->simpleQuery('SELECT *\nFROM `...')
+#3 E:\wamp64\www\policy-master\vendor\codeigniter4\framework\system\Database\BaseBuilder.php(1845): CodeIgniter\Database\BaseConnection->query('SELECT *\nFROM `...', Array, false)
+#4 E:\wamp64\www\policy-master\vendor\codeigniter4\framework\system\Model.php(489): CodeIgniter\Database\BaseBuilder->get()
+#5 E:\wamp64\www\policy-master\app\Controllers\Auth.php(76): CodeIgniter\Model->first()
+#6 E:\wamp64\www\policy-master\vendor\codeigniter4\framework\system\CodeIgniter.php(914): App\Controllers\Auth->attemptLogin()
+#7 E:\wamp64\www\policy-master\vendor\codeigniter4\framework\system\CodeIgniter.php(400): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Auth))
+#8 E:\wamp64\www\policy-master\vendor\codeigniter4\framework\system\CodeIgniter.php(308): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#9 E:\wamp64\www\policy-master\index.php(84): CodeIgniter\CodeIgniter->run()
+#10 {main}
+CRITICAL - 2020-07-29 07:52:01 --> Undefined index: password_hash
+#0 E:\wamp64\www\policy-master\app\Controllers\Auth.php(78): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined index...', 'E:\\wamp64\\www\\p...', 78, Array)
+#1 E:\wamp64\www\policy-master\vendor\codeigniter4\framework\system\CodeIgniter.php(914): App\Controllers\Auth->attemptLogin()
+#2 E:\wamp64\www\policy-master\vendor\codeigniter4\framework\system\CodeIgniter.php(400): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Auth))
+#3 E:\wamp64\www\policy-master\vendor\codeigniter4\framework\system\CodeIgniter.php(308): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 E:\wamp64\www\policy-master\index.php(84): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2020-07-29 08:13:23 --> syntax error, unexpected ';'
+#0 E:\wamp64\www\policy-master\vendor\codeigniter4\framework\system\Router\Router.php(192): CodeIgniter\Router\Router->autoRoute('/auth/attemptLo...')
+#1 E:\wamp64\www\policy-master\vendor\codeigniter4\framework\system\CodeIgniter.php(789): CodeIgniter\Router\Router->handle('/auth/attemptLo...')
+#2 E:\wamp64\www\policy-master\vendor\codeigniter4\framework\system\CodeIgniter.php(360): CodeIgniter\CodeIgniter->tryToRouteIt(Object(CodeIgniter\Router\RouteCollection))
+#3 E:\wamp64\www\policy-master\vendor\codeigniter4\framework\system\CodeIgniter.php(308): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 E:\wamp64\www\policy-master\index.php(84): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2020-07-29 08:14:11 --> syntax error, unexpected 'return' (T_RETURN)
+#0 E:\wamp64\www\policy-master\vendor\codeigniter4\framework\system\Router\Router.php(192): CodeIgniter\Router\Router->autoRoute('/auth/attemptLo...')
+#1 E:\wamp64\www\policy-master\vendor\codeigniter4\framework\system\CodeIgniter.php(789): CodeIgniter\Router\Router->handle('/auth/attemptLo...')
+#2 E:\wamp64\www\policy-master\vendor\codeigniter4\framework\system\CodeIgniter.php(360): CodeIgniter\CodeIgniter->tryToRouteIt(Object(CodeIgniter\Router\RouteCollection))
+#3 E:\wamp64\www\policy-master\vendor\codeigniter4\framework\system\CodeIgniter.php(308): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 E:\wamp64\www\policy-master\index.php(84): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2020-07-29 08:14:48 --> syntax error, unexpected 'return' (T_RETURN)
+#0 E:\wamp64\www\policy-master\vendor\codeigniter4\framework\system\Router\Router.php(192): CodeIgniter\Router\Router->autoRoute('/auth/attemptLo...')
+#1 E:\wamp64\www\policy-master\vendor\codeigniter4\framework\system\CodeIgniter.php(789): CodeIgniter\Router\Router->handle('/auth/attemptLo...')
+#2 E:\wamp64\www\policy-master\vendor\codeigniter4\framework\system\CodeIgniter.php(360): CodeIgniter\CodeIgniter->tryToRouteIt(Object(CodeIgniter\Router\RouteCollection))
+#3 E:\wamp64\www\policy-master\vendor\codeigniter4\framework\system\CodeIgniter.php(308): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 E:\wamp64\www\policy-master\index.php(84): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2020-07-29 08:17:18 --> syntax error, unexpected 'return' (T_RETURN)
+#0 E:\wamp64\www\policy-master\vendor\codeigniter4\framework\system\Router\Router.php(192): CodeIgniter\Router\Router->autoRoute('/auth/attemptLo...')
+#1 E:\wamp64\www\policy-master\vendor\codeigniter4\framework\system\CodeIgniter.php(789): CodeIgniter\Router\Router->handle('/auth/attemptLo...')
+#2 E:\wamp64\www\policy-master\vendor\codeigniter4\framework\system\CodeIgniter.php(360): CodeIgniter\CodeIgniter->tryToRouteIt(Object(CodeIgniter\Router\RouteCollection))
+#3 E:\wamp64\www\policy-master\vendor\codeigniter4\framework\system\CodeIgniter.php(308): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 E:\wamp64\www\policy-master\index.php(84): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2020-07-29 08:19:21 --> syntax error, unexpected 'return' (T_RETURN)
+#0 E:\wamp64\www\policy-master\vendor\codeigniter4\framework\system\Router\Router.php(192): CodeIgniter\Router\Router->autoRoute('/auth/attemptLo...')
+#1 E:\wamp64\www\policy-master\vendor\codeigniter4\framework\system\CodeIgniter.php(789): CodeIgniter\Router\Router->handle('/auth/attemptLo...')
+#2 E:\wamp64\www\policy-master\vendor\codeigniter4\framework\system\CodeIgniter.php(360): CodeIgniter\CodeIgniter->tryToRouteIt(Object(CodeIgniter\Router\RouteCollection))
+#3 E:\wamp64\www\policy-master\vendor\codeigniter4\framework\system\CodeIgniter.php(308): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 E:\wamp64\www\policy-master\index.php(84): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2020-07-29 08:19:52 --> preg_match(): Delimiter must not be alphanumeric or backslash
+#0 [internal function]: CodeIgniter\Debug\Exceptions->errorHandler(2, 'preg_match(): D...', 'E:\\wamp64\\www\\p...', 81, Array)
+#1 E:\wamp64\www\policy-master\app\Controllers\Auth.php(81): preg_match('8d969eef6ecad3c...', '8d969eef6ecad3c...')
+#2 E:\wamp64\www\policy-master\vendor\codeigniter4\framework\system\CodeIgniter.php(914): App\Controllers\Auth->attemptLogin()
+#3 E:\wamp64\www\policy-master\vendor\codeigniter4\framework\system\CodeIgniter.php(400): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Auth))
+#4 E:\wamp64\www\policy-master\vendor\codeigniter4\framework\system\CodeIgniter.php(308): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#5 E:\wamp64\www\policy-master\index.php(84): CodeIgniter\CodeIgniter->run()
+#6 {main}
+CRITICAL - 2020-07-29 08:20:07 --> Call to undefined function App\Controllers\matches()
+#0 E:\wamp64\www\policy-master\vendor\codeigniter4\framework\system\CodeIgniter.php(914): App\Controllers\Auth->attemptLogin()
+#1 E:\wamp64\www\policy-master\vendor\codeigniter4\framework\system\CodeIgniter.php(400): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Auth))
+#2 E:\wamp64\www\policy-master\vendor\codeigniter4\framework\system\CodeIgniter.php(308): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 E:\wamp64\www\policy-master\index.php(84): CodeIgniter\CodeIgniter->run()
+#4 {main}
+CRITICAL - 2020-07-29 08:22:00 --> Call to undefined function App\Controllers\matches()
+#0 E:\wamp64\www\policy-master\vendor\codeigniter4\framework\system\CodeIgniter.php(914): App\Controllers\Auth->attemptLogin()
+#1 E:\wamp64\www\policy-master\vendor\codeigniter4\framework\system\CodeIgniter.php(400): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Auth))
+#2 E:\wamp64\www\policy-master\vendor\codeigniter4\framework\system\CodeIgniter.php(308): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 E:\wamp64\www\policy-master\index.php(84): CodeIgniter\CodeIgniter->run()
+#4 {main}
+CRITICAL - 2020-07-29 08:22:15 --> syntax error, unexpected ','
+#0 E:\wamp64\www\policy-master\vendor\codeigniter4\framework\system\Router\Router.php(192): CodeIgniter\Router\Router->autoRoute('/auth/attemptLo...')
+#1 E:\wamp64\www\policy-master\vendor\codeigniter4\framework\system\CodeIgniter.php(789): CodeIgniter\Router\Router->handle('/auth/attemptLo...')
+#2 E:\wamp64\www\policy-master\vendor\codeigniter4\framework\system\CodeIgniter.php(360): CodeIgniter\CodeIgniter->tryToRouteIt(Object(CodeIgniter\Router\RouteCollection))
+#3 E:\wamp64\www\policy-master\vendor\codeigniter4\framework\system\CodeIgniter.php(308): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 E:\wamp64\www\policy-master\index.php(84): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2020-07-29 08:23:03 --> 
+#0 E:\wamp64\www\policy-master\vendor\codeigniter4\framework\system\HTTP\RedirectResponse.php(92): CodeIgniter\HTTP\Exceptions\HTTPException::forInvalidRedirectRoute('')
+#1 E:\wamp64\www\policy-master\app\Controllers\Auth.php(83): CodeIgniter\HTTP\RedirectResponse->route(false)
+#2 E:\wamp64\www\policy-master\vendor\codeigniter4\framework\system\CodeIgniter.php(914): App\Controllers\Auth->attemptLogin()
+#3 E:\wamp64\www\policy-master\vendor\codeigniter4\framework\system\CodeIgniter.php(400): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Auth))
+#4 E:\wamp64\www\policy-master\vendor\codeigniter4\framework\system\CodeIgniter.php(308): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#5 E:\wamp64\www\policy-master\index.php(84): CodeIgniter\CodeIgniter->run()
+#6 {main}
+CRITICAL - 2020-07-29 08:28:59 --> Undefined index: new_email
+#0 E:\wamp64\www\policy-master\app\Controllers\Auth.php(98): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined index...', 'E:\\wamp64\\www\\p...', 98, Array)
+#1 E:\wamp64\www\policy-master\vendor\codeigniter4\framework\system\CodeIgniter.php(914): App\Controllers\Auth->attemptLogin()
+#2 E:\wamp64\www\policy-master\vendor\codeigniter4\framework\system\CodeIgniter.php(400): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Auth))
+#3 E:\wamp64\www\policy-master\vendor\codeigniter4\framework\system\CodeIgniter.php(308): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 E:\wamp64\www\policy-master\index.php(84): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2020-07-29 08:32:49 --> 
+#0 E:\wamp64\www\policy-master\vendor\codeigniter4\framework\system\HTTP\RedirectResponse.php(92): CodeIgniter\HTTP\Exceptions\HTTPException::forInvalidRedirectRoute('')
+#1 E:\wamp64\www\policy-master\app\Controllers\Auth.php(44): CodeIgniter\HTTP\RedirectResponse->route(false)
+#2 E:\wamp64\www\policy-master\vendor\codeigniter4\framework\system\CodeIgniter.php(914): App\Controllers\Auth->login()
+#3 E:\wamp64\www\policy-master\vendor\codeigniter4\framework\system\CodeIgniter.php(400): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Auth))
+#4 E:\wamp64\www\policy-master\vendor\codeigniter4\framework\system\CodeIgniter.php(308): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#5 E:\wamp64\www\policy-master\index.php(84): CodeIgniter\CodeIgniter->run()
+#6 {main}
+CRITICAL - 2020-07-29 08:32:53 --> 
+#0 E:\wamp64\www\policy-master\vendor\codeigniter4\framework\system\HTTP\RedirectResponse.php(92): CodeIgniter\HTTP\Exceptions\HTTPException::forInvalidRedirectRoute('')
+#1 E:\wamp64\www\policy-master\app\Controllers\Auth.php(44): CodeIgniter\HTTP\RedirectResponse->route(false)
+#2 E:\wamp64\www\policy-master\vendor\codeigniter4\framework\system\CodeIgniter.php(914): App\Controllers\Auth->login()
+#3 E:\wamp64\www\policy-master\vendor\codeigniter4\framework\system\CodeIgniter.php(400): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Auth))
+#4 E:\wamp64\www\policy-master\vendor\codeigniter4\framework\system\CodeIgniter.php(308): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#5 E:\wamp64\www\policy-master\index.php(84): CodeIgniter\CodeIgniter->run()
+#6 {main}
+CRITICAL - 2020-07-29 08:32:54 --> 
+#0 E:\wamp64\www\policy-master\vendor\codeigniter4\framework\system\HTTP\RedirectResponse.php(92): CodeIgniter\HTTP\Exceptions\HTTPException::forInvalidRedirectRoute('')
+#1 E:\wamp64\www\policy-master\app\Controllers\Auth.php(44): CodeIgniter\HTTP\RedirectResponse->route(false)
+#2 E:\wamp64\www\policy-master\vendor\codeigniter4\framework\system\CodeIgniter.php(914): App\Controllers\Auth->login()
+#3 E:\wamp64\www\policy-master\vendor\codeigniter4\framework\system\CodeIgniter.php(400): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Auth))
+#4 E:\wamp64\www\policy-master\vendor\codeigniter4\framework\system\CodeIgniter.php(308): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#5 E:\wamp64\www\policy-master\index.php(84): CodeIgniter\CodeIgniter->run()
+#6 {main}
+CRITICAL - 2020-07-29 08:32:55 --> 
+#0 E:\wamp64\www\policy-master\vendor\codeigniter4\framework\system\HTTP\RedirectResponse.php(92): CodeIgniter\HTTP\Exceptions\HTTPException::forInvalidRedirectRoute('')
+#1 E:\wamp64\www\policy-master\app\Controllers\Auth.php(44): CodeIgniter\HTTP\RedirectResponse->route(false)
+#2 E:\wamp64\www\policy-master\vendor\codeigniter4\framework\system\CodeIgniter.php(914): App\Controllers\Auth->login()
+#3 E:\wamp64\www\policy-master\vendor\codeigniter4\framework\system\CodeIgniter.php(400): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Auth))
+#4 E:\wamp64\www\policy-master\vendor\codeigniter4\framework\system\CodeIgniter.php(308): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#5 E:\wamp64\www\policy-master\index.php(84): CodeIgniter\CodeIgniter->run()
+#6 {main}
+CRITICAL - 2020-07-29 08:32:55 --> 
+#0 E:\wamp64\www\policy-master\vendor\codeigniter4\framework\system\HTTP\RedirectResponse.php(92): CodeIgniter\HTTP\Exceptions\HTTPException::forInvalidRedirectRoute('')
+#1 E:\wamp64\www\policy-master\app\Controllers\Auth.php(44): CodeIgniter\HTTP\RedirectResponse->route(false)
+#2 E:\wamp64\www\policy-master\vendor\codeigniter4\framework\system\CodeIgniter.php(914): App\Controllers\Auth->login()
+#3 E:\wamp64\www\policy-master\vendor\codeigniter4\framework\system\CodeIgniter.php(400): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Auth))
+#4 E:\wamp64\www\policy-master\vendor\codeigniter4\framework\system\CodeIgniter.php(308): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#5 E:\wamp64\www\policy-master\index.php(84): CodeIgniter\CodeIgniter->run()
+#6 {main}
+CRITICAL - 2020-07-29 08:32:56 --> 
+#0 E:\wamp64\www\policy-master\vendor\codeigniter4\framework\system\HTTP\RedirectResponse.php(92): CodeIgniter\HTTP\Exceptions\HTTPException::forInvalidRedirectRoute('')
+#1 E:\wamp64\www\policy-master\app\Controllers\Auth.php(44): CodeIgniter\HTTP\RedirectResponse->route(false)
+#2 E:\wamp64\www\policy-master\vendor\codeigniter4\framework\system\CodeIgniter.php(914): App\Controllers\Auth->login()
+#3 E:\wamp64\www\policy-master\vendor\codeigniter4\framework\system\CodeIgniter.php(400): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Auth))
+#4 E:\wamp64\www\policy-master\vendor\codeigniter4\framework\system\CodeIgniter.php(308): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#5 E:\wamp64\www\policy-master\index.php(84): CodeIgniter\CodeIgniter->run()
+#6 {main}
+CRITICAL - 2020-07-29 08:32:56 --> 
+#0 E:\wamp64\www\policy-master\vendor\codeigniter4\framework\system\HTTP\RedirectResponse.php(92): CodeIgniter\HTTP\Exceptions\HTTPException::forInvalidRedirectRoute('')
+#1 E:\wamp64\www\policy-master\app\Controllers\Auth.php(44): CodeIgniter\HTTP\RedirectResponse->route(false)
+#2 E:\wamp64\www\policy-master\vendor\codeigniter4\framework\system\CodeIgniter.php(914): App\Controllers\Auth->login()
+#3 E:\wamp64\www\policy-master\vendor\codeigniter4\framework\system\CodeIgniter.php(400): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Auth))
+#4 E:\wamp64\www\policy-master\vendor\codeigniter4\framework\system\CodeIgniter.php(308): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#5 E:\wamp64\www\policy-master\index.php(84): CodeIgniter\CodeIgniter->run()
+#6 {main}
+CRITICAL - 2020-07-29 08:33:49 --> 
+#0 E:\wamp64\www\policy-master\vendor\codeigniter4\framework\system\HTTP\RedirectResponse.php(92): CodeIgniter\HTTP\Exceptions\HTTPException::forInvalidRedirectRoute('')
+#1 E:\wamp64\www\policy-master\app\Controllers\Auth.php(44): CodeIgniter\HTTP\RedirectResponse->route(false)
+#2 E:\wamp64\www\policy-master\vendor\codeigniter4\framework\system\CodeIgniter.php(914): App\Controllers\Auth->login()
+#3 E:\wamp64\www\policy-master\vendor\codeigniter4\framework\system\CodeIgniter.php(400): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Auth))
+#4 E:\wamp64\www\policy-master\vendor\codeigniter4\framework\system\CodeIgniter.php(308): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#5 E:\wamp64\www\policy-master\index.php(84): CodeIgniter\CodeIgniter->run()
+#6 {main}
+CRITICAL - 2020-07-29 08:33:57 --> 
+#0 E:\wamp64\www\policy-master\vendor\codeigniter4\framework\system\HTTP\RedirectResponse.php(92): CodeIgniter\HTTP\Exceptions\HTTPException::forInvalidRedirectRoute('')
+#1 E:\wamp64\www\policy-master\app\Controllers\Auth.php(44): CodeIgniter\HTTP\RedirectResponse->route(false)
+#2 E:\wamp64\www\policy-master\vendor\codeigniter4\framework\system\CodeIgniter.php(914): App\Controllers\Auth->login()
+#3 E:\wamp64\www\policy-master\vendor\codeigniter4\framework\system\CodeIgniter.php(400): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Auth))
+#4 E:\wamp64\www\policy-master\vendor\codeigniter4\framework\system\CodeIgniter.php(308): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#5 E:\wamp64\www\policy-master\index.php(84): CodeIgniter\CodeIgniter->run()
+#6 {main}
+CRITICAL - 2020-07-29 08:33:58 --> 
+#0 E:\wamp64\www\policy-master\vendor\codeigniter4\framework\system\HTTP\RedirectResponse.php(92): CodeIgniter\HTTP\Exceptions\HTTPException::forInvalidRedirectRoute('')
+#1 E:\wamp64\www\policy-master\app\Controllers\Auth.php(44): CodeIgniter\HTTP\RedirectResponse->route(false)
+#2 E:\wamp64\www\policy-master\vendor\codeigniter4\framework\system\CodeIgniter.php(914): App\Controllers\Auth->login()
+#3 E:\wamp64\www\policy-master\vendor\codeigniter4\framework\system\CodeIgniter.php(400): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Auth))
+#4 E:\wamp64\www\policy-master\vendor\codeigniter4\framework\system\CodeIgniter.php(308): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#5 E:\wamp64\www\policy-master\index.php(84): CodeIgniter\CodeIgniter->run()
+#6 {main}
+CRITICAL - 2020-07-29 08:34:46 --> 
+#0 E:\wamp64\www\policy-master\vendor\codeigniter4\framework\system\HTTP\RedirectResponse.php(92): CodeIgniter\HTTP\Exceptions\HTTPException::forInvalidRedirectRoute('')
+#1 E:\wamp64\www\policy-master\app\Controllers\Auth.php(44): CodeIgniter\HTTP\RedirectResponse->route(false)
+#2 E:\wamp64\www\policy-master\vendor\codeigniter4\framework\system\CodeIgniter.php(914): App\Controllers\Auth->login()
+#3 E:\wamp64\www\policy-master\vendor\codeigniter4\framework\system\CodeIgniter.php(400): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Auth))
+#4 E:\wamp64\www\policy-master\vendor\codeigniter4\framework\system\CodeIgniter.php(308): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#5 E:\wamp64\www\policy-master\index.php(84): CodeIgniter\CodeIgniter->run()
+#6 {main}
+CRITICAL - 2020-07-29 08:34:48 --> 
+#0 E:\wamp64\www\policy-master\vendor\codeigniter4\framework\system\HTTP\RedirectResponse.php(92): CodeIgniter\HTTP\Exceptions\HTTPException::forInvalidRedirectRoute('')
+#1 E:\wamp64\www\policy-master\app\Controllers\Auth.php(44): CodeIgniter\HTTP\RedirectResponse->route(false)
+#2 E:\wamp64\www\policy-master\vendor\codeigniter4\framework\system\CodeIgniter.php(914): App\Controllers\Auth->login()
+#3 E:\wamp64\www\policy-master\vendor\codeigniter4\framework\system\CodeIgniter.php(400): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Auth))
+#4 E:\wamp64\www\policy-master\vendor\codeigniter4\framework\system\CodeIgniter.php(308): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#5 E:\wamp64\www\policy-master\index.php(84): CodeIgniter\CodeIgniter->run()
+#6 {main}
+CRITICAL - 2020-07-29 08:35:27 --> 
+#0 E:\wamp64\www\policy-master\vendor\codeigniter4\framework\system\HTTP\RedirectResponse.php(92): CodeIgniter\HTTP\Exceptions\HTTPException::forInvalidRedirectRoute('')
+#1 E:\wamp64\www\policy-master\app\Controllers\Auth.php(44): CodeIgniter\HTTP\RedirectResponse->route(false)
+#2 E:\wamp64\www\policy-master\vendor\codeigniter4\framework\system\CodeIgniter.php(914): App\Controllers\Auth->login()
+#3 E:\wamp64\www\policy-master\vendor\codeigniter4\framework\system\CodeIgniter.php(400): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Auth))
+#4 E:\wamp64\www\policy-master\vendor\codeigniter4\framework\system\CodeIgniter.php(308): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#5 E:\wamp64\www\policy-master\index.php(84): CodeIgniter\CodeIgniter->run()
+#6 {main}
+CRITICAL - 2020-07-29 08:35:33 --> 
+#0 E:\wamp64\www\policy-master\vendor\codeigniter4\framework\system\HTTP\RedirectResponse.php(92): CodeIgniter\HTTP\Exceptions\HTTPException::forInvalidRedirectRoute('')
+#1 E:\wamp64\www\policy-master\app\Controllers\Auth.php(44): CodeIgniter\HTTP\RedirectResponse->route(false)
+#2 E:\wamp64\www\policy-master\vendor\codeigniter4\framework\system\CodeIgniter.php(914): App\Controllers\Auth->login()
+#3 E:\wamp64\www\policy-master\vendor\codeigniter4\framework\system\CodeIgniter.php(400): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Auth))
+#4 E:\wamp64\www\policy-master\vendor\codeigniter4\framework\system\CodeIgniter.php(308): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#5 E:\wamp64\www\policy-master\index.php(84): CodeIgniter\CodeIgniter->run()
+#6 {main}
+CRITICAL - 2020-07-29 08:35:52 --> 
+#0 E:\wamp64\www\policy-master\vendor\codeigniter4\framework\system\HTTP\RedirectResponse.php(92): CodeIgniter\HTTP\Exceptions\HTTPException::forInvalidRedirectRoute('')
+#1 E:\wamp64\www\policy-master\app\Controllers\Auth.php(44): CodeIgniter\HTTP\RedirectResponse->route(false)
+#2 E:\wamp64\www\policy-master\vendor\codeigniter4\framework\system\CodeIgniter.php(914): App\Controllers\Auth->login()
+#3 E:\wamp64\www\policy-master\vendor\codeigniter4\framework\system\CodeIgniter.php(400): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Auth))
+#4 E:\wamp64\www\policy-master\vendor\codeigniter4\framework\system\CodeIgniter.php(308): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#5 E:\wamp64\www\policy-master\index.php(84): CodeIgniter\CodeIgniter->run()
+#6 {main}
+CRITICAL - 2020-07-29 08:35:53 --> 
+#0 E:\wamp64\www\policy-master\vendor\codeigniter4\framework\system\HTTP\RedirectResponse.php(92): CodeIgniter\HTTP\Exceptions\HTTPException::forInvalidRedirectRoute('')
+#1 E:\wamp64\www\policy-master\app\Controllers\Auth.php(44): CodeIgniter\HTTP\RedirectResponse->route(false)
+#2 E:\wamp64\www\policy-master\vendor\codeigniter4\framework\system\CodeIgniter.php(914): App\Controllers\Auth->login()
+#3 E:\wamp64\www\policy-master\vendor\codeigniter4\framework\system\CodeIgniter.php(400): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Auth))
+#4 E:\wamp64\www\policy-master\vendor\codeigniter4\framework\system\CodeIgniter.php(308): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#5 E:\wamp64\www\policy-master\index.php(84): CodeIgniter\CodeIgniter->run()
+#6 {main}
+CRITICAL - 2020-07-29 08:35:54 --> 
+#0 E:\wamp64\www\policy-master\vendor\codeigniter4\framework\system\HTTP\RedirectResponse.php(92): CodeIgniter\HTTP\Exceptions\HTTPException::forInvalidRedirectRoute('')
+#1 E:\wamp64\www\policy-master\app\Controllers\Auth.php(44): CodeIgniter\HTTP\RedirectResponse->route(false)
+#2 E:\wamp64\www\policy-master\vendor\codeigniter4\framework\system\CodeIgniter.php(914): App\Controllers\Auth->login()
+#3 E:\wamp64\www\policy-master\vendor\codeigniter4\framework\system\CodeIgniter.php(400): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Auth))
+#4 E:\wamp64\www\policy-master\vendor\codeigniter4\framework\system\CodeIgniter.php(308): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#5 E:\wamp64\www\policy-master\index.php(84): CodeIgniter\CodeIgniter->run()
+#6 {main}
+CRITICAL - 2020-07-29 08:35:54 --> 
+#0 E:\wamp64\www\policy-master\vendor\codeigniter4\framework\system\HTTP\RedirectResponse.php(92): CodeIgniter\HTTP\Exceptions\HTTPException::forInvalidRedirectRoute('')
+#1 E:\wamp64\www\policy-master\app\Controllers\Auth.php(44): CodeIgniter\HTTP\RedirectResponse->route(false)
+#2 E:\wamp64\www\policy-master\vendor\codeigniter4\framework\system\CodeIgniter.php(914): App\Controllers\Auth->login()
+#3 E:\wamp64\www\policy-master\vendor\codeigniter4\framework\system\CodeIgniter.php(400): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Auth))
+#4 E:\wamp64\www\policy-master\vendor\codeigniter4\framework\system\CodeIgniter.php(308): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#5 E:\wamp64\www\policy-master\index.php(84): CodeIgniter\CodeIgniter->run()
+#6 {main}
+CRITICAL - 2020-07-29 08:36:09 --> 
+#0 E:\wamp64\www\policy-master\vendor\codeigniter4\framework\system\HTTP\RedirectResponse.php(92): CodeIgniter\HTTP\Exceptions\HTTPException::forInvalidRedirectRoute('')
+#1 E:\wamp64\www\policy-master\app\Controllers\Auth.php(44): CodeIgniter\HTTP\RedirectResponse->route(false)
+#2 E:\wamp64\www\policy-master\vendor\codeigniter4\framework\system\CodeIgniter.php(914): App\Controllers\Auth->login()
+#3 E:\wamp64\www\policy-master\vendor\codeigniter4\framework\system\CodeIgniter.php(400): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Auth))
+#4 E:\wamp64\www\policy-master\vendor\codeigniter4\framework\system\CodeIgniter.php(308): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#5 E:\wamp64\www\policy-master\index.php(84): CodeIgniter\CodeIgniter->run()
+#6 {main}
+CRITICAL - 2020-07-29 08:36:17 --> 
+#0 E:\wamp64\www\policy-master\vendor\codeigniter4\framework\system\HTTP\RedirectResponse.php(92): CodeIgniter\HTTP\Exceptions\HTTPException::forInvalidRedirectRoute('')
+#1 E:\wamp64\www\policy-master\app\Controllers\Auth.php(44): CodeIgniter\HTTP\RedirectResponse->route(false)
+#2 E:\wamp64\www\policy-master\vendor\codeigniter4\framework\system\CodeIgniter.php(914): App\Controllers\Auth->login()
+#3 E:\wamp64\www\policy-master\vendor\codeigniter4\framework\system\CodeIgniter.php(400): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Auth))
+#4 E:\wamp64\www\policy-master\vendor\codeigniter4\framework\system\CodeIgniter.php(308): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#5 E:\wamp64\www\policy-master\index.php(84): CodeIgniter\CodeIgniter->run()
+#6 {main}
+CRITICAL - 2020-07-29 08:36:31 --> 
+#0 E:\wamp64\www\policy-master\vendor\codeigniter4\framework\system\HTTP\RedirectResponse.php(92): CodeIgniter\HTTP\Exceptions\HTTPException::forInvalidRedirectRoute('')
+#1 E:\wamp64\www\policy-master\app\Controllers\Auth.php(44): CodeIgniter\HTTP\RedirectResponse->route(false)
+#2 E:\wamp64\www\policy-master\vendor\codeigniter4\framework\system\CodeIgniter.php(914): App\Controllers\Auth->login()
+#3 E:\wamp64\www\policy-master\vendor\codeigniter4\framework\system\CodeIgniter.php(400): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Auth))
+#4 E:\wamp64\www\policy-master\vendor\codeigniter4\framework\system\CodeIgniter.php(308): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#5 E:\wamp64\www\policy-master\index.php(84): CodeIgniter\CodeIgniter->run()
+#6 {main}
+CRITICAL - 2020-07-29 08:36:33 --> 
+#0 E:\wamp64\www\policy-master\vendor\codeigniter4\framework\system\HTTP\RedirectResponse.php(92): CodeIgniter\HTTP\Exceptions\HTTPException::forInvalidRedirectRoute('')
+#1 E:\wamp64\www\policy-master\app\Controllers\Auth.php(44): CodeIgniter\HTTP\RedirectResponse->route(false)
+#2 E:\wamp64\www\policy-master\vendor\codeigniter4\framework\system\CodeIgniter.php(914): App\Controllers\Auth->login()
+#3 E:\wamp64\www\policy-master\vendor\codeigniter4\framework\system\CodeIgniter.php(400): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Auth))
+#4 E:\wamp64\www\policy-master\vendor\codeigniter4\framework\system\CodeIgniter.php(308): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#5 E:\wamp64\www\policy-master\index.php(84): CodeIgniter\CodeIgniter->run()
+#6 {main}
+CRITICAL - 2020-07-29 08:36:33 --> 
+#0 E:\wamp64\www\policy-master\vendor\codeigniter4\framework\system\HTTP\RedirectResponse.php(92): CodeIgniter\HTTP\Exceptions\HTTPException::forInvalidRedirectRoute('')
+#1 E:\wamp64\www\policy-master\app\Controllers\Auth.php(44): CodeIgniter\HTTP\RedirectResponse->route(false)
+#2 E:\wamp64\www\policy-master\vendor\codeigniter4\framework\system\CodeIgniter.php(914): App\Controllers\Auth->login()
+#3 E:\wamp64\www\policy-master\vendor\codeigniter4\framework\system\CodeIgniter.php(400): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Auth))
+#4 E:\wamp64\www\policy-master\vendor\codeigniter4\framework\system\CodeIgniter.php(308): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#5 E:\wamp64\www\policy-master\index.php(84): CodeIgniter\CodeIgniter->run()
+#6 {main}
+CRITICAL - 2020-07-29 08:36:55 --> 
+#0 E:\wamp64\www\policy-master\vendor\codeigniter4\framework\system\HTTP\RedirectResponse.php(92): CodeIgniter\HTTP\Exceptions\HTTPException::forInvalidRedirectRoute('')
+#1 E:\wamp64\www\policy-master\app\Controllers\Auth.php(44): CodeIgniter\HTTP\RedirectResponse->route(false)
+#2 E:\wamp64\www\policy-master\vendor\codeigniter4\framework\system\CodeIgniter.php(914): App\Controllers\Auth->login()
+#3 E:\wamp64\www\policy-master\vendor\codeigniter4\framework\system\CodeIgniter.php(400): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Auth))
+#4 E:\wamp64\www\policy-master\vendor\codeigniter4\framework\system\CodeIgniter.php(308): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#5 E:\wamp64\www\policy-master\index.php(84): CodeIgniter\CodeIgniter->run()
+#6 {main}
+CRITICAL - 2020-07-29 08:39:38 --> 
+#0 E:\wamp64\www\policy-master\vendor\codeigniter4\framework\system\HTTP\RedirectResponse.php(92): CodeIgniter\HTTP\Exceptions\HTTPException::forInvalidRedirectRoute('')
+#1 E:\wamp64\www\policy-master\app\Controllers\Auth.php(44): CodeIgniter\HTTP\RedirectResponse->route(false)
+#2 E:\wamp64\www\policy-master\vendor\codeigniter4\framework\system\CodeIgniter.php(914): App\Controllers\Auth->login()
+#3 E:\wamp64\www\policy-master\vendor\codeigniter4\framework\system\CodeIgniter.php(400): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Auth))
+#4 E:\wamp64\www\policy-master\vendor\codeigniter4\framework\system\CodeIgniter.php(308): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#5 E:\wamp64\www\policy-master\index.php(84): CodeIgniter\CodeIgniter->run()
+#6 {main}
+CRITICAL - 2020-07-29 08:40:00 --> 
+#0 E:\wamp64\www\policy-master\vendor\codeigniter4\framework\system\HTTP\RedirectResponse.php(92): CodeIgniter\HTTP\Exceptions\HTTPException::forInvalidRedirectRoute('')
+#1 E:\wamp64\www\policy-master\app\Controllers\Auth.php(44): CodeIgniter\HTTP\RedirectResponse->route(false)
+#2 E:\wamp64\www\policy-master\vendor\codeigniter4\framework\system\CodeIgniter.php(914): App\Controllers\Auth->login()
+#3 E:\wamp64\www\policy-master\vendor\codeigniter4\framework\system\CodeIgniter.php(400): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Auth))
+#4 E:\wamp64\www\policy-master\vendor\codeigniter4\framework\system\CodeIgniter.php(308): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#5 E:\wamp64\www\policy-master\index.php(84): CodeIgniter\CodeIgniter->run()
+#6 {main}
+CRITICAL - 2020-07-29 08:40:02 --> 
+#0 E:\wamp64\www\policy-master\vendor\codeigniter4\framework\system\HTTP\RedirectResponse.php(92): CodeIgniter\HTTP\Exceptions\HTTPException::forInvalidRedirectRoute('')
+#1 E:\wamp64\www\policy-master\app\Controllers\Auth.php(44): CodeIgniter\HTTP\RedirectResponse->route(false)
+#2 E:\wamp64\www\policy-master\vendor\codeigniter4\framework\system\CodeIgniter.php(914): App\Controllers\Auth->login()
+#3 E:\wamp64\www\policy-master\vendor\codeigniter4\framework\system\CodeIgniter.php(400): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Auth))
+#4 E:\wamp64\www\policy-master\vendor\codeigniter4\framework\system\CodeIgniter.php(308): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#5 E:\wamp64\www\policy-master\index.php(84): CodeIgniter\CodeIgniter->run()
+#6 {main}
+CRITICAL - 2020-07-29 08:40:12 --> 
+#0 E:\wamp64\www\policy-master\vendor\codeigniter4\framework\system\HTTP\RedirectResponse.php(92): CodeIgniter\HTTP\Exceptions\HTTPException::forInvalidRedirectRoute('')
+#1 E:\wamp64\www\policy-master\app\Controllers\Auth.php(44): CodeIgniter\HTTP\RedirectResponse->route(false)
+#2 E:\wamp64\www\policy-master\vendor\codeigniter4\framework\system\CodeIgniter.php(914): App\Controllers\Auth->login()
+#3 E:\wamp64\www\policy-master\vendor\codeigniter4\framework\system\CodeIgniter.php(400): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Auth))
+#4 E:\wamp64\www\policy-master\vendor\codeigniter4\framework\system\CodeIgniter.php(308): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#5 E:\wamp64\www\policy-master\index.php(84): CodeIgniter\CodeIgniter->run()
+#6 {main}
+CRITICAL - 2020-07-29 08:40:12 --> 
+#0 E:\wamp64\www\policy-master\vendor\codeigniter4\framework\system\HTTP\RedirectResponse.php(92): CodeIgniter\HTTP\Exceptions\HTTPException::forInvalidRedirectRoute('')
+#1 E:\wamp64\www\policy-master\app\Controllers\Auth.php(44): CodeIgniter\HTTP\RedirectResponse->route(false)
+#2 E:\wamp64\www\policy-master\vendor\codeigniter4\framework\system\CodeIgniter.php(914): App\Controllers\Auth->login()
+#3 E:\wamp64\www\policy-master\vendor\codeigniter4\framework\system\CodeIgniter.php(400): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Auth))
+#4 E:\wamp64\www\policy-master\vendor\codeigniter4\framework\system\CodeIgniter.php(308): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#5 E:\wamp64\www\policy-master\index.php(84): CodeIgniter\CodeIgniter->run()
+#6 {main}
+CRITICAL - 2020-07-29 08:40:24 --> 
+#0 E:\wamp64\www\policy-master\vendor\codeigniter4\framework\system\HTTP\RedirectResponse.php(92): CodeIgniter\HTTP\Exceptions\HTTPException::forInvalidRedirectRoute('')
+#1 E:\wamp64\www\policy-master\app\Controllers\Auth.php(44): CodeIgniter\HTTP\RedirectResponse->route(false)
+#2 E:\wamp64\www\policy-master\vendor\codeigniter4\framework\system\CodeIgniter.php(914): App\Controllers\Auth->login()
+#3 E:\wamp64\www\policy-master\vendor\codeigniter4\framework\system\CodeIgniter.php(400): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Auth))
+#4 E:\wamp64\www\policy-master\vendor\codeigniter4\framework\system\CodeIgniter.php(308): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#5 E:\wamp64\www\policy-master\index.php(84): CodeIgniter\CodeIgniter->run()
+#6 {main}
+CRITICAL - 2020-07-29 08:40:53 --> 
+#0 E:\wamp64\www\policy-master\vendor\codeigniter4\framework\system\HTTP\RedirectResponse.php(92): CodeIgniter\HTTP\Exceptions\HTTPException::forInvalidRedirectRoute('')
+#1 E:\wamp64\www\policy-master\app\Controllers\Auth.php(44): CodeIgniter\HTTP\RedirectResponse->route(false)
+#2 E:\wamp64\www\policy-master\vendor\codeigniter4\framework\system\CodeIgniter.php(914): App\Controllers\Auth->login()
+#3 E:\wamp64\www\policy-master\vendor\codeigniter4\framework\system\CodeIgniter.php(400): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Auth))
+#4 E:\wamp64\www\policy-master\vendor\codeigniter4\framework\system\CodeIgniter.php(308): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#5 E:\wamp64\www\policy-master\index.php(84): CodeIgniter\CodeIgniter->run()
+#6 {main}
+CRITICAL - 2020-07-29 08:43:23 --> syntax error, unexpected '}'
+#0 E:\wamp64\www\policy-master\vendor\codeigniter4\framework\system\Router\Router.php(192): CodeIgniter\Router\Router->autoRoute('/auth/dashboard')
+#1 E:\wamp64\www\policy-master\vendor\codeigniter4\framework\system\CodeIgniter.php(789): CodeIgniter\Router\Router->handle('/auth/dashboard')
+#2 E:\wamp64\www\policy-master\vendor\codeigniter4\framework\system\CodeIgniter.php(360): CodeIgniter\CodeIgniter->tryToRouteIt(Object(CodeIgniter\Router\RouteCollection))
+#3 E:\wamp64\www\policy-master\vendor\codeigniter4\framework\system\CodeIgniter.php(308): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 E:\wamp64\www\policy-master\index.php(84): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2020-07-29 08:46:51 --> Undefined index: isLoggedIn
+#0 E:\wamp64\www\policy-master\app\Views\top_navbar.php(178): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined index...', 'E:\\wamp64\\www\\p...', 178, Array)
+#1 E:\wamp64\www\policy-master\vendor\codeigniter4\framework\system\View\View.php(246): include('E:\\wamp64\\www\\p...')
+#2 E:\wamp64\www\policy-master\vendor\codeigniter4\framework\system\Common.php(1087): CodeIgniter\View\View->render('top_navbar', Array, true)
+#3 E:\wamp64\www\policy-master\app\Controllers\BaseController.php(52): view('top_navbar', Array)
+#4 E:\wamp64\www\policy-master\app\Controllers\Auth.php(110): App\Controllers\BaseController->render_page('dashboard/dashb...', Array)
+#5 E:\wamp64\www\policy-master\vendor\codeigniter4\framework\system\CodeIgniter.php(914): App\Controllers\Auth->dashboard()
+#6 E:\wamp64\www\policy-master\vendor\codeigniter4\framework\system\CodeIgniter.php(400): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Auth))
+#7 E:\wamp64\www\policy-master\vendor\codeigniter4\framework\system\CodeIgniter.php(308): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#8 E:\wamp64\www\policy-master\index.php(84): CodeIgniter\CodeIgniter->run()
+#9 {main}
+CRITICAL - 2020-07-29 08:48:14 --> Undefined index: isLoggedIn
+#0 E:\wamp64\www\policy-master\app\Views\top_navbar.php(178): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined index...', 'E:\\wamp64\\www\\p...', 178, Array)
+#1 E:\wamp64\www\policy-master\vendor\codeigniter4\framework\system\View\View.php(246): include('E:\\wamp64\\www\\p...')
+#2 E:\wamp64\www\policy-master\vendor\codeigniter4\framework\system\Common.php(1087): CodeIgniter\View\View->render('top_navbar', Array, true)
+#3 E:\wamp64\www\policy-master\app\Controllers\BaseController.php(52): view('top_navbar', Array)
+#4 E:\wamp64\www\policy-master\app\Controllers\Auth.php(110): App\Controllers\BaseController->render_page('dashboard/dashb...', Array)
+#5 E:\wamp64\www\policy-master\vendor\codeigniter4\framework\system\CodeIgniter.php(914): App\Controllers\Auth->dashboard()
+#6 E:\wamp64\www\policy-master\vendor\codeigniter4\framework\system\CodeIgniter.php(400): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Auth))
+#7 E:\wamp64\www\policy-master\vendor\codeigniter4\framework\system\CodeIgniter.php(308): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#8 E:\wamp64\www\policy-master\index.php(84): CodeIgniter\CodeIgniter->run()
+#9 {main}
+CRITICAL - 2020-07-29 08:48:15 --> Undefined index: isLoggedIn
+#0 E:\wamp64\www\policy-master\app\Views\top_navbar.php(178): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined index...', 'E:\\wamp64\\www\\p...', 178, Array)
+#1 E:\wamp64\www\policy-master\vendor\codeigniter4\framework\system\View\View.php(246): include('E:\\wamp64\\www\\p...')
+#2 E:\wamp64\www\policy-master\vendor\codeigniter4\framework\system\Common.php(1087): CodeIgniter\View\View->render('top_navbar', Array, true)
+#3 E:\wamp64\www\policy-master\app\Controllers\BaseController.php(52): view('top_navbar', Array)
+#4 E:\wamp64\www\policy-master\app\Controllers\Auth.php(110): App\Controllers\BaseController->render_page('dashboard/dashb...', Array)
+#5 E:\wamp64\www\policy-master\vendor\codeigniter4\framework\system\CodeIgniter.php(914): App\Controllers\Auth->dashboard()
+#6 E:\wamp64\www\policy-master\vendor\codeigniter4\framework\system\CodeIgniter.php(400): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Auth))
+#7 E:\wamp64\www\policy-master\vendor\codeigniter4\framework\system\CodeIgniter.php(308): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#8 E:\wamp64\www\policy-master\index.php(84): CodeIgniter\CodeIgniter->run()
+#9 {main}
+CRITICAL - 2020-07-29 08:48:56 --> Undefined index: isLoggedIn
+#0 E:\wamp64\www\policy-master\app\Views\top_navbar.php(178): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined index...', 'E:\\wamp64\\www\\p...', 178, Array)
+#1 E:\wamp64\www\policy-master\vendor\codeigniter4\framework\system\View\View.php(246): include('E:\\wamp64\\www\\p...')
+#2 E:\wamp64\www\policy-master\vendor\codeigniter4\framework\system\Common.php(1087): CodeIgniter\View\View->render('top_navbar', Array, true)
+#3 E:\wamp64\www\policy-master\app\Controllers\BaseController.php(52): view('top_navbar', Array)
+#4 E:\wamp64\www\policy-master\app\Controllers\Auth.php(111): App\Controllers\BaseController->render_page('dashboard/dashb...', Array)
+#5 E:\wamp64\www\policy-master\vendor\codeigniter4\framework\system\CodeIgniter.php(914): App\Controllers\Auth->dashboard()
+#6 E:\wamp64\www\policy-master\vendor\codeigniter4\framework\system\CodeIgniter.php(400): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Auth))
+#7 E:\wamp64\www\policy-master\vendor\codeigniter4\framework\system\CodeIgniter.php(308): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#8 E:\wamp64\www\policy-master\index.php(84): CodeIgniter\CodeIgniter->run()
+#9 {main}

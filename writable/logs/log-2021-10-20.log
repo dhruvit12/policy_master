@@ -1,0 +1,173 @@
+CRITICAL - 2021-10-20 04:01:29 --> Invalid file: registration.php
+#0 F:\xampp\htdocs\policy-master-updated\vendor\codeigniter4\framework\system\View\View.php(228): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('registration.ph...')
+#1 F:\xampp\htdocs\policy-master-updated\vendor\codeigniter4\framework\system\Common.php(1087): CodeIgniter\View\View->render('registration', Array, true)
+#2 F:\xampp\htdocs\policy-master-updated\app\Controllers\Client.php(139): view('registration', Array)
+#3 F:\xampp\htdocs\policy-master-updated\vendor\codeigniter4\framework\system\CodeIgniter.php(914): App\Controllers\Client->store_client()
+#4 F:\xampp\htdocs\policy-master-updated\vendor\codeigniter4\framework\system\CodeIgniter.php(400): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Client))
+#5 F:\xampp\htdocs\policy-master-updated\vendor\codeigniter4\framework\system\CodeIgniter.php(308): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 F:\xampp\htdocs\policy-master-updated\index.php(84): CodeIgniter\CodeIgniter->run()
+#7 {main}
+CRITICAL - 2021-10-20 04:04:43 --> syntax error, unexpected '=>' (T_DOUBLE_ARROW), expecting ']'
+#0 F:\xampp\htdocs\policy-master-updated\vendor\codeigniter4\framework\system\Router\Router.php(192): CodeIgniter\Router\Router->autoRoute('/client/store_c...')
+#1 F:\xampp\htdocs\policy-master-updated\vendor\codeigniter4\framework\system\CodeIgniter.php(789): CodeIgniter\Router\Router->handle('/client/store_c...')
+#2 F:\xampp\htdocs\policy-master-updated\vendor\codeigniter4\framework\system\CodeIgniter.php(360): CodeIgniter\CodeIgniter->tryToRouteIt(Object(CodeIgniter\Router\RouteCollection))
+#3 F:\xampp\htdocs\policy-master-updated\vendor\codeigniter4\framework\system\CodeIgniter.php(308): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 F:\xampp\htdocs\policy-master-updated\index.php(84): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2021-10-20 04:05:03 --> syntax error, unexpected ')', expecting ';'
+#0 F:\xampp\htdocs\policy-master-updated\vendor\codeigniter4\framework\system\Router\Router.php(192): CodeIgniter\Router\Router->autoRoute('/client/store_c...')
+#1 F:\xampp\htdocs\policy-master-updated\vendor\codeigniter4\framework\system\CodeIgniter.php(789): CodeIgniter\Router\Router->handle('/client/store_c...')
+#2 F:\xampp\htdocs\policy-master-updated\vendor\codeigniter4\framework\system\CodeIgniter.php(360): CodeIgniter\CodeIgniter->tryToRouteIt(Object(CodeIgniter\Router\RouteCollection))
+#3 F:\xampp\htdocs\policy-master-updated\vendor\codeigniter4\framework\system\CodeIgniter.php(308): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 F:\xampp\htdocs\policy-master-updated\index.php(84): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2021-10-20 04:05:22 --> syntax error, unexpected ''validation'' (T_CONSTANT_ENCAPSED_STRING), expecting ';'
+#0 F:\xampp\htdocs\policy-master-updated\vendor\codeigniter4\framework\system\Router\Router.php(192): CodeIgniter\Router\Router->autoRoute('/client/store_c...')
+#1 F:\xampp\htdocs\policy-master-updated\vendor\codeigniter4\framework\system\CodeIgniter.php(789): CodeIgniter\Router\Router->handle('/client/store_c...')
+#2 F:\xampp\htdocs\policy-master-updated\vendor\codeigniter4\framework\system\CodeIgniter.php(360): CodeIgniter\CodeIgniter->tryToRouteIt(Object(CodeIgniter\Router\RouteCollection))
+#3 F:\xampp\htdocs\policy-master-updated\vendor\codeigniter4\framework\system\CodeIgniter.php(308): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 F:\xampp\htdocs\policy-master-updated\index.php(84): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2021-10-20 04:05:32 --> syntax error, unexpected ')', expecting ';'
+#0 F:\xampp\htdocs\policy-master-updated\vendor\codeigniter4\framework\system\Router\Router.php(192): CodeIgniter\Router\Router->autoRoute('/client/store_c...')
+#1 F:\xampp\htdocs\policy-master-updated\vendor\codeigniter4\framework\system\CodeIgniter.php(789): CodeIgniter\Router\Router->handle('/client/store_c...')
+#2 F:\xampp\htdocs\policy-master-updated\vendor\codeigniter4\framework\system\CodeIgniter.php(360): CodeIgniter\CodeIgniter->tryToRouteIt(Object(CodeIgniter\Router\RouteCollection))
+#3 F:\xampp\htdocs\policy-master-updated\vendor\codeigniter4\framework\system\CodeIgniter.php(308): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 F:\xampp\htdocs\policy-master-updated\index.php(84): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2021-10-20 04:10:05 --> Undefined variable: validation
+#0 F:\xampp\htdocs\policy-master-updated\app\Controllers\Client.php(138): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined varia...', 'F:\\xampp\\htdocs...', 138, Array)
+#1 F:\xampp\htdocs\policy-master-updated\vendor\codeigniter4\framework\system\CodeIgniter.php(914): App\Controllers\Client->store_client()
+#2 F:\xampp\htdocs\policy-master-updated\vendor\codeigniter4\framework\system\CodeIgniter.php(400): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Client))
+#3 F:\xampp\htdocs\policy-master-updated\vendor\codeigniter4\framework\system\CodeIgniter.php(308): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 F:\xampp\htdocs\policy-master-updated\index.php(84): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2021-10-20 04:20:40 --> Undefined index: mobile_number1
+#0 F:\xampp\htdocs\policy-master-updated\app\Controllers\Client.php(149): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined index...', 'F:\\xampp\\htdocs...', 149, Array)
+#1 F:\xampp\htdocs\policy-master-updated\vendor\codeigniter4\framework\system\CodeIgniter.php(914): App\Controllers\Client->store_client()
+#2 F:\xampp\htdocs\policy-master-updated\vendor\codeigniter4\framework\system\CodeIgniter.php(400): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Client))
+#3 F:\xampp\htdocs\policy-master-updated\vendor\codeigniter4\framework\system\CodeIgniter.php(308): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 F:\xampp\htdocs\policy-master-updated\index.php(84): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2021-10-20 04:21:26 --> Undefined index: mobile_number1
+#0 F:\xampp\htdocs\policy-master-updated\app\Controllers\Client.php(149): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined index...', 'F:\\xampp\\htdocs...', 149, Array)
+#1 F:\xampp\htdocs\policy-master-updated\vendor\codeigniter4\framework\system\CodeIgniter.php(914): App\Controllers\Client->store_client()
+#2 F:\xampp\htdocs\policy-master-updated\vendor\codeigniter4\framework\system\CodeIgniter.php(400): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Client))
+#3 F:\xampp\htdocs\policy-master-updated\vendor\codeigniter4\framework\system\CodeIgniter.php(308): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 F:\xampp\htdocs\policy-master-updated\index.php(84): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2021-10-20 04:36:49 --> Undefined index: mobile_number1
+#0 F:\xampp\htdocs\policy-master-updated\app\Controllers\Client.php(149): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined index...', 'F:\\xampp\\htdocs...', 149, Array)
+#1 F:\xampp\htdocs\policy-master-updated\vendor\codeigniter4\framework\system\CodeIgniter.php(914): App\Controllers\Client->store_client()
+#2 F:\xampp\htdocs\policy-master-updated\vendor\codeigniter4\framework\system\CodeIgniter.php(400): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Client))
+#3 F:\xampp\htdocs\policy-master-updated\vendor\codeigniter4\framework\system\CodeIgniter.php(308): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 F:\xampp\htdocs\policy-master-updated\index.php(84): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2021-10-20 04:37:20 --> Undefined index: mobile_number1
+#0 F:\xampp\htdocs\policy-master-updated\app\Controllers\Client.php(149): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined index...', 'F:\\xampp\\htdocs...', 149, Array)
+#1 F:\xampp\htdocs\policy-master-updated\vendor\codeigniter4\framework\system\CodeIgniter.php(914): App\Controllers\Client->store_client()
+#2 F:\xampp\htdocs\policy-master-updated\vendor\codeigniter4\framework\system\CodeIgniter.php(400): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Client))
+#3 F:\xampp\htdocs\policy-master-updated\vendor\codeigniter4\framework\system\CodeIgniter.php(308): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 F:\xampp\htdocs\policy-master-updated\index.php(84): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2021-10-20 05:35:13 --> Undefined variable: M_occupation
+#0 F:\xampp\htdocs\policy-master-updated\app\Controllers\Service.php(54): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined varia...', 'F:\\xampp\\htdocs...', 54, Array)
+#1 F:\xampp\htdocs\policy-master-updated\vendor\codeigniter4\framework\system\CodeIgniter.php(914): App\Controllers\Service->changeStatus()
+#2 F:\xampp\htdocs\policy-master-updated\vendor\codeigniter4\framework\system\CodeIgniter.php(400): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Service))
+#3 F:\xampp\htdocs\policy-master-updated\vendor\codeigniter4\framework\system\CodeIgniter.php(308): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 F:\xampp\htdocs\policy-master-updated\index.php(84): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2021-10-20 05:35:14 --> Undefined variable: M_occupation
+#0 F:\xampp\htdocs\policy-master-updated\app\Controllers\Service.php(54): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined varia...', 'F:\\xampp\\htdocs...', 54, Array)
+#1 F:\xampp\htdocs\policy-master-updated\vendor\codeigniter4\framework\system\CodeIgniter.php(914): App\Controllers\Service->changeStatus()
+#2 F:\xampp\htdocs\policy-master-updated\vendor\codeigniter4\framework\system\CodeIgniter.php(400): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Service))
+#3 F:\xampp\htdocs\policy-master-updated\vendor\codeigniter4\framework\system\CodeIgniter.php(308): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 F:\xampp\htdocs\policy-master-updated\index.php(84): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2021-10-20 06:04:34 --> Undefined variable: validation
+#0 F:\xampp\htdocs\policy-master-updated\app\Views\client\list.php(585): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined varia...', 'F:\\xampp\\htdocs...', 585, Array)
+#1 F:\xampp\htdocs\policy-master-updated\vendor\codeigniter4\framework\system\View\View.php(246): include('F:\\xampp\\htdocs...')
+#2 F:\xampp\htdocs\policy-master-updated\vendor\codeigniter4\framework\system\Common.php(1087): CodeIgniter\View\View->render('client/list', Array, true)
+#3 F:\xampp\htdocs\policy-master-updated\app\Views\templete.php(4): view('client/list')
+#4 F:\xampp\htdocs\policy-master-updated\vendor\codeigniter4\framework\system\View\View.php(246): include('F:\\xampp\\htdocs...')
+#5 F:\xampp\htdocs\policy-master-updated\vendor\codeigniter4\framework\system\Common.php(1087): CodeIgniter\View\View->render('templete', Array, true)
+#6 F:\xampp\htdocs\policy-master-updated\app\Controllers\Client.php(27): view('templete', Array)
+#7 F:\xampp\htdocs\policy-master-updated\vendor\codeigniter4\framework\system\CodeIgniter.php(914): App\Controllers\Client->index()
+#8 F:\xampp\htdocs\policy-master-updated\vendor\codeigniter4\framework\system\CodeIgniter.php(400): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Client))
+#9 F:\xampp\htdocs\policy-master-updated\vendor\codeigniter4\framework\system\CodeIgniter.php(308): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#10 F:\xampp\htdocs\policy-master-updated\index.php(84): CodeIgniter\CodeIgniter->run()
+#11 {main}
+CRITICAL - 2021-10-20 08:06:26 --> syntax error, unexpected '=>' (T_DOUBLE_ARROW), expecting ')'
+#0 F:\xampp\htdocs\policy-master-updated\vendor\codeigniter4\framework\system\Router\Router.php(192): CodeIgniter\Router\Router->autoRoute('/auth/logout')
+#1 F:\xampp\htdocs\policy-master-updated\vendor\codeigniter4\framework\system\CodeIgniter.php(789): CodeIgniter\Router\Router->handle('/auth/logout')
+#2 F:\xampp\htdocs\policy-master-updated\vendor\codeigniter4\framework\system\CodeIgniter.php(360): CodeIgniter\CodeIgniter->tryToRouteIt(Object(CodeIgniter\Router\RouteCollection))
+#3 F:\xampp\htdocs\policy-master-updated\vendor\codeigniter4\framework\system\CodeIgniter.php(308): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 F:\xampp\htdocs\policy-master-updated\index.php(84): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2021-10-20 08:06:51 --> syntax error, unexpected '9714972858' (T_LNUMBER), expecting function (T_FUNCTION) or const (T_CONST)
+#0 F:\xampp\htdocs\policy-master-updated\vendor\codeigniter4\framework\system\Router\Router.php(192): CodeIgniter\Router\Router->autoRoute('/auth/logout')
+#1 F:\xampp\htdocs\policy-master-updated\vendor\codeigniter4\framework\system\CodeIgniter.php(789): CodeIgniter\Router\Router->handle('/auth/logout')
+#2 F:\xampp\htdocs\policy-master-updated\vendor\codeigniter4\framework\system\CodeIgniter.php(360): CodeIgniter\CodeIgniter->tryToRouteIt(Object(CodeIgniter\Router\RouteCollection))
+#3 F:\xampp\htdocs\policy-master-updated\vendor\codeigniter4\framework\system\CodeIgniter.php(308): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 F:\xampp\htdocs\policy-master-updated\index.php(84): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2021-10-20 08:08:11 --> syntax error, unexpected 'if' (T_IF)
+#0 F:\xampp\htdocs\policy-master-updated\vendor\codeigniter4\framework\system\CodeIgniter.php(360): CodeIgniter\CodeIgniter->tryToRouteIt(NULL)
+#1 F:\xampp\htdocs\policy-master-updated\vendor\codeigniter4\framework\system\CodeIgniter.php(308): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#2 F:\xampp\htdocs\policy-master-updated\index.php(84): CodeIgniter\CodeIgniter->run()
+#3 {main}
+CRITICAL - 2021-10-20 08:16:22 --> Undefined variable: session
+#0 F:\xampp\htdocs\policy-master-updated\app\Controllers\Auth.php(47): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined varia...', 'F:\\xampp\\htdocs...', 47, Array)
+#1 F:\xampp\htdocs\policy-master-updated\vendor\codeigniter4\framework\system\CodeIgniter.php(914): App\Controllers\Auth->send_forgot()
+#2 F:\xampp\htdocs\policy-master-updated\vendor\codeigniter4\framework\system\CodeIgniter.php(400): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Auth))
+#3 F:\xampp\htdocs\policy-master-updated\vendor\codeigniter4\framework\system\CodeIgniter.php(308): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 F:\xampp\htdocs\policy-master-updated\index.php(84): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2021-10-20 08:27:45 --> You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '0 = 'otp'
+WHERE `email` = 'admin@gmail.com'
+AND `admin`.`id` IN ('admin@gmail.co' at line 1
+#0 F:\xampp\htdocs\policy-master-updated\vendor\codeigniter4\framework\system\Database\MySQLi\Connection.php(331): mysqli->query('UPDATE `admin` ...')
+#1 F:\xampp\htdocs\policy-master-updated\vendor\codeigniter4\framework\system\Database\BaseConnection.php(738): CodeIgniter\Database\MySQLi\Connection->execute('UPDATE `admin` ...')
+#2 F:\xampp\htdocs\policy-master-updated\vendor\codeigniter4\framework\system\Database\BaseConnection.php(666): CodeIgniter\Database\BaseConnection->simpleQuery('UPDATE `admin` ...')
+#3 F:\xampp\htdocs\policy-master-updated\vendor\codeigniter4\framework\system\Database\BaseBuilder.php(2441): CodeIgniter\Database\BaseConnection->query('UPDATE `admin` ...', Array, false)
+#4 F:\xampp\htdocs\policy-master-updated\vendor\codeigniter4\framework\system\Model.php(864): CodeIgniter\Database\BaseBuilder->update()
+#5 F:\xampp\htdocs\policy-master-updated\app\Controllers\Auth.php(56): CodeIgniter\Model->update(Array, Array)
+#6 F:\xampp\htdocs\policy-master-updated\vendor\codeigniter4\framework\system\CodeIgniter.php(914): App\Controllers\Auth->send_forgot()
+#7 F:\xampp\htdocs\policy-master-updated\vendor\codeigniter4\framework\system\CodeIgniter.php(400): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Auth))
+#8 F:\xampp\htdocs\policy-master-updated\vendor\codeigniter4\framework\system\CodeIgniter.php(308): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#9 F:\xampp\htdocs\policy-master-updated\index.php(84): CodeIgniter\CodeIgniter->run()
+#10 {main}
+CRITICAL - 2021-10-20 08:30:49 --> Undefined property: App\Controllers\Auth::$email
+#0 F:\xampp\htdocs\policy-master-updated\app\Controllers\Auth.php(68): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined prope...', 'F:\\xampp\\htdocs...', 68, Array)
+#1 F:\xampp\htdocs\policy-master-updated\vendor\codeigniter4\framework\system\CodeIgniter.php(914): App\Controllers\Auth->send_forgot()
+#2 F:\xampp\htdocs\policy-master-updated\vendor\codeigniter4\framework\system\CodeIgniter.php(400): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Auth))
+#3 F:\xampp\htdocs\policy-master-updated\vendor\codeigniter4\framework\system\CodeIgniter.php(308): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 F:\xampp\htdocs\policy-master-updated\index.php(84): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2021-10-20 08:35:48 --> Call to undefined method CodeIgniter\Email\Email::library()
+#0 F:\xampp\htdocs\policy-master-updated\vendor\codeigniter4\framework\system\CodeIgniter.php(914): App\Controllers\Auth->send_forgot()
+#1 F:\xampp\htdocs\policy-master-updated\vendor\codeigniter4\framework\system\CodeIgniter.php(400): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Auth))
+#2 F:\xampp\htdocs\policy-master-updated\vendor\codeigniter4\framework\system\CodeIgniter.php(308): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 F:\xampp\htdocs\policy-master-updated\index.php(84): CodeIgniter\CodeIgniter->run()
+#4 {main}
+CRITICAL - 2021-10-20 08:42:15 --> A non-numeric value encountered
+#0 F:\xampp\htdocs\policy-master-updated\app\Controllers\Quotation.php(1129): CodeIgniter\Debug\Exceptions->errorHandler(2, 'A non-numeric v...', 'F:\\xampp\\htdocs...', 1129, Array)
+#1 F:\xampp\htdocs\policy-master-updated\vendor\codeigniter4\framework\system\CodeIgniter.php(914): App\Controllers\Quotation->get_insertpaneltb()
+#2 F:\xampp\htdocs\policy-master-updated\vendor\codeigniter4\framework\system\CodeIgniter.php(400): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Quotation))
+#3 F:\xampp\htdocs\policy-master-updated\vendor\codeigniter4\framework\system\CodeIgniter.php(308): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 F:\xampp\htdocs\policy-master-updated\index.php(84): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2021-10-20 08:44:42 --> A non-numeric value encountered
+#0 F:\xampp\htdocs\policy-master-updated\app\Controllers\Quotation.php(1129): CodeIgniter\Debug\Exceptions->errorHandler(2, 'A non-numeric v...', 'F:\\xampp\\htdocs...', 1129, Array)
+#1 F:\xampp\htdocs\policy-master-updated\vendor\codeigniter4\framework\system\CodeIgniter.php(914): App\Controllers\Quotation->get_insertpaneltb()
+#2 F:\xampp\htdocs\policy-master-updated\vendor\codeigniter4\framework\system\CodeIgniter.php(400): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Quotation))
+#3 F:\xampp\htdocs\policy-master-updated\vendor\codeigniter4\framework\system\CodeIgniter.php(308): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 F:\xampp\htdocs\policy-master-updated\index.php(84): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2021-10-20 08:57:47 --> Undefined variable: subject
+#0 F:\xampp\htdocs\policy-master-updated\app\Controllers\Auth.php(84): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined varia...', 'F:\\xampp\\htdocs...', 84, Array)
+#1 F:\xampp\htdocs\policy-master-updated\vendor\codeigniter4\framework\system\CodeIgniter.php(914): App\Controllers\Auth->send_forgot()
+#2 F:\xampp\htdocs\policy-master-updated\vendor\codeigniter4\framework\system\CodeIgniter.php(400): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Auth))
+#3 F:\xampp\htdocs\policy-master-updated\vendor\codeigniter4\framework\system\CodeIgniter.php(308): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 F:\xampp\htdocs\policy-master-updated\index.php(84): CodeIgniter\CodeIgniter->run()
+#5 {main}

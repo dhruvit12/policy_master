@@ -1,0 +1,233 @@
+CRITICAL - 2021-09-23 00:00:12 --> Undefined index: client_id
+#0 F:\xampp\htdocs\policy-master-updated\app\Controllers\Creditnote.php(54): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined index...', 'F:\\xampp\\htdocs...', 54, Array)
+#1 F:\xampp\htdocs\policy-master-updated\vendor\codeigniter4\framework\system\CodeIgniter.php(914): App\Controllers\Creditnote->store_creditnote()
+#2 F:\xampp\htdocs\policy-master-updated\vendor\codeigniter4\framework\system\CodeIgniter.php(400): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Creditnote))
+#3 F:\xampp\htdocs\policy-master-updated\vendor\codeigniter4\framework\system\CodeIgniter.php(308): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 F:\xampp\htdocs\policy-master-updated\index.php(84): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2021-09-23 00:30:45 --> Undefined index: borrow_name
+#0 F:\xampp\htdocs\policy-master-updated\app\Views\endorsement\life_endorsement.php(206): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined index...', 'F:\\xampp\\htdocs...', 206, Array)
+#1 F:\xampp\htdocs\policy-master-updated\vendor\codeigniter4\framework\system\View\View.php(246): include('F:\\xampp\\htdocs...')
+#2 F:\xampp\htdocs\policy-master-updated\vendor\codeigniter4\framework\system\Common.php(1087): CodeIgniter\View\View->render('endorsement/lif...', Array, true)
+#3 F:\xampp\htdocs\policy-master-updated\app\Views\templete.php(4): view('endorsement/lif...')
+#4 F:\xampp\htdocs\policy-master-updated\vendor\codeigniter4\framework\system\View\View.php(246): include('F:\\xampp\\htdocs...')
+#5 F:\xampp\htdocs\policy-master-updated\vendor\codeigniter4\framework\system\Common.php(1087): CodeIgniter\View\View->render('templete', Array, true)
+#6 F:\xampp\htdocs\policy-master-updated\app\Controllers\Endorsement.php(366): view('templete', Array)
+#7 F:\xampp\htdocs\policy-master-updated\vendor\codeigniter4\framework\system\CodeIgniter.php(914): App\Controllers\Endorsement->general_endorsement()
+#8 F:\xampp\htdocs\policy-master-updated\vendor\codeigniter4\framework\system\CodeIgniter.php(400): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Endorsement))
+#9 F:\xampp\htdocs\policy-master-updated\vendor\codeigniter4\framework\system\CodeIgniter.php(308): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#10 F:\xampp\htdocs\policy-master-updated\index.php(84): CodeIgniter\CodeIgniter->run()
+#11 {main}
+CRITICAL - 2021-09-23 00:34:07 --> Undefined index: borrow_name
+#0 F:\xampp\htdocs\policy-master-updated\app\Views\endorsement\life_endorsement.php(206): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined index...', 'F:\\xampp\\htdocs...', 206, Array)
+#1 F:\xampp\htdocs\policy-master-updated\vendor\codeigniter4\framework\system\View\View.php(246): include('F:\\xampp\\htdocs...')
+#2 F:\xampp\htdocs\policy-master-updated\vendor\codeigniter4\framework\system\Common.php(1087): CodeIgniter\View\View->render('endorsement/lif...', Array, true)
+#3 F:\xampp\htdocs\policy-master-updated\app\Views\templete.php(4): view('endorsement/lif...')
+#4 F:\xampp\htdocs\policy-master-updated\vendor\codeigniter4\framework\system\View\View.php(246): include('F:\\xampp\\htdocs...')
+#5 F:\xampp\htdocs\policy-master-updated\vendor\codeigniter4\framework\system\Common.php(1087): CodeIgniter\View\View->render('templete', Array, true)
+#6 F:\xampp\htdocs\policy-master-updated\app\Controllers\Endorsement.php(366): view('templete', Array)
+#7 F:\xampp\htdocs\policy-master-updated\vendor\codeigniter4\framework\system\CodeIgniter.php(914): App\Controllers\Endorsement->general_endorsement()
+#8 F:\xampp\htdocs\policy-master-updated\vendor\codeigniter4\framework\system\CodeIgniter.php(400): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Endorsement))
+#9 F:\xampp\htdocs\policy-master-updated\vendor\codeigniter4\framework\system\CodeIgniter.php(308): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#10 F:\xampp\htdocs\policy-master-updated\index.php(84): CodeIgniter\CodeIgniter->run()
+#11 {main}
+CRITICAL - 2021-09-23 00:34:52 --> Undefined index: borrow_name
+#0 F:\xampp\htdocs\policy-master-updated\app\Views\endorsement\life_endorsement.php(206): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined index...', 'F:\\xampp\\htdocs...', 206, Array)
+#1 F:\xampp\htdocs\policy-master-updated\vendor\codeigniter4\framework\system\View\View.php(246): include('F:\\xampp\\htdocs...')
+#2 F:\xampp\htdocs\policy-master-updated\vendor\codeigniter4\framework\system\Common.php(1087): CodeIgniter\View\View->render('endorsement/lif...', Array, true)
+#3 F:\xampp\htdocs\policy-master-updated\app\Views\templete.php(4): view('endorsement/lif...')
+#4 F:\xampp\htdocs\policy-master-updated\vendor\codeigniter4\framework\system\View\View.php(246): include('F:\\xampp\\htdocs...')
+#5 F:\xampp\htdocs\policy-master-updated\vendor\codeigniter4\framework\system\Common.php(1087): CodeIgniter\View\View->render('templete', Array, true)
+#6 F:\xampp\htdocs\policy-master-updated\app\Controllers\Endorsement.php(366): view('templete', Array)
+#7 F:\xampp\htdocs\policy-master-updated\vendor\codeigniter4\framework\system\CodeIgniter.php(914): App\Controllers\Endorsement->general_endorsement()
+#8 F:\xampp\htdocs\policy-master-updated\vendor\codeigniter4\framework\system\CodeIgniter.php(400): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Endorsement))
+#9 F:\xampp\htdocs\policy-master-updated\vendor\codeigniter4\framework\system\CodeIgniter.php(308): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#10 F:\xampp\htdocs\policy-master-updated\index.php(84): CodeIgniter\CodeIgniter->run()
+#11 {main}
+CRITICAL - 2021-09-23 01:14:23 --> Undefined index: reports_type
+#0 F:\xampp\htdocs\policy-master-updated\app\Views\allreports\brokerreports.php(22): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined index...', 'F:\\xampp\\htdocs...', 22, Array)
+#1 F:\xampp\htdocs\policy-master-updated\vendor\codeigniter4\framework\system\View\View.php(246): include('F:\\xampp\\htdocs...')
+#2 F:\xampp\htdocs\policy-master-updated\vendor\codeigniter4\framework\system\Common.php(1087): CodeIgniter\View\View->render('allreports/brok...', Array, true)
+#3 F:\xampp\htdocs\policy-master-updated\app\Views\templete.php(4): view('allreports/brok...')
+#4 F:\xampp\htdocs\policy-master-updated\vendor\codeigniter4\framework\system\View\View.php(246): include('F:\\xampp\\htdocs...')
+#5 F:\xampp\htdocs\policy-master-updated\vendor\codeigniter4\framework\system\Common.php(1087): CodeIgniter\View\View->render('templete', Array, true)
+#6 F:\xampp\htdocs\policy-master-updated\app\Controllers\Allreports.php(35): view('templete', Array)
+#7 F:\xampp\htdocs\policy-master-updated\vendor\codeigniter4\framework\system\CodeIgniter.php(914): App\Controllers\Allreports->index()
+#8 F:\xampp\htdocs\policy-master-updated\vendor\codeigniter4\framework\system\CodeIgniter.php(400): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Allreports))
+#9 F:\xampp\htdocs\policy-master-updated\vendor\codeigniter4\framework\system\CodeIgniter.php(308): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#10 F:\xampp\htdocs\policy-master-updated\index.php(84): CodeIgniter\CodeIgniter->run()
+#11 {main}
+CRITICAL - 2021-09-23 01:42:02 --> Undefined index: borrow_name
+#0 F:\xampp\htdocs\policy-master-updated\app\Views\endorsement\life_endorsement.php(206): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined index...', 'F:\\xampp\\htdocs...', 206, Array)
+#1 F:\xampp\htdocs\policy-master-updated\vendor\codeigniter4\framework\system\View\View.php(246): include('F:\\xampp\\htdocs...')
+#2 F:\xampp\htdocs\policy-master-updated\vendor\codeigniter4\framework\system\Common.php(1087): CodeIgniter\View\View->render('endorsement/lif...', Array, true)
+#3 F:\xampp\htdocs\policy-master-updated\app\Views\templete.php(4): view('endorsement/lif...')
+#4 F:\xampp\htdocs\policy-master-updated\vendor\codeigniter4\framework\system\View\View.php(246): include('F:\\xampp\\htdocs...')
+#5 F:\xampp\htdocs\policy-master-updated\vendor\codeigniter4\framework\system\Common.php(1087): CodeIgniter\View\View->render('templete', Array, true)
+#6 F:\xampp\htdocs\policy-master-updated\app\Controllers\Endorsement.php(366): view('templete', Array)
+#7 F:\xampp\htdocs\policy-master-updated\vendor\codeigniter4\framework\system\CodeIgniter.php(914): App\Controllers\Endorsement->general_endorsement()
+#8 F:\xampp\htdocs\policy-master-updated\vendor\codeigniter4\framework\system\CodeIgniter.php(400): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Endorsement))
+#9 F:\xampp\htdocs\policy-master-updated\vendor\codeigniter4\framework\system\CodeIgniter.php(308): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#10 F:\xampp\htdocs\policy-master-updated\index.php(84): CodeIgniter\CodeIgniter->run()
+#11 {main}
+CRITICAL - 2021-09-23 01:58:20 --> Undefined offset: 0
+#0 F:\xampp\htdocs\policy-master-updated\app\Controllers\Endorsement.php(318): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined offse...', 'F:\\xampp\\htdocs...', 318, Array)
+#1 F:\xampp\htdocs\policy-master-updated\vendor\codeigniter4\framework\system\CodeIgniter.php(914): App\Controllers\Endorsement->general_endorsement()
+#2 F:\xampp\htdocs\policy-master-updated\vendor\codeigniter4\framework\system\CodeIgniter.php(400): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Endorsement))
+#3 F:\xampp\htdocs\policy-master-updated\vendor\codeigniter4\framework\system\CodeIgniter.php(308): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 F:\xampp\htdocs\policy-master-updated\index.php(84): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2021-09-23 02:10:31 --> Undefined index: id
+#0 F:\xampp\htdocs\policy-master-updated\app\Views\endorsement\general_endorsement.php(73): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined index...', 'F:\\xampp\\htdocs...', 73, Array)
+#1 F:\xampp\htdocs\policy-master-updated\vendor\codeigniter4\framework\system\View\View.php(246): include('F:\\xampp\\htdocs...')
+#2 F:\xampp\htdocs\policy-master-updated\vendor\codeigniter4\framework\system\Common.php(1087): CodeIgniter\View\View->render('endorsement/gen...', Array, true)
+#3 F:\xampp\htdocs\policy-master-updated\app\Views\templete.php(4): view('endorsement/gen...')
+#4 F:\xampp\htdocs\policy-master-updated\vendor\codeigniter4\framework\system\View\View.php(246): include('F:\\xampp\\htdocs...')
+#5 F:\xampp\htdocs\policy-master-updated\vendor\codeigniter4\framework\system\Common.php(1087): CodeIgniter\View\View->render('templete', Array, true)
+#6 F:\xampp\htdocs\policy-master-updated\app\Controllers\Endorsement.php(374): view('templete', Array)
+#7 F:\xampp\htdocs\policy-master-updated\vendor\codeigniter4\framework\system\CodeIgniter.php(914): App\Controllers\Endorsement->general_endorsement()
+#8 F:\xampp\htdocs\policy-master-updated\vendor\codeigniter4\framework\system\CodeIgniter.php(400): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Endorsement))
+#9 F:\xampp\htdocs\policy-master-updated\vendor\codeigniter4\framework\system\CodeIgniter.php(308): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#10 F:\xampp\htdocs\policy-master-updated\index.php(84): CodeIgniter\CodeIgniter->run()
+#11 {main}
+CRITICAL - 2021-09-23 02:11:40 --> Undefined index: id
+#0 F:\xampp\htdocs\policy-master-updated\app\Views\endorsement\general_endorsement.php(73): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined index...', 'F:\\xampp\\htdocs...', 73, Array)
+#1 F:\xampp\htdocs\policy-master-updated\vendor\codeigniter4\framework\system\View\View.php(246): include('F:\\xampp\\htdocs...')
+#2 F:\xampp\htdocs\policy-master-updated\vendor\codeigniter4\framework\system\Common.php(1087): CodeIgniter\View\View->render('endorsement/gen...', Array, true)
+#3 F:\xampp\htdocs\policy-master-updated\app\Views\templete.php(4): view('endorsement/gen...')
+#4 F:\xampp\htdocs\policy-master-updated\vendor\codeigniter4\framework\system\View\View.php(246): include('F:\\xampp\\htdocs...')
+#5 F:\xampp\htdocs\policy-master-updated\vendor\codeigniter4\framework\system\Common.php(1087): CodeIgniter\View\View->render('templete', Array, true)
+#6 F:\xampp\htdocs\policy-master-updated\app\Controllers\Endorsement.php(374): view('templete', Array)
+#7 F:\xampp\htdocs\policy-master-updated\vendor\codeigniter4\framework\system\CodeIgniter.php(914): App\Controllers\Endorsement->general_endorsement()
+#8 F:\xampp\htdocs\policy-master-updated\vendor\codeigniter4\framework\system\CodeIgniter.php(400): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Endorsement))
+#9 F:\xampp\htdocs\policy-master-updated\vendor\codeigniter4\framework\system\CodeIgniter.php(308): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#10 F:\xampp\htdocs\policy-master-updated\index.php(84): CodeIgniter\CodeIgniter->run()
+#11 {main}
+CRITICAL - 2021-09-23 02:12:19 --> Undefined index: id
+#0 F:\xampp\htdocs\policy-master-updated\app\Views\endorsement\general_endorsement.php(73): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined index...', 'F:\\xampp\\htdocs...', 73, Array)
+#1 F:\xampp\htdocs\policy-master-updated\vendor\codeigniter4\framework\system\View\View.php(246): include('F:\\xampp\\htdocs...')
+#2 F:\xampp\htdocs\policy-master-updated\vendor\codeigniter4\framework\system\Common.php(1087): CodeIgniter\View\View->render('endorsement/gen...', Array, true)
+#3 F:\xampp\htdocs\policy-master-updated\app\Views\templete.php(4): view('endorsement/gen...')
+#4 F:\xampp\htdocs\policy-master-updated\vendor\codeigniter4\framework\system\View\View.php(246): include('F:\\xampp\\htdocs...')
+#5 F:\xampp\htdocs\policy-master-updated\vendor\codeigniter4\framework\system\Common.php(1087): CodeIgniter\View\View->render('templete', Array, true)
+#6 F:\xampp\htdocs\policy-master-updated\app\Controllers\Endorsement.php(374): view('templete', Array)
+#7 F:\xampp\htdocs\policy-master-updated\vendor\codeigniter4\framework\system\CodeIgniter.php(914): App\Controllers\Endorsement->general_endorsement()
+#8 F:\xampp\htdocs\policy-master-updated\vendor\codeigniter4\framework\system\CodeIgniter.php(400): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Endorsement))
+#9 F:\xampp\htdocs\policy-master-updated\vendor\codeigniter4\framework\system\CodeIgniter.php(308): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#10 F:\xampp\htdocs\policy-master-updated\index.php(84): CodeIgniter\CodeIgniter->run()
+#11 {main}
+CRITICAL - 2021-09-23 02:14:44 --> Undefined index: id
+#0 F:\xampp\htdocs\policy-master-updated\app\Views\endorsement\general_endorsement.php(73): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined index...', 'F:\\xampp\\htdocs...', 73, Array)
+#1 F:\xampp\htdocs\policy-master-updated\vendor\codeigniter4\framework\system\View\View.php(246): include('F:\\xampp\\htdocs...')
+#2 F:\xampp\htdocs\policy-master-updated\vendor\codeigniter4\framework\system\Common.php(1087): CodeIgniter\View\View->render('endorsement/gen...', Array, true)
+#3 F:\xampp\htdocs\policy-master-updated\app\Views\templete.php(4): view('endorsement/gen...')
+#4 F:\xampp\htdocs\policy-master-updated\vendor\codeigniter4\framework\system\View\View.php(246): include('F:\\xampp\\htdocs...')
+#5 F:\xampp\htdocs\policy-master-updated\vendor\codeigniter4\framework\system\Common.php(1087): CodeIgniter\View\View->render('templete', Array, true)
+#6 F:\xampp\htdocs\policy-master-updated\app\Controllers\Endorsement.php(374): view('templete', Array)
+#7 F:\xampp\htdocs\policy-master-updated\vendor\codeigniter4\framework\system\CodeIgniter.php(914): App\Controllers\Endorsement->general_endorsement()
+#8 F:\xampp\htdocs\policy-master-updated\vendor\codeigniter4\framework\system\CodeIgniter.php(400): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Endorsement))
+#9 F:\xampp\htdocs\policy-master-updated\vendor\codeigniter4\framework\system\CodeIgniter.php(308): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#10 F:\xampp\htdocs\policy-master-updated\index.php(84): CodeIgniter\CodeIgniter->run()
+#11 {main}
+CRITICAL - 2021-09-23 02:18:58 --> Undefined index: id
+#0 F:\xampp\htdocs\policy-master-updated\app\Controllers\Endorsement.php(323): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined index...', 'F:\\xampp\\htdocs...', 323, Array)
+#1 F:\xampp\htdocs\policy-master-updated\vendor\codeigniter4\framework\system\CodeIgniter.php(914): App\Controllers\Endorsement->general_endorsement()
+#2 F:\xampp\htdocs\policy-master-updated\vendor\codeigniter4\framework\system\CodeIgniter.php(400): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Endorsement))
+#3 F:\xampp\htdocs\policy-master-updated\vendor\codeigniter4\framework\system\CodeIgniter.php(308): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 F:\xampp\htdocs\policy-master-updated\index.php(84): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2021-09-23 02:30:21 --> Undefined variable: id
+#0 F:\xampp\htdocs\policy-master-updated\app\Views\endorsement\endorsement.php(252): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined varia...', 'F:\\xampp\\htdocs...', 252, Array)
+#1 F:\xampp\htdocs\policy-master-updated\vendor\codeigniter4\framework\system\View\View.php(246): include('F:\\xampp\\htdocs...')
+#2 F:\xampp\htdocs\policy-master-updated\vendor\codeigniter4\framework\system\Common.php(1087): CodeIgniter\View\View->render('endorsement/end...', Array, true)
+#3 F:\xampp\htdocs\policy-master-updated\app\Views\templete.php(4): view('endorsement/end...')
+#4 F:\xampp\htdocs\policy-master-updated\vendor\codeigniter4\framework\system\View\View.php(246): include('F:\\xampp\\htdocs...')
+#5 F:\xampp\htdocs\policy-master-updated\vendor\codeigniter4\framework\system\Common.php(1087): CodeIgniter\View\View->render('templete', Array, true)
+#6 F:\xampp\htdocs\policy-master-updated\app\Controllers\Endorsement.php(378): view('templete', Array)
+#7 F:\xampp\htdocs\policy-master-updated\vendor\codeigniter4\framework\system\CodeIgniter.php(914): App\Controllers\Endorsement->general_endorsement()
+#8 F:\xampp\htdocs\policy-master-updated\vendor\codeigniter4\framework\system\CodeIgniter.php(400): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Endorsement))
+#9 F:\xampp\htdocs\policy-master-updated\vendor\codeigniter4\framework\system\CodeIgniter.php(308): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#10 F:\xampp\htdocs\policy-master-updated\index.php(84): CodeIgniter\CodeIgniter->run()
+#11 {main}
+CRITICAL - 2021-09-23 02:32:07 --> Undefined index: id
+#0 F:\xampp\htdocs\policy-master-updated\app\Views\endorsement\general_endorsement.php(73): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined index...', 'F:\\xampp\\htdocs...', 73, Array)
+#1 F:\xampp\htdocs\policy-master-updated\vendor\codeigniter4\framework\system\View\View.php(246): include('F:\\xampp\\htdocs...')
+#2 F:\xampp\htdocs\policy-master-updated\vendor\codeigniter4\framework\system\Common.php(1087): CodeIgniter\View\View->render('endorsement/gen...', Array, true)
+#3 F:\xampp\htdocs\policy-master-updated\app\Views\templete.php(4): view('endorsement/gen...')
+#4 F:\xampp\htdocs\policy-master-updated\vendor\codeigniter4\framework\system\View\View.php(246): include('F:\\xampp\\htdocs...')
+#5 F:\xampp\htdocs\policy-master-updated\vendor\codeigniter4\framework\system\Common.php(1087): CodeIgniter\View\View->render('templete', Array, true)
+#6 F:\xampp\htdocs\policy-master-updated\app\Controllers\Endorsement.php(378): view('templete', Array)
+#7 F:\xampp\htdocs\policy-master-updated\vendor\codeigniter4\framework\system\CodeIgniter.php(914): App\Controllers\Endorsement->general_endorsement()
+#8 F:\xampp\htdocs\policy-master-updated\vendor\codeigniter4\framework\system\CodeIgniter.php(400): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Endorsement))
+#9 F:\xampp\htdocs\policy-master-updated\vendor\codeigniter4\framework\system\CodeIgniter.php(308): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#10 F:\xampp\htdocs\policy-master-updated\index.php(84): CodeIgniter\CodeIgniter->run()
+#11 {main}
+CRITICAL - 2021-09-23 02:32:55 --> Undefined index: id
+#0 F:\xampp\htdocs\policy-master-updated\app\Views\endorsement\general_endorsement.php(73): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined index...', 'F:\\xampp\\htdocs...', 73, Array)
+#1 F:\xampp\htdocs\policy-master-updated\vendor\codeigniter4\framework\system\View\View.php(246): include('F:\\xampp\\htdocs...')
+#2 F:\xampp\htdocs\policy-master-updated\vendor\codeigniter4\framework\system\Common.php(1087): CodeIgniter\View\View->render('endorsement/gen...', Array, true)
+#3 F:\xampp\htdocs\policy-master-updated\app\Views\templete.php(4): view('endorsement/gen...')
+#4 F:\xampp\htdocs\policy-master-updated\vendor\codeigniter4\framework\system\View\View.php(246): include('F:\\xampp\\htdocs...')
+#5 F:\xampp\htdocs\policy-master-updated\vendor\codeigniter4\framework\system\Common.php(1087): CodeIgniter\View\View->render('templete', Array, true)
+#6 F:\xampp\htdocs\policy-master-updated\app\Controllers\Endorsement.php(379): view('templete', Array)
+#7 F:\xampp\htdocs\policy-master-updated\vendor\codeigniter4\framework\system\CodeIgniter.php(914): App\Controllers\Endorsement->general_endorsement()
+#8 F:\xampp\htdocs\policy-master-updated\vendor\codeigniter4\framework\system\CodeIgniter.php(400): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Endorsement))
+#9 F:\xampp\htdocs\policy-master-updated\vendor\codeigniter4\framework\system\CodeIgniter.php(308): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#10 F:\xampp\htdocs\policy-master-updated\index.php(84): CodeIgniter\CodeIgniter->run()
+#11 {main}
+CRITICAL - 2021-09-23 02:48:41 --> Undefined index: quot_id
+#0 F:\xampp\htdocs\policy-master-updated\app\Controllers\Quotation.php(1146): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined index...', 'F:\\xampp\\htdocs...', 1146, Array)
+#1 F:\xampp\htdocs\policy-master-updated\vendor\codeigniter4\framework\system\CodeIgniter.php(914): App\Controllers\Quotation->calculation()
+#2 F:\xampp\htdocs\policy-master-updated\vendor\codeigniter4\framework\system\CodeIgniter.php(400): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Quotation))
+#3 F:\xampp\htdocs\policy-master-updated\vendor\codeigniter4\framework\system\CodeIgniter.php(308): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 F:\xampp\htdocs\policy-master-updated\index.php(84): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2021-09-23 02:54:51 --> Undefined index: quot_id
+#0 F:\xampp\htdocs\policy-master-updated\app\Controllers\Quotation.php(1146): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined index...', 'F:\\xampp\\htdocs...', 1146, Array)
+#1 F:\xampp\htdocs\policy-master-updated\vendor\codeigniter4\framework\system\CodeIgniter.php(914): App\Controllers\Quotation->calculation()
+#2 F:\xampp\htdocs\policy-master-updated\vendor\codeigniter4\framework\system\CodeIgniter.php(400): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Quotation))
+#3 F:\xampp\htdocs\policy-master-updated\vendor\codeigniter4\framework\system\CodeIgniter.php(308): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 F:\xampp\htdocs\policy-master-updated\index.php(84): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2021-09-23 03:55:42 --> Undefined index: quot_id
+#0 F:\xampp\htdocs\policy-master-updated\app\Controllers\Quotation.php(1146): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined index...', 'F:\\xampp\\htdocs...', 1146, Array)
+#1 F:\xampp\htdocs\policy-master-updated\vendor\codeigniter4\framework\system\CodeIgniter.php(914): App\Controllers\Quotation->calculation()
+#2 F:\xampp\htdocs\policy-master-updated\vendor\codeigniter4\framework\system\CodeIgniter.php(400): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Quotation))
+#3 F:\xampp\htdocs\policy-master-updated\vendor\codeigniter4\framework\system\CodeIgniter.php(308): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 F:\xampp\htdocs\policy-master-updated\index.php(84): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2021-09-23 03:55:53 --> Undefined index: quot_id
+#0 F:\xampp\htdocs\policy-master-updated\app\Controllers\Quotation.php(1146): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined index...', 'F:\\xampp\\htdocs...', 1146, Array)
+#1 F:\xampp\htdocs\policy-master-updated\vendor\codeigniter4\framework\system\CodeIgniter.php(914): App\Controllers\Quotation->calculation()
+#2 F:\xampp\htdocs\policy-master-updated\vendor\codeigniter4\framework\system\CodeIgniter.php(400): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Quotation))
+#3 F:\xampp\htdocs\policy-master-updated\vendor\codeigniter4\framework\system\CodeIgniter.php(308): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 F:\xampp\htdocs\policy-master-updated\index.php(84): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2021-09-23 04:45:35 --> Undefined index: clients
+#0 F:\xampp\htdocs\policy-master-updated\app\Controllers\Quotation.php(149): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined index...', 'F:\\xampp\\htdocs...', 149, Array)
+#1 F:\xampp\htdocs\policy-master-updated\vendor\codeigniter4\framework\system\CodeIgniter.php(914): App\Controllers\Quotation->add_vehicle_quatation('2')
+#2 F:\xampp\htdocs\policy-master-updated\vendor\codeigniter4\framework\system\CodeIgniter.php(400): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Quotation))
+#3 F:\xampp\htdocs\policy-master-updated\vendor\codeigniter4\framework\system\CodeIgniter.php(308): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 F:\xampp\htdocs\policy-master-updated\index.php(84): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2021-09-23 05:54:18 --> Undefined index: id
+#0 F:\xampp\htdocs\policy-master-updated\app\Controllers\Ajaxcontroler.php(159): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined index...', 'F:\\xampp\\htdocs...', 159, Array)
+#1 F:\xampp\htdocs\policy-master-updated\vendor\codeigniter4\framework\system\CodeIgniter.php(914): App\Controllers\Ajaxcontroler->setrisknoteupload()
+#2 F:\xampp\htdocs\policy-master-updated\vendor\codeigniter4\framework\system\CodeIgniter.php(400): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Ajaxcontroler))
+#3 F:\xampp\htdocs\policy-master-updated\vendor\codeigniter4\framework\system\CodeIgniter.php(308): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 F:\xampp\htdocs\policy-master-updated\index.php(84): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2021-09-23 06:26:35 --> Undefined index: id
+#0 F:\xampp\htdocs\policy-master-updated\app\Controllers\Quotation.php(1100): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined index...', 'F:\\xampp\\htdocs...', 1100, Array)
+#1 F:\xampp\htdocs\policy-master-updated\vendor\codeigniter4\framework\system\CodeIgniter.php(914): App\Controllers\Quotation->get_medicalquotationtbl()
+#2 F:\xampp\htdocs\policy-master-updated\vendor\codeigniter4\framework\system\CodeIgniter.php(400): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Quotation))
+#3 F:\xampp\htdocs\policy-master-updated\vendor\codeigniter4\framework\system\CodeIgniter.php(308): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 F:\xampp\htdocs\policy-master-updated\index.php(84): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2021-09-23 06:32:46 --> Undefined index: total_premium
+#0 F:\xampp\htdocs\policy-master-updated\app\Controllers\Export.php(2635): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined index...', 'F:\\xampp\\htdocs...', 2635, Array)
+#1 F:\xampp\htdocs\policy-master-updated\vendor\codeigniter4\framework\system\CodeIgniter.php(914): App\Controllers\Export->debitnote('1')
+#2 F:\xampp\htdocs\policy-master-updated\vendor\codeigniter4\framework\system\CodeIgniter.php(400): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Export))
+#3 F:\xampp\htdocs\policy-master-updated\vendor\codeigniter4\framework\system\CodeIgniter.php(308): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 F:\xampp\htdocs\policy-master-updated\index.php(84): CodeIgniter\CodeIgniter->run()
+#5 {main}

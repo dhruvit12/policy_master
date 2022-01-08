@@ -1,0 +1,1218 @@
+CRITICAL - 2020-09-14 01:23:01 --> Undefined variable: _post
+#0 D:\xampp\htdocs\policy-master\app\Controllers\Clients.php(330): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined varia...', 'D:\\xampp\\htdocs...', 330, Array)
+#1 D:\xampp\htdocs\policy-master\vendor\codeigniter4\framework\system\CodeIgniter.php(914): App\Controllers\Clients->search_client()
+#2 D:\xampp\htdocs\policy-master\vendor\codeigniter4\framework\system\CodeIgniter.php(400): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Clients))
+#3 D:\xampp\htdocs\policy-master\vendor\codeigniter4\framework\system\CodeIgniter.php(308): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 D:\xampp\htdocs\policy-master\index.php(84): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2020-09-14 01:23:01 --> Undefined variable: _post
+#0 D:\xampp\htdocs\policy-master\app\Controllers\Clients.php(330): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined varia...', 'D:\\xampp\\htdocs...', 330, Array)
+#1 D:\xampp\htdocs\policy-master\vendor\codeigniter4\framework\system\CodeIgniter.php(914): App\Controllers\Clients->search_client()
+#2 D:\xampp\htdocs\policy-master\vendor\codeigniter4\framework\system\CodeIgniter.php(400): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Clients))
+#3 D:\xampp\htdocs\policy-master\vendor\codeigniter4\framework\system\CodeIgniter.php(308): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 D:\xampp\htdocs\policy-master\index.php(84): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2020-09-14 01:23:01 --> Undefined variable: _post
+#0 D:\xampp\htdocs\policy-master\app\Controllers\Clients.php(330): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined varia...', 'D:\\xampp\\htdocs...', 330, Array)
+#1 D:\xampp\htdocs\policy-master\vendor\codeigniter4\framework\system\CodeIgniter.php(914): App\Controllers\Clients->search_client()
+#2 D:\xampp\htdocs\policy-master\vendor\codeigniter4\framework\system\CodeIgniter.php(400): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Clients))
+#3 D:\xampp\htdocs\policy-master\vendor\codeigniter4\framework\system\CodeIgniter.php(308): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 D:\xampp\htdocs\policy-master\index.php(84): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2020-09-14 01:23:02 --> Undefined variable: _post
+#0 D:\xampp\htdocs\policy-master\app\Controllers\Clients.php(330): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined varia...', 'D:\\xampp\\htdocs...', 330, Array)
+#1 D:\xampp\htdocs\policy-master\vendor\codeigniter4\framework\system\CodeIgniter.php(914): App\Controllers\Clients->search_client()
+#2 D:\xampp\htdocs\policy-master\vendor\codeigniter4\framework\system\CodeIgniter.php(400): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Clients))
+#3 D:\xampp\htdocs\policy-master\vendor\codeigniter4\framework\system\CodeIgniter.php(308): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 D:\xampp\htdocs\policy-master\index.php(84): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2020-09-14 01:23:02 --> Undefined variable: _post
+#0 D:\xampp\htdocs\policy-master\app\Controllers\Clients.php(330): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined varia...', 'D:\\xampp\\htdocs...', 330, Array)
+#1 D:\xampp\htdocs\policy-master\vendor\codeigniter4\framework\system\CodeIgniter.php(914): App\Controllers\Clients->search_client()
+#2 D:\xampp\htdocs\policy-master\vendor\codeigniter4\framework\system\CodeIgniter.php(400): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Clients))
+#3 D:\xampp\htdocs\policy-master\vendor\codeigniter4\framework\system\CodeIgniter.php(308): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 D:\xampp\htdocs\policy-master\index.php(84): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2020-09-14 01:23:02 --> Undefined variable: _post
+#0 D:\xampp\htdocs\policy-master\app\Controllers\Clients.php(330): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined varia...', 'D:\\xampp\\htdocs...', 330, Array)
+#1 D:\xampp\htdocs\policy-master\vendor\codeigniter4\framework\system\CodeIgniter.php(914): App\Controllers\Clients->search_client()
+#2 D:\xampp\htdocs\policy-master\vendor\codeigniter4\framework\system\CodeIgniter.php(400): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Clients))
+#3 D:\xampp\htdocs\policy-master\vendor\codeigniter4\framework\system\CodeIgniter.php(308): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 D:\xampp\htdocs\policy-master\index.php(84): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2020-09-14 01:23:23 --> Undefined variable: _post
+#0 D:\xampp\htdocs\policy-master\app\Controllers\Clients.php(330): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined varia...', 'D:\\xampp\\htdocs...', 330, Array)
+#1 D:\xampp\htdocs\policy-master\vendor\codeigniter4\framework\system\CodeIgniter.php(914): App\Controllers\Clients->search_client()
+#2 D:\xampp\htdocs\policy-master\vendor\codeigniter4\framework\system\CodeIgniter.php(400): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Clients))
+#3 D:\xampp\htdocs\policy-master\vendor\codeigniter4\framework\system\CodeIgniter.php(308): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 D:\xampp\htdocs\policy-master\index.php(84): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2020-09-14 01:31:30 --> syntax error, unexpected '%'
+#0 D:\xampp\htdocs\policy-master\vendor\codeigniter4\framework\system\Router\Router.php(192): CodeIgniter\Router\Router->autoRoute('/clients/search...')
+#1 D:\xampp\htdocs\policy-master\vendor\codeigniter4\framework\system\CodeIgniter.php(789): CodeIgniter\Router\Router->handle('/clients/search...')
+#2 D:\xampp\htdocs\policy-master\vendor\codeigniter4\framework\system\CodeIgniter.php(360): CodeIgniter\CodeIgniter->tryToRouteIt(Object(CodeIgniter\Router\RouteCollection))
+#3 D:\xampp\htdocs\policy-master\vendor\codeigniter4\framework\system\CodeIgniter.php(308): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 D:\xampp\htdocs\policy-master\index.php(84): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2020-09-14 01:31:30 --> syntax error, unexpected '%'
+#0 D:\xampp\htdocs\policy-master\vendor\codeigniter4\framework\system\Router\Router.php(192): CodeIgniter\Router\Router->autoRoute('/clients/search...')
+#1 D:\xampp\htdocs\policy-master\vendor\codeigniter4\framework\system\CodeIgniter.php(789): CodeIgniter\Router\Router->handle('/clients/search...')
+#2 D:\xampp\htdocs\policy-master\vendor\codeigniter4\framework\system\CodeIgniter.php(360): CodeIgniter\CodeIgniter->tryToRouteIt(Object(CodeIgniter\Router\RouteCollection))
+#3 D:\xampp\htdocs\policy-master\vendor\codeigniter4\framework\system\CodeIgniter.php(308): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 D:\xampp\htdocs\policy-master\index.php(84): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2020-09-14 01:31:31 --> syntax error, unexpected '%'
+#0 D:\xampp\htdocs\policy-master\vendor\codeigniter4\framework\system\Router\Router.php(192): CodeIgniter\Router\Router->autoRoute('/clients/search...')
+#1 D:\xampp\htdocs\policy-master\vendor\codeigniter4\framework\system\CodeIgniter.php(789): CodeIgniter\Router\Router->handle('/clients/search...')
+#2 D:\xampp\htdocs\policy-master\vendor\codeigniter4\framework\system\CodeIgniter.php(360): CodeIgniter\CodeIgniter->tryToRouteIt(Object(CodeIgniter\Router\RouteCollection))
+#3 D:\xampp\htdocs\policy-master\vendor\codeigniter4\framework\system\CodeIgniter.php(308): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 D:\xampp\htdocs\policy-master\index.php(84): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2020-09-14 01:31:31 --> syntax error, unexpected '%'
+#0 D:\xampp\htdocs\policy-master\vendor\codeigniter4\framework\system\Router\Router.php(192): CodeIgniter\Router\Router->autoRoute('/clients/search...')
+#1 D:\xampp\htdocs\policy-master\vendor\codeigniter4\framework\system\CodeIgniter.php(789): CodeIgniter\Router\Router->handle('/clients/search...')
+#2 D:\xampp\htdocs\policy-master\vendor\codeigniter4\framework\system\CodeIgniter.php(360): CodeIgniter\CodeIgniter->tryToRouteIt(Object(CodeIgniter\Router\RouteCollection))
+#3 D:\xampp\htdocs\policy-master\vendor\codeigniter4\framework\system\CodeIgniter.php(308): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 D:\xampp\htdocs\policy-master\index.php(84): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2020-09-14 01:31:32 --> syntax error, unexpected '%'
+#0 D:\xampp\htdocs\policy-master\vendor\codeigniter4\framework\system\Router\Router.php(192): CodeIgniter\Router\Router->autoRoute('/clients/search...')
+#1 D:\xampp\htdocs\policy-master\vendor\codeigniter4\framework\system\CodeIgniter.php(789): CodeIgniter\Router\Router->handle('/clients/search...')
+#2 D:\xampp\htdocs\policy-master\vendor\codeigniter4\framework\system\CodeIgniter.php(360): CodeIgniter\CodeIgniter->tryToRouteIt(Object(CodeIgniter\Router\RouteCollection))
+#3 D:\xampp\htdocs\policy-master\vendor\codeigniter4\framework\system\CodeIgniter.php(308): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 D:\xampp\htdocs\policy-master\index.php(84): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2020-09-14 01:32:14 --> syntax error, unexpected '%'
+#0 D:\xampp\htdocs\policy-master\vendor\codeigniter4\framework\system\Router\Router.php(192): CodeIgniter\Router\Router->autoRoute('/clients/search...')
+#1 D:\xampp\htdocs\policy-master\vendor\codeigniter4\framework\system\CodeIgniter.php(789): CodeIgniter\Router\Router->handle('/clients/search...')
+#2 D:\xampp\htdocs\policy-master\vendor\codeigniter4\framework\system\CodeIgniter.php(360): CodeIgniter\CodeIgniter->tryToRouteIt(Object(CodeIgniter\Router\RouteCollection))
+#3 D:\xampp\htdocs\policy-master\vendor\codeigniter4\framework\system\CodeIgniter.php(308): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 D:\xampp\htdocs\policy-master\index.php(84): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2020-09-14 01:32:14 --> syntax error, unexpected '%'
+#0 D:\xampp\htdocs\policy-master\vendor\codeigniter4\framework\system\Router\Router.php(192): CodeIgniter\Router\Router->autoRoute('/clients/search...')
+#1 D:\xampp\htdocs\policy-master\vendor\codeigniter4\framework\system\CodeIgniter.php(789): CodeIgniter\Router\Router->handle('/clients/search...')
+#2 D:\xampp\htdocs\policy-master\vendor\codeigniter4\framework\system\CodeIgniter.php(360): CodeIgniter\CodeIgniter->tryToRouteIt(Object(CodeIgniter\Router\RouteCollection))
+#3 D:\xampp\htdocs\policy-master\vendor\codeigniter4\framework\system\CodeIgniter.php(308): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 D:\xampp\htdocs\policy-master\index.php(84): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2020-09-14 01:32:15 --> syntax error, unexpected '%'
+#0 D:\xampp\htdocs\policy-master\vendor\codeigniter4\framework\system\Router\Router.php(192): CodeIgniter\Router\Router->autoRoute('/clients/search...')
+#1 D:\xampp\htdocs\policy-master\vendor\codeigniter4\framework\system\CodeIgniter.php(789): CodeIgniter\Router\Router->handle('/clients/search...')
+#2 D:\xampp\htdocs\policy-master\vendor\codeigniter4\framework\system\CodeIgniter.php(360): CodeIgniter\CodeIgniter->tryToRouteIt(Object(CodeIgniter\Router\RouteCollection))
+#3 D:\xampp\htdocs\policy-master\vendor\codeigniter4\framework\system\CodeIgniter.php(308): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 D:\xampp\htdocs\policy-master\index.php(84): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2020-09-14 01:32:15 --> syntax error, unexpected '%'
+#0 D:\xampp\htdocs\policy-master\vendor\codeigniter4\framework\system\Router\Router.php(192): CodeIgniter\Router\Router->autoRoute('/clients/search...')
+#1 D:\xampp\htdocs\policy-master\vendor\codeigniter4\framework\system\CodeIgniter.php(789): CodeIgniter\Router\Router->handle('/clients/search...')
+#2 D:\xampp\htdocs\policy-master\vendor\codeigniter4\framework\system\CodeIgniter.php(360): CodeIgniter\CodeIgniter->tryToRouteIt(Object(CodeIgniter\Router\RouteCollection))
+#3 D:\xampp\htdocs\policy-master\vendor\codeigniter4\framework\system\CodeIgniter.php(308): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 D:\xampp\htdocs\policy-master\index.php(84): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2020-09-14 01:32:16 --> syntax error, unexpected '%'
+#0 D:\xampp\htdocs\policy-master\vendor\codeigniter4\framework\system\Router\Router.php(192): CodeIgniter\Router\Router->autoRoute('/clients/search...')
+#1 D:\xampp\htdocs\policy-master\vendor\codeigniter4\framework\system\CodeIgniter.php(789): CodeIgniter\Router\Router->handle('/clients/search...')
+#2 D:\xampp\htdocs\policy-master\vendor\codeigniter4\framework\system\CodeIgniter.php(360): CodeIgniter\CodeIgniter->tryToRouteIt(Object(CodeIgniter\Router\RouteCollection))
+#3 D:\xampp\htdocs\policy-master\vendor\codeigniter4\framework\system\CodeIgniter.php(308): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 D:\xampp\htdocs\policy-master\index.php(84): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2020-09-14 01:32:57 --> syntax error, unexpected '%'
+#0 D:\xampp\htdocs\policy-master\vendor\codeigniter4\framework\system\Router\Router.php(192): CodeIgniter\Router\Router->autoRoute('/clients/search...')
+#1 D:\xampp\htdocs\policy-master\vendor\codeigniter4\framework\system\CodeIgniter.php(789): CodeIgniter\Router\Router->handle('/clients/search...')
+#2 D:\xampp\htdocs\policy-master\vendor\codeigniter4\framework\system\CodeIgniter.php(360): CodeIgniter\CodeIgniter->tryToRouteIt(Object(CodeIgniter\Router\RouteCollection))
+#3 D:\xampp\htdocs\policy-master\vendor\codeigniter4\framework\system\CodeIgniter.php(308): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 D:\xampp\htdocs\policy-master\index.php(84): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2020-09-14 01:32:57 --> syntax error, unexpected '%'
+#0 D:\xampp\htdocs\policy-master\vendor\codeigniter4\framework\system\Router\Router.php(192): CodeIgniter\Router\Router->autoRoute('/clients/search...')
+#1 D:\xampp\htdocs\policy-master\vendor\codeigniter4\framework\system\CodeIgniter.php(789): CodeIgniter\Router\Router->handle('/clients/search...')
+#2 D:\xampp\htdocs\policy-master\vendor\codeigniter4\framework\system\CodeIgniter.php(360): CodeIgniter\CodeIgniter->tryToRouteIt(Object(CodeIgniter\Router\RouteCollection))
+#3 D:\xampp\htdocs\policy-master\vendor\codeigniter4\framework\system\CodeIgniter.php(308): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 D:\xampp\htdocs\policy-master\index.php(84): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2020-09-14 01:32:57 --> syntax error, unexpected '%'
+#0 D:\xampp\htdocs\policy-master\vendor\codeigniter4\framework\system\Router\Router.php(192): CodeIgniter\Router\Router->autoRoute('/clients/search...')
+#1 D:\xampp\htdocs\policy-master\vendor\codeigniter4\framework\system\CodeIgniter.php(789): CodeIgniter\Router\Router->handle('/clients/search...')
+#2 D:\xampp\htdocs\policy-master\vendor\codeigniter4\framework\system\CodeIgniter.php(360): CodeIgniter\CodeIgniter->tryToRouteIt(Object(CodeIgniter\Router\RouteCollection))
+#3 D:\xampp\htdocs\policy-master\vendor\codeigniter4\framework\system\CodeIgniter.php(308): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 D:\xampp\htdocs\policy-master\index.php(84): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2020-09-14 01:36:49 --> Undefined variable: _post
+#0 D:\xampp\htdocs\policy-master\app\Controllers\Clients.php(331): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined varia...', 'D:\\xampp\\htdocs...', 331, Array)
+#1 D:\xampp\htdocs\policy-master\vendor\codeigniter4\framework\system\CodeIgniter.php(914): App\Controllers\Clients->search_client()
+#2 D:\xampp\htdocs\policy-master\vendor\codeigniter4\framework\system\CodeIgniter.php(400): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Clients))
+#3 D:\xampp\htdocs\policy-master\vendor\codeigniter4\framework\system\CodeIgniter.php(308): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 D:\xampp\htdocs\policy-master\index.php(84): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2020-09-14 01:36:50 --> Undefined variable: _post
+#0 D:\xampp\htdocs\policy-master\app\Controllers\Clients.php(331): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined varia...', 'D:\\xampp\\htdocs...', 331, Array)
+#1 D:\xampp\htdocs\policy-master\vendor\codeigniter4\framework\system\CodeIgniter.php(914): App\Controllers\Clients->search_client()
+#2 D:\xampp\htdocs\policy-master\vendor\codeigniter4\framework\system\CodeIgniter.php(400): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Clients))
+#3 D:\xampp\htdocs\policy-master\vendor\codeigniter4\framework\system\CodeIgniter.php(308): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 D:\xampp\htdocs\policy-master\index.php(84): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2020-09-14 01:36:50 --> Undefined variable: _post
+#0 D:\xampp\htdocs\policy-master\app\Controllers\Clients.php(331): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined varia...', 'D:\\xampp\\htdocs...', 331, Array)
+#1 D:\xampp\htdocs\policy-master\vendor\codeigniter4\framework\system\CodeIgniter.php(914): App\Controllers\Clients->search_client()
+#2 D:\xampp\htdocs\policy-master\vendor\codeigniter4\framework\system\CodeIgniter.php(400): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Clients))
+#3 D:\xampp\htdocs\policy-master\vendor\codeigniter4\framework\system\CodeIgniter.php(308): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 D:\xampp\htdocs\policy-master\index.php(84): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2020-09-14 01:44:10 --> Undefined index: client_name
+#0 D:\xampp\htdocs\policy-master\app\Controllers\Clients.php(335): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined index...', 'D:\\xampp\\htdocs...', 335, Array)
+#1 D:\xampp\htdocs\policy-master\vendor\codeigniter4\framework\system\CodeIgniter.php(914): App\Controllers\Clients->search_client()
+#2 D:\xampp\htdocs\policy-master\vendor\codeigniter4\framework\system\CodeIgniter.php(400): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Clients))
+#3 D:\xampp\htdocs\policy-master\vendor\codeigniter4\framework\system\CodeIgniter.php(308): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 D:\xampp\htdocs\policy-master\index.php(84): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2020-09-14 01:44:10 --> Undefined index: client_name
+#0 D:\xampp\htdocs\policy-master\app\Controllers\Clients.php(335): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined index...', 'D:\\xampp\\htdocs...', 335, Array)
+#1 D:\xampp\htdocs\policy-master\vendor\codeigniter4\framework\system\CodeIgniter.php(914): App\Controllers\Clients->search_client()
+#2 D:\xampp\htdocs\policy-master\vendor\codeigniter4\framework\system\CodeIgniter.php(400): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Clients))
+#3 D:\xampp\htdocs\policy-master\vendor\codeigniter4\framework\system\CodeIgniter.php(308): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 D:\xampp\htdocs\policy-master\index.php(84): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2020-09-14 01:44:11 --> Undefined index: client_name
+#0 D:\xampp\htdocs\policy-master\app\Controllers\Clients.php(335): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined index...', 'D:\\xampp\\htdocs...', 335, Array)
+#1 D:\xampp\htdocs\policy-master\vendor\codeigniter4\framework\system\CodeIgniter.php(914): App\Controllers\Clients->search_client()
+#2 D:\xampp\htdocs\policy-master\vendor\codeigniter4\framework\system\CodeIgniter.php(400): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Clients))
+#3 D:\xampp\htdocs\policy-master\vendor\codeigniter4\framework\system\CodeIgniter.php(308): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 D:\xampp\htdocs\policy-master\index.php(84): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2020-09-14 01:44:12 --> Undefined index: client_name
+#0 D:\xampp\htdocs\policy-master\app\Controllers\Clients.php(335): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined index...', 'D:\\xampp\\htdocs...', 335, Array)
+#1 D:\xampp\htdocs\policy-master\vendor\codeigniter4\framework\system\CodeIgniter.php(914): App\Controllers\Clients->search_client()
+#2 D:\xampp\htdocs\policy-master\vendor\codeigniter4\framework\system\CodeIgniter.php(400): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Clients))
+#3 D:\xampp\htdocs\policy-master\vendor\codeigniter4\framework\system\CodeIgniter.php(308): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 D:\xampp\htdocs\policy-master\index.php(84): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2020-09-14 01:44:12 --> Undefined index: client_name
+#0 D:\xampp\htdocs\policy-master\app\Controllers\Clients.php(335): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined index...', 'D:\\xampp\\htdocs...', 335, Array)
+#1 D:\xampp\htdocs\policy-master\vendor\codeigniter4\framework\system\CodeIgniter.php(914): App\Controllers\Clients->search_client()
+#2 D:\xampp\htdocs\policy-master\vendor\codeigniter4\framework\system\CodeIgniter.php(400): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Clients))
+#3 D:\xampp\htdocs\policy-master\vendor\codeigniter4\framework\system\CodeIgniter.php(308): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 D:\xampp\htdocs\policy-master\index.php(84): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2020-09-14 02:01:54 --> Undefined index: client_name
+#0 D:\xampp\htdocs\policy-master\app\Controllers\Clients.php(335): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined index...', 'D:\\xampp\\htdocs...', 335, Array)
+#1 D:\xampp\htdocs\policy-master\vendor\codeigniter4\framework\system\CodeIgniter.php(914): App\Controllers\Clients->search_client()
+#2 D:\xampp\htdocs\policy-master\vendor\codeigniter4\framework\system\CodeIgniter.php(400): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Clients))
+#3 D:\xampp\htdocs\policy-master\vendor\codeigniter4\framework\system\CodeIgniter.php(308): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 D:\xampp\htdocs\policy-master\index.php(84): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2020-09-14 02:01:55 --> Undefined index: client_name
+#0 D:\xampp\htdocs\policy-master\app\Controllers\Clients.php(335): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined index...', 'D:\\xampp\\htdocs...', 335, Array)
+#1 D:\xampp\htdocs\policy-master\vendor\codeigniter4\framework\system\CodeIgniter.php(914): App\Controllers\Clients->search_client()
+#2 D:\xampp\htdocs\policy-master\vendor\codeigniter4\framework\system\CodeIgniter.php(400): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Clients))
+#3 D:\xampp\htdocs\policy-master\vendor\codeigniter4\framework\system\CodeIgniter.php(308): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 D:\xampp\htdocs\policy-master\index.php(84): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2020-09-14 02:01:55 --> Undefined index: client_name
+#0 D:\xampp\htdocs\policy-master\app\Controllers\Clients.php(335): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined index...', 'D:\\xampp\\htdocs...', 335, Array)
+#1 D:\xampp\htdocs\policy-master\vendor\codeigniter4\framework\system\CodeIgniter.php(914): App\Controllers\Clients->search_client()
+#2 D:\xampp\htdocs\policy-master\vendor\codeigniter4\framework\system\CodeIgniter.php(400): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Clients))
+#3 D:\xampp\htdocs\policy-master\vendor\codeigniter4\framework\system\CodeIgniter.php(308): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 D:\xampp\htdocs\policy-master\index.php(84): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2020-09-14 02:01:56 --> Undefined index: client_name
+#0 D:\xampp\htdocs\policy-master\app\Controllers\Clients.php(335): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined index...', 'D:\\xampp\\htdocs...', 335, Array)
+#1 D:\xampp\htdocs\policy-master\vendor\codeigniter4\framework\system\CodeIgniter.php(914): App\Controllers\Clients->search_client()
+#2 D:\xampp\htdocs\policy-master\vendor\codeigniter4\framework\system\CodeIgniter.php(400): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Clients))
+#3 D:\xampp\htdocs\policy-master\vendor\codeigniter4\framework\system\CodeIgniter.php(308): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 D:\xampp\htdocs\policy-master\index.php(84): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2020-09-14 02:01:58 --> Undefined index: client_name
+#0 D:\xampp\htdocs\policy-master\app\Controllers\Clients.php(335): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined index...', 'D:\\xampp\\htdocs...', 335, Array)
+#1 D:\xampp\htdocs\policy-master\vendor\codeigniter4\framework\system\CodeIgniter.php(914): App\Controllers\Clients->search_client()
+#2 D:\xampp\htdocs\policy-master\vendor\codeigniter4\framework\system\CodeIgniter.php(400): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Clients))
+#3 D:\xampp\htdocs\policy-master\vendor\codeigniter4\framework\system\CodeIgniter.php(308): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 D:\xampp\htdocs\policy-master\index.php(84): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2020-09-14 02:02:35 --> Undefined index: client_name
+#0 D:\xampp\htdocs\policy-master\app\Controllers\Clients.php(335): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined index...', 'D:\\xampp\\htdocs...', 335, Array)
+#1 D:\xampp\htdocs\policy-master\vendor\codeigniter4\framework\system\CodeIgniter.php(914): App\Controllers\Clients->search_client()
+#2 D:\xampp\htdocs\policy-master\vendor\codeigniter4\framework\system\CodeIgniter.php(400): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Clients))
+#3 D:\xampp\htdocs\policy-master\vendor\codeigniter4\framework\system\CodeIgniter.php(308): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 D:\xampp\htdocs\policy-master\index.php(84): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2020-09-14 02:02:35 --> Undefined index: client_name
+#0 D:\xampp\htdocs\policy-master\app\Controllers\Clients.php(335): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined index...', 'D:\\xampp\\htdocs...', 335, Array)
+#1 D:\xampp\htdocs\policy-master\vendor\codeigniter4\framework\system\CodeIgniter.php(914): App\Controllers\Clients->search_client()
+#2 D:\xampp\htdocs\policy-master\vendor\codeigniter4\framework\system\CodeIgniter.php(400): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Clients))
+#3 D:\xampp\htdocs\policy-master\vendor\codeigniter4\framework\system\CodeIgniter.php(308): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 D:\xampp\htdocs\policy-master\index.php(84): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2020-09-14 02:02:35 --> Undefined index: client_name
+#0 D:\xampp\htdocs\policy-master\app\Controllers\Clients.php(335): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined index...', 'D:\\xampp\\htdocs...', 335, Array)
+#1 D:\xampp\htdocs\policy-master\vendor\codeigniter4\framework\system\CodeIgniter.php(914): App\Controllers\Clients->search_client()
+#2 D:\xampp\htdocs\policy-master\vendor\codeigniter4\framework\system\CodeIgniter.php(400): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Clients))
+#3 D:\xampp\htdocs\policy-master\vendor\codeigniter4\framework\system\CodeIgniter.php(308): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 D:\xampp\htdocs\policy-master\index.php(84): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2020-09-14 02:02:36 --> Undefined index: client_name
+#0 D:\xampp\htdocs\policy-master\app\Controllers\Clients.php(335): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined index...', 'D:\\xampp\\htdocs...', 335, Array)
+#1 D:\xampp\htdocs\policy-master\vendor\codeigniter4\framework\system\CodeIgniter.php(914): App\Controllers\Clients->search_client()
+#2 D:\xampp\htdocs\policy-master\vendor\codeigniter4\framework\system\CodeIgniter.php(400): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Clients))
+#3 D:\xampp\htdocs\policy-master\vendor\codeigniter4\framework\system\CodeIgniter.php(308): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 D:\xampp\htdocs\policy-master\index.php(84): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2020-09-14 02:02:36 --> Undefined index: client_name
+#0 D:\xampp\htdocs\policy-master\app\Controllers\Clients.php(335): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined index...', 'D:\\xampp\\htdocs...', 335, Array)
+#1 D:\xampp\htdocs\policy-master\vendor\codeigniter4\framework\system\CodeIgniter.php(914): App\Controllers\Clients->search_client()
+#2 D:\xampp\htdocs\policy-master\vendor\codeigniter4\framework\system\CodeIgniter.php(400): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Clients))
+#3 D:\xampp\htdocs\policy-master\vendor\codeigniter4\framework\system\CodeIgniter.php(308): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 D:\xampp\htdocs\policy-master\index.php(84): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2020-09-14 02:03:33 --> Undefined index: client_name
+#0 D:\xampp\htdocs\policy-master\app\Controllers\Clients.php(335): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined index...', 'D:\\xampp\\htdocs...', 335, Array)
+#1 D:\xampp\htdocs\policy-master\vendor\codeigniter4\framework\system\CodeIgniter.php(914): App\Controllers\Clients->search_client()
+#2 D:\xampp\htdocs\policy-master\vendor\codeigniter4\framework\system\CodeIgniter.php(400): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Clients))
+#3 D:\xampp\htdocs\policy-master\vendor\codeigniter4\framework\system\CodeIgniter.php(308): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 D:\xampp\htdocs\policy-master\index.php(84): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2020-09-14 02:03:33 --> Undefined index: client_name
+#0 D:\xampp\htdocs\policy-master\app\Controllers\Clients.php(335): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined index...', 'D:\\xampp\\htdocs...', 335, Array)
+#1 D:\xampp\htdocs\policy-master\vendor\codeigniter4\framework\system\CodeIgniter.php(914): App\Controllers\Clients->search_client()
+#2 D:\xampp\htdocs\policy-master\vendor\codeigniter4\framework\system\CodeIgniter.php(400): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Clients))
+#3 D:\xampp\htdocs\policy-master\vendor\codeigniter4\framework\system\CodeIgniter.php(308): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 D:\xampp\htdocs\policy-master\index.php(84): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2020-09-14 02:03:33 --> Undefined index: client_name
+#0 D:\xampp\htdocs\policy-master\app\Controllers\Clients.php(335): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined index...', 'D:\\xampp\\htdocs...', 335, Array)
+#1 D:\xampp\htdocs\policy-master\vendor\codeigniter4\framework\system\CodeIgniter.php(914): App\Controllers\Clients->search_client()
+#2 D:\xampp\htdocs\policy-master\vendor\codeigniter4\framework\system\CodeIgniter.php(400): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Clients))
+#3 D:\xampp\htdocs\policy-master\vendor\codeigniter4\framework\system\CodeIgniter.php(308): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 D:\xampp\htdocs\policy-master\index.php(84): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2020-09-14 02:03:33 --> Undefined index: client_name
+#0 D:\xampp\htdocs\policy-master\app\Controllers\Clients.php(335): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined index...', 'D:\\xampp\\htdocs...', 335, Array)
+#1 D:\xampp\htdocs\policy-master\vendor\codeigniter4\framework\system\CodeIgniter.php(914): App\Controllers\Clients->search_client()
+#2 D:\xampp\htdocs\policy-master\vendor\codeigniter4\framework\system\CodeIgniter.php(400): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Clients))
+#3 D:\xampp\htdocs\policy-master\vendor\codeigniter4\framework\system\CodeIgniter.php(308): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 D:\xampp\htdocs\policy-master\index.php(84): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2020-09-14 02:03:34 --> Undefined index: client_name
+#0 D:\xampp\htdocs\policy-master\app\Controllers\Clients.php(335): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined index...', 'D:\\xampp\\htdocs...', 335, Array)
+#1 D:\xampp\htdocs\policy-master\vendor\codeigniter4\framework\system\CodeIgniter.php(914): App\Controllers\Clients->search_client()
+#2 D:\xampp\htdocs\policy-master\vendor\codeigniter4\framework\system\CodeIgniter.php(400): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Clients))
+#3 D:\xampp\htdocs\policy-master\vendor\codeigniter4\framework\system\CodeIgniter.php(308): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 D:\xampp\htdocs\policy-master\index.php(84): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2020-09-14 02:05:44 --> Undefined index: client_name
+#0 D:\xampp\htdocs\policy-master\app\Controllers\Clients.php(335): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined index...', 'D:\\xampp\\htdocs...', 335, Array)
+#1 D:\xampp\htdocs\policy-master\vendor\codeigniter4\framework\system\CodeIgniter.php(914): App\Controllers\Clients->search_client()
+#2 D:\xampp\htdocs\policy-master\vendor\codeigniter4\framework\system\CodeIgniter.php(400): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Clients))
+#3 D:\xampp\htdocs\policy-master\vendor\codeigniter4\framework\system\CodeIgniter.php(308): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 D:\xampp\htdocs\policy-master\index.php(84): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2020-09-14 02:05:44 --> Undefined variable: data
+#0 D:\xampp\htdocs\policy-master\app\Controllers\Clients.php(337): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined varia...', 'D:\\xampp\\htdocs...', 337, Array)
+#1 D:\xampp\htdocs\policy-master\vendor\codeigniter4\framework\system\CodeIgniter.php(914): App\Controllers\Clients->search_client()
+#2 D:\xampp\htdocs\policy-master\vendor\codeigniter4\framework\system\CodeIgniter.php(400): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Clients))
+#3 D:\xampp\htdocs\policy-master\vendor\codeigniter4\framework\system\CodeIgniter.php(308): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 D:\xampp\htdocs\policy-master\index.php(84): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2020-09-14 02:05:44 --> Undefined variable: data
+#0 D:\xampp\htdocs\policy-master\app\Controllers\Clients.php(337): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined varia...', 'D:\\xampp\\htdocs...', 337, Array)
+#1 D:\xampp\htdocs\policy-master\vendor\codeigniter4\framework\system\CodeIgniter.php(914): App\Controllers\Clients->search_client()
+#2 D:\xampp\htdocs\policy-master\vendor\codeigniter4\framework\system\CodeIgniter.php(400): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Clients))
+#3 D:\xampp\htdocs\policy-master\vendor\codeigniter4\framework\system\CodeIgniter.php(308): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 D:\xampp\htdocs\policy-master\index.php(84): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2020-09-14 02:05:46 --> Undefined index: client_name
+#0 D:\xampp\htdocs\policy-master\app\Controllers\Clients.php(335): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined index...', 'D:\\xampp\\htdocs...', 335, Array)
+#1 D:\xampp\htdocs\policy-master\vendor\codeigniter4\framework\system\CodeIgniter.php(914): App\Controllers\Clients->search_client()
+#2 D:\xampp\htdocs\policy-master\vendor\codeigniter4\framework\system\CodeIgniter.php(400): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Clients))
+#3 D:\xampp\htdocs\policy-master\vendor\codeigniter4\framework\system\CodeIgniter.php(308): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 D:\xampp\htdocs\policy-master\index.php(84): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2020-09-14 02:05:47 --> Undefined index: client_name
+#0 D:\xampp\htdocs\policy-master\app\Controllers\Clients.php(335): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined index...', 'D:\\xampp\\htdocs...', 335, Array)
+#1 D:\xampp\htdocs\policy-master\vendor\codeigniter4\framework\system\CodeIgniter.php(914): App\Controllers\Clients->search_client()
+#2 D:\xampp\htdocs\policy-master\vendor\codeigniter4\framework\system\CodeIgniter.php(400): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Clients))
+#3 D:\xampp\htdocs\policy-master\vendor\codeigniter4\framework\system\CodeIgniter.php(308): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 D:\xampp\htdocs\policy-master\index.php(84): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2020-09-14 02:05:47 --> Undefined index: client_name
+#0 D:\xampp\htdocs\policy-master\app\Controllers\Clients.php(335): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined index...', 'D:\\xampp\\htdocs...', 335, Array)
+#1 D:\xampp\htdocs\policy-master\vendor\codeigniter4\framework\system\CodeIgniter.php(914): App\Controllers\Clients->search_client()
+#2 D:\xampp\htdocs\policy-master\vendor\codeigniter4\framework\system\CodeIgniter.php(400): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Clients))
+#3 D:\xampp\htdocs\policy-master\vendor\codeigniter4\framework\system\CodeIgniter.php(308): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 D:\xampp\htdocs\policy-master\index.php(84): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2020-09-14 02:05:47 --> Undefined index: client_name
+#0 D:\xampp\htdocs\policy-master\app\Controllers\Clients.php(335): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined index...', 'D:\\xampp\\htdocs...', 335, Array)
+#1 D:\xampp\htdocs\policy-master\vendor\codeigniter4\framework\system\CodeIgniter.php(914): App\Controllers\Clients->search_client()
+#2 D:\xampp\htdocs\policy-master\vendor\codeigniter4\framework\system\CodeIgniter.php(400): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Clients))
+#3 D:\xampp\htdocs\policy-master\vendor\codeigniter4\framework\system\CodeIgniter.php(308): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 D:\xampp\htdocs\policy-master\index.php(84): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2020-09-14 02:05:48 --> Undefined index: client_name
+#0 D:\xampp\htdocs\policy-master\app\Controllers\Clients.php(335): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined index...', 'D:\\xampp\\htdocs...', 335, Array)
+#1 D:\xampp\htdocs\policy-master\vendor\codeigniter4\framework\system\CodeIgniter.php(914): App\Controllers\Clients->search_client()
+#2 D:\xampp\htdocs\policy-master\vendor\codeigniter4\framework\system\CodeIgniter.php(400): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Clients))
+#3 D:\xampp\htdocs\policy-master\vendor\codeigniter4\framework\system\CodeIgniter.php(308): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 D:\xampp\htdocs\policy-master\index.php(84): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2020-09-14 02:05:48 --> Undefined index: client_name
+#0 D:\xampp\htdocs\policy-master\app\Controllers\Clients.php(335): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined index...', 'D:\\xampp\\htdocs...', 335, Array)
+#1 D:\xampp\htdocs\policy-master\vendor\codeigniter4\framework\system\CodeIgniter.php(914): App\Controllers\Clients->search_client()
+#2 D:\xampp\htdocs\policy-master\vendor\codeigniter4\framework\system\CodeIgniter.php(400): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Clients))
+#3 D:\xampp\htdocs\policy-master\vendor\codeigniter4\framework\system\CodeIgniter.php(308): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 D:\xampp\htdocs\policy-master\index.php(84): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2020-09-14 02:05:49 --> Undefined index: client_name
+#0 D:\xampp\htdocs\policy-master\app\Controllers\Clients.php(335): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined index...', 'D:\\xampp\\htdocs...', 335, Array)
+#1 D:\xampp\htdocs\policy-master\vendor\codeigniter4\framework\system\CodeIgniter.php(914): App\Controllers\Clients->search_client()
+#2 D:\xampp\htdocs\policy-master\vendor\codeigniter4\framework\system\CodeIgniter.php(400): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Clients))
+#3 D:\xampp\htdocs\policy-master\vendor\codeigniter4\framework\system\CodeIgniter.php(308): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 D:\xampp\htdocs\policy-master\index.php(84): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2020-09-14 02:05:50 --> Undefined index: client_name
+#0 D:\xampp\htdocs\policy-master\app\Controllers\Clients.php(335): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined index...', 'D:\\xampp\\htdocs...', 335, Array)
+#1 D:\xampp\htdocs\policy-master\vendor\codeigniter4\framework\system\CodeIgniter.php(914): App\Controllers\Clients->search_client()
+#2 D:\xampp\htdocs\policy-master\vendor\codeigniter4\framework\system\CodeIgniter.php(400): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Clients))
+#3 D:\xampp\htdocs\policy-master\vendor\codeigniter4\framework\system\CodeIgniter.php(308): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 D:\xampp\htdocs\policy-master\index.php(84): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2020-09-14 02:05:50 --> Undefined index: client_name
+#0 D:\xampp\htdocs\policy-master\app\Controllers\Clients.php(335): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined index...', 'D:\\xampp\\htdocs...', 335, Array)
+#1 D:\xampp\htdocs\policy-master\vendor\codeigniter4\framework\system\CodeIgniter.php(914): App\Controllers\Clients->search_client()
+#2 D:\xampp\htdocs\policy-master\vendor\codeigniter4\framework\system\CodeIgniter.php(400): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Clients))
+#3 D:\xampp\htdocs\policy-master\vendor\codeigniter4\framework\system\CodeIgniter.php(308): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 D:\xampp\htdocs\policy-master\index.php(84): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2020-09-14 02:18:43 --> Undefined variable: data
+#0 D:\xampp\htdocs\policy-master\app\Controllers\Clients.php(337): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined varia...', 'D:\\xampp\\htdocs...', 337, Array)
+#1 D:\xampp\htdocs\policy-master\vendor\codeigniter4\framework\system\CodeIgniter.php(914): App\Controllers\Clients->search_client()
+#2 D:\xampp\htdocs\policy-master\vendor\codeigniter4\framework\system\CodeIgniter.php(400): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Clients))
+#3 D:\xampp\htdocs\policy-master\vendor\codeigniter4\framework\system\CodeIgniter.php(308): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 D:\xampp\htdocs\policy-master\index.php(84): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2020-09-14 02:18:43 --> Undefined variable: data
+#0 D:\xampp\htdocs\policy-master\app\Controllers\Clients.php(337): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined varia...', 'D:\\xampp\\htdocs...', 337, Array)
+#1 D:\xampp\htdocs\policy-master\vendor\codeigniter4\framework\system\CodeIgniter.php(914): App\Controllers\Clients->search_client()
+#2 D:\xampp\htdocs\policy-master\vendor\codeigniter4\framework\system\CodeIgniter.php(400): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Clients))
+#3 D:\xampp\htdocs\policy-master\vendor\codeigniter4\framework\system\CodeIgniter.php(308): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 D:\xampp\htdocs\policy-master\index.php(84): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2020-09-14 02:18:43 --> Undefined variable: data
+#0 D:\xampp\htdocs\policy-master\app\Controllers\Clients.php(337): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined varia...', 'D:\\xampp\\htdocs...', 337, Array)
+#1 D:\xampp\htdocs\policy-master\vendor\codeigniter4\framework\system\CodeIgniter.php(914): App\Controllers\Clients->search_client()
+#2 D:\xampp\htdocs\policy-master\vendor\codeigniter4\framework\system\CodeIgniter.php(400): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Clients))
+#3 D:\xampp\htdocs\policy-master\vendor\codeigniter4\framework\system\CodeIgniter.php(308): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 D:\xampp\htdocs\policy-master\index.php(84): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2020-09-14 02:18:44 --> Undefined variable: data
+#0 D:\xampp\htdocs\policy-master\app\Controllers\Clients.php(337): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined varia...', 'D:\\xampp\\htdocs...', 337, Array)
+#1 D:\xampp\htdocs\policy-master\vendor\codeigniter4\framework\system\CodeIgniter.php(914): App\Controllers\Clients->search_client()
+#2 D:\xampp\htdocs\policy-master\vendor\codeigniter4\framework\system\CodeIgniter.php(400): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Clients))
+#3 D:\xampp\htdocs\policy-master\vendor\codeigniter4\framework\system\CodeIgniter.php(308): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 D:\xampp\htdocs\policy-master\index.php(84): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2020-09-14 02:18:44 --> Undefined variable: data
+#0 D:\xampp\htdocs\policy-master\app\Controllers\Clients.php(337): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined varia...', 'D:\\xampp\\htdocs...', 337, Array)
+#1 D:\xampp\htdocs\policy-master\vendor\codeigniter4\framework\system\CodeIgniter.php(914): App\Controllers\Clients->search_client()
+#2 D:\xampp\htdocs\policy-master\vendor\codeigniter4\framework\system\CodeIgniter.php(400): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Clients))
+#3 D:\xampp\htdocs\policy-master\vendor\codeigniter4\framework\system\CodeIgniter.php(308): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 D:\xampp\htdocs\policy-master\index.php(84): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2020-09-14 02:34:05 --> Undefined variable: data
+#0 D:\xampp\htdocs\policy-master\app\Controllers\Clients.php(337): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined varia...', 'D:\\xampp\\htdocs...', 337, Array)
+#1 D:\xampp\htdocs\policy-master\vendor\codeigniter4\framework\system\CodeIgniter.php(914): App\Controllers\Clients->search_client()
+#2 D:\xampp\htdocs\policy-master\vendor\codeigniter4\framework\system\CodeIgniter.php(400): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Clients))
+#3 D:\xampp\htdocs\policy-master\vendor\codeigniter4\framework\system\CodeIgniter.php(308): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 D:\xampp\htdocs\policy-master\index.php(84): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2020-09-14 02:35:06 --> Undefined variable: data
+#0 D:\xampp\htdocs\policy-master\app\Controllers\Clients.php(337): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined varia...', 'D:\\xampp\\htdocs...', 337, Array)
+#1 D:\xampp\htdocs\policy-master\vendor\codeigniter4\framework\system\CodeIgniter.php(914): App\Controllers\Clients->search_client()
+#2 D:\xampp\htdocs\policy-master\vendor\codeigniter4\framework\system\CodeIgniter.php(400): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Clients))
+#3 D:\xampp\htdocs\policy-master\vendor\codeigniter4\framework\system\CodeIgniter.php(308): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 D:\xampp\htdocs\policy-master\index.php(84): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2020-09-14 03:55:16 --> Undefined variable: data
+#0 D:\xampp\htdocs\policy-master\app\Controllers\Clients.php(337): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined varia...', 'D:\\xampp\\htdocs...', 337, Array)
+#1 D:\xampp\htdocs\policy-master\vendor\codeigniter4\framework\system\CodeIgniter.php(914): App\Controllers\Clients->search_client()
+#2 D:\xampp\htdocs\policy-master\vendor\codeigniter4\framework\system\CodeIgniter.php(400): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Clients))
+#3 D:\xampp\htdocs\policy-master\vendor\codeigniter4\framework\system\CodeIgniter.php(308): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 D:\xampp\htdocs\policy-master\index.php(84): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2020-09-14 04:24:22 --> Undefined variable: data
+#0 D:\xampp\htdocs\policy-master\app\Controllers\Clients.php(338): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined varia...', 'D:\\xampp\\htdocs...', 338, Array)
+#1 D:\xampp\htdocs\policy-master\vendor\codeigniter4\framework\system\CodeIgniter.php(914): App\Controllers\Clients->search_client()
+#2 D:\xampp\htdocs\policy-master\vendor\codeigniter4\framework\system\CodeIgniter.php(400): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Clients))
+#3 D:\xampp\htdocs\policy-master\vendor\codeigniter4\framework\system\CodeIgniter.php(308): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 D:\xampp\htdocs\policy-master\index.php(84): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2020-09-14 04:24:23 --> Undefined variable: data
+#0 D:\xampp\htdocs\policy-master\app\Controllers\Clients.php(338): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined varia...', 'D:\\xampp\\htdocs...', 338, Array)
+#1 D:\xampp\htdocs\policy-master\vendor\codeigniter4\framework\system\CodeIgniter.php(914): App\Controllers\Clients->search_client()
+#2 D:\xampp\htdocs\policy-master\vendor\codeigniter4\framework\system\CodeIgniter.php(400): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Clients))
+#3 D:\xampp\htdocs\policy-master\vendor\codeigniter4\framework\system\CodeIgniter.php(308): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 D:\xampp\htdocs\policy-master\index.php(84): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2020-09-14 04:24:23 --> Undefined variable: data
+#0 D:\xampp\htdocs\policy-master\app\Controllers\Clients.php(338): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined varia...', 'D:\\xampp\\htdocs...', 338, Array)
+#1 D:\xampp\htdocs\policy-master\vendor\codeigniter4\framework\system\CodeIgniter.php(914): App\Controllers\Clients->search_client()
+#2 D:\xampp\htdocs\policy-master\vendor\codeigniter4\framework\system\CodeIgniter.php(400): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Clients))
+#3 D:\xampp\htdocs\policy-master\vendor\codeigniter4\framework\system\CodeIgniter.php(308): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 D:\xampp\htdocs\policy-master\index.php(84): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2020-09-14 04:24:23 --> Undefined variable: data
+#0 D:\xampp\htdocs\policy-master\app\Controllers\Clients.php(338): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined varia...', 'D:\\xampp\\htdocs...', 338, Array)
+#1 D:\xampp\htdocs\policy-master\vendor\codeigniter4\framework\system\CodeIgniter.php(914): App\Controllers\Clients->search_client()
+#2 D:\xampp\htdocs\policy-master\vendor\codeigniter4\framework\system\CodeIgniter.php(400): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Clients))
+#3 D:\xampp\htdocs\policy-master\vendor\codeigniter4\framework\system\CodeIgniter.php(308): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 D:\xampp\htdocs\policy-master\index.php(84): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2020-09-14 04:24:24 --> Undefined variable: data
+#0 D:\xampp\htdocs\policy-master\app\Controllers\Clients.php(338): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined varia...', 'D:\\xampp\\htdocs...', 338, Array)
+#1 D:\xampp\htdocs\policy-master\vendor\codeigniter4\framework\system\CodeIgniter.php(914): App\Controllers\Clients->search_client()
+#2 D:\xampp\htdocs\policy-master\vendor\codeigniter4\framework\system\CodeIgniter.php(400): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Clients))
+#3 D:\xampp\htdocs\policy-master\vendor\codeigniter4\framework\system\CodeIgniter.php(308): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 D:\xampp\htdocs\policy-master\index.php(84): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2020-09-14 04:25:25 --> Undefined variable: data
+#0 D:\xampp\htdocs\policy-master\app\Controllers\Clients.php(338): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined varia...', 'D:\\xampp\\htdocs...', 338, Array)
+#1 D:\xampp\htdocs\policy-master\vendor\codeigniter4\framework\system\CodeIgniter.php(914): App\Controllers\Clients->search_client()
+#2 D:\xampp\htdocs\policy-master\vendor\codeigniter4\framework\system\CodeIgniter.php(400): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Clients))
+#3 D:\xampp\htdocs\policy-master\vendor\codeigniter4\framework\system\CodeIgniter.php(308): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 D:\xampp\htdocs\policy-master\index.php(84): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2020-09-14 04:25:25 --> Undefined variable: data
+#0 D:\xampp\htdocs\policy-master\app\Controllers\Clients.php(338): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined varia...', 'D:\\xampp\\htdocs...', 338, Array)
+#1 D:\xampp\htdocs\policy-master\vendor\codeigniter4\framework\system\CodeIgniter.php(914): App\Controllers\Clients->search_client()
+#2 D:\xampp\htdocs\policy-master\vendor\codeigniter4\framework\system\CodeIgniter.php(400): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Clients))
+#3 D:\xampp\htdocs\policy-master\vendor\codeigniter4\framework\system\CodeIgniter.php(308): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 D:\xampp\htdocs\policy-master\index.php(84): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2020-09-14 04:25:25 --> Undefined variable: data
+#0 D:\xampp\htdocs\policy-master\app\Controllers\Clients.php(338): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined varia...', 'D:\\xampp\\htdocs...', 338, Array)
+#1 D:\xampp\htdocs\policy-master\vendor\codeigniter4\framework\system\CodeIgniter.php(914): App\Controllers\Clients->search_client()
+#2 D:\xampp\htdocs\policy-master\vendor\codeigniter4\framework\system\CodeIgniter.php(400): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Clients))
+#3 D:\xampp\htdocs\policy-master\vendor\codeigniter4\framework\system\CodeIgniter.php(308): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 D:\xampp\htdocs\policy-master\index.php(84): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2020-09-14 04:25:25 --> Undefined variable: data
+#0 D:\xampp\htdocs\policy-master\app\Controllers\Clients.php(338): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined varia...', 'D:\\xampp\\htdocs...', 338, Array)
+#1 D:\xampp\htdocs\policy-master\vendor\codeigniter4\framework\system\CodeIgniter.php(914): App\Controllers\Clients->search_client()
+#2 D:\xampp\htdocs\policy-master\vendor\codeigniter4\framework\system\CodeIgniter.php(400): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Clients))
+#3 D:\xampp\htdocs\policy-master\vendor\codeigniter4\framework\system\CodeIgniter.php(308): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 D:\xampp\htdocs\policy-master\index.php(84): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2020-09-14 04:25:26 --> Undefined variable: data
+#0 D:\xampp\htdocs\policy-master\app\Controllers\Clients.php(338): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined varia...', 'D:\\xampp\\htdocs...', 338, Array)
+#1 D:\xampp\htdocs\policy-master\vendor\codeigniter4\framework\system\CodeIgniter.php(914): App\Controllers\Clients->search_client()
+#2 D:\xampp\htdocs\policy-master\vendor\codeigniter4\framework\system\CodeIgniter.php(400): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Clients))
+#3 D:\xampp\htdocs\policy-master\vendor\codeigniter4\framework\system\CodeIgniter.php(308): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 D:\xampp\htdocs\policy-master\index.php(84): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2020-09-14 04:29:38 --> Undefined index: client_name
+#0 D:\xampp\htdocs\policy-master\app\Controllers\Clients.php(335): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined index...', 'D:\\xampp\\htdocs...', 335, Array)
+#1 D:\xampp\htdocs\policy-master\vendor\codeigniter4\framework\system\CodeIgniter.php(914): App\Controllers\Clients->search_client()
+#2 D:\xampp\htdocs\policy-master\vendor\codeigniter4\framework\system\CodeIgniter.php(400): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Clients))
+#3 D:\xampp\htdocs\policy-master\vendor\codeigniter4\framework\system\CodeIgniter.php(308): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 D:\xampp\htdocs\policy-master\index.php(84): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2020-09-14 04:29:38 --> Undefined index: client_name
+#0 D:\xampp\htdocs\policy-master\app\Controllers\Clients.php(335): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined index...', 'D:\\xampp\\htdocs...', 335, Array)
+#1 D:\xampp\htdocs\policy-master\vendor\codeigniter4\framework\system\CodeIgniter.php(914): App\Controllers\Clients->search_client()
+#2 D:\xampp\htdocs\policy-master\vendor\codeigniter4\framework\system\CodeIgniter.php(400): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Clients))
+#3 D:\xampp\htdocs\policy-master\vendor\codeigniter4\framework\system\CodeIgniter.php(308): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 D:\xampp\htdocs\policy-master\index.php(84): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2020-09-14 04:29:38 --> Undefined index: client_name
+#0 D:\xampp\htdocs\policy-master\app\Controllers\Clients.php(335): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined index...', 'D:\\xampp\\htdocs...', 335, Array)
+#1 D:\xampp\htdocs\policy-master\vendor\codeigniter4\framework\system\CodeIgniter.php(914): App\Controllers\Clients->search_client()
+#2 D:\xampp\htdocs\policy-master\vendor\codeigniter4\framework\system\CodeIgniter.php(400): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Clients))
+#3 D:\xampp\htdocs\policy-master\vendor\codeigniter4\framework\system\CodeIgniter.php(308): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 D:\xampp\htdocs\policy-master\index.php(84): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2020-09-14 04:29:39 --> Undefined index: client_name
+#0 D:\xampp\htdocs\policy-master\app\Controllers\Clients.php(335): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined index...', 'D:\\xampp\\htdocs...', 335, Array)
+#1 D:\xampp\htdocs\policy-master\vendor\codeigniter4\framework\system\CodeIgniter.php(914): App\Controllers\Clients->search_client()
+#2 D:\xampp\htdocs\policy-master\vendor\codeigniter4\framework\system\CodeIgniter.php(400): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Clients))
+#3 D:\xampp\htdocs\policy-master\vendor\codeigniter4\framework\system\CodeIgniter.php(308): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 D:\xampp\htdocs\policy-master\index.php(84): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2020-09-14 04:29:39 --> Undefined index: client_name
+#0 D:\xampp\htdocs\policy-master\app\Controllers\Clients.php(335): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined index...', 'D:\\xampp\\htdocs...', 335, Array)
+#1 D:\xampp\htdocs\policy-master\vendor\codeigniter4\framework\system\CodeIgniter.php(914): App\Controllers\Clients->search_client()
+#2 D:\xampp\htdocs\policy-master\vendor\codeigniter4\framework\system\CodeIgniter.php(400): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Clients))
+#3 D:\xampp\htdocs\policy-master\vendor\codeigniter4\framework\system\CodeIgniter.php(308): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 D:\xampp\htdocs\policy-master\index.php(84): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2020-09-14 04:33:15 --> syntax error, unexpected '$data' (T_VARIABLE), expecting '('
+#0 D:\xampp\htdocs\policy-master\vendor\codeigniter4\framework\system\Router\Router.php(192): CodeIgniter\Router\Router->autoRoute('/clients/search...')
+#1 D:\xampp\htdocs\policy-master\vendor\codeigniter4\framework\system\CodeIgniter.php(789): CodeIgniter\Router\Router->handle('/clients/search...')
+#2 D:\xampp\htdocs\policy-master\vendor\codeigniter4\framework\system\CodeIgniter.php(360): CodeIgniter\CodeIgniter->tryToRouteIt(Object(CodeIgniter\Router\RouteCollection))
+#3 D:\xampp\htdocs\policy-master\vendor\codeigniter4\framework\system\CodeIgniter.php(308): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 D:\xampp\htdocs\policy-master\index.php(84): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2020-09-14 04:34:19 --> syntax error, unexpected '$data' (T_VARIABLE), expecting '('
+#0 D:\xampp\htdocs\policy-master\vendor\codeigniter4\framework\system\Router\Router.php(192): CodeIgniter\Router\Router->autoRoute('/clients/search...')
+#1 D:\xampp\htdocs\policy-master\vendor\codeigniter4\framework\system\CodeIgniter.php(789): CodeIgniter\Router\Router->handle('/clients/search...')
+#2 D:\xampp\htdocs\policy-master\vendor\codeigniter4\framework\system\CodeIgniter.php(360): CodeIgniter\CodeIgniter->tryToRouteIt(Object(CodeIgniter\Router\RouteCollection))
+#3 D:\xampp\htdocs\policy-master\vendor\codeigniter4\framework\system\CodeIgniter.php(308): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 D:\xampp\htdocs\policy-master\index.php(84): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2020-09-14 05:13:03 --> syntax error, unexpected 'id' (T_STRING), expecting ',' or ';'
+#0 D:\xampp\htdocs\policy-master\vendor\codeigniter4\framework\system\Router\Router.php(192): CodeIgniter\Router\Router->autoRoute('/clients/search...')
+#1 D:\xampp\htdocs\policy-master\vendor\codeigniter4\framework\system\CodeIgniter.php(789): CodeIgniter\Router\Router->handle('/clients/search...')
+#2 D:\xampp\htdocs\policy-master\vendor\codeigniter4\framework\system\CodeIgniter.php(360): CodeIgniter\CodeIgniter->tryToRouteIt(Object(CodeIgniter\Router\RouteCollection))
+#3 D:\xampp\htdocs\policy-master\vendor\codeigniter4\framework\system\CodeIgniter.php(308): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 D:\xampp\htdocs\policy-master\index.php(84): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2020-09-14 05:15:18 --> syntax error, unexpected '?'
+#0 D:\xampp\htdocs\policy-master\vendor\codeigniter4\framework\system\Router\Router.php(192): CodeIgniter\Router\Router->autoRoute('/clients/search...')
+#1 D:\xampp\htdocs\policy-master\vendor\codeigniter4\framework\system\CodeIgniter.php(789): CodeIgniter\Router\Router->handle('/clients/search...')
+#2 D:\xampp\htdocs\policy-master\vendor\codeigniter4\framework\system\CodeIgniter.php(360): CodeIgniter\CodeIgniter->tryToRouteIt(Object(CodeIgniter\Router\RouteCollection))
+#3 D:\xampp\htdocs\policy-master\vendor\codeigniter4\framework\system\CodeIgniter.php(308): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 D:\xampp\htdocs\policy-master\index.php(84): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2020-09-14 05:21:08 --> syntax error, unexpected ''">'' (T_CONSTANT_ENCAPSED_STRING), expecting ',' or ';'
+#0 D:\xampp\htdocs\policy-master\vendor\codeigniter4\framework\system\Router\Router.php(192): CodeIgniter\Router\Router->autoRoute('/clients/search...')
+#1 D:\xampp\htdocs\policy-master\vendor\codeigniter4\framework\system\CodeIgniter.php(789): CodeIgniter\Router\Router->handle('/clients/search...')
+#2 D:\xampp\htdocs\policy-master\vendor\codeigniter4\framework\system\CodeIgniter.php(360): CodeIgniter\CodeIgniter->tryToRouteIt(Object(CodeIgniter\Router\RouteCollection))
+#3 D:\xampp\htdocs\policy-master\vendor\codeigniter4\framework\system\CodeIgniter.php(308): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 D:\xampp\htdocs\policy-master\index.php(84): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2020-09-14 05:22:31 --> syntax error, unexpected ''">'' (T_CONSTANT_ENCAPSED_STRING), expecting ',' or ';'
+#0 D:\xampp\htdocs\policy-master\vendor\codeigniter4\framework\system\Router\Router.php(192): CodeIgniter\Router\Router->autoRoute('/clients/search...')
+#1 D:\xampp\htdocs\policy-master\vendor\codeigniter4\framework\system\CodeIgniter.php(789): CodeIgniter\Router\Router->handle('/clients/search...')
+#2 D:\xampp\htdocs\policy-master\vendor\codeigniter4\framework\system\CodeIgniter.php(360): CodeIgniter\CodeIgniter->tryToRouteIt(Object(CodeIgniter\Router\RouteCollection))
+#3 D:\xampp\htdocs\policy-master\vendor\codeigniter4\framework\system\CodeIgniter.php(308): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 D:\xampp\htdocs\policy-master\index.php(84): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2020-09-14 05:23:51 --> syntax error, unexpected '' (T_ENCAPSED_AND_WHITESPACE), expecting '-' or identifier (T_STRING) or variable (T_VARIABLE) or number (T_NUM_STRING)
+#0 D:\xampp\htdocs\policy-master\vendor\codeigniter4\framework\system\Router\Router.php(192): CodeIgniter\Router\Router->autoRoute('/clients/search...')
+#1 D:\xampp\htdocs\policy-master\vendor\codeigniter4\framework\system\CodeIgniter.php(789): CodeIgniter\Router\Router->handle('/clients/search...')
+#2 D:\xampp\htdocs\policy-master\vendor\codeigniter4\framework\system\CodeIgniter.php(360): CodeIgniter\CodeIgniter->tryToRouteIt(Object(CodeIgniter\Router\RouteCollection))
+#3 D:\xampp\htdocs\policy-master\vendor\codeigniter4\framework\system\CodeIgniter.php(308): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 D:\xampp\htdocs\policy-master\index.php(84): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2020-09-14 05:23:53 --> syntax error, unexpected '' (T_ENCAPSED_AND_WHITESPACE), expecting '-' or identifier (T_STRING) or variable (T_VARIABLE) or number (T_NUM_STRING)
+#0 D:\xampp\htdocs\policy-master\vendor\codeigniter4\framework\system\Router\Router.php(192): CodeIgniter\Router\Router->autoRoute('/clients/search...')
+#1 D:\xampp\htdocs\policy-master\vendor\codeigniter4\framework\system\CodeIgniter.php(789): CodeIgniter\Router\Router->handle('/clients/search...')
+#2 D:\xampp\htdocs\policy-master\vendor\codeigniter4\framework\system\CodeIgniter.php(360): CodeIgniter\CodeIgniter->tryToRouteIt(Object(CodeIgniter\Router\RouteCollection))
+#3 D:\xampp\htdocs\policy-master\vendor\codeigniter4\framework\system\CodeIgniter.php(308): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 D:\xampp\htdocs\policy-master\index.php(84): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2020-09-14 05:23:58 --> syntax error, unexpected '' (T_ENCAPSED_AND_WHITESPACE), expecting '-' or identifier (T_STRING) or variable (T_VARIABLE) or number (T_NUM_STRING)
+#0 D:\xampp\htdocs\policy-master\vendor\codeigniter4\framework\system\Router\Router.php(192): CodeIgniter\Router\Router->autoRoute('/clients/search...')
+#1 D:\xampp\htdocs\policy-master\vendor\codeigniter4\framework\system\CodeIgniter.php(789): CodeIgniter\Router\Router->handle('/clients/search...')
+#2 D:\xampp\htdocs\policy-master\vendor\codeigniter4\framework\system\CodeIgniter.php(360): CodeIgniter\CodeIgniter->tryToRouteIt(Object(CodeIgniter\Router\RouteCollection))
+#3 D:\xampp\htdocs\policy-master\vendor\codeigniter4\framework\system\CodeIgniter.php(308): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 D:\xampp\htdocs\policy-master\index.php(84): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2020-09-14 05:34:13 --> syntax error, unexpected '}', expecting ',' or ';'
+#0 D:\xampp\htdocs\policy-master\vendor\codeigniter4\framework\system\Router\Router.php(192): CodeIgniter\Router\Router->autoRoute('/clients/search...')
+#1 D:\xampp\htdocs\policy-master\vendor\codeigniter4\framework\system\CodeIgniter.php(789): CodeIgniter\Router\Router->handle('/clients/search...')
+#2 D:\xampp\htdocs\policy-master\vendor\codeigniter4\framework\system\CodeIgniter.php(360): CodeIgniter\CodeIgniter->tryToRouteIt(Object(CodeIgniter\Router\RouteCollection))
+#3 D:\xampp\htdocs\policy-master\vendor\codeigniter4\framework\system\CodeIgniter.php(308): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 D:\xampp\htdocs\policy-master\index.php(84): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2020-09-14 07:26:07 --> Undefined variable: ouput
+#0 D:\xampp\htdocs\policy-master\app\Controllers\Clients.php(349): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined varia...', 'D:\\xampp\\htdocs...', 349, Array)
+#1 D:\xampp\htdocs\policy-master\vendor\codeigniter4\framework\system\CodeIgniter.php(914): App\Controllers\Clients->search_client()
+#2 D:\xampp\htdocs\policy-master\vendor\codeigniter4\framework\system\CodeIgniter.php(400): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Clients))
+#3 D:\xampp\htdocs\policy-master\vendor\codeigniter4\framework\system\CodeIgniter.php(308): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 D:\xampp\htdocs\policy-master\index.php(84): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2020-09-14 07:26:09 --> Undefined variable: ouput
+#0 D:\xampp\htdocs\policy-master\app\Controllers\Clients.php(349): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined varia...', 'D:\\xampp\\htdocs...', 349, Array)
+#1 D:\xampp\htdocs\policy-master\vendor\codeigniter4\framework\system\CodeIgniter.php(914): App\Controllers\Clients->search_client()
+#2 D:\xampp\htdocs\policy-master\vendor\codeigniter4\framework\system\CodeIgniter.php(400): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Clients))
+#3 D:\xampp\htdocs\policy-master\vendor\codeigniter4\framework\system\CodeIgniter.php(308): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 D:\xampp\htdocs\policy-master\index.php(84): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2020-09-14 07:26:10 --> Undefined variable: ouput
+#0 D:\xampp\htdocs\policy-master\app\Controllers\Clients.php(349): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined varia...', 'D:\\xampp\\htdocs...', 349, Array)
+#1 D:\xampp\htdocs\policy-master\vendor\codeigniter4\framework\system\CodeIgniter.php(914): App\Controllers\Clients->search_client()
+#2 D:\xampp\htdocs\policy-master\vendor\codeigniter4\framework\system\CodeIgniter.php(400): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Clients))
+#3 D:\xampp\htdocs\policy-master\vendor\codeigniter4\framework\system\CodeIgniter.php(308): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 D:\xampp\htdocs\policy-master\index.php(84): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2020-09-14 07:26:10 --> Undefined variable: ouput
+#0 D:\xampp\htdocs\policy-master\app\Controllers\Clients.php(349): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined varia...', 'D:\\xampp\\htdocs...', 349, Array)
+#1 D:\xampp\htdocs\policy-master\vendor\codeigniter4\framework\system\CodeIgniter.php(914): App\Controllers\Clients->search_client()
+#2 D:\xampp\htdocs\policy-master\vendor\codeigniter4\framework\system\CodeIgniter.php(400): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Clients))
+#3 D:\xampp\htdocs\policy-master\vendor\codeigniter4\framework\system\CodeIgniter.php(308): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 D:\xampp\htdocs\policy-master\index.php(84): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2020-09-14 07:26:11 --> Undefined variable: ouput
+#0 D:\xampp\htdocs\policy-master\app\Controllers\Clients.php(349): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined varia...', 'D:\\xampp\\htdocs...', 349, Array)
+#1 D:\xampp\htdocs\policy-master\vendor\codeigniter4\framework\system\CodeIgniter.php(914): App\Controllers\Clients->search_client()
+#2 D:\xampp\htdocs\policy-master\vendor\codeigniter4\framework\system\CodeIgniter.php(400): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Clients))
+#3 D:\xampp\htdocs\policy-master\vendor\codeigniter4\framework\system\CodeIgniter.php(308): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 D:\xampp\htdocs\policy-master\index.php(84): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2020-09-14 07:26:22 --> Undefined variable: ouput
+#0 D:\xampp\htdocs\policy-master\app\Controllers\Clients.php(349): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined varia...', 'D:\\xampp\\htdocs...', 349, Array)
+#1 D:\xampp\htdocs\policy-master\vendor\codeigniter4\framework\system\CodeIgniter.php(914): App\Controllers\Clients->search_client()
+#2 D:\xampp\htdocs\policy-master\vendor\codeigniter4\framework\system\CodeIgniter.php(400): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Clients))
+#3 D:\xampp\htdocs\policy-master\vendor\codeigniter4\framework\system\CodeIgniter.php(308): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 D:\xampp\htdocs\policy-master\index.php(84): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2020-09-14 07:26:22 --> Undefined variable: ouput
+#0 D:\xampp\htdocs\policy-master\app\Controllers\Clients.php(349): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined varia...', 'D:\\xampp\\htdocs...', 349, Array)
+#1 D:\xampp\htdocs\policy-master\vendor\codeigniter4\framework\system\CodeIgniter.php(914): App\Controllers\Clients->search_client()
+#2 D:\xampp\htdocs\policy-master\vendor\codeigniter4\framework\system\CodeIgniter.php(400): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Clients))
+#3 D:\xampp\htdocs\policy-master\vendor\codeigniter4\framework\system\CodeIgniter.php(308): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 D:\xampp\htdocs\policy-master\index.php(84): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2020-09-14 07:45:13 --> Undefined index: client_id
+#0 D:\xampp\htdocs\policy-master\app\Controllers\Clients.php(340): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined index...', 'D:\\xampp\\htdocs...', 340, Array)
+#1 D:\xampp\htdocs\policy-master\vendor\codeigniter4\framework\system\CodeIgniter.php(914): App\Controllers\Clients->search_client()
+#2 D:\xampp\htdocs\policy-master\vendor\codeigniter4\framework\system\CodeIgniter.php(400): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Clients))
+#3 D:\xampp\htdocs\policy-master\vendor\codeigniter4\framework\system\CodeIgniter.php(308): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 D:\xampp\htdocs\policy-master\index.php(84): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2020-09-14 07:45:13 --> Undefined index: client_id
+#0 D:\xampp\htdocs\policy-master\app\Controllers\Clients.php(340): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined index...', 'D:\\xampp\\htdocs...', 340, Array)
+#1 D:\xampp\htdocs\policy-master\vendor\codeigniter4\framework\system\CodeIgniter.php(914): App\Controllers\Clients->search_client()
+#2 D:\xampp\htdocs\policy-master\vendor\codeigniter4\framework\system\CodeIgniter.php(400): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Clients))
+#3 D:\xampp\htdocs\policy-master\vendor\codeigniter4\framework\system\CodeIgniter.php(308): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 D:\xampp\htdocs\policy-master\index.php(84): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2020-09-14 07:45:14 --> Undefined index: client_id
+#0 D:\xampp\htdocs\policy-master\app\Controllers\Clients.php(340): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined index...', 'D:\\xampp\\htdocs...', 340, Array)
+#1 D:\xampp\htdocs\policy-master\vendor\codeigniter4\framework\system\CodeIgniter.php(914): App\Controllers\Clients->search_client()
+#2 D:\xampp\htdocs\policy-master\vendor\codeigniter4\framework\system\CodeIgniter.php(400): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Clients))
+#3 D:\xampp\htdocs\policy-master\vendor\codeigniter4\framework\system\CodeIgniter.php(308): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 D:\xampp\htdocs\policy-master\index.php(84): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2020-09-14 07:45:16 --> Undefined index: client_id
+#0 D:\xampp\htdocs\policy-master\app\Controllers\Clients.php(340): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined index...', 'D:\\xampp\\htdocs...', 340, Array)
+#1 D:\xampp\htdocs\policy-master\vendor\codeigniter4\framework\system\CodeIgniter.php(914): App\Controllers\Clients->search_client()
+#2 D:\xampp\htdocs\policy-master\vendor\codeigniter4\framework\system\CodeIgniter.php(400): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Clients))
+#3 D:\xampp\htdocs\policy-master\vendor\codeigniter4\framework\system\CodeIgniter.php(308): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 D:\xampp\htdocs\policy-master\index.php(84): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2020-09-14 07:45:17 --> Undefined index: client_id
+#0 D:\xampp\htdocs\policy-master\app\Controllers\Clients.php(340): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined index...', 'D:\\xampp\\htdocs...', 340, Array)
+#1 D:\xampp\htdocs\policy-master\vendor\codeigniter4\framework\system\CodeIgniter.php(914): App\Controllers\Clients->search_client()
+#2 D:\xampp\htdocs\policy-master\vendor\codeigniter4\framework\system\CodeIgniter.php(400): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Clients))
+#3 D:\xampp\htdocs\policy-master\vendor\codeigniter4\framework\system\CodeIgniter.php(308): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 D:\xampp\htdocs\policy-master\index.php(84): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2020-09-14 07:45:19 --> Undefined index: client_id
+#0 D:\xampp\htdocs\policy-master\app\Controllers\Clients.php(340): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined index...', 'D:\\xampp\\htdocs...', 340, Array)
+#1 D:\xampp\htdocs\policy-master\vendor\codeigniter4\framework\system\CodeIgniter.php(914): App\Controllers\Clients->search_client()
+#2 D:\xampp\htdocs\policy-master\vendor\codeigniter4\framework\system\CodeIgniter.php(400): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Clients))
+#3 D:\xampp\htdocs\policy-master\vendor\codeigniter4\framework\system\CodeIgniter.php(308): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 D:\xampp\htdocs\policy-master\index.php(84): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2020-09-14 07:45:36 --> Undefined index: client_id
+#0 D:\xampp\htdocs\policy-master\app\Controllers\Clients.php(340): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined index...', 'D:\\xampp\\htdocs...', 340, Array)
+#1 D:\xampp\htdocs\policy-master\vendor\codeigniter4\framework\system\CodeIgniter.php(914): App\Controllers\Clients->search_client()
+#2 D:\xampp\htdocs\policy-master\vendor\codeigniter4\framework\system\CodeIgniter.php(400): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Clients))
+#3 D:\xampp\htdocs\policy-master\vendor\codeigniter4\framework\system\CodeIgniter.php(308): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 D:\xampp\htdocs\policy-master\index.php(84): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2020-09-14 07:45:37 --> Undefined index: client_id
+#0 D:\xampp\htdocs\policy-master\app\Controllers\Clients.php(340): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined index...', 'D:\\xampp\\htdocs...', 340, Array)
+#1 D:\xampp\htdocs\policy-master\vendor\codeigniter4\framework\system\CodeIgniter.php(914): App\Controllers\Clients->search_client()
+#2 D:\xampp\htdocs\policy-master\vendor\codeigniter4\framework\system\CodeIgniter.php(400): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Clients))
+#3 D:\xampp\htdocs\policy-master\vendor\codeigniter4\framework\system\CodeIgniter.php(308): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 D:\xampp\htdocs\policy-master\index.php(84): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2020-09-14 07:45:38 --> Undefined index: client_id
+#0 D:\xampp\htdocs\policy-master\app\Controllers\Clients.php(340): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined index...', 'D:\\xampp\\htdocs...', 340, Array)
+#1 D:\xampp\htdocs\policy-master\vendor\codeigniter4\framework\system\CodeIgniter.php(914): App\Controllers\Clients->search_client()
+#2 D:\xampp\htdocs\policy-master\vendor\codeigniter4\framework\system\CodeIgniter.php(400): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Clients))
+#3 D:\xampp\htdocs\policy-master\vendor\codeigniter4\framework\system\CodeIgniter.php(308): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 D:\xampp\htdocs\policy-master\index.php(84): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2020-09-14 07:45:38 --> Undefined index: client_id
+#0 D:\xampp\htdocs\policy-master\app\Controllers\Clients.php(340): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined index...', 'D:\\xampp\\htdocs...', 340, Array)
+#1 D:\xampp\htdocs\policy-master\vendor\codeigniter4\framework\system\CodeIgniter.php(914): App\Controllers\Clients->search_client()
+#2 D:\xampp\htdocs\policy-master\vendor\codeigniter4\framework\system\CodeIgniter.php(400): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Clients))
+#3 D:\xampp\htdocs\policy-master\vendor\codeigniter4\framework\system\CodeIgniter.php(308): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 D:\xampp\htdocs\policy-master\index.php(84): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2020-09-14 07:45:39 --> Undefined index: client_id
+#0 D:\xampp\htdocs\policy-master\app\Controllers\Clients.php(340): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined index...', 'D:\\xampp\\htdocs...', 340, Array)
+#1 D:\xampp\htdocs\policy-master\vendor\codeigniter4\framework\system\CodeIgniter.php(914): App\Controllers\Clients->search_client()
+#2 D:\xampp\htdocs\policy-master\vendor\codeigniter4\framework\system\CodeIgniter.php(400): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Clients))
+#3 D:\xampp\htdocs\policy-master\vendor\codeigniter4\framework\system\CodeIgniter.php(308): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 D:\xampp\htdocs\policy-master\index.php(84): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2020-09-14 07:45:39 --> Undefined index: client_id
+#0 D:\xampp\htdocs\policy-master\app\Controllers\Clients.php(340): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined index...', 'D:\\xampp\\htdocs...', 340, Array)
+#1 D:\xampp\htdocs\policy-master\vendor\codeigniter4\framework\system\CodeIgniter.php(914): App\Controllers\Clients->search_client()
+#2 D:\xampp\htdocs\policy-master\vendor\codeigniter4\framework\system\CodeIgniter.php(400): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Clients))
+#3 D:\xampp\htdocs\policy-master\vendor\codeigniter4\framework\system\CodeIgniter.php(308): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 D:\xampp\htdocs\policy-master\index.php(84): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2020-09-14 07:45:39 --> Undefined index: client_id
+#0 D:\xampp\htdocs\policy-master\app\Controllers\Clients.php(340): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined index...', 'D:\\xampp\\htdocs...', 340, Array)
+#1 D:\xampp\htdocs\policy-master\vendor\codeigniter4\framework\system\CodeIgniter.php(914): App\Controllers\Clients->search_client()
+#2 D:\xampp\htdocs\policy-master\vendor\codeigniter4\framework\system\CodeIgniter.php(400): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Clients))
+#3 D:\xampp\htdocs\policy-master\vendor\codeigniter4\framework\system\CodeIgniter.php(308): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 D:\xampp\htdocs\policy-master\index.php(84): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2020-09-14 07:45:40 --> Undefined index: client_id
+#0 D:\xampp\htdocs\policy-master\app\Controllers\Clients.php(340): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined index...', 'D:\\xampp\\htdocs...', 340, Array)
+#1 D:\xampp\htdocs\policy-master\vendor\codeigniter4\framework\system\CodeIgniter.php(914): App\Controllers\Clients->search_client()
+#2 D:\xampp\htdocs\policy-master\vendor\codeigniter4\framework\system\CodeIgniter.php(400): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Clients))
+#3 D:\xampp\htdocs\policy-master\vendor\codeigniter4\framework\system\CodeIgniter.php(308): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 D:\xampp\htdocs\policy-master\index.php(84): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2020-09-14 07:47:33 --> Undefined index: client_id
+#0 D:\xampp\htdocs\policy-master\app\Controllers\Clients.php(340): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined index...', 'D:\\xampp\\htdocs...', 340, Array)
+#1 D:\xampp\htdocs\policy-master\vendor\codeigniter4\framework\system\CodeIgniter.php(914): App\Controllers\Clients->search_client()
+#2 D:\xampp\htdocs\policy-master\vendor\codeigniter4\framework\system\CodeIgniter.php(400): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Clients))
+#3 D:\xampp\htdocs\policy-master\vendor\codeigniter4\framework\system\CodeIgniter.php(308): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 D:\xampp\htdocs\policy-master\index.php(84): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2020-09-14 07:47:34 --> Undefined index: client_id
+#0 D:\xampp\htdocs\policy-master\app\Controllers\Clients.php(340): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined index...', 'D:\\xampp\\htdocs...', 340, Array)
+#1 D:\xampp\htdocs\policy-master\vendor\codeigniter4\framework\system\CodeIgniter.php(914): App\Controllers\Clients->search_client()
+#2 D:\xampp\htdocs\policy-master\vendor\codeigniter4\framework\system\CodeIgniter.php(400): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Clients))
+#3 D:\xampp\htdocs\policy-master\vendor\codeigniter4\framework\system\CodeIgniter.php(308): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 D:\xampp\htdocs\policy-master\index.php(84): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2020-09-14 07:47:34 --> Undefined index: client_id
+#0 D:\xampp\htdocs\policy-master\app\Controllers\Clients.php(340): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined index...', 'D:\\xampp\\htdocs...', 340, Array)
+#1 D:\xampp\htdocs\policy-master\vendor\codeigniter4\framework\system\CodeIgniter.php(914): App\Controllers\Clients->search_client()
+#2 D:\xampp\htdocs\policy-master\vendor\codeigniter4\framework\system\CodeIgniter.php(400): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Clients))
+#3 D:\xampp\htdocs\policy-master\vendor\codeigniter4\framework\system\CodeIgniter.php(308): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 D:\xampp\htdocs\policy-master\index.php(84): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2020-09-14 07:47:37 --> Undefined index: client_id
+#0 D:\xampp\htdocs\policy-master\app\Controllers\Clients.php(340): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined index...', 'D:\\xampp\\htdocs...', 340, Array)
+#1 D:\xampp\htdocs\policy-master\vendor\codeigniter4\framework\system\CodeIgniter.php(914): App\Controllers\Clients->search_client()
+#2 D:\xampp\htdocs\policy-master\vendor\codeigniter4\framework\system\CodeIgniter.php(400): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Clients))
+#3 D:\xampp\htdocs\policy-master\vendor\codeigniter4\framework\system\CodeIgniter.php(308): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 D:\xampp\htdocs\policy-master\index.php(84): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2020-09-14 07:47:37 --> Undefined index: client_id
+#0 D:\xampp\htdocs\policy-master\app\Controllers\Clients.php(340): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined index...', 'D:\\xampp\\htdocs...', 340, Array)
+#1 D:\xampp\htdocs\policy-master\vendor\codeigniter4\framework\system\CodeIgniter.php(914): App\Controllers\Clients->search_client()
+#2 D:\xampp\htdocs\policy-master\vendor\codeigniter4\framework\system\CodeIgniter.php(400): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Clients))
+#3 D:\xampp\htdocs\policy-master\vendor\codeigniter4\framework\system\CodeIgniter.php(308): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 D:\xampp\htdocs\policy-master\index.php(84): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2020-09-14 08:08:42 --> syntax error, unexpected ''">'' (T_CONSTANT_ENCAPSED_STRING)
+#0 D:\xampp\htdocs\policy-master\vendor\codeigniter4\framework\system\Router\Router.php(192): CodeIgniter\Router\Router->autoRoute('/clients/search...')
+#1 D:\xampp\htdocs\policy-master\vendor\codeigniter4\framework\system\CodeIgniter.php(789): CodeIgniter\Router\Router->handle('/clients/search...')
+#2 D:\xampp\htdocs\policy-master\vendor\codeigniter4\framework\system\CodeIgniter.php(360): CodeIgniter\CodeIgniter->tryToRouteIt(Object(CodeIgniter\Router\RouteCollection))
+#3 D:\xampp\htdocs\policy-master\vendor\codeigniter4\framework\system\CodeIgniter.php(308): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 D:\xampp\htdocs\policy-master\index.php(84): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2020-09-14 08:08:44 --> syntax error, unexpected ''">'' (T_CONSTANT_ENCAPSED_STRING)
+#0 D:\xampp\htdocs\policy-master\vendor\codeigniter4\framework\system\Router\Router.php(192): CodeIgniter\Router\Router->autoRoute('/clients/search...')
+#1 D:\xampp\htdocs\policy-master\vendor\codeigniter4\framework\system\CodeIgniter.php(789): CodeIgniter\Router\Router->handle('/clients/search...')
+#2 D:\xampp\htdocs\policy-master\vendor\codeigniter4\framework\system\CodeIgniter.php(360): CodeIgniter\CodeIgniter->tryToRouteIt(Object(CodeIgniter\Router\RouteCollection))
+#3 D:\xampp\htdocs\policy-master\vendor\codeigniter4\framework\system\CodeIgniter.php(308): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 D:\xampp\htdocs\policy-master\index.php(84): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2020-09-14 08:08:45 --> syntax error, unexpected ''">'' (T_CONSTANT_ENCAPSED_STRING)
+#0 D:\xampp\htdocs\policy-master\vendor\codeigniter4\framework\system\Router\Router.php(192): CodeIgniter\Router\Router->autoRoute('/clients/search...')
+#1 D:\xampp\htdocs\policy-master\vendor\codeigniter4\framework\system\CodeIgniter.php(789): CodeIgniter\Router\Router->handle('/clients/search...')
+#2 D:\xampp\htdocs\policy-master\vendor\codeigniter4\framework\system\CodeIgniter.php(360): CodeIgniter\CodeIgniter->tryToRouteIt(Object(CodeIgniter\Router\RouteCollection))
+#3 D:\xampp\htdocs\policy-master\vendor\codeigniter4\framework\system\CodeIgniter.php(308): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 D:\xampp\htdocs\policy-master\index.php(84): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2020-09-14 08:08:53 --> syntax error, unexpected ''">'' (T_CONSTANT_ENCAPSED_STRING)
+#0 D:\xampp\htdocs\policy-master\vendor\codeigniter4\framework\system\Router\Router.php(192): CodeIgniter\Router\Router->autoRoute('/clients/search...')
+#1 D:\xampp\htdocs\policy-master\vendor\codeigniter4\framework\system\CodeIgniter.php(789): CodeIgniter\Router\Router->handle('/clients/search...')
+#2 D:\xampp\htdocs\policy-master\vendor\codeigniter4\framework\system\CodeIgniter.php(360): CodeIgniter\CodeIgniter->tryToRouteIt(Object(CodeIgniter\Router\RouteCollection))
+#3 D:\xampp\htdocs\policy-master\vendor\codeigniter4\framework\system\CodeIgniter.php(308): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 D:\xampp\htdocs\policy-master\index.php(84): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2020-09-14 08:08:54 --> syntax error, unexpected ''">'' (T_CONSTANT_ENCAPSED_STRING)
+#0 D:\xampp\htdocs\policy-master\vendor\codeigniter4\framework\system\Router\Router.php(192): CodeIgniter\Router\Router->autoRoute('/clients/search...')
+#1 D:\xampp\htdocs\policy-master\vendor\codeigniter4\framework\system\CodeIgniter.php(789): CodeIgniter\Router\Router->handle('/clients/search...')
+#2 D:\xampp\htdocs\policy-master\vendor\codeigniter4\framework\system\CodeIgniter.php(360): CodeIgniter\CodeIgniter->tryToRouteIt(Object(CodeIgniter\Router\RouteCollection))
+#3 D:\xampp\htdocs\policy-master\vendor\codeigniter4\framework\system\CodeIgniter.php(308): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 D:\xampp\htdocs\policy-master\index.php(84): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2020-09-14 08:10:40 --> syntax error, unexpected ''">'' (T_CONSTANT_ENCAPSED_STRING)
+#0 D:\xampp\htdocs\policy-master\vendor\codeigniter4\framework\system\Router\Router.php(192): CodeIgniter\Router\Router->autoRoute('/clients/search...')
+#1 D:\xampp\htdocs\policy-master\vendor\codeigniter4\framework\system\CodeIgniter.php(789): CodeIgniter\Router\Router->handle('/clients/search...')
+#2 D:\xampp\htdocs\policy-master\vendor\codeigniter4\framework\system\CodeIgniter.php(360): CodeIgniter\CodeIgniter->tryToRouteIt(Object(CodeIgniter\Router\RouteCollection))
+#3 D:\xampp\htdocs\policy-master\vendor\codeigniter4\framework\system\CodeIgniter.php(308): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 D:\xampp\htdocs\policy-master\index.php(84): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2020-09-14 08:10:41 --> syntax error, unexpected ''">'' (T_CONSTANT_ENCAPSED_STRING)
+#0 D:\xampp\htdocs\policy-master\vendor\codeigniter4\framework\system\Router\Router.php(192): CodeIgniter\Router\Router->autoRoute('/clients/search...')
+#1 D:\xampp\htdocs\policy-master\vendor\codeigniter4\framework\system\CodeIgniter.php(789): CodeIgniter\Router\Router->handle('/clients/search...')
+#2 D:\xampp\htdocs\policy-master\vendor\codeigniter4\framework\system\CodeIgniter.php(360): CodeIgniter\CodeIgniter->tryToRouteIt(Object(CodeIgniter\Router\RouteCollection))
+#3 D:\xampp\htdocs\policy-master\vendor\codeigniter4\framework\system\CodeIgniter.php(308): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 D:\xampp\htdocs\policy-master\index.php(84): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2020-09-14 08:10:42 --> syntax error, unexpected ''">'' (T_CONSTANT_ENCAPSED_STRING)
+#0 D:\xampp\htdocs\policy-master\vendor\codeigniter4\framework\system\Router\Router.php(192): CodeIgniter\Router\Router->autoRoute('/clients/search...')
+#1 D:\xampp\htdocs\policy-master\vendor\codeigniter4\framework\system\CodeIgniter.php(789): CodeIgniter\Router\Router->handle('/clients/search...')
+#2 D:\xampp\htdocs\policy-master\vendor\codeigniter4\framework\system\CodeIgniter.php(360): CodeIgniter\CodeIgniter->tryToRouteIt(Object(CodeIgniter\Router\RouteCollection))
+#3 D:\xampp\htdocs\policy-master\vendor\codeigniter4\framework\system\CodeIgniter.php(308): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 D:\xampp\htdocs\policy-master\index.php(84): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2020-09-14 08:10:42 --> syntax error, unexpected ''">'' (T_CONSTANT_ENCAPSED_STRING)
+#0 D:\xampp\htdocs\policy-master\vendor\codeigniter4\framework\system\Router\Router.php(192): CodeIgniter\Router\Router->autoRoute('/clients/search...')
+#1 D:\xampp\htdocs\policy-master\vendor\codeigniter4\framework\system\CodeIgniter.php(789): CodeIgniter\Router\Router->handle('/clients/search...')
+#2 D:\xampp\htdocs\policy-master\vendor\codeigniter4\framework\system\CodeIgniter.php(360): CodeIgniter\CodeIgniter->tryToRouteIt(Object(CodeIgniter\Router\RouteCollection))
+#3 D:\xampp\htdocs\policy-master\vendor\codeigniter4\framework\system\CodeIgniter.php(308): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 D:\xampp\htdocs\policy-master\index.php(84): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2020-09-14 08:10:43 --> syntax error, unexpected ''">'' (T_CONSTANT_ENCAPSED_STRING)
+#0 D:\xampp\htdocs\policy-master\vendor\codeigniter4\framework\system\Router\Router.php(192): CodeIgniter\Router\Router->autoRoute('/clients/search...')
+#1 D:\xampp\htdocs\policy-master\vendor\codeigniter4\framework\system\CodeIgniter.php(789): CodeIgniter\Router\Router->handle('/clients/search...')
+#2 D:\xampp\htdocs\policy-master\vendor\codeigniter4\framework\system\CodeIgniter.php(360): CodeIgniter\CodeIgniter->tryToRouteIt(Object(CodeIgniter\Router\RouteCollection))
+#3 D:\xampp\htdocs\policy-master\vendor\codeigniter4\framework\system\CodeIgniter.php(308): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 D:\xampp\htdocs\policy-master\index.php(84): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2020-09-14 08:10:43 --> syntax error, unexpected ''">'' (T_CONSTANT_ENCAPSED_STRING)
+#0 D:\xampp\htdocs\policy-master\vendor\codeigniter4\framework\system\Router\Router.php(192): CodeIgniter\Router\Router->autoRoute('/clients/search...')
+#1 D:\xampp\htdocs\policy-master\vendor\codeigniter4\framework\system\CodeIgniter.php(789): CodeIgniter\Router\Router->handle('/clients/search...')
+#2 D:\xampp\htdocs\policy-master\vendor\codeigniter4\framework\system\CodeIgniter.php(360): CodeIgniter\CodeIgniter->tryToRouteIt(Object(CodeIgniter\Router\RouteCollection))
+#3 D:\xampp\htdocs\policy-master\vendor\codeigniter4\framework\system\CodeIgniter.php(308): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 D:\xampp\htdocs\policy-master\index.php(84): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2020-09-14 08:10:44 --> syntax error, unexpected ''">'' (T_CONSTANT_ENCAPSED_STRING)
+#0 D:\xampp\htdocs\policy-master\vendor\codeigniter4\framework\system\Router\Router.php(192): CodeIgniter\Router\Router->autoRoute('/clients/search...')
+#1 D:\xampp\htdocs\policy-master\vendor\codeigniter4\framework\system\CodeIgniter.php(789): CodeIgniter\Router\Router->handle('/clients/search...')
+#2 D:\xampp\htdocs\policy-master\vendor\codeigniter4\framework\system\CodeIgniter.php(360): CodeIgniter\CodeIgniter->tryToRouteIt(Object(CodeIgniter\Router\RouteCollection))
+#3 D:\xampp\htdocs\policy-master\vendor\codeigniter4\framework\system\CodeIgniter.php(308): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 D:\xampp\htdocs\policy-master\index.php(84): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2020-09-14 08:10:44 --> syntax error, unexpected ''">'' (T_CONSTANT_ENCAPSED_STRING)
+#0 D:\xampp\htdocs\policy-master\vendor\codeigniter4\framework\system\Router\Router.php(192): CodeIgniter\Router\Router->autoRoute('/clients/search...')
+#1 D:\xampp\htdocs\policy-master\vendor\codeigniter4\framework\system\CodeIgniter.php(789): CodeIgniter\Router\Router->handle('/clients/search...')
+#2 D:\xampp\htdocs\policy-master\vendor\codeigniter4\framework\system\CodeIgniter.php(360): CodeIgniter\CodeIgniter->tryToRouteIt(Object(CodeIgniter\Router\RouteCollection))
+#3 D:\xampp\htdocs\policy-master\vendor\codeigniter4\framework\system\CodeIgniter.php(308): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 D:\xampp\htdocs\policy-master\index.php(84): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2020-09-14 08:10:44 --> syntax error, unexpected ''">'' (T_CONSTANT_ENCAPSED_STRING)
+#0 D:\xampp\htdocs\policy-master\vendor\codeigniter4\framework\system\Router\Router.php(192): CodeIgniter\Router\Router->autoRoute('/clients/search...')
+#1 D:\xampp\htdocs\policy-master\vendor\codeigniter4\framework\system\CodeIgniter.php(789): CodeIgniter\Router\Router->handle('/clients/search...')
+#2 D:\xampp\htdocs\policy-master\vendor\codeigniter4\framework\system\CodeIgniter.php(360): CodeIgniter\CodeIgniter->tryToRouteIt(Object(CodeIgniter\Router\RouteCollection))
+#3 D:\xampp\htdocs\policy-master\vendor\codeigniter4\framework\system\CodeIgniter.php(308): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 D:\xampp\htdocs\policy-master\index.php(84): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2020-09-14 08:18:11 --> syntax error, unexpected '.'
+#0 D:\xampp\htdocs\policy-master\vendor\codeigniter4\framework\system\Router\Router.php(192): CodeIgniter\Router\Router->autoRoute('/clients/search...')
+#1 D:\xampp\htdocs\policy-master\vendor\codeigniter4\framework\system\CodeIgniter.php(789): CodeIgniter\Router\Router->handle('/clients/search...')
+#2 D:\xampp\htdocs\policy-master\vendor\codeigniter4\framework\system\CodeIgniter.php(360): CodeIgniter\CodeIgniter->tryToRouteIt(Object(CodeIgniter\Router\RouteCollection))
+#3 D:\xampp\htdocs\policy-master\vendor\codeigniter4\framework\system\CodeIgniter.php(308): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 D:\xampp\htdocs\policy-master\index.php(84): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2020-09-14 08:56:47 --> syntax error, unexpected '$value' (T_VARIABLE)
+#0 D:\xampp\htdocs\policy-master\vendor\codeigniter4\framework\system\Router\Router.php(192): CodeIgniter\Router\Router->autoRoute('/clients/search...')
+#1 D:\xampp\htdocs\policy-master\vendor\codeigniter4\framework\system\CodeIgniter.php(789): CodeIgniter\Router\Router->handle('/clients/search...')
+#2 D:\xampp\htdocs\policy-master\vendor\codeigniter4\framework\system\CodeIgniter.php(360): CodeIgniter\CodeIgniter->tryToRouteIt(Object(CodeIgniter\Router\RouteCollection))
+#3 D:\xampp\htdocs\policy-master\vendor\codeigniter4\framework\system\CodeIgniter.php(308): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 D:\xampp\htdocs\policy-master\index.php(84): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2020-09-14 08:56:48 --> syntax error, unexpected '$value' (T_VARIABLE)
+#0 D:\xampp\htdocs\policy-master\vendor\codeigniter4\framework\system\Router\Router.php(192): CodeIgniter\Router\Router->autoRoute('/clients/search...')
+#1 D:\xampp\htdocs\policy-master\vendor\codeigniter4\framework\system\CodeIgniter.php(789): CodeIgniter\Router\Router->handle('/clients/search...')
+#2 D:\xampp\htdocs\policy-master\vendor\codeigniter4\framework\system\CodeIgniter.php(360): CodeIgniter\CodeIgniter->tryToRouteIt(Object(CodeIgniter\Router\RouteCollection))
+#3 D:\xampp\htdocs\policy-master\vendor\codeigniter4\framework\system\CodeIgniter.php(308): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 D:\xampp\htdocs\policy-master\index.php(84): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2020-09-14 08:56:49 --> syntax error, unexpected '$value' (T_VARIABLE)
+#0 D:\xampp\htdocs\policy-master\vendor\codeigniter4\framework\system\Router\Router.php(192): CodeIgniter\Router\Router->autoRoute('/clients/search...')
+#1 D:\xampp\htdocs\policy-master\vendor\codeigniter4\framework\system\CodeIgniter.php(789): CodeIgniter\Router\Router->handle('/clients/search...')
+#2 D:\xampp\htdocs\policy-master\vendor\codeigniter4\framework\system\CodeIgniter.php(360): CodeIgniter\CodeIgniter->tryToRouteIt(Object(CodeIgniter\Router\RouteCollection))
+#3 D:\xampp\htdocs\policy-master\vendor\codeigniter4\framework\system\CodeIgniter.php(308): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 D:\xampp\htdocs\policy-master\index.php(84): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2020-09-14 08:56:50 --> syntax error, unexpected '$value' (T_VARIABLE)
+#0 D:\xampp\htdocs\policy-master\vendor\codeigniter4\framework\system\Router\Router.php(192): CodeIgniter\Router\Router->autoRoute('/clients/search...')
+#1 D:\xampp\htdocs\policy-master\vendor\codeigniter4\framework\system\CodeIgniter.php(789): CodeIgniter\Router\Router->handle('/clients/search...')
+#2 D:\xampp\htdocs\policy-master\vendor\codeigniter4\framework\system\CodeIgniter.php(360): CodeIgniter\CodeIgniter->tryToRouteIt(Object(CodeIgniter\Router\RouteCollection))
+#3 D:\xampp\htdocs\policy-master\vendor\codeigniter4\framework\system\CodeIgniter.php(308): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 D:\xampp\htdocs\policy-master\index.php(84): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2020-09-14 08:56:51 --> syntax error, unexpected '$value' (T_VARIABLE)
+#0 D:\xampp\htdocs\policy-master\vendor\codeigniter4\framework\system\Router\Router.php(192): CodeIgniter\Router\Router->autoRoute('/clients/search...')
+#1 D:\xampp\htdocs\policy-master\vendor\codeigniter4\framework\system\CodeIgniter.php(789): CodeIgniter\Router\Router->handle('/clients/search...')
+#2 D:\xampp\htdocs\policy-master\vendor\codeigniter4\framework\system\CodeIgniter.php(360): CodeIgniter\CodeIgniter->tryToRouteIt(Object(CodeIgniter\Router\RouteCollection))
+#3 D:\xampp\htdocs\policy-master\vendor\codeigniter4\framework\system\CodeIgniter.php(308): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 D:\xampp\htdocs\policy-master\index.php(84): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2020-09-14 08:56:52 --> syntax error, unexpected '$value' (T_VARIABLE)
+#0 D:\xampp\htdocs\policy-master\vendor\codeigniter4\framework\system\Router\Router.php(192): CodeIgniter\Router\Router->autoRoute('/clients/search...')
+#1 D:\xampp\htdocs\policy-master\vendor\codeigniter4\framework\system\CodeIgniter.php(789): CodeIgniter\Router\Router->handle('/clients/search...')
+#2 D:\xampp\htdocs\policy-master\vendor\codeigniter4\framework\system\CodeIgniter.php(360): CodeIgniter\CodeIgniter->tryToRouteIt(Object(CodeIgniter\Router\RouteCollection))
+#3 D:\xampp\htdocs\policy-master\vendor\codeigniter4\framework\system\CodeIgniter.php(308): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 D:\xampp\htdocs\policy-master\index.php(84): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2020-09-14 08:56:53 --> syntax error, unexpected '$value' (T_VARIABLE)
+#0 D:\xampp\htdocs\policy-master\vendor\codeigniter4\framework\system\Router\Router.php(192): CodeIgniter\Router\Router->autoRoute('/clients/search...')
+#1 D:\xampp\htdocs\policy-master\vendor\codeigniter4\framework\system\CodeIgniter.php(789): CodeIgniter\Router\Router->handle('/clients/search...')
+#2 D:\xampp\htdocs\policy-master\vendor\codeigniter4\framework\system\CodeIgniter.php(360): CodeIgniter\CodeIgniter->tryToRouteIt(Object(CodeIgniter\Router\RouteCollection))
+#3 D:\xampp\htdocs\policy-master\vendor\codeigniter4\framework\system\CodeIgniter.php(308): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 D:\xampp\htdocs\policy-master\index.php(84): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2020-09-14 08:57:09 --> syntax error, unexpected '$value' (T_VARIABLE)
+#0 D:\xampp\htdocs\policy-master\vendor\codeigniter4\framework\system\Router\Router.php(192): CodeIgniter\Router\Router->autoRoute('/clients/search...')
+#1 D:\xampp\htdocs\policy-master\vendor\codeigniter4\framework\system\CodeIgniter.php(789): CodeIgniter\Router\Router->handle('/clients/search...')
+#2 D:\xampp\htdocs\policy-master\vendor\codeigniter4\framework\system\CodeIgniter.php(360): CodeIgniter\CodeIgniter->tryToRouteIt(Object(CodeIgniter\Router\RouteCollection))
+#3 D:\xampp\htdocs\policy-master\vendor\codeigniter4\framework\system\CodeIgniter.php(308): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 D:\xampp\htdocs\policy-master\index.php(84): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2020-09-14 08:57:41 --> syntax error, unexpected ''">'' (T_CONSTANT_ENCAPSED_STRING)
+#0 D:\xampp\htdocs\policy-master\vendor\codeigniter4\framework\system\Router\Router.php(192): CodeIgniter\Router\Router->autoRoute('/clients/search...')
+#1 D:\xampp\htdocs\policy-master\vendor\codeigniter4\framework\system\CodeIgniter.php(789): CodeIgniter\Router\Router->handle('/clients/search...')
+#2 D:\xampp\htdocs\policy-master\vendor\codeigniter4\framework\system\CodeIgniter.php(360): CodeIgniter\CodeIgniter->tryToRouteIt(Object(CodeIgniter\Router\RouteCollection))
+#3 D:\xampp\htdocs\policy-master\vendor\codeigniter4\framework\system\CodeIgniter.php(308): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 D:\xampp\htdocs\policy-master\index.php(84): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2020-09-14 08:57:41 --> syntax error, unexpected ''">'' (T_CONSTANT_ENCAPSED_STRING)
+#0 D:\xampp\htdocs\policy-master\vendor\codeigniter4\framework\system\Router\Router.php(192): CodeIgniter\Router\Router->autoRoute('/clients/search...')
+#1 D:\xampp\htdocs\policy-master\vendor\codeigniter4\framework\system\CodeIgniter.php(789): CodeIgniter\Router\Router->handle('/clients/search...')
+#2 D:\xampp\htdocs\policy-master\vendor\codeigniter4\framework\system\CodeIgniter.php(360): CodeIgniter\CodeIgniter->tryToRouteIt(Object(CodeIgniter\Router\RouteCollection))
+#3 D:\xampp\htdocs\policy-master\vendor\codeigniter4\framework\system\CodeIgniter.php(308): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 D:\xampp\htdocs\policy-master\index.php(84): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2020-09-14 08:58:33 --> syntax error, unexpected ''">'' (T_CONSTANT_ENCAPSED_STRING)
+#0 D:\xampp\htdocs\policy-master\vendor\codeigniter4\framework\system\Router\Router.php(192): CodeIgniter\Router\Router->autoRoute('/clients/search...')
+#1 D:\xampp\htdocs\policy-master\vendor\codeigniter4\framework\system\CodeIgniter.php(789): CodeIgniter\Router\Router->handle('/clients/search...')
+#2 D:\xampp\htdocs\policy-master\vendor\codeigniter4\framework\system\CodeIgniter.php(360): CodeIgniter\CodeIgniter->tryToRouteIt(Object(CodeIgniter\Router\RouteCollection))
+#3 D:\xampp\htdocs\policy-master\vendor\codeigniter4\framework\system\CodeIgniter.php(308): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 D:\xampp\htdocs\policy-master\index.php(84): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2020-09-14 09:02:37 --> syntax error, unexpected ''">'' (T_CONSTANT_ENCAPSED_STRING)
+#0 D:\xampp\htdocs\policy-master\vendor\codeigniter4\framework\system\Router\Router.php(192): CodeIgniter\Router\Router->autoRoute('/clients/search...')
+#1 D:\xampp\htdocs\policy-master\vendor\codeigniter4\framework\system\CodeIgniter.php(789): CodeIgniter\Router\Router->handle('/clients/search...')
+#2 D:\xampp\htdocs\policy-master\vendor\codeigniter4\framework\system\CodeIgniter.php(360): CodeIgniter\CodeIgniter->tryToRouteIt(Object(CodeIgniter\Router\RouteCollection))
+#3 D:\xampp\htdocs\policy-master\vendor\codeigniter4\framework\system\CodeIgniter.php(308): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 D:\xampp\htdocs\policy-master\index.php(84): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2020-09-14 09:02:37 --> syntax error, unexpected ''">'' (T_CONSTANT_ENCAPSED_STRING)
+#0 D:\xampp\htdocs\policy-master\vendor\codeigniter4\framework\system\Router\Router.php(192): CodeIgniter\Router\Router->autoRoute('/clients/search...')
+#1 D:\xampp\htdocs\policy-master\vendor\codeigniter4\framework\system\CodeIgniter.php(789): CodeIgniter\Router\Router->handle('/clients/search...')
+#2 D:\xampp\htdocs\policy-master\vendor\codeigniter4\framework\system\CodeIgniter.php(360): CodeIgniter\CodeIgniter->tryToRouteIt(Object(CodeIgniter\Router\RouteCollection))
+#3 D:\xampp\htdocs\policy-master\vendor\codeigniter4\framework\system\CodeIgniter.php(308): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 D:\xampp\htdocs\policy-master\index.php(84): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2020-09-14 09:02:41 --> syntax error, unexpected ''">'' (T_CONSTANT_ENCAPSED_STRING)
+#0 D:\xampp\htdocs\policy-master\vendor\codeigniter4\framework\system\Router\Router.php(192): CodeIgniter\Router\Router->autoRoute('/clients/search...')
+#1 D:\xampp\htdocs\policy-master\vendor\codeigniter4\framework\system\CodeIgniter.php(789): CodeIgniter\Router\Router->handle('/clients/search...')
+#2 D:\xampp\htdocs\policy-master\vendor\codeigniter4\framework\system\CodeIgniter.php(360): CodeIgniter\CodeIgniter->tryToRouteIt(Object(CodeIgniter\Router\RouteCollection))
+#3 D:\xampp\htdocs\policy-master\vendor\codeigniter4\framework\system\CodeIgniter.php(308): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 D:\xampp\htdocs\policy-master\index.php(84): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2020-09-14 09:02:41 --> syntax error, unexpected ''">'' (T_CONSTANT_ENCAPSED_STRING)
+#0 D:\xampp\htdocs\policy-master\vendor\codeigniter4\framework\system\Router\Router.php(192): CodeIgniter\Router\Router->autoRoute('/clients/search...')
+#1 D:\xampp\htdocs\policy-master\vendor\codeigniter4\framework\system\CodeIgniter.php(789): CodeIgniter\Router\Router->handle('/clients/search...')
+#2 D:\xampp\htdocs\policy-master\vendor\codeigniter4\framework\system\CodeIgniter.php(360): CodeIgniter\CodeIgniter->tryToRouteIt(Object(CodeIgniter\Router\RouteCollection))
+#3 D:\xampp\htdocs\policy-master\vendor\codeigniter4\framework\system\CodeIgniter.php(308): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 D:\xampp\htdocs\policy-master\index.php(84): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2020-09-14 09:02:42 --> syntax error, unexpected ''">'' (T_CONSTANT_ENCAPSED_STRING)
+#0 D:\xampp\htdocs\policy-master\vendor\codeigniter4\framework\system\Router\Router.php(192): CodeIgniter\Router\Router->autoRoute('/clients/search...')
+#1 D:\xampp\htdocs\policy-master\vendor\codeigniter4\framework\system\CodeIgniter.php(789): CodeIgniter\Router\Router->handle('/clients/search...')
+#2 D:\xampp\htdocs\policy-master\vendor\codeigniter4\framework\system\CodeIgniter.php(360): CodeIgniter\CodeIgniter->tryToRouteIt(Object(CodeIgniter\Router\RouteCollection))
+#3 D:\xampp\htdocs\policy-master\vendor\codeigniter4\framework\system\CodeIgniter.php(308): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 D:\xampp\htdocs\policy-master\index.php(84): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2020-09-14 09:02:51 --> syntax error, unexpected ''">'' (T_CONSTANT_ENCAPSED_STRING)
+#0 D:\xampp\htdocs\policy-master\vendor\codeigniter4\framework\system\Router\Router.php(192): CodeIgniter\Router\Router->autoRoute('/clients/search...')
+#1 D:\xampp\htdocs\policy-master\vendor\codeigniter4\framework\system\CodeIgniter.php(789): CodeIgniter\Router\Router->handle('/clients/search...')
+#2 D:\xampp\htdocs\policy-master\vendor\codeigniter4\framework\system\CodeIgniter.php(360): CodeIgniter\CodeIgniter->tryToRouteIt(Object(CodeIgniter\Router\RouteCollection))
+#3 D:\xampp\htdocs\policy-master\vendor\codeigniter4\framework\system\CodeIgniter.php(308): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 D:\xampp\htdocs\policy-master\index.php(84): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2020-09-14 09:03:36 --> syntax error, unexpected ''>'' (T_CONSTANT_ENCAPSED_STRING)
+#0 D:\xampp\htdocs\policy-master\vendor\codeigniter4\framework\system\Router\Router.php(192): CodeIgniter\Router\Router->autoRoute('/clients/search...')
+#1 D:\xampp\htdocs\policy-master\vendor\codeigniter4\framework\system\CodeIgniter.php(789): CodeIgniter\Router\Router->handle('/clients/search...')
+#2 D:\xampp\htdocs\policy-master\vendor\codeigniter4\framework\system\CodeIgniter.php(360): CodeIgniter\CodeIgniter->tryToRouteIt(Object(CodeIgniter\Router\RouteCollection))
+#3 D:\xampp\htdocs\policy-master\vendor\codeigniter4\framework\system\CodeIgniter.php(308): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 D:\xampp\htdocs\policy-master\index.php(84): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2020-09-14 09:03:37 --> syntax error, unexpected ''>'' (T_CONSTANT_ENCAPSED_STRING)
+#0 D:\xampp\htdocs\policy-master\vendor\codeigniter4\framework\system\Router\Router.php(192): CodeIgniter\Router\Router->autoRoute('/clients/search...')
+#1 D:\xampp\htdocs\policy-master\vendor\codeigniter4\framework\system\CodeIgniter.php(789): CodeIgniter\Router\Router->handle('/clients/search...')
+#2 D:\xampp\htdocs\policy-master\vendor\codeigniter4\framework\system\CodeIgniter.php(360): CodeIgniter\CodeIgniter->tryToRouteIt(Object(CodeIgniter\Router\RouteCollection))
+#3 D:\xampp\htdocs\policy-master\vendor\codeigniter4\framework\system\CodeIgniter.php(308): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 D:\xampp\htdocs\policy-master\index.php(84): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2020-09-14 09:06:18 --> syntax error, unexpected ''>'' (T_CONSTANT_ENCAPSED_STRING)
+#0 D:\xampp\htdocs\policy-master\vendor\codeigniter4\framework\system\Router\Router.php(192): CodeIgniter\Router\Router->autoRoute('/clients/search...')
+#1 D:\xampp\htdocs\policy-master\vendor\codeigniter4\framework\system\CodeIgniter.php(789): CodeIgniter\Router\Router->handle('/clients/search...')
+#2 D:\xampp\htdocs\policy-master\vendor\codeigniter4\framework\system\CodeIgniter.php(360): CodeIgniter\CodeIgniter->tryToRouteIt(Object(CodeIgniter\Router\RouteCollection))
+#3 D:\xampp\htdocs\policy-master\vendor\codeigniter4\framework\system\CodeIgniter.php(308): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 D:\xampp\htdocs\policy-master\index.php(84): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2020-09-14 09:06:26 --> syntax error, unexpected ''>'' (T_CONSTANT_ENCAPSED_STRING)
+#0 D:\xampp\htdocs\policy-master\vendor\codeigniter4\framework\system\Router\Router.php(192): CodeIgniter\Router\Router->autoRoute('/clients/search...')
+#1 D:\xampp\htdocs\policy-master\vendor\codeigniter4\framework\system\CodeIgniter.php(789): CodeIgniter\Router\Router->handle('/clients/search...')
+#2 D:\xampp\htdocs\policy-master\vendor\codeigniter4\framework\system\CodeIgniter.php(360): CodeIgniter\CodeIgniter->tryToRouteIt(Object(CodeIgniter\Router\RouteCollection))
+#3 D:\xampp\htdocs\policy-master\vendor\codeigniter4\framework\system\CodeIgniter.php(308): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 D:\xampp\htdocs\policy-master\index.php(84): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2020-09-14 09:06:26 --> syntax error, unexpected ''>'' (T_CONSTANT_ENCAPSED_STRING)
+#0 D:\xampp\htdocs\policy-master\vendor\codeigniter4\framework\system\Router\Router.php(192): CodeIgniter\Router\Router->autoRoute('/clients/search...')
+#1 D:\xampp\htdocs\policy-master\vendor\codeigniter4\framework\system\CodeIgniter.php(789): CodeIgniter\Router\Router->handle('/clients/search...')
+#2 D:\xampp\htdocs\policy-master\vendor\codeigniter4\framework\system\CodeIgniter.php(360): CodeIgniter\CodeIgniter->tryToRouteIt(Object(CodeIgniter\Router\RouteCollection))
+#3 D:\xampp\htdocs\policy-master\vendor\codeigniter4\framework\system\CodeIgniter.php(308): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 D:\xampp\htdocs\policy-master\index.php(84): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2020-09-14 09:06:26 --> syntax error, unexpected ''>'' (T_CONSTANT_ENCAPSED_STRING)
+#0 D:\xampp\htdocs\policy-master\vendor\codeigniter4\framework\system\Router\Router.php(192): CodeIgniter\Router\Router->autoRoute('/clients/search...')
+#1 D:\xampp\htdocs\policy-master\vendor\codeigniter4\framework\system\CodeIgniter.php(789): CodeIgniter\Router\Router->handle('/clients/search...')
+#2 D:\xampp\htdocs\policy-master\vendor\codeigniter4\framework\system\CodeIgniter.php(360): CodeIgniter\CodeIgniter->tryToRouteIt(Object(CodeIgniter\Router\RouteCollection))
+#3 D:\xampp\htdocs\policy-master\vendor\codeigniter4\framework\system\CodeIgniter.php(308): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 D:\xampp\htdocs\policy-master\index.php(84): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2020-09-14 09:06:27 --> syntax error, unexpected ''>'' (T_CONSTANT_ENCAPSED_STRING)
+#0 D:\xampp\htdocs\policy-master\vendor\codeigniter4\framework\system\Router\Router.php(192): CodeIgniter\Router\Router->autoRoute('/clients/search...')
+#1 D:\xampp\htdocs\policy-master\vendor\codeigniter4\framework\system\CodeIgniter.php(789): CodeIgniter\Router\Router->handle('/clients/search...')
+#2 D:\xampp\htdocs\policy-master\vendor\codeigniter4\framework\system\CodeIgniter.php(360): CodeIgniter\CodeIgniter->tryToRouteIt(Object(CodeIgniter\Router\RouteCollection))
+#3 D:\xampp\htdocs\policy-master\vendor\codeigniter4\framework\system\CodeIgniter.php(308): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 D:\xampp\htdocs\policy-master\index.php(84): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2020-09-14 09:06:27 --> syntax error, unexpected ''>'' (T_CONSTANT_ENCAPSED_STRING)
+#0 D:\xampp\htdocs\policy-master\vendor\codeigniter4\framework\system\Router\Router.php(192): CodeIgniter\Router\Router->autoRoute('/clients/search...')
+#1 D:\xampp\htdocs\policy-master\vendor\codeigniter4\framework\system\CodeIgniter.php(789): CodeIgniter\Router\Router->handle('/clients/search...')
+#2 D:\xampp\htdocs\policy-master\vendor\codeigniter4\framework\system\CodeIgniter.php(360): CodeIgniter\CodeIgniter->tryToRouteIt(Object(CodeIgniter\Router\RouteCollection))
+#3 D:\xampp\htdocs\policy-master\vendor\codeigniter4\framework\system\CodeIgniter.php(308): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 D:\xampp\htdocs\policy-master\index.php(84): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2020-09-14 09:06:30 --> syntax error, unexpected ''>'' (T_CONSTANT_ENCAPSED_STRING)
+#0 D:\xampp\htdocs\policy-master\vendor\codeigniter4\framework\system\Router\Router.php(192): CodeIgniter\Router\Router->autoRoute('/clients/search...')
+#1 D:\xampp\htdocs\policy-master\vendor\codeigniter4\framework\system\CodeIgniter.php(789): CodeIgniter\Router\Router->handle('/clients/search...')
+#2 D:\xampp\htdocs\policy-master\vendor\codeigniter4\framework\system\CodeIgniter.php(360): CodeIgniter\CodeIgniter->tryToRouteIt(Object(CodeIgniter\Router\RouteCollection))
+#3 D:\xampp\htdocs\policy-master\vendor\codeigniter4\framework\system\CodeIgniter.php(308): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 D:\xampp\htdocs\policy-master\index.php(84): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2020-09-14 09:13:19 --> syntax error, unexpected ''">'' (T_CONSTANT_ENCAPSED_STRING)
+#0 D:\xampp\htdocs\policy-master\vendor\codeigniter4\framework\system\Router\Router.php(192): CodeIgniter\Router\Router->autoRoute('/clients/search...')
+#1 D:\xampp\htdocs\policy-master\vendor\codeigniter4\framework\system\CodeIgniter.php(789): CodeIgniter\Router\Router->handle('/clients/search...')
+#2 D:\xampp\htdocs\policy-master\vendor\codeigniter4\framework\system\CodeIgniter.php(360): CodeIgniter\CodeIgniter->tryToRouteIt(Object(CodeIgniter\Router\RouteCollection))
+#3 D:\xampp\htdocs\policy-master\vendor\codeigniter4\framework\system\CodeIgniter.php(308): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 D:\xampp\htdocs\policy-master\index.php(84): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2020-09-14 09:13:19 --> syntax error, unexpected ''">'' (T_CONSTANT_ENCAPSED_STRING)
+#0 D:\xampp\htdocs\policy-master\vendor\codeigniter4\framework\system\Router\Router.php(192): CodeIgniter\Router\Router->autoRoute('/clients/search...')
+#1 D:\xampp\htdocs\policy-master\vendor\codeigniter4\framework\system\CodeIgniter.php(789): CodeIgniter\Router\Router->handle('/clients/search...')
+#2 D:\xampp\htdocs\policy-master\vendor\codeigniter4\framework\system\CodeIgniter.php(360): CodeIgniter\CodeIgniter->tryToRouteIt(Object(CodeIgniter\Router\RouteCollection))
+#3 D:\xampp\htdocs\policy-master\vendor\codeigniter4\framework\system\CodeIgniter.php(308): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 D:\xampp\htdocs\policy-master\index.php(84): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2020-09-14 09:13:21 --> syntax error, unexpected ''">'' (T_CONSTANT_ENCAPSED_STRING)
+#0 D:\xampp\htdocs\policy-master\vendor\codeigniter4\framework\system\Router\Router.php(192): CodeIgniter\Router\Router->autoRoute('/clients/search...')
+#1 D:\xampp\htdocs\policy-master\vendor\codeigniter4\framework\system\CodeIgniter.php(789): CodeIgniter\Router\Router->handle('/clients/search...')
+#2 D:\xampp\htdocs\policy-master\vendor\codeigniter4\framework\system\CodeIgniter.php(360): CodeIgniter\CodeIgniter->tryToRouteIt(Object(CodeIgniter\Router\RouteCollection))
+#3 D:\xampp\htdocs\policy-master\vendor\codeigniter4\framework\system\CodeIgniter.php(308): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 D:\xampp\htdocs\policy-master\index.php(84): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2020-09-14 09:13:27 --> syntax error, unexpected ''">'' (T_CONSTANT_ENCAPSED_STRING)
+#0 D:\xampp\htdocs\policy-master\vendor\codeigniter4\framework\system\Router\Router.php(192): CodeIgniter\Router\Router->autoRoute('/clients/search...')
+#1 D:\xampp\htdocs\policy-master\vendor\codeigniter4\framework\system\CodeIgniter.php(789): CodeIgniter\Router\Router->handle('/clients/search...')
+#2 D:\xampp\htdocs\policy-master\vendor\codeigniter4\framework\system\CodeIgniter.php(360): CodeIgniter\CodeIgniter->tryToRouteIt(Object(CodeIgniter\Router\RouteCollection))
+#3 D:\xampp\htdocs\policy-master\vendor\codeigniter4\framework\system\CodeIgniter.php(308): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 D:\xampp\htdocs\policy-master\index.php(84): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2020-09-14 09:13:28 --> syntax error, unexpected ''">'' (T_CONSTANT_ENCAPSED_STRING)
+#0 D:\xampp\htdocs\policy-master\vendor\codeigniter4\framework\system\Router\Router.php(192): CodeIgniter\Router\Router->autoRoute('/clients/search...')
+#1 D:\xampp\htdocs\policy-master\vendor\codeigniter4\framework\system\CodeIgniter.php(789): CodeIgniter\Router\Router->handle('/clients/search...')
+#2 D:\xampp\htdocs\policy-master\vendor\codeigniter4\framework\system\CodeIgniter.php(360): CodeIgniter\CodeIgniter->tryToRouteIt(Object(CodeIgniter\Router\RouteCollection))
+#3 D:\xampp\htdocs\policy-master\vendor\codeigniter4\framework\system\CodeIgniter.php(308): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 D:\xampp\htdocs\policy-master\index.php(84): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2020-09-14 09:13:29 --> syntax error, unexpected ''">'' (T_CONSTANT_ENCAPSED_STRING)
+#0 D:\xampp\htdocs\policy-master\vendor\codeigniter4\framework\system\Router\Router.php(192): CodeIgniter\Router\Router->autoRoute('/clients/search...')
+#1 D:\xampp\htdocs\policy-master\vendor\codeigniter4\framework\system\CodeIgniter.php(789): CodeIgniter\Router\Router->handle('/clients/search...')
+#2 D:\xampp\htdocs\policy-master\vendor\codeigniter4\framework\system\CodeIgniter.php(360): CodeIgniter\CodeIgniter->tryToRouteIt(Object(CodeIgniter\Router\RouteCollection))
+#3 D:\xampp\htdocs\policy-master\vendor\codeigniter4\framework\system\CodeIgniter.php(308): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 D:\xampp\htdocs\policy-master\index.php(84): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2020-09-14 09:13:29 --> syntax error, unexpected ''">'' (T_CONSTANT_ENCAPSED_STRING)
+#0 D:\xampp\htdocs\policy-master\vendor\codeigniter4\framework\system\Router\Router.php(192): CodeIgniter\Router\Router->autoRoute('/clients/search...')
+#1 D:\xampp\htdocs\policy-master\vendor\codeigniter4\framework\system\CodeIgniter.php(789): CodeIgniter\Router\Router->handle('/clients/search...')
+#2 D:\xampp\htdocs\policy-master\vendor\codeigniter4\framework\system\CodeIgniter.php(360): CodeIgniter\CodeIgniter->tryToRouteIt(Object(CodeIgniter\Router\RouteCollection))
+#3 D:\xampp\htdocs\policy-master\vendor\codeigniter4\framework\system\CodeIgniter.php(308): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 D:\xampp\htdocs\policy-master\index.php(84): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2020-09-14 09:13:29 --> syntax error, unexpected ''">'' (T_CONSTANT_ENCAPSED_STRING)
+#0 D:\xampp\htdocs\policy-master\vendor\codeigniter4\framework\system\Router\Router.php(192): CodeIgniter\Router\Router->autoRoute('/clients/search...')
+#1 D:\xampp\htdocs\policy-master\vendor\codeigniter4\framework\system\CodeIgniter.php(789): CodeIgniter\Router\Router->handle('/clients/search...')
+#2 D:\xampp\htdocs\policy-master\vendor\codeigniter4\framework\system\CodeIgniter.php(360): CodeIgniter\CodeIgniter->tryToRouteIt(Object(CodeIgniter\Router\RouteCollection))
+#3 D:\xampp\htdocs\policy-master\vendor\codeigniter4\framework\system\CodeIgniter.php(308): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 D:\xampp\htdocs\policy-master\index.php(84): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2020-09-14 09:13:29 --> syntax error, unexpected ''">'' (T_CONSTANT_ENCAPSED_STRING)
+#0 D:\xampp\htdocs\policy-master\vendor\codeigniter4\framework\system\Router\Router.php(192): CodeIgniter\Router\Router->autoRoute('/clients/search...')
+#1 D:\xampp\htdocs\policy-master\vendor\codeigniter4\framework\system\CodeIgniter.php(789): CodeIgniter\Router\Router->handle('/clients/search...')
+#2 D:\xampp\htdocs\policy-master\vendor\codeigniter4\framework\system\CodeIgniter.php(360): CodeIgniter\CodeIgniter->tryToRouteIt(Object(CodeIgniter\Router\RouteCollection))
+#3 D:\xampp\htdocs\policy-master\vendor\codeigniter4\framework\system\CodeIgniter.php(308): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 D:\xampp\htdocs\policy-master\index.php(84): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2020-09-14 09:13:30 --> syntax error, unexpected ''">'' (T_CONSTANT_ENCAPSED_STRING)
+#0 D:\xampp\htdocs\policy-master\vendor\codeigniter4\framework\system\Router\Router.php(192): CodeIgniter\Router\Router->autoRoute('/clients/search...')
+#1 D:\xampp\htdocs\policy-master\vendor\codeigniter4\framework\system\CodeIgniter.php(789): CodeIgniter\Router\Router->handle('/clients/search...')
+#2 D:\xampp\htdocs\policy-master\vendor\codeigniter4\framework\system\CodeIgniter.php(360): CodeIgniter\CodeIgniter->tryToRouteIt(Object(CodeIgniter\Router\RouteCollection))
+#3 D:\xampp\htdocs\policy-master\vendor\codeigniter4\framework\system\CodeIgniter.php(308): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 D:\xampp\htdocs\policy-master\index.php(84): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2020-09-14 09:13:49 --> syntax error, unexpected ''">'' (T_CONSTANT_ENCAPSED_STRING)
+#0 D:\xampp\htdocs\policy-master\vendor\codeigniter4\framework\system\Router\Router.php(192): CodeIgniter\Router\Router->autoRoute('/clients/search...')
+#1 D:\xampp\htdocs\policy-master\vendor\codeigniter4\framework\system\CodeIgniter.php(789): CodeIgniter\Router\Router->handle('/clients/search...')
+#2 D:\xampp\htdocs\policy-master\vendor\codeigniter4\framework\system\CodeIgniter.php(360): CodeIgniter\CodeIgniter->tryToRouteIt(Object(CodeIgniter\Router\RouteCollection))
+#3 D:\xampp\htdocs\policy-master\vendor\codeigniter4\framework\system\CodeIgniter.php(308): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 D:\xampp\htdocs\policy-master\index.php(84): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2020-09-14 09:14:20 --> syntax error, unexpected ''">'' (T_CONSTANT_ENCAPSED_STRING)
+#0 D:\xampp\htdocs\policy-master\vendor\codeigniter4\framework\system\Router\Router.php(192): CodeIgniter\Router\Router->autoRoute('/clients/search...')
+#1 D:\xampp\htdocs\policy-master\vendor\codeigniter4\framework\system\CodeIgniter.php(789): CodeIgniter\Router\Router->handle('/clients/search...')
+#2 D:\xampp\htdocs\policy-master\vendor\codeigniter4\framework\system\CodeIgniter.php(360): CodeIgniter\CodeIgniter->tryToRouteIt(Object(CodeIgniter\Router\RouteCollection))
+#3 D:\xampp\htdocs\policy-master\vendor\codeigniter4\framework\system\CodeIgniter.php(308): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 D:\xampp\htdocs\policy-master\index.php(84): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2020-09-14 09:14:20 --> syntax error, unexpected ''">'' (T_CONSTANT_ENCAPSED_STRING)
+#0 D:\xampp\htdocs\policy-master\vendor\codeigniter4\framework\system\Router\Router.php(192): CodeIgniter\Router\Router->autoRoute('/clients/search...')
+#1 D:\xampp\htdocs\policy-master\vendor\codeigniter4\framework\system\CodeIgniter.php(789): CodeIgniter\Router\Router->handle('/clients/search...')
+#2 D:\xampp\htdocs\policy-master\vendor\codeigniter4\framework\system\CodeIgniter.php(360): CodeIgniter\CodeIgniter->tryToRouteIt(Object(CodeIgniter\Router\RouteCollection))
+#3 D:\xampp\htdocs\policy-master\vendor\codeigniter4\framework\system\CodeIgniter.php(308): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 D:\xampp\htdocs\policy-master\index.php(84): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2020-09-14 09:14:47 --> syntax error, unexpected ''">'' (T_CONSTANT_ENCAPSED_STRING)
+#0 D:\xampp\htdocs\policy-master\vendor\codeigniter4\framework\system\Router\Router.php(192): CodeIgniter\Router\Router->autoRoute('/clients/search...')
+#1 D:\xampp\htdocs\policy-master\vendor\codeigniter4\framework\system\CodeIgniter.php(789): CodeIgniter\Router\Router->handle('/clients/search...')
+#2 D:\xampp\htdocs\policy-master\vendor\codeigniter4\framework\system\CodeIgniter.php(360): CodeIgniter\CodeIgniter->tryToRouteIt(Object(CodeIgniter\Router\RouteCollection))
+#3 D:\xampp\htdocs\policy-master\vendor\codeigniter4\framework\system\CodeIgniter.php(308): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 D:\xampp\htdocs\policy-master\index.php(84): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2020-09-14 09:14:48 --> syntax error, unexpected ''">'' (T_CONSTANT_ENCAPSED_STRING)
+#0 D:\xampp\htdocs\policy-master\vendor\codeigniter4\framework\system\Router\Router.php(192): CodeIgniter\Router\Router->autoRoute('/clients/search...')
+#1 D:\xampp\htdocs\policy-master\vendor\codeigniter4\framework\system\CodeIgniter.php(789): CodeIgniter\Router\Router->handle('/clients/search...')
+#2 D:\xampp\htdocs\policy-master\vendor\codeigniter4\framework\system\CodeIgniter.php(360): CodeIgniter\CodeIgniter->tryToRouteIt(Object(CodeIgniter\Router\RouteCollection))
+#3 D:\xampp\htdocs\policy-master\vendor\codeigniter4\framework\system\CodeIgniter.php(308): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 D:\xampp\htdocs\policy-master\index.php(84): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2020-09-14 09:14:49 --> syntax error, unexpected ''">'' (T_CONSTANT_ENCAPSED_STRING)
+#0 D:\xampp\htdocs\policy-master\vendor\codeigniter4\framework\system\Router\Router.php(192): CodeIgniter\Router\Router->autoRoute('/clients/search...')
+#1 D:\xampp\htdocs\policy-master\vendor\codeigniter4\framework\system\CodeIgniter.php(789): CodeIgniter\Router\Router->handle('/clients/search...')
+#2 D:\xampp\htdocs\policy-master\vendor\codeigniter4\framework\system\CodeIgniter.php(360): CodeIgniter\CodeIgniter->tryToRouteIt(Object(CodeIgniter\Router\RouteCollection))
+#3 D:\xampp\htdocs\policy-master\vendor\codeigniter4\framework\system\CodeIgniter.php(308): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 D:\xampp\htdocs\policy-master\index.php(84): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2020-09-14 09:15:57 --> syntax error, unexpected ''">'' (T_CONSTANT_ENCAPSED_STRING)
+#0 D:\xampp\htdocs\policy-master\vendor\codeigniter4\framework\system\Router\Router.php(192): CodeIgniter\Router\Router->autoRoute('/clients/search...')
+#1 D:\xampp\htdocs\policy-master\vendor\codeigniter4\framework\system\CodeIgniter.php(789): CodeIgniter\Router\Router->handle('/clients/search...')
+#2 D:\xampp\htdocs\policy-master\vendor\codeigniter4\framework\system\CodeIgniter.php(360): CodeIgniter\CodeIgniter->tryToRouteIt(Object(CodeIgniter\Router\RouteCollection))
+#3 D:\xampp\htdocs\policy-master\vendor\codeigniter4\framework\system\CodeIgniter.php(308): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 D:\xampp\htdocs\policy-master\index.php(84): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2020-09-14 09:15:59 --> syntax error, unexpected ''">'' (T_CONSTANT_ENCAPSED_STRING)
+#0 D:\xampp\htdocs\policy-master\vendor\codeigniter4\framework\system\Router\Router.php(192): CodeIgniter\Router\Router->autoRoute('/clients/search...')
+#1 D:\xampp\htdocs\policy-master\vendor\codeigniter4\framework\system\CodeIgniter.php(789): CodeIgniter\Router\Router->handle('/clients/search...')
+#2 D:\xampp\htdocs\policy-master\vendor\codeigniter4\framework\system\CodeIgniter.php(360): CodeIgniter\CodeIgniter->tryToRouteIt(Object(CodeIgniter\Router\RouteCollection))
+#3 D:\xampp\htdocs\policy-master\vendor\codeigniter4\framework\system\CodeIgniter.php(308): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 D:\xampp\htdocs\policy-master\index.php(84): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2020-09-14 09:15:59 --> syntax error, unexpected ''">'' (T_CONSTANT_ENCAPSED_STRING)
+#0 D:\xampp\htdocs\policy-master\vendor\codeigniter4\framework\system\Router\Router.php(192): CodeIgniter\Router\Router->autoRoute('/clients/search...')
+#1 D:\xampp\htdocs\policy-master\vendor\codeigniter4\framework\system\CodeIgniter.php(789): CodeIgniter\Router\Router->handle('/clients/search...')
+#2 D:\xampp\htdocs\policy-master\vendor\codeigniter4\framework\system\CodeIgniter.php(360): CodeIgniter\CodeIgniter->tryToRouteIt(Object(CodeIgniter\Router\RouteCollection))
+#3 D:\xampp\htdocs\policy-master\vendor\codeigniter4\framework\system\CodeIgniter.php(308): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 D:\xampp\htdocs\policy-master\index.php(84): CodeIgniter\CodeIgniter->run()
+#5 {main}

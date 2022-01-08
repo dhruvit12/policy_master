@@ -1,0 +1,283 @@
+CRITICAL - 2020-08-27 04:50:17 --> Invalid file: {0}
+#0 D:\xampp\htdocs\policy-master\vendor\codeigniter4\framework\system\View\View.php(228): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('branchdetails/a...')
+#1 D:\xampp\htdocs\policy-master\vendor\codeigniter4\framework\system\Common.php(1087): CodeIgniter\View\View->render('branchdetails/a...', Array, true)
+#2 D:\xampp\htdocs\policy-master\app\Controllers\BaseController.php(60): view('branchdetails/a...', Array)
+#3 D:\xampp\htdocs\policy-master\app\Controllers\BranchDetails.php(29): App\Controllers\BaseController->render_page('branchdetails/a...', Array)
+#4 D:\xampp\htdocs\policy-master\vendor\codeigniter4\framework\system\CodeIgniter.php(914): App\Controllers\BranchDetails->create()
+#5 D:\xampp\htdocs\policy-master\vendor\codeigniter4\framework\system\CodeIgniter.php(400): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\BranchDetails))
+#6 D:\xampp\htdocs\policy-master\vendor\codeigniter4\framework\system\CodeIgniter.php(308): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#7 D:\xampp\htdocs\policy-master\index.php(84): CodeIgniter\CodeIgniter->run()
+#8 {main}
+CRITICAL - 2020-08-27 04:50:44 --> Invalid file: {0}
+#0 D:\xampp\htdocs\policy-master\vendor\codeigniter4\framework\system\View\View.php(228): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('master/branchde...')
+#1 D:\xampp\htdocs\policy-master\vendor\codeigniter4\framework\system\Common.php(1087): CodeIgniter\View\View->render('master/branchde...', Array, true)
+#2 D:\xampp\htdocs\policy-master\app\Controllers\BaseController.php(60): view('master/branchde...', Array)
+#3 D:\xampp\htdocs\policy-master\app\Controllers\BranchDetails.php(29): App\Controllers\BaseController->render_page('master/branchde...', Array)
+#4 D:\xampp\htdocs\policy-master\vendor\codeigniter4\framework\system\CodeIgniter.php(914): App\Controllers\BranchDetails->create()
+#5 D:\xampp\htdocs\policy-master\vendor\codeigniter4\framework\system\CodeIgniter.php(400): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\BranchDetails))
+#6 D:\xampp\htdocs\policy-master\vendor\codeigniter4\framework\system\CodeIgniter.php(308): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#7 D:\xampp\htdocs\policy-master\index.php(84): CodeIgniter\CodeIgniter->run()
+#8 {main}
+CRITICAL - 2020-08-27 04:50:53 --> Invalid file: {0}
+#0 D:\xampp\htdocs\policy-master\vendor\codeigniter4\framework\system\View\View.php(228): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('master/branchde...')
+#1 D:\xampp\htdocs\policy-master\vendor\codeigniter4\framework\system\Common.php(1087): CodeIgniter\View\View->render('master/branchde...', Array, true)
+#2 D:\xampp\htdocs\policy-master\app\Controllers\BaseController.php(60): view('master/branchde...', Array)
+#3 D:\xampp\htdocs\policy-master\app\Controllers\BranchDetails.php(29): App\Controllers\BaseController->render_page('master/branchde...', Array)
+#4 D:\xampp\htdocs\policy-master\vendor\codeigniter4\framework\system\CodeIgniter.php(914): App\Controllers\BranchDetails->create()
+#5 D:\xampp\htdocs\policy-master\vendor\codeigniter4\framework\system\CodeIgniter.php(400): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\BranchDetails))
+#6 D:\xampp\htdocs\policy-master\vendor\codeigniter4\framework\system\CodeIgniter.php(308): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#7 D:\xampp\htdocs\policy-master\index.php(84): CodeIgniter\CodeIgniter->run()
+#8 {main}
+CRITICAL - 2020-08-27 04:52:08 --> Invalid file: {0}
+#0 D:\xampp\htdocs\policy-master\vendor\codeigniter4\framework\system\View\View.php(228): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('master/branchde...')
+#1 D:\xampp\htdocs\policy-master\vendor\codeigniter4\framework\system\Common.php(1087): CodeIgniter\View\View->render('master/branchde...', Array, true)
+#2 D:\xampp\htdocs\policy-master\app\Controllers\BaseController.php(60): view('master/branchde...', Array)
+#3 D:\xampp\htdocs\policy-master\app\Controllers\BranchDetails.php(29): App\Controllers\BaseController->render_page('master/branchde...', Array)
+#4 D:\xampp\htdocs\policy-master\vendor\codeigniter4\framework\system\CodeIgniter.php(914): App\Controllers\BranchDetails->create()
+#5 D:\xampp\htdocs\policy-master\vendor\codeigniter4\framework\system\CodeIgniter.php(400): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\BranchDetails))
+#6 D:\xampp\htdocs\policy-master\vendor\codeigniter4\framework\system\CodeIgniter.php(308): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#7 D:\xampp\htdocs\policy-master\index.php(84): CodeIgniter\CodeIgniter->run()
+#8 {main}
+CRITICAL - 2020-08-27 04:52:30 --> Invalid file: {0}
+#0 D:\xampp\htdocs\policy-master\vendor\codeigniter4\framework\system\View\View.php(228): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('masters/branchd...')
+#1 D:\xampp\htdocs\policy-master\vendor\codeigniter4\framework\system\Common.php(1087): CodeIgniter\View\View->render('masters/branchd...', Array, true)
+#2 D:\xampp\htdocs\policy-master\app\Controllers\BaseController.php(60): view('masters/branchd...', Array)
+#3 D:\xampp\htdocs\policy-master\app\Controllers\BranchDetails.php(29): App\Controllers\BaseController->render_page('masters/branchd...', Array)
+#4 D:\xampp\htdocs\policy-master\vendor\codeigniter4\framework\system\CodeIgniter.php(914): App\Controllers\BranchDetails->create()
+#5 D:\xampp\htdocs\policy-master\vendor\codeigniter4\framework\system\CodeIgniter.php(400): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\BranchDetails))
+#6 D:\xampp\htdocs\policy-master\vendor\codeigniter4\framework\system\CodeIgniter.php(308): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#7 D:\xampp\htdocs\policy-master\index.php(84): CodeIgniter\CodeIgniter->run()
+#8 {main}
+CRITICAL - 2020-08-27 04:52:35 --> Invalid file: {0}
+#0 D:\xampp\htdocs\policy-master\vendor\codeigniter4\framework\system\View\View.php(228): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('masters/branchd...')
+#1 D:\xampp\htdocs\policy-master\vendor\codeigniter4\framework\system\Common.php(1087): CodeIgniter\View\View->render('masters/branchd...', Array, true)
+#2 D:\xampp\htdocs\policy-master\app\Controllers\BaseController.php(60): view('masters/branchd...', Array)
+#3 D:\xampp\htdocs\policy-master\app\Controllers\BranchDetails.php(29): App\Controllers\BaseController->render_page('masters/branchd...', Array)
+#4 D:\xampp\htdocs\policy-master\vendor\codeigniter4\framework\system\CodeIgniter.php(914): App\Controllers\BranchDetails->create()
+#5 D:\xampp\htdocs\policy-master\vendor\codeigniter4\framework\system\CodeIgniter.php(400): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\BranchDetails))
+#6 D:\xampp\htdocs\policy-master\vendor\codeigniter4\framework\system\CodeIgniter.php(308): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#7 D:\xampp\htdocs\policy-master\index.php(84): CodeIgniter\CodeIgniter->run()
+#8 {main}
+CRITICAL - 2020-08-27 04:52:40 --> Invalid file: {0}
+#0 D:\xampp\htdocs\policy-master\vendor\codeigniter4\framework\system\View\View.php(228): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('masters/branchd...')
+#1 D:\xampp\htdocs\policy-master\vendor\codeigniter4\framework\system\Common.php(1087): CodeIgniter\View\View->render('masters/branchd...', Array, true)
+#2 D:\xampp\htdocs\policy-master\app\Controllers\BaseController.php(60): view('masters/branchd...', Array)
+#3 D:\xampp\htdocs\policy-master\app\Controllers\BranchDetails.php(29): App\Controllers\BaseController->render_page('masters/branchd...', Array)
+#4 D:\xampp\htdocs\policy-master\vendor\codeigniter4\framework\system\CodeIgniter.php(914): App\Controllers\BranchDetails->create()
+#5 D:\xampp\htdocs\policy-master\vendor\codeigniter4\framework\system\CodeIgniter.php(400): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\BranchDetails))
+#6 D:\xampp\htdocs\policy-master\vendor\codeigniter4\framework\system\CodeIgniter.php(308): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#7 D:\xampp\htdocs\policy-master\index.php(84): CodeIgniter\CodeIgniter->run()
+#8 {main}
+CRITICAL - 2020-08-27 06:17:51 --> syntax error, unexpected ''address_1'' (T_CONSTANT_ENCAPSED_STRING), expecting ']'
+#0 D:\xampp\htdocs\policy-master\vendor\codeigniter4\framework\system\Router\Router.php(192): CodeIgniter\Router\Router->autoRoute('/branchdetails/...')
+#1 D:\xampp\htdocs\policy-master\vendor\codeigniter4\framework\system\CodeIgniter.php(789): CodeIgniter\Router\Router->handle('/branchdetails/...')
+#2 D:\xampp\htdocs\policy-master\vendor\codeigniter4\framework\system\CodeIgniter.php(360): CodeIgniter\CodeIgniter->tryToRouteIt(Object(CodeIgniter\Router\RouteCollection))
+#3 D:\xampp\htdocs\policy-master\vendor\codeigniter4\framework\system\CodeIgniter.php(308): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 D:\xampp\htdocs\policy-master\index.php(84): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2020-08-27 07:09:18 --> Undefined variable: info
+#0 D:\xampp\htdocs\policy-master\app\Views\masters\branches\edit.php(30): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined varia...', 'D:\\xampp\\htdocs...', 30, Array)
+#1 D:\xampp\htdocs\policy-master\vendor\codeigniter4\framework\system\View\View.php(246): include('D:\\xampp\\htdocs...')
+#2 D:\xampp\htdocs\policy-master\vendor\codeigniter4\framework\system\Common.php(1087): CodeIgniter\View\View->render('masters/branche...', Array, true)
+#3 D:\xampp\htdocs\policy-master\app\Controllers\BaseController.php(60): view('masters/branche...', Array)
+#4 D:\xampp\htdocs\policy-master\app\Controllers\BranchDetails.php(102): App\Controllers\BaseController->render_page('masters/branche...', Array)
+#5 D:\xampp\htdocs\policy-master\vendor\codeigniter4\framework\system\CodeIgniter.php(914): App\Controllers\BranchDetails->edit('1')
+#6 D:\xampp\htdocs\policy-master\vendor\codeigniter4\framework\system\CodeIgniter.php(400): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\BranchDetails))
+#7 D:\xampp\htdocs\policy-master\vendor\codeigniter4\framework\system\CodeIgniter.php(308): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#8 D:\xampp\htdocs\policy-master\index.php(84): CodeIgniter\CodeIgniter->run()
+#9 {main}
+CRITICAL - 2020-08-27 07:09:18 --> Undefined variable: info
+#0 D:\xampp\htdocs\policy-master\app\Views\masters\branches\edit.php(30): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined varia...', 'D:\\xampp\\htdocs...', 30, Array)
+#1 D:\xampp\htdocs\policy-master\vendor\codeigniter4\framework\system\View\View.php(246): include('D:\\xampp\\htdocs...')
+#2 D:\xampp\htdocs\policy-master\vendor\codeigniter4\framework\system\Common.php(1087): CodeIgniter\View\View->render('masters/branche...', Array, true)
+#3 D:\xampp\htdocs\policy-master\app\Controllers\BaseController.php(60): view('masters/branche...', Array)
+#4 D:\xampp\htdocs\policy-master\app\Controllers\BranchDetails.php(102): App\Controllers\BaseController->render_page('masters/branche...', Array)
+#5 D:\xampp\htdocs\policy-master\vendor\codeigniter4\framework\system\CodeIgniter.php(914): App\Controllers\BranchDetails->edit('dist', 'img', 'user1-128x128.j...')
+#6 D:\xampp\htdocs\policy-master\vendor\codeigniter4\framework\system\CodeIgniter.php(400): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\BranchDetails))
+#7 D:\xampp\htdocs\policy-master\vendor\codeigniter4\framework\system\CodeIgniter.php(308): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#8 D:\xampp\htdocs\policy-master\index.php(84): CodeIgniter\CodeIgniter->run()
+#9 {main}
+CRITICAL - 2020-08-27 07:09:18 --> Undefined variable: info
+#0 D:\xampp\htdocs\policy-master\app\Views\masters\branches\edit.php(30): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined varia...', 'D:\\xampp\\htdocs...', 30, Array)
+#1 D:\xampp\htdocs\policy-master\vendor\codeigniter4\framework\system\View\View.php(246): include('D:\\xampp\\htdocs...')
+#2 D:\xampp\htdocs\policy-master\vendor\codeigniter4\framework\system\Common.php(1087): CodeIgniter\View\View->render('masters/branche...', Array, true)
+#3 D:\xampp\htdocs\policy-master\app\Controllers\BaseController.php(60): view('masters/branche...', Array)
+#4 D:\xampp\htdocs\policy-master\app\Controllers\BranchDetails.php(102): App\Controllers\BaseController->render_page('masters/branche...', Array)
+#5 D:\xampp\htdocs\policy-master\vendor\codeigniter4\framework\system\CodeIgniter.php(914): App\Controllers\BranchDetails->edit('dist', 'img', 'user3-128x128.j...')
+#6 D:\xampp\htdocs\policy-master\vendor\codeigniter4\framework\system\CodeIgniter.php(400): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\BranchDetails))
+#7 D:\xampp\htdocs\policy-master\vendor\codeigniter4\framework\system\CodeIgniter.php(308): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#8 D:\xampp\htdocs\policy-master\index.php(84): CodeIgniter\CodeIgniter->run()
+#9 {main}
+CRITICAL - 2020-08-27 07:09:18 --> Undefined variable: info
+#0 D:\xampp\htdocs\policy-master\app\Views\masters\branches\edit.php(30): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined varia...', 'D:\\xampp\\htdocs...', 30, Array)
+#1 D:\xampp\htdocs\policy-master\vendor\codeigniter4\framework\system\View\View.php(246): include('D:\\xampp\\htdocs...')
+#2 D:\xampp\htdocs\policy-master\vendor\codeigniter4\framework\system\Common.php(1087): CodeIgniter\View\View->render('masters/branche...', Array, true)
+#3 D:\xampp\htdocs\policy-master\app\Controllers\BaseController.php(60): view('masters/branche...', Array)
+#4 D:\xampp\htdocs\policy-master\app\Controllers\BranchDetails.php(102): App\Controllers\BaseController->render_page('masters/branche...', Array)
+#5 D:\xampp\htdocs\policy-master\vendor\codeigniter4\framework\system\CodeIgniter.php(914): App\Controllers\BranchDetails->edit('dist', 'img', 'user8-128x128.j...')
+#6 D:\xampp\htdocs\policy-master\vendor\codeigniter4\framework\system\CodeIgniter.php(400): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\BranchDetails))
+#7 D:\xampp\htdocs\policy-master\vendor\codeigniter4\framework\system\CodeIgniter.php(308): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#8 D:\xampp\htdocs\policy-master\index.php(84): CodeIgniter\CodeIgniter->run()
+#9 {main}
+CRITICAL - 2020-08-27 07:30:50 --> Too few arguments to function App\Controllers\BranchDetails::update(), 0 passed in D:\xampp\htdocs\policy-master\vendor\codeigniter4\framework\system\CodeIgniter.php on line 914 and exactly 1 expected
+#0 D:\xampp\htdocs\policy-master\vendor\codeigniter4\framework\system\CodeIgniter.php(914): App\Controllers\BranchDetails->update()
+#1 D:\xampp\htdocs\policy-master\vendor\codeigniter4\framework\system\CodeIgniter.php(400): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\BranchDetails))
+#2 D:\xampp\htdocs\policy-master\vendor\codeigniter4\framework\system\CodeIgniter.php(308): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 D:\xampp\htdocs\policy-master\index.php(84): CodeIgniter\CodeIgniter->run()
+#4 {main}
+CRITICAL - 2020-08-27 08:17:20 --> Unknown table 'policy_master.sticker_assignment'
+#0 D:\xampp\htdocs\policy-master\vendor\codeigniter4\framework\system\Database\MySQLi\Connection.php(331): mysqli->query('SELECT `sticker...')
+#1 D:\xampp\htdocs\policy-master\vendor\codeigniter4\framework\system\Database\BaseConnection.php(738): CodeIgniter\Database\MySQLi\Connection->execute('SELECT `sticker...')
+#2 D:\xampp\htdocs\policy-master\vendor\codeigniter4\framework\system\Database\BaseConnection.php(666): CodeIgniter\Database\BaseConnection->simpleQuery('SELECT `sticker...')
+#3 D:\xampp\htdocs\policy-master\vendor\codeigniter4\framework\system\Database\BaseBuilder.php(1845): CodeIgniter\Database\BaseConnection->query('SELECT `sticker...', Array, false)
+#4 D:\xampp\htdocs\policy-master\vendor\codeigniter4\framework\system\Model.php(445): CodeIgniter\Database\BaseBuilder->get()
+#5 D:\xampp\htdocs\policy-master\app\Controllers\StickerAssignment.php(31): CodeIgniter\Model->findAll()
+#6 D:\xampp\htdocs\policy-master\vendor\codeigniter4\framework\system\CodeIgniter.php(914): App\Controllers\StickerAssignment->index()
+#7 D:\xampp\htdocs\policy-master\vendor\codeigniter4\framework\system\CodeIgniter.php(400): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\StickerAssignment))
+#8 D:\xampp\htdocs\policy-master\vendor\codeigniter4\framework\system\CodeIgniter.php(308): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#9 D:\xampp\htdocs\policy-master\index.php(84): CodeIgniter\CodeIgniter->run()
+#10 {main}
+CRITICAL - 2020-08-27 08:18:10 --> Unknown column 'sticker_assignment.fk_insurance_type_id' in 'on clause'
+#0 D:\xampp\htdocs\policy-master\vendor\codeigniter4\framework\system\Database\MySQLi\Connection.php(331): mysqli->query('SELECT `sticker...')
+#1 D:\xampp\htdocs\policy-master\vendor\codeigniter4\framework\system\Database\BaseConnection.php(738): CodeIgniter\Database\MySQLi\Connection->execute('SELECT `sticker...')
+#2 D:\xampp\htdocs\policy-master\vendor\codeigniter4\framework\system\Database\BaseConnection.php(666): CodeIgniter\Database\BaseConnection->simpleQuery('SELECT `sticker...')
+#3 D:\xampp\htdocs\policy-master\vendor\codeigniter4\framework\system\Database\BaseBuilder.php(1845): CodeIgniter\Database\BaseConnection->query('SELECT `sticker...', Array, false)
+#4 D:\xampp\htdocs\policy-master\vendor\codeigniter4\framework\system\Model.php(445): CodeIgniter\Database\BaseBuilder->get()
+#5 D:\xampp\htdocs\policy-master\app\Controllers\StickerAssignment.php(31): CodeIgniter\Model->findAll()
+#6 D:\xampp\htdocs\policy-master\vendor\codeigniter4\framework\system\CodeIgniter.php(914): App\Controllers\StickerAssignment->index()
+#7 D:\xampp\htdocs\policy-master\vendor\codeigniter4\framework\system\CodeIgniter.php(400): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\StickerAssignment))
+#8 D:\xampp\htdocs\policy-master\vendor\codeigniter4\framework\system\CodeIgniter.php(308): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#9 D:\xampp\htdocs\policy-master\index.php(84): CodeIgniter\CodeIgniter->run()
+#10 {main}
+CRITICAL - 2020-08-27 08:22:44 --> Invalid file: {0}
+#0 D:\xampp\htdocs\policy-master\vendor\codeigniter4\framework\system\View\View.php(228): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('sticker/add.php')
+#1 D:\xampp\htdocs\policy-master\vendor\codeigniter4\framework\system\Common.php(1087): CodeIgniter\View\View->render('sticker/add', Array, true)
+#2 D:\xampp\htdocs\policy-master\app\Controllers\BaseController.php(60): view('sticker/add', Array)
+#3 D:\xampp\htdocs\policy-master\app\Controllers\StickerAssignment.php(44): App\Controllers\BaseController->render_page('sticker/add', Array)
+#4 D:\xampp\htdocs\policy-master\vendor\codeigniter4\framework\system\CodeIgniter.php(914): App\Controllers\StickerAssignment->create()
+#5 D:\xampp\htdocs\policy-master\vendor\codeigniter4\framework\system\CodeIgniter.php(400): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\StickerAssignment))
+#6 D:\xampp\htdocs\policy-master\vendor\codeigniter4\framework\system\CodeIgniter.php(308): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#7 D:\xampp\htdocs\policy-master\index.php(84): CodeIgniter\CodeIgniter->run()
+#8 {main}
+CRITICAL - 2020-08-27 08:24:52 --> Undefined variable: users
+#0 D:\xampp\htdocs\policy-master\app\Views\sticker\list.php(85): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined varia...', 'D:\\xampp\\htdocs...', 85, Array)
+#1 D:\xampp\htdocs\policy-master\vendor\codeigniter4\framework\system\View\View.php(246): include('D:\\xampp\\htdocs...')
+#2 D:\xampp\htdocs\policy-master\vendor\codeigniter4\framework\system\Common.php(1087): CodeIgniter\View\View->render('sticker/list', Array, true)
+#3 D:\xampp\htdocs\policy-master\app\Controllers\BaseController.php(60): view('sticker/list', Array)
+#4 D:\xampp\htdocs\policy-master\app\Controllers\StickerAssignment.php(33): App\Controllers\BaseController->render_page('sticker/list', Array)
+#5 D:\xampp\htdocs\policy-master\vendor\codeigniter4\framework\system\CodeIgniter.php(914): App\Controllers\StickerAssignment->index()
+#6 D:\xampp\htdocs\policy-master\vendor\codeigniter4\framework\system\CodeIgniter.php(400): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\StickerAssignment))
+#7 D:\xampp\htdocs\policy-master\vendor\codeigniter4\framework\system\CodeIgniter.php(308): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#8 D:\xampp\htdocs\policy-master\index.php(84): CodeIgniter\CodeIgniter->run()
+#9 {main}
+CRITICAL - 2020-08-27 08:34:02 --> Class 'App\Controllers\BranchDetailsModel' not found
+#0 D:\xampp\htdocs\policy-master\vendor\codeigniter4\framework\system\CodeIgniter.php(914): App\Controllers\StickerAssignment->index()
+#1 D:\xampp\htdocs\policy-master\vendor\codeigniter4\framework\system\CodeIgniter.php(400): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\StickerAssignment))
+#2 D:\xampp\htdocs\policy-master\vendor\codeigniter4\framework\system\CodeIgniter.php(308): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 D:\xampp\htdocs\policy-master\index.php(84): CodeIgniter\CodeIgniter->run()
+#4 {main}
+CRITICAL - 2020-08-27 08:56:58 --> Class 'App\Controllers\ClientAccessModel' not found
+#0 D:\xampp\htdocs\policy-master\vendor\codeigniter4\framework\system\CodeIgniter.php(914): App\Controllers\StickerAssignment->store()
+#1 D:\xampp\htdocs\policy-master\vendor\codeigniter4\framework\system\CodeIgniter.php(400): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\StickerAssignment))
+#2 D:\xampp\htdocs\policy-master\vendor\codeigniter4\framework\system\CodeIgniter.php(308): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 D:\xampp\htdocs\policy-master\index.php(84): CodeIgniter\CodeIgniter->run()
+#4 {main}
+CRITICAL - 2020-08-27 08:57:00 --> Class 'App\Controllers\ClientAccessModel' not found
+#0 D:\xampp\htdocs\policy-master\vendor\codeigniter4\framework\system\CodeIgniter.php(914): App\Controllers\StickerAssignment->store()
+#1 D:\xampp\htdocs\policy-master\vendor\codeigniter4\framework\system\CodeIgniter.php(400): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\StickerAssignment))
+#2 D:\xampp\htdocs\policy-master\vendor\codeigniter4\framework\system\CodeIgniter.php(308): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 D:\xampp\htdocs\policy-master\index.php(84): CodeIgniter\CodeIgniter->run()
+#4 {main}
+CRITICAL - 2020-08-27 08:57:01 --> Class 'App\Controllers\ClientAccessModel' not found
+#0 D:\xampp\htdocs\policy-master\vendor\codeigniter4\framework\system\CodeIgniter.php(914): App\Controllers\StickerAssignment->store()
+#1 D:\xampp\htdocs\policy-master\vendor\codeigniter4\framework\system\CodeIgniter.php(400): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\StickerAssignment))
+#2 D:\xampp\htdocs\policy-master\vendor\codeigniter4\framework\system\CodeIgniter.php(308): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 D:\xampp\htdocs\policy-master\index.php(84): CodeIgniter\CodeIgniter->run()
+#4 {main}
+CRITICAL - 2020-08-27 08:57:04 --> Class 'App\Controllers\ClientAccessModel' not found
+#0 D:\xampp\htdocs\policy-master\vendor\codeigniter4\framework\system\CodeIgniter.php(914): App\Controllers\StickerAssignment->store()
+#1 D:\xampp\htdocs\policy-master\vendor\codeigniter4\framework\system\CodeIgniter.php(400): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\StickerAssignment))
+#2 D:\xampp\htdocs\policy-master\vendor\codeigniter4\framework\system\CodeIgniter.php(308): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 D:\xampp\htdocs\policy-master\index.php(84): CodeIgniter\CodeIgniter->run()
+#4 {main}
+CRITICAL - 2020-08-27 08:58:02 --> Class 'App\Controllers\ClientAccessModel' not found
+#0 D:\xampp\htdocs\policy-master\vendor\codeigniter4\framework\system\CodeIgniter.php(914): App\Controllers\StickerAssignment->store()
+#1 D:\xampp\htdocs\policy-master\vendor\codeigniter4\framework\system\CodeIgniter.php(400): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\StickerAssignment))
+#2 D:\xampp\htdocs\policy-master\vendor\codeigniter4\framework\system\CodeIgniter.php(308): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 D:\xampp\htdocs\policy-master\index.php(84): CodeIgniter\CodeIgniter->run()
+#4 {main}
+CRITICAL - 2020-08-27 08:58:04 --> Class 'App\Controllers\ClientAccessModel' not found
+#0 D:\xampp\htdocs\policy-master\vendor\codeigniter4\framework\system\CodeIgniter.php(914): App\Controllers\StickerAssignment->store()
+#1 D:\xampp\htdocs\policy-master\vendor\codeigniter4\framework\system\CodeIgniter.php(400): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\StickerAssignment))
+#2 D:\xampp\htdocs\policy-master\vendor\codeigniter4\framework\system\CodeIgniter.php(308): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 D:\xampp\htdocs\policy-master\index.php(84): CodeIgniter\CodeIgniter->run()
+#4 {main}
+CRITICAL - 2020-08-27 08:58:05 --> Class 'App\Controllers\ClientAccessModel' not found
+#0 D:\xampp\htdocs\policy-master\vendor\codeigniter4\framework\system\CodeIgniter.php(914): App\Controllers\StickerAssignment->store()
+#1 D:\xampp\htdocs\policy-master\vendor\codeigniter4\framework\system\CodeIgniter.php(400): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\StickerAssignment))
+#2 D:\xampp\htdocs\policy-master\vendor\codeigniter4\framework\system\CodeIgniter.php(308): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 D:\xampp\htdocs\policy-master\index.php(84): CodeIgniter\CodeIgniter->run()
+#4 {main}
+CRITICAL - 2020-08-27 08:58:05 --> Class 'App\Controllers\ClientAccessModel' not found
+#0 D:\xampp\htdocs\policy-master\vendor\codeigniter4\framework\system\CodeIgniter.php(914): App\Controllers\StickerAssignment->store()
+#1 D:\xampp\htdocs\policy-master\vendor\codeigniter4\framework\system\CodeIgniter.php(400): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\StickerAssignment))
+#2 D:\xampp\htdocs\policy-master\vendor\codeigniter4\framework\system\CodeIgniter.php(308): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 D:\xampp\htdocs\policy-master\index.php(84): CodeIgniter\CodeIgniter->run()
+#4 {main}
+CRITICAL - 2020-08-27 08:58:05 --> Class 'App\Controllers\ClientAccessModel' not found
+#0 D:\xampp\htdocs\policy-master\vendor\codeigniter4\framework\system\CodeIgniter.php(914): App\Controllers\StickerAssignment->store()
+#1 D:\xampp\htdocs\policy-master\vendor\codeigniter4\framework\system\CodeIgniter.php(400): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\StickerAssignment))
+#2 D:\xampp\htdocs\policy-master\vendor\codeigniter4\framework\system\CodeIgniter.php(308): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 D:\xampp\htdocs\policy-master\index.php(84): CodeIgniter\CodeIgniter->run()
+#4 {main}
+CRITICAL - 2020-08-27 08:58:13 --> Class 'App\Controllers\ClientAccessModel' not found
+#0 D:\xampp\htdocs\policy-master\vendor\codeigniter4\framework\system\CodeIgniter.php(914): App\Controllers\StickerAssignment->store()
+#1 D:\xampp\htdocs\policy-master\vendor\codeigniter4\framework\system\CodeIgniter.php(400): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\StickerAssignment))
+#2 D:\xampp\htdocs\policy-master\vendor\codeigniter4\framework\system\CodeIgniter.php(308): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 D:\xampp\htdocs\policy-master\index.php(84): CodeIgniter\CodeIgniter->run()
+#4 {main}
+CRITICAL - 2020-08-27 08:59:22 --> Column 'sequence_from' cannot be null
+#0 D:\xampp\htdocs\policy-master\vendor\codeigniter4\framework\system\Database\MySQLi\Connection.php(331): mysqli->query('INSERT INTO `st...')
+#1 D:\xampp\htdocs\policy-master\vendor\codeigniter4\framework\system\Database\BaseConnection.php(738): CodeIgniter\Database\MySQLi\Connection->execute('INSERT INTO `st...')
+#2 D:\xampp\htdocs\policy-master\vendor\codeigniter4\framework\system\Database\BaseConnection.php(666): CodeIgniter\Database\BaseConnection->simpleQuery('INSERT INTO `st...')
+#3 D:\xampp\htdocs\policy-master\vendor\codeigniter4\framework\system\Database\BaseBuilder.php(2234): CodeIgniter\Database\BaseConnection->query('INSERT INTO `st...', Array, false)
+#4 D:\xampp\htdocs\policy-master\vendor\codeigniter4\framework\system\Model.php(729): CodeIgniter\Database\BaseBuilder->insert()
+#5 D:\xampp\htdocs\policy-master\app\Controllers\StickerAssignment.php(82): CodeIgniter\Model->insert(Array)
+#6 D:\xampp\htdocs\policy-master\vendor\codeigniter4\framework\system\CodeIgniter.php(914): App\Controllers\StickerAssignment->store()
+#7 D:\xampp\htdocs\policy-master\vendor\codeigniter4\framework\system\CodeIgniter.php(400): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\StickerAssignment))
+#8 D:\xampp\htdocs\policy-master\vendor\codeigniter4\framework\system\CodeIgniter.php(308): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#9 D:\xampp\htdocs\policy-master\index.php(84): CodeIgniter\CodeIgniter->run()
+#10 {main}
+CRITICAL - 2020-08-27 09:01:08 --> Undefined index: insurance_class
+#0 D:\xampp\htdocs\policy-master\app\Views\sticker\list.php(164): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined index...', 'D:\\xampp\\htdocs...', 164, Array)
+#1 D:\xampp\htdocs\policy-master\vendor\codeigniter4\framework\system\View\View.php(246): include('D:\\xampp\\htdocs...')
+#2 D:\xampp\htdocs\policy-master\vendor\codeigniter4\framework\system\Common.php(1087): CodeIgniter\View\View->render('sticker/list', Array, true)
+#3 D:\xampp\htdocs\policy-master\app\Controllers\BaseController.php(60): view('sticker/list', Array)
+#4 D:\xampp\htdocs\policy-master\app\Controllers\StickerAssignment.php(40): App\Controllers\BaseController->render_page('sticker/list', Array)
+#5 D:\xampp\htdocs\policy-master\vendor\codeigniter4\framework\system\CodeIgniter.php(914): App\Controllers\StickerAssignment->index()
+#6 D:\xampp\htdocs\policy-master\vendor\codeigniter4\framework\system\CodeIgniter.php(400): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\StickerAssignment))
+#7 D:\xampp\htdocs\policy-master\vendor\codeigniter4\framework\system\CodeIgniter.php(308): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#8 D:\xampp\htdocs\policy-master\index.php(84): CodeIgniter\CodeIgniter->run()
+#9 {main}
+CRITICAL - 2020-08-27 09:01:41 --> Undefined index: insurance_class
+#0 D:\xampp\htdocs\policy-master\app\Views\sticker\list.php(164): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined index...', 'D:\\xampp\\htdocs...', 164, Array)
+#1 D:\xampp\htdocs\policy-master\vendor\codeigniter4\framework\system\View\View.php(246): include('D:\\xampp\\htdocs...')
+#2 D:\xampp\htdocs\policy-master\vendor\codeigniter4\framework\system\Common.php(1087): CodeIgniter\View\View->render('sticker/list', Array, true)
+#3 D:\xampp\htdocs\policy-master\app\Controllers\BaseController.php(60): view('sticker/list', Array)
+#4 D:\xampp\htdocs\policy-master\app\Controllers\StickerAssignment.php(40): App\Controllers\BaseController->render_page('sticker/list', Array)
+#5 D:\xampp\htdocs\policy-master\vendor\codeigniter4\framework\system\CodeIgniter.php(914): App\Controllers\StickerAssignment->index()
+#6 D:\xampp\htdocs\policy-master\vendor\codeigniter4\framework\system\CodeIgniter.php(400): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\StickerAssignment))
+#7 D:\xampp\htdocs\policy-master\vendor\codeigniter4\framework\system\CodeIgniter.php(308): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#8 D:\xampp\htdocs\policy-master\index.php(84): CodeIgniter\CodeIgniter->run()
+#9 {main}
+CRITICAL - 2020-08-27 09:09:30 --> Undefined index: insurance_class_name
+#0 D:\xampp\htdocs\policy-master\app\Views\sticker\list.php(164): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined index...', 'D:\\xampp\\htdocs...', 164, Array)
+#1 D:\xampp\htdocs\policy-master\vendor\codeigniter4\framework\system\View\View.php(246): include('D:\\xampp\\htdocs...')
+#2 D:\xampp\htdocs\policy-master\vendor\codeigniter4\framework\system\Common.php(1087): CodeIgniter\View\View->render('sticker/list', Array, true)
+#3 D:\xampp\htdocs\policy-master\app\Controllers\BaseController.php(60): view('sticker/list', Array)
+#4 D:\xampp\htdocs\policy-master\app\Controllers\StickerAssignment.php(40): App\Controllers\BaseController->render_page('sticker/list', Array)
+#5 D:\xampp\htdocs\policy-master\vendor\codeigniter4\framework\system\CodeIgniter.php(914): App\Controllers\StickerAssignment->index()
+#6 D:\xampp\htdocs\policy-master\vendor\codeigniter4\framework\system\CodeIgniter.php(400): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\StickerAssignment))
+#7 D:\xampp\htdocs\policy-master\vendor\codeigniter4\framework\system\CodeIgniter.php(308): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#8 D:\xampp\htdocs\policy-master\index.php(84): CodeIgniter\CodeIgniter->run()
+#9 {main}

@@ -1,0 +1,121 @@
+CRITICAL - 2020-09-17 07:27:41 --> Undefined variable: quotation
+#0 D:\xampp\htdocs\policy-master\app\Views\quotation\add2.php(77): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined varia...', 'D:\\xampp\\htdocs...', 77, Array)
+#1 D:\xampp\htdocs\policy-master\vendor\codeigniter4\framework\system\View\View.php(246): include('D:\\xampp\\htdocs...')
+#2 D:\xampp\htdocs\policy-master\vendor\codeigniter4\framework\system\Common.php(1087): CodeIgniter\View\View->render('quotation/add2', Array, true)
+#3 D:\xampp\htdocs\policy-master\app\Controllers\BaseController.php(62): view('quotation/add2', Array)
+#4 D:\xampp\htdocs\policy-master\app\Controllers\InsuranceQuotation.php(78): App\Controllers\BaseController->render_page('quotation/add2', Array)
+#5 D:\xampp\htdocs\policy-master\vendor\codeigniter4\framework\system\CodeIgniter.php(914): App\Controllers\InsuranceQuotation->create('2')
+#6 D:\xampp\htdocs\policy-master\vendor\codeigniter4\framework\system\CodeIgniter.php(400): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\InsuranceQuotation))
+#7 D:\xampp\htdocs\policy-master\vendor\codeigniter4\framework\system\CodeIgniter.php(308): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#8 D:\xampp\htdocs\policy-master\index.php(84): CodeIgniter\CodeIgniter->run()
+#9 {main}
+CRITICAL - 2020-09-17 07:31:23 --> Undefined variable: excess_benefit
+#0 D:\xampp\htdocs\policy-master\app\Views\quotation\add2.php(228): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined varia...', 'D:\\xampp\\htdocs...', 228, Array)
+#1 D:\xampp\htdocs\policy-master\vendor\codeigniter4\framework\system\View\View.php(246): include('D:\\xampp\\htdocs...')
+#2 D:\xampp\htdocs\policy-master\vendor\codeigniter4\framework\system\Common.php(1087): CodeIgniter\View\View->render('quotation/add2', Array, true)
+#3 D:\xampp\htdocs\policy-master\app\Controllers\BaseController.php(62): view('quotation/add2', Array)
+#4 D:\xampp\htdocs\policy-master\app\Controllers\InsuranceQuotation.php(147): App\Controllers\BaseController->render_page('quotation/add2', Array)
+#5 D:\xampp\htdocs\policy-master\vendor\codeigniter4\framework\system\CodeIgniter.php(914): App\Controllers\InsuranceQuotation->store()
+#6 D:\xampp\htdocs\policy-master\vendor\codeigniter4\framework\system\CodeIgniter.php(400): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\InsuranceQuotation))
+#7 D:\xampp\htdocs\policy-master\vendor\codeigniter4\framework\system\CodeIgniter.php(308): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#8 D:\xampp\htdocs\policy-master\index.php(84): CodeIgniter\CodeIgniter->run()
+#9 {main}
+CRITICAL - 2020-09-17 07:33:17 --> Undefined variable: discounts
+#0 D:\xampp\htdocs\policy-master\app\Views\quotation\add2.php(317): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined varia...', 'D:\\xampp\\htdocs...', 317, Array)
+#1 D:\xampp\htdocs\policy-master\vendor\codeigniter4\framework\system\View\View.php(246): include('D:\\xampp\\htdocs...')
+#2 D:\xampp\htdocs\policy-master\vendor\codeigniter4\framework\system\Common.php(1087): CodeIgniter\View\View->render('quotation/add2', Array, true)
+#3 D:\xampp\htdocs\policy-master\app\Controllers\BaseController.php(62): view('quotation/add2', Array)
+#4 D:\xampp\htdocs\policy-master\app\Controllers\InsuranceQuotation.php(148): App\Controllers\BaseController->render_page('quotation/add2', Array)
+#5 D:\xampp\htdocs\policy-master\vendor\codeigniter4\framework\system\CodeIgniter.php(914): App\Controllers\InsuranceQuotation->store()
+#6 D:\xampp\htdocs\policy-master\vendor\codeigniter4\framework\system\CodeIgniter.php(400): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\InsuranceQuotation))
+#7 D:\xampp\htdocs\policy-master\vendor\codeigniter4\framework\system\CodeIgniter.php(308): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#8 D:\xampp\htdocs\policy-master\index.php(84): CodeIgniter\CodeIgniter->run()
+#9 {main}
+CRITICAL - 2020-09-17 07:34:15 --> Undefined variable: insurance_sub_type
+#0 D:\xampp\htdocs\policy-master\app\Views\quotation\add2.php(387): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined varia...', 'D:\\xampp\\htdocs...', 387, Array)
+#1 D:\xampp\htdocs\policy-master\vendor\codeigniter4\framework\system\View\View.php(246): include('D:\\xampp\\htdocs...')
+#2 D:\xampp\htdocs\policy-master\vendor\codeigniter4\framework\system\Common.php(1087): CodeIgniter\View\View->render('quotation/add2', Array, true)
+#3 D:\xampp\htdocs\policy-master\app\Controllers\BaseController.php(62): view('quotation/add2', Array)
+#4 D:\xampp\htdocs\policy-master\app\Controllers\InsuranceQuotation.php(150): App\Controllers\BaseController->render_page('quotation/add2', Array)
+#5 D:\xampp\htdocs\policy-master\vendor\codeigniter4\framework\system\CodeIgniter.php(914): App\Controllers\InsuranceQuotation->store()
+#6 D:\xampp\htdocs\policy-master\vendor\codeigniter4\framework\system\CodeIgniter.php(400): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\InsuranceQuotation))
+#7 D:\xampp\htdocs\policy-master\vendor\codeigniter4\framework\system\CodeIgniter.php(308): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#8 D:\xampp\htdocs\policy-master\index.php(84): CodeIgniter\CodeIgniter->run()
+#9 {main}
+CRITICAL - 2020-09-17 07:47:46 --> Undefined variable: quote_id
+#0 D:\xampp\htdocs\policy-master\app\Controllers\InsuranceQuotation.php(224): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined varia...', 'D:\\xampp\\htdocs...', 224, Array)
+#1 D:\xampp\htdocs\policy-master\vendor\codeigniter4\framework\system\CodeIgniter.php(914): App\Controllers\InsuranceQuotation->store()
+#2 D:\xampp\htdocs\policy-master\vendor\codeigniter4\framework\system\CodeIgniter.php(400): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\InsuranceQuotation))
+#3 D:\xampp\htdocs\policy-master\vendor\codeigniter4\framework\system\CodeIgniter.php(308): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 D:\xampp\htdocs\policy-master\index.php(84): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2020-09-17 07:49:46 --> Undefined variable: quote_id
+#0 D:\xampp\htdocs\policy-master\app\Controllers\InsuranceQuotation.php(225): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined varia...', 'D:\\xampp\\htdocs...', 225, Array)
+#1 D:\xampp\htdocs\policy-master\vendor\codeigniter4\framework\system\CodeIgniter.php(914): App\Controllers\InsuranceQuotation->store()
+#2 D:\xampp\htdocs\policy-master\vendor\codeigniter4\framework\system\CodeIgniter.php(400): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\InsuranceQuotation))
+#3 D:\xampp\htdocs\policy-master\vendor\codeigniter4\framework\system\CodeIgniter.php(308): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 D:\xampp\htdocs\policy-master\index.php(84): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2020-09-17 07:49:56 --> Undefined variable: quote_id
+#0 D:\xampp\htdocs\policy-master\app\Controllers\InsuranceQuotation.php(225): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined varia...', 'D:\\xampp\\htdocs...', 225, Array)
+#1 D:\xampp\htdocs\policy-master\vendor\codeigniter4\framework\system\CodeIgniter.php(914): App\Controllers\InsuranceQuotation->store()
+#2 D:\xampp\htdocs\policy-master\vendor\codeigniter4\framework\system\CodeIgniter.php(400): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\InsuranceQuotation))
+#3 D:\xampp\htdocs\policy-master\vendor\codeigniter4\framework\system\CodeIgniter.php(308): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 D:\xampp\htdocs\policy-master\index.php(84): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2020-09-17 07:50:49 --> Undefined variable: quote_id
+#0 D:\xampp\htdocs\policy-master\app\Controllers\InsuranceQuotation.php(224): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined varia...', 'D:\\xampp\\htdocs...', 224, Array)
+#1 D:\xampp\htdocs\policy-master\vendor\codeigniter4\framework\system\CodeIgniter.php(914): App\Controllers\InsuranceQuotation->store()
+#2 D:\xampp\htdocs\policy-master\vendor\codeigniter4\framework\system\CodeIgniter.php(400): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\InsuranceQuotation))
+#3 D:\xampp\htdocs\policy-master\vendor\codeigniter4\framework\system\CodeIgniter.php(308): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 D:\xampp\htdocs\policy-master\index.php(84): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2020-09-17 07:51:22 --> Undefined variable: quote_id
+#0 D:\xampp\htdocs\policy-master\app\Controllers\InsuranceQuotation.php(224): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined varia...', 'D:\\xampp\\htdocs...', 224, Array)
+#1 D:\xampp\htdocs\policy-master\vendor\codeigniter4\framework\system\CodeIgniter.php(914): App\Controllers\InsuranceQuotation->store()
+#2 D:\xampp\htdocs\policy-master\vendor\codeigniter4\framework\system\CodeIgniter.php(400): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\InsuranceQuotation))
+#3 D:\xampp\htdocs\policy-master\vendor\codeigniter4\framework\system\CodeIgniter.php(308): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 D:\xampp\htdocs\policy-master\index.php(84): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2020-09-17 08:06:49 --> Undefined variable: quote_id
+#0 D:\xampp\htdocs\policy-master\app\Controllers\InsuranceQuotation.php(227): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined varia...', 'D:\\xampp\\htdocs...', 227, Array)
+#1 D:\xampp\htdocs\policy-master\vendor\codeigniter4\framework\system\CodeIgniter.php(914): App\Controllers\InsuranceQuotation->store()
+#2 D:\xampp\htdocs\policy-master\vendor\codeigniter4\framework\system\CodeIgniter.php(400): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\InsuranceQuotation))
+#3 D:\xampp\htdocs\policy-master\vendor\codeigniter4\framework\system\CodeIgniter.php(308): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 D:\xampp\htdocs\policy-master\index.php(84): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2020-09-17 08:27:36 --> Undefined variable: quote_id
+#0 D:\xampp\htdocs\policy-master\app\Controllers\InsuranceQuotation.php(228): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined varia...', 'D:\\xampp\\htdocs...', 228, Array)
+#1 D:\xampp\htdocs\policy-master\vendor\codeigniter4\framework\system\CodeIgniter.php(914): App\Controllers\InsuranceQuotation->store()
+#2 D:\xampp\htdocs\policy-master\vendor\codeigniter4\framework\system\CodeIgniter.php(400): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\InsuranceQuotation))
+#3 D:\xampp\htdocs\policy-master\vendor\codeigniter4\framework\system\CodeIgniter.php(308): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 D:\xampp\htdocs\policy-master\index.php(84): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2020-09-17 08:48:45 --> Undefined variable: quote_id
+#0 D:\xampp\htdocs\policy-master\app\Controllers\InsuranceQuotation.php(229): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined varia...', 'D:\\xampp\\htdocs...', 229, Array)
+#1 D:\xampp\htdocs\policy-master\vendor\codeigniter4\framework\system\CodeIgniter.php(914): App\Controllers\InsuranceQuotation->store()
+#2 D:\xampp\htdocs\policy-master\vendor\codeigniter4\framework\system\CodeIgniter.php(400): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\InsuranceQuotation))
+#3 D:\xampp\htdocs\policy-master\vendor\codeigniter4\framework\system\CodeIgniter.php(308): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 D:\xampp\htdocs\policy-master\index.php(84): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2020-09-17 08:58:29 --> Undefined variable: insurance
+#0 D:\xampp\htdocs\policy-master\app\Controllers\InsuranceQuotation.php(72): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined varia...', 'D:\\xampp\\htdocs...', 72, Array)
+#1 D:\xampp\htdocs\policy-master\vendor\codeigniter4\framework\system\CodeIgniter.php(914): App\Controllers\InsuranceQuotation->create('2')
+#2 D:\xampp\htdocs\policy-master\vendor\codeigniter4\framework\system\CodeIgniter.php(400): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\InsuranceQuotation))
+#3 D:\xampp\htdocs\policy-master\vendor\codeigniter4\framework\system\CodeIgniter.php(308): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 D:\xampp\htdocs\policy-master\index.php(84): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2020-09-17 09:06:55 --> Undefined index: id
+#0 D:\xampp\htdocs\policy-master\app\Controllers\InsuranceQuotation.php(117): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined index...', 'D:\\xampp\\htdocs...', 117, Array)
+#1 D:\xampp\htdocs\policy-master\vendor\codeigniter4\framework\system\CodeIgniter.php(914): App\Controllers\InsuranceQuotation->store()
+#2 D:\xampp\htdocs\policy-master\vendor\codeigniter4\framework\system\CodeIgniter.php(400): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\InsuranceQuotation))
+#3 D:\xampp\htdocs\policy-master\vendor\codeigniter4\framework\system\CodeIgniter.php(308): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 D:\xampp\htdocs\policy-master\index.php(84): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2020-09-17 09:08:34 --> Undefined index: id
+#0 D:\xampp\htdocs\policy-master\app\Controllers\InsuranceQuotation.php(117): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined index...', 'D:\\xampp\\htdocs...', 117, Array)
+#1 D:\xampp\htdocs\policy-master\vendor\codeigniter4\framework\system\CodeIgniter.php(914): App\Controllers\InsuranceQuotation->store()
+#2 D:\xampp\htdocs\policy-master\vendor\codeigniter4\framework\system\CodeIgniter.php(400): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\InsuranceQuotation))
+#3 D:\xampp\htdocs\policy-master\vendor\codeigniter4\framework\system\CodeIgniter.php(308): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 D:\xampp\htdocs\policy-master\index.php(84): CodeIgniter\CodeIgniter->run()
+#5 {main}

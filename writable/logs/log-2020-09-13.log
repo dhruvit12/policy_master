@@ -1,0 +1,10 @@
+CRITICAL - 2020-09-13 23:46:42 --> Undefined variable: totalTime
+#0 D:\xampp\htdocs\policy-master\vendor\codeigniter4\framework\system\Debug\Toolbar\Views\toolbar.tpl.php(56): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined varia...', 'D:\\xampp\\htdocs...', 56, Array)
+#1 D:\xampp\htdocs\policy-master\vendor\codeigniter4\framework\system\Debug\Toolbar.php(498): include('D:\\xampp\\htdocs...')
+#2 D:\xampp\htdocs\policy-master\vendor\codeigniter4\framework\system\Debug\Toolbar.php(455): CodeIgniter\Debug\Toolbar->format(Array, 'html')
+#3 D:\xampp\htdocs\policy-master\app\Config\Events.php(44): CodeIgniter\Debug\Toolbar->respond()
+#4 [internal function]: CodeIgniter\Events\Events::Config\{closure}()
+#5 D:\xampp\htdocs\policy-master\vendor\codeigniter4\framework\system\Events\Events.php(188): call_user_func(Object(Closure))
+#6 D:\xampp\htdocs\policy-master\vendor\codeigniter4\framework\system\CodeIgniter.php(289): CodeIgniter\Events\Events::trigger('pre_system')
+#7 D:\xampp\htdocs\policy-master\index.php(84): CodeIgniter\CodeIgniter->run()
+#8 {main}

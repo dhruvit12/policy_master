@@ -1,0 +1,304 @@
+CRITICAL - 2020-08-29 03:07:12 --> Class 'App\Models\InsuranceRefferalModel' not found
+#0 D:\xampp\htdocs\policy-master\vendor\codeigniter4\framework\system\CodeIgniter.php(914): App\Controllers\InsuranceRefferal->index()
+#1 D:\xampp\htdocs\policy-master\vendor\codeigniter4\framework\system\CodeIgniter.php(400): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\InsuranceRefferal))
+#2 D:\xampp\htdocs\policy-master\vendor\codeigniter4\framework\system\CodeIgniter.php(308): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 D:\xampp\htdocs\policy-master\index.php(84): CodeIgniter\CodeIgniter->run()
+#4 {main}
+CRITICAL - 2020-08-29 03:07:46 --> Class 'App\Models\InsuranceRefferalModel' not found
+#0 D:\xampp\htdocs\policy-master\vendor\codeigniter4\framework\system\CodeIgniter.php(914): App\Controllers\InsuranceRefferal->index()
+#1 D:\xampp\htdocs\policy-master\vendor\codeigniter4\framework\system\CodeIgniter.php(400): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\InsuranceRefferal))
+#2 D:\xampp\htdocs\policy-master\vendor\codeigniter4\framework\system\CodeIgniter.php(308): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 D:\xampp\htdocs\policy-master\index.php(84): CodeIgniter\CodeIgniter->run()
+#4 {main}
+CRITICAL - 2020-08-29 03:13:10 --> Undefined variable: lists
+#0 D:\xampp\htdocs\policy-master\app\Views\insurancerefferal\list.php(162): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined varia...', 'D:\\xampp\\htdocs...', 162, Array)
+#1 D:\xampp\htdocs\policy-master\vendor\codeigniter4\framework\system\View\View.php(246): include('D:\\xampp\\htdocs...')
+#2 D:\xampp\htdocs\policy-master\vendor\codeigniter4\framework\system\Common.php(1087): CodeIgniter\View\View->render('insurancereffer...', Array, true)
+#3 D:\xampp\htdocs\policy-master\app\Controllers\BaseController.php(60): view('insurancereffer...', Array)
+#4 D:\xampp\htdocs\policy-master\app\Controllers\InsuranceReferral.php(27): App\Controllers\BaseController->render_page('insurancereffer...', Array)
+#5 D:\xampp\htdocs\policy-master\vendor\codeigniter4\framework\system\CodeIgniter.php(914): App\Controllers\InsuranceReferral->index()
+#6 D:\xampp\htdocs\policy-master\vendor\codeigniter4\framework\system\CodeIgniter.php(400): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\InsuranceReferral))
+#7 D:\xampp\htdocs\policy-master\vendor\codeigniter4\framework\system\CodeIgniter.php(308): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#8 D:\xampp\htdocs\policy-master\index.php(84): CodeIgniter\CodeIgniter->run()
+#9 {main}
+CRITICAL - 2020-08-29 03:48:28 --> {0} is not a valid rule.
+#0 D:\xampp\htdocs\policy-master\vendor\codeigniter4\framework\system\Validation\Validation.php(302): CodeIgniter\Validation\Exceptions\ValidationException::forRuleNotFound('')
+#1 D:\xampp\htdocs\policy-master\vendor\codeigniter4\framework\system\Validation\Validation.php(189): CodeIgniter\Validation\Validation->processRules('mobile', 'mobile', '7778895645', Array, Array)
+#2 D:\xampp\htdocs\policy-master\vendor\codeigniter4\framework\system\Controller.php(219): CodeIgniter\Validation\Validation->run()
+#3 D:\xampp\htdocs\policy-master\app\Controllers\InsuranceReferral.php(45): CodeIgniter\Controller->validate(Array)
+#4 D:\xampp\htdocs\policy-master\vendor\codeigniter4\framework\system\CodeIgniter.php(914): App\Controllers\InsuranceReferral->store()
+#5 D:\xampp\htdocs\policy-master\vendor\codeigniter4\framework\system\CodeIgniter.php(400): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\InsuranceReferral))
+#6 D:\xampp\htdocs\policy-master\vendor\codeigniter4\framework\system\CodeIgniter.php(308): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#7 D:\xampp\htdocs\policy-master\index.php(84): CodeIgniter\CodeIgniter->run()
+#8 {main}
+CRITICAL - 2020-08-29 03:48:33 --> {0} is not a valid rule.
+#0 D:\xampp\htdocs\policy-master\vendor\codeigniter4\framework\system\Validation\Validation.php(302): CodeIgniter\Validation\Exceptions\ValidationException::forRuleNotFound('')
+#1 D:\xampp\htdocs\policy-master\vendor\codeigniter4\framework\system\Validation\Validation.php(189): CodeIgniter\Validation\Validation->processRules('mobile', 'mobile', '7778895645', Array, Array)
+#2 D:\xampp\htdocs\policy-master\vendor\codeigniter4\framework\system\Controller.php(219): CodeIgniter\Validation\Validation->run()
+#3 D:\xampp\htdocs\policy-master\app\Controllers\InsuranceReferral.php(45): CodeIgniter\Controller->validate(Array)
+#4 D:\xampp\htdocs\policy-master\vendor\codeigniter4\framework\system\CodeIgniter.php(914): App\Controllers\InsuranceReferral->store()
+#5 D:\xampp\htdocs\policy-master\vendor\codeigniter4\framework\system\CodeIgniter.php(400): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\InsuranceReferral))
+#6 D:\xampp\htdocs\policy-master\vendor\codeigniter4\framework\system\CodeIgniter.php(308): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#7 D:\xampp\htdocs\policy-master\index.php(84): CodeIgniter\CodeIgniter->run()
+#8 {main}
+CRITICAL - 2020-08-29 03:48:35 --> {0} is not a valid rule.
+#0 D:\xampp\htdocs\policy-master\vendor\codeigniter4\framework\system\Validation\Validation.php(302): CodeIgniter\Validation\Exceptions\ValidationException::forRuleNotFound('')
+#1 D:\xampp\htdocs\policy-master\vendor\codeigniter4\framework\system\Validation\Validation.php(189): CodeIgniter\Validation\Validation->processRules('mobile', 'mobile', '7778895645', Array, Array)
+#2 D:\xampp\htdocs\policy-master\vendor\codeigniter4\framework\system\Controller.php(219): CodeIgniter\Validation\Validation->run()
+#3 D:\xampp\htdocs\policy-master\app\Controllers\InsuranceReferral.php(45): CodeIgniter\Controller->validate(Array)
+#4 D:\xampp\htdocs\policy-master\vendor\codeigniter4\framework\system\CodeIgniter.php(914): App\Controllers\InsuranceReferral->store()
+#5 D:\xampp\htdocs\policy-master\vendor\codeigniter4\framework\system\CodeIgniter.php(400): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\InsuranceReferral))
+#6 D:\xampp\htdocs\policy-master\vendor\codeigniter4\framework\system\CodeIgniter.php(308): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#7 D:\xampp\htdocs\policy-master\index.php(84): CodeIgniter\CodeIgniter->run()
+#8 {main}
+CRITICAL - 2020-08-29 03:48:37 --> {0} is not a valid rule.
+#0 D:\xampp\htdocs\policy-master\vendor\codeigniter4\framework\system\Validation\Validation.php(302): CodeIgniter\Validation\Exceptions\ValidationException::forRuleNotFound('')
+#1 D:\xampp\htdocs\policy-master\vendor\codeigniter4\framework\system\Validation\Validation.php(189): CodeIgniter\Validation\Validation->processRules('mobile', 'mobile', '7778895645', Array, Array)
+#2 D:\xampp\htdocs\policy-master\vendor\codeigniter4\framework\system\Controller.php(219): CodeIgniter\Validation\Validation->run()
+#3 D:\xampp\htdocs\policy-master\app\Controllers\InsuranceReferral.php(45): CodeIgniter\Controller->validate(Array)
+#4 D:\xampp\htdocs\policy-master\vendor\codeigniter4\framework\system\CodeIgniter.php(914): App\Controllers\InsuranceReferral->store()
+#5 D:\xampp\htdocs\policy-master\vendor\codeigniter4\framework\system\CodeIgniter.php(400): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\InsuranceReferral))
+#6 D:\xampp\htdocs\policy-master\vendor\codeigniter4\framework\system\CodeIgniter.php(308): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#7 D:\xampp\htdocs\policy-master\index.php(84): CodeIgniter\CodeIgniter->run()
+#8 {main}
+CRITICAL - 2020-08-29 03:49:41 --> {0} is not a valid rule.
+#0 D:\xampp\htdocs\policy-master\vendor\codeigniter4\framework\system\Validation\Validation.php(302): CodeIgniter\Validation\Exceptions\ValidationException::forRuleNotFound('')
+#1 D:\xampp\htdocs\policy-master\vendor\codeigniter4\framework\system\Validation\Validation.php(189): CodeIgniter\Validation\Validation->processRules('mobile', 'mobile', '7778895645', Array, Array)
+#2 D:\xampp\htdocs\policy-master\vendor\codeigniter4\framework\system\Controller.php(219): CodeIgniter\Validation\Validation->run()
+#3 D:\xampp\htdocs\policy-master\app\Controllers\InsuranceReferral.php(45): CodeIgniter\Controller->validate(Array)
+#4 D:\xampp\htdocs\policy-master\vendor\codeigniter4\framework\system\CodeIgniter.php(914): App\Controllers\InsuranceReferral->store()
+#5 D:\xampp\htdocs\policy-master\vendor\codeigniter4\framework\system\CodeIgniter.php(400): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\InsuranceReferral))
+#6 D:\xampp\htdocs\policy-master\vendor\codeigniter4\framework\system\CodeIgniter.php(308): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#7 D:\xampp\htdocs\policy-master\index.php(84): CodeIgniter\CodeIgniter->run()
+#8 {main}
+CRITICAL - 2020-08-29 03:50:31 --> Column 'member_type' cannot be null
+#0 D:\xampp\htdocs\policy-master\vendor\codeigniter4\framework\system\Database\MySQLi\Connection.php(331): mysqli->query('INSERT INTO `in...')
+#1 D:\xampp\htdocs\policy-master\vendor\codeigniter4\framework\system\Database\BaseConnection.php(738): CodeIgniter\Database\MySQLi\Connection->execute('INSERT INTO `in...')
+#2 D:\xampp\htdocs\policy-master\vendor\codeigniter4\framework\system\Database\BaseConnection.php(666): CodeIgniter\Database\BaseConnection->simpleQuery('INSERT INTO `in...')
+#3 D:\xampp\htdocs\policy-master\vendor\codeigniter4\framework\system\Database\BaseBuilder.php(2234): CodeIgniter\Database\BaseConnection->query('INSERT INTO `in...', Array, false)
+#4 D:\xampp\htdocs\policy-master\vendor\codeigniter4\framework\system\Model.php(729): CodeIgniter\Database\BaseBuilder->insert()
+#5 D:\xampp\htdocs\policy-master\app\Controllers\InsuranceReferral.php(64): CodeIgniter\Model->insert(Array)
+#6 D:\xampp\htdocs\policy-master\vendor\codeigniter4\framework\system\CodeIgniter.php(914): App\Controllers\InsuranceReferral->store()
+#7 D:\xampp\htdocs\policy-master\vendor\codeigniter4\framework\system\CodeIgniter.php(400): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\InsuranceReferral))
+#8 D:\xampp\htdocs\policy-master\vendor\codeigniter4\framework\system\CodeIgniter.php(308): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#9 D:\xampp\htdocs\policy-master\index.php(84): CodeIgniter\CodeIgniter->run()
+#10 {main}
+CRITICAL - 2020-08-29 03:52:08 --> Class 'App\Controllers\ClientAccessModel' not found
+#0 D:\xampp\htdocs\policy-master\vendor\codeigniter4\framework\system\CodeIgniter.php(914): App\Controllers\InsuranceReferral->edit('1')
+#1 D:\xampp\htdocs\policy-master\vendor\codeigniter4\framework\system\CodeIgniter.php(400): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\InsuranceReferral))
+#2 D:\xampp\htdocs\policy-master\vendor\codeigniter4\framework\system\CodeIgniter.php(308): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 D:\xampp\htdocs\policy-master\index.php(84): CodeIgniter\CodeIgniter->run()
+#4 {main}
+CRITICAL - 2020-08-29 05:04:20 --> Invalid file: {0}
+#0 D:\xampp\htdocs\policy-master\vendor\codeigniter4\framework\system\View\View.php(228): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('target/list.php')
+#1 D:\xampp\htdocs\policy-master\vendor\codeigniter4\framework\system\Common.php(1087): CodeIgniter\View\View->render('target/list', Array, true)
+#2 D:\xampp\htdocs\policy-master\app\Controllers\BaseController.php(60): view('target/list', Array)
+#3 D:\xampp\htdocs\policy-master\app\Controllers\TargetDetails.php(29): App\Controllers\BaseController->render_page('target/list', Array)
+#4 D:\xampp\htdocs\policy-master\vendor\codeigniter4\framework\system\CodeIgniter.php(914): App\Controllers\TargetDetails->index()
+#5 D:\xampp\htdocs\policy-master\vendor\codeigniter4\framework\system\CodeIgniter.php(400): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\TargetDetails))
+#6 D:\xampp\htdocs\policy-master\vendor\codeigniter4\framework\system\CodeIgniter.php(308): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#7 D:\xampp\htdocs\policy-master\index.php(84): CodeIgniter\CodeIgniter->run()
+#8 {main}
+CRITICAL - 2020-08-29 05:05:25 --> Invalid file: {0}
+#0 D:\xampp\htdocs\policy-master\vendor\codeigniter4\framework\system\View\View.php(228): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('target/list.php')
+#1 D:\xampp\htdocs\policy-master\vendor\codeigniter4\framework\system\Common.php(1087): CodeIgniter\View\View->render('target/list', Array, true)
+#2 D:\xampp\htdocs\policy-master\app\Controllers\BaseController.php(60): view('target/list', Array)
+#3 D:\xampp\htdocs\policy-master\app\Controllers\TargetDetails.php(29): App\Controllers\BaseController->render_page('target/list', Array)
+#4 D:\xampp\htdocs\policy-master\vendor\codeigniter4\framework\system\CodeIgniter.php(914): App\Controllers\TargetDetails->index()
+#5 D:\xampp\htdocs\policy-master\vendor\codeigniter4\framework\system\CodeIgniter.php(400): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\TargetDetails))
+#6 D:\xampp\htdocs\policy-master\vendor\codeigniter4\framework\system\CodeIgniter.php(308): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#7 D:\xampp\htdocs\policy-master\index.php(84): CodeIgniter\CodeIgniter->run()
+#8 {main}
+CRITICAL - 2020-08-29 05:35:08 --> Undefined variable: company
+#0 D:\xampp\htdocs\policy-master\app\Views\target\list.php(88): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined varia...', 'D:\\xampp\\htdocs...', 88, Array)
+#1 D:\xampp\htdocs\policy-master\vendor\codeigniter4\framework\system\View\View.php(246): include('D:\\xampp\\htdocs...')
+#2 D:\xampp\htdocs\policy-master\vendor\codeigniter4\framework\system\Common.php(1087): CodeIgniter\View\View->render('target/list', Array, true)
+#3 D:\xampp\htdocs\policy-master\app\Controllers\BaseController.php(60): view('target/list', Array)
+#4 D:\xampp\htdocs\policy-master\app\Controllers\TargetDetails.php(29): App\Controllers\BaseController->render_page('target/list', Array)
+#5 D:\xampp\htdocs\policy-master\vendor\codeigniter4\framework\system\CodeIgniter.php(914): App\Controllers\TargetDetails->index()
+#6 D:\xampp\htdocs\policy-master\vendor\codeigniter4\framework\system\CodeIgniter.php(400): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\TargetDetails))
+#7 D:\xampp\htdocs\policy-master\vendor\codeigniter4\framework\system\CodeIgniter.php(308): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#8 D:\xampp\htdocs\policy-master\index.php(84): CodeIgniter\CodeIgniter->run()
+#9 {main}
+CRITICAL - 2020-08-29 05:55:37 --> Undefined variable: branch
+#0 D:\xampp\htdocs\policy-master\app\Views\target\list.php(103): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined varia...', 'D:\\xampp\\htdocs...', 103, Array)
+#1 D:\xampp\htdocs\policy-master\vendor\codeigniter4\framework\system\View\View.php(246): include('D:\\xampp\\htdocs...')
+#2 D:\xampp\htdocs\policy-master\vendor\codeigniter4\framework\system\Common.php(1087): CodeIgniter\View\View->render('target/list', Array, true)
+#3 D:\xampp\htdocs\policy-master\app\Controllers\BaseController.php(60): view('target/list', Array)
+#4 D:\xampp\htdocs\policy-master\app\Controllers\TargetDetails.php(31): App\Controllers\BaseController->render_page('target/list', Array)
+#5 D:\xampp\htdocs\policy-master\vendor\codeigniter4\framework\system\CodeIgniter.php(914): App\Controllers\TargetDetails->index()
+#6 D:\xampp\htdocs\policy-master\vendor\codeigniter4\framework\system\CodeIgniter.php(400): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\TargetDetails))
+#7 D:\xampp\htdocs\policy-master\vendor\codeigniter4\framework\system\CodeIgniter.php(308): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#8 D:\xampp\htdocs\policy-master\index.php(84): CodeIgniter\CodeIgniter->run()
+#9 {main}
+CRITICAL - 2020-08-29 06:04:29 --> Undefined property: App\Controllers\TargetDetails::$db
+#0 D:\xampp\htdocs\policy-master\app\Controllers\BaseController.php(67): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined prope...', 'D:\\xampp\\htdocs...', 67, Array)
+#1 D:\xampp\htdocs\policy-master\app\Controllers\TargetDetails.php(29): App\Controllers\BaseController->get_currency()
+#2 D:\xampp\htdocs\policy-master\vendor\codeigniter4\framework\system\CodeIgniter.php(914): App\Controllers\TargetDetails->index()
+#3 D:\xampp\htdocs\policy-master\vendor\codeigniter4\framework\system\CodeIgniter.php(400): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\TargetDetails))
+#4 D:\xampp\htdocs\policy-master\vendor\codeigniter4\framework\system\CodeIgniter.php(308): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#5 D:\xampp\htdocs\policy-master\index.php(84): CodeIgniter\CodeIgniter->run()
+#6 {main}
+CRITICAL - 2020-08-29 06:05:48 --> Undefined property: App\Controllers\TargetDetails::$db
+#0 D:\xampp\htdocs\policy-master\app\Controllers\BaseController.php(67): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined prope...', 'D:\\xampp\\htdocs...', 67, Array)
+#1 D:\xampp\htdocs\policy-master\app\Controllers\TargetDetails.php(29): App\Controllers\BaseController->get_currency()
+#2 D:\xampp\htdocs\policy-master\vendor\codeigniter4\framework\system\CodeIgniter.php(914): App\Controllers\TargetDetails->index()
+#3 D:\xampp\htdocs\policy-master\vendor\codeigniter4\framework\system\CodeIgniter.php(400): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\TargetDetails))
+#4 D:\xampp\htdocs\policy-master\vendor\codeigniter4\framework\system\CodeIgniter.php(308): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#5 D:\xampp\htdocs\policy-master\index.php(84): CodeIgniter\CodeIgniter->run()
+#6 {main}
+CRITICAL - 2020-08-29 06:07:44 --> Call to undefined function App\Controllers\get_instance()
+#0 D:\xampp\htdocs\policy-master\app\Controllers\TargetDetails.php(29): App\Controllers\BaseController->get_currency()
+#1 D:\xampp\htdocs\policy-master\vendor\codeigniter4\framework\system\CodeIgniter.php(914): App\Controllers\TargetDetails->index()
+#2 D:\xampp\htdocs\policy-master\vendor\codeigniter4\framework\system\CodeIgniter.php(400): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\TargetDetails))
+#3 D:\xampp\htdocs\policy-master\vendor\codeigniter4\framework\system\CodeIgniter.php(308): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 D:\xampp\htdocs\policy-master\index.php(84): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2020-08-29 06:07:47 --> Call to undefined function App\Controllers\get_instance()
+#0 D:\xampp\htdocs\policy-master\app\Controllers\TargetDetails.php(29): App\Controllers\BaseController->get_currency()
+#1 D:\xampp\htdocs\policy-master\vendor\codeigniter4\framework\system\CodeIgniter.php(914): App\Controllers\TargetDetails->index()
+#2 D:\xampp\htdocs\policy-master\vendor\codeigniter4\framework\system\CodeIgniter.php(400): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\TargetDetails))
+#3 D:\xampp\htdocs\policy-master\vendor\codeigniter4\framework\system\CodeIgniter.php(308): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 D:\xampp\htdocs\policy-master\index.php(84): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2020-08-29 06:08:56 --> Undefined property: App\Controllers\TargetDetails::$DB
+#0 D:\xampp\htdocs\policy-master\app\Controllers\BaseController.php(70): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined prope...', 'D:\\xampp\\htdocs...', 70, Array)
+#1 D:\xampp\htdocs\policy-master\app\Controllers\TargetDetails.php(29): App\Controllers\BaseController->get_currency()
+#2 D:\xampp\htdocs\policy-master\vendor\codeigniter4\framework\system\CodeIgniter.php(914): App\Controllers\TargetDetails->index()
+#3 D:\xampp\htdocs\policy-master\vendor\codeigniter4\framework\system\CodeIgniter.php(400): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\TargetDetails))
+#4 D:\xampp\htdocs\policy-master\vendor\codeigniter4\framework\system\CodeIgniter.php(308): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#5 D:\xampp\htdocs\policy-master\index.php(84): CodeIgniter\CodeIgniter->run()
+#6 {main}
+CRITICAL - 2020-08-29 06:09:11 --> Undefined property: App\Controllers\TargetDetails::$db
+#0 D:\xampp\htdocs\policy-master\app\Controllers\BaseController.php(70): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined prope...', 'D:\\xampp\\htdocs...', 70, Array)
+#1 D:\xampp\htdocs\policy-master\app\Controllers\TargetDetails.php(29): App\Controllers\BaseController->get_currency()
+#2 D:\xampp\htdocs\policy-master\vendor\codeigniter4\framework\system\CodeIgniter.php(914): App\Controllers\TargetDetails->index()
+#3 D:\xampp\htdocs\policy-master\vendor\codeigniter4\framework\system\CodeIgniter.php(400): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\TargetDetails))
+#4 D:\xampp\htdocs\policy-master\vendor\codeigniter4\framework\system\CodeIgniter.php(308): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#5 D:\xampp\htdocs\policy-master\index.php(84): CodeIgniter\CodeIgniter->run()
+#6 {main}
+CRITICAL - 2020-08-29 06:09:13 --> Undefined property: App\Controllers\TargetDetails::$db
+#0 D:\xampp\htdocs\policy-master\app\Controllers\BaseController.php(70): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined prope...', 'D:\\xampp\\htdocs...', 70, Array)
+#1 D:\xampp\htdocs\policy-master\app\Controllers\TargetDetails.php(29): App\Controllers\BaseController->get_currency()
+#2 D:\xampp\htdocs\policy-master\vendor\codeigniter4\framework\system\CodeIgniter.php(914): App\Controllers\TargetDetails->index()
+#3 D:\xampp\htdocs\policy-master\vendor\codeigniter4\framework\system\CodeIgniter.php(400): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\TargetDetails))
+#4 D:\xampp\htdocs\policy-master\vendor\codeigniter4\framework\system\CodeIgniter.php(308): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#5 D:\xampp\htdocs\policy-master\index.php(84): CodeIgniter\CodeIgniter->run()
+#6 {main}
+CRITICAL - 2020-08-29 06:15:36 --> syntax error, unexpected '$db' (T_VARIABLE)
+#0 D:\xampp\htdocs\policy-master\vendor\codeigniter4\framework\system\Autoloader\Autoloader.php(296): CodeIgniter\Autoloader\Autoloader->requireFile('D:\\xampp\\htdocs...')
+#1 D:\xampp\htdocs\policy-master\vendor\codeigniter4\framework\system\Autoloader\Autoloader.php(258): CodeIgniter\Autoloader\Autoloader->loadInNamespace('App\\Controllers...')
+#2 [internal function]: CodeIgniter\Autoloader\Autoloader->loadClass('App\\Controllers...')
+#3 D:\xampp\htdocs\policy-master\app\Controllers\TargetDetails.php(9): spl_autoload_call('App\\Controllers...')
+#4 D:\xampp\htdocs\policy-master\vendor\codeigniter4\framework\system\Autoloader\Autoloader.php(365): require_once('D:\\xampp\\htdocs...')
+#5 D:\xampp\htdocs\policy-master\vendor\codeigniter4\framework\system\Autoloader\Autoloader.php(296): CodeIgniter\Autoloader\Autoloader->requireFile('D:\\xampp\\htdocs...')
+#6 D:\xampp\htdocs\policy-master\vendor\codeigniter4\framework\system\Autoloader\Autoloader.php(258): CodeIgniter\Autoloader\Autoloader->loadInNamespace('App\\Controllers...')
+#7 [internal function]: CodeIgniter\Autoloader\Autoloader->loadClass('App\\Controllers...')
+#8 [internal function]: spl_autoload_call('App\\Controllers...')
+#9 D:\xampp\htdocs\policy-master\vendor\codeigniter4\framework\system\CodeIgniter.php(865): class_exists('\\App\\Controller...', true)
+#10 D:\xampp\htdocs\policy-master\vendor\codeigniter4\framework\system\CodeIgniter.php(390): CodeIgniter\CodeIgniter->startController()
+#11 D:\xampp\htdocs\policy-master\vendor\codeigniter4\framework\system\CodeIgniter.php(308): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#12 D:\xampp\htdocs\policy-master\index.php(84): CodeIgniter\CodeIgniter->run()
+#13 {main}
+CRITICAL - 2020-08-29 06:15:46 --> Call to undefined method CodeIgniter\Database\MySQLi\Connection::getResult()
+#0 D:\xampp\htdocs\policy-master\app\Controllers\TargetDetails.php(29): App\Controllers\BaseController->get_currency()
+#1 D:\xampp\htdocs\policy-master\vendor\codeigniter4\framework\system\CodeIgniter.php(914): App\Controllers\TargetDetails->index()
+#2 D:\xampp\htdocs\policy-master\vendor\codeigniter4\framework\system\CodeIgniter.php(400): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\TargetDetails))
+#3 D:\xampp\htdocs\policy-master\vendor\codeigniter4\framework\system\CodeIgniter.php(308): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 D:\xampp\htdocs\policy-master\index.php(84): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2020-08-29 06:16:28 --> Invalid argument supplied for foreach()
+#0 D:\xampp\htdocs\policy-master\app\Views\target\list.php(130): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Invalid argumen...', 'D:\\xampp\\htdocs...', 130, Array)
+#1 D:\xampp\htdocs\policy-master\vendor\codeigniter4\framework\system\View\View.php(246): include('D:\\xampp\\htdocs...')
+#2 D:\xampp\htdocs\policy-master\vendor\codeigniter4\framework\system\Common.php(1087): CodeIgniter\View\View->render('target/list', Array, true)
+#3 D:\xampp\htdocs\policy-master\app\Controllers\BaseController.php(62): view('target/list', Array)
+#4 D:\xampp\htdocs\policy-master\app\Controllers\TargetDetails.php(35): App\Controllers\BaseController->render_page('target/list', Array)
+#5 D:\xampp\htdocs\policy-master\vendor\codeigniter4\framework\system\CodeIgniter.php(914): App\Controllers\TargetDetails->index()
+#6 D:\xampp\htdocs\policy-master\vendor\codeigniter4\framework\system\CodeIgniter.php(400): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\TargetDetails))
+#7 D:\xampp\htdocs\policy-master\vendor\codeigniter4\framework\system\CodeIgniter.php(308): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#8 D:\xampp\htdocs\policy-master\index.php(84): CodeIgniter\CodeIgniter->run()
+#9 {main}
+CRITICAL - 2020-08-29 06:17:15 --> Undefined index: currency_name
+#0 D:\xampp\htdocs\policy-master\app\Views\target\list.php(131): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined index...', 'D:\\xampp\\htdocs...', 131, Array)
+#1 D:\xampp\htdocs\policy-master\vendor\codeigniter4\framework\system\View\View.php(246): include('D:\\xampp\\htdocs...')
+#2 D:\xampp\htdocs\policy-master\vendor\codeigniter4\framework\system\Common.php(1087): CodeIgniter\View\View->render('target/list', Array, true)
+#3 D:\xampp\htdocs\policy-master\app\Controllers\BaseController.php(62): view('target/list', Array)
+#4 D:\xampp\htdocs\policy-master\app\Controllers\TargetDetails.php(35): App\Controllers\BaseController->render_page('target/list', Array)
+#5 D:\xampp\htdocs\policy-master\vendor\codeigniter4\framework\system\CodeIgniter.php(914): App\Controllers\TargetDetails->index()
+#6 D:\xampp\htdocs\policy-master\vendor\codeigniter4\framework\system\CodeIgniter.php(400): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\TargetDetails))
+#7 D:\xampp\htdocs\policy-master\vendor\codeigniter4\framework\system\CodeIgniter.php(308): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#8 D:\xampp\htdocs\policy-master\index.php(84): CodeIgniter\CodeIgniter->run()
+#9 {main}
+CRITICAL - 2020-08-29 06:36:01 --> Undefined index: year_name
+#0 D:\xampp\htdocs\policy-master\app\Views\target\list.php(140): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined index...', 'D:\\xampp\\htdocs...', 140, Array)
+#1 D:\xampp\htdocs\policy-master\vendor\codeigniter4\framework\system\View\View.php(246): include('D:\\xampp\\htdocs...')
+#2 D:\xampp\htdocs\policy-master\vendor\codeigniter4\framework\system\Common.php(1087): CodeIgniter\View\View->render('target/list', Array, true)
+#3 D:\xampp\htdocs\policy-master\app\Controllers\BaseController.php(62): view('target/list', Array)
+#4 D:\xampp\htdocs\policy-master\app\Controllers\TargetDetails.php(36): App\Controllers\BaseController->render_page('target/list', Array)
+#5 D:\xampp\htdocs\policy-master\vendor\codeigniter4\framework\system\CodeIgniter.php(914): App\Controllers\TargetDetails->index()
+#6 D:\xampp\htdocs\policy-master\vendor\codeigniter4\framework\system\CodeIgniter.php(400): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\TargetDetails))
+#7 D:\xampp\htdocs\policy-master\vendor\codeigniter4\framework\system\CodeIgniter.php(308): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#8 D:\xampp\htdocs\policy-master\index.php(84): CodeIgniter\CodeIgniter->run()
+#9 {main}
+CRITICAL - 2020-08-29 06:36:40 --> Undefined index: year_name
+#0 D:\xampp\htdocs\policy-master\app\Views\target\list.php(140): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined index...', 'D:\\xampp\\htdocs...', 140, Array)
+#1 D:\xampp\htdocs\policy-master\vendor\codeigniter4\framework\system\View\View.php(246): include('D:\\xampp\\htdocs...')
+#2 D:\xampp\htdocs\policy-master\vendor\codeigniter4\framework\system\Common.php(1087): CodeIgniter\View\View->render('target/list', Array, true)
+#3 D:\xampp\htdocs\policy-master\app\Controllers\BaseController.php(62): view('target/list', Array)
+#4 D:\xampp\htdocs\policy-master\app\Controllers\TargetDetails.php(36): App\Controllers\BaseController->render_page('target/list', Array)
+#5 D:\xampp\htdocs\policy-master\vendor\codeigniter4\framework\system\CodeIgniter.php(914): App\Controllers\TargetDetails->index()
+#6 D:\xampp\htdocs\policy-master\vendor\codeigniter4\framework\system\CodeIgniter.php(400): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\TargetDetails))
+#7 D:\xampp\htdocs\policy-master\vendor\codeigniter4\framework\system\CodeIgniter.php(308): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#8 D:\xampp\htdocs\policy-master\index.php(84): CodeIgniter\CodeIgniter->run()
+#9 {main}
+CRITICAL - 2020-08-29 07:44:48 --> Class 'App\Controllers\ClientAccessModel' not found
+#0 D:\xampp\htdocs\policy-master\vendor\codeigniter4\framework\system\CodeIgniter.php(914): App\Controllers\IncentivePercentage->update()
+#1 D:\xampp\htdocs\policy-master\vendor\codeigniter4\framework\system\CodeIgniter.php(400): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\IncentivePercentage))
+#2 D:\xampp\htdocs\policy-master\vendor\codeigniter4\framework\system\CodeIgniter.php(308): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 D:\xampp\htdocs\policy-master\index.php(84): CodeIgniter\CodeIgniter->run()
+#4 {main}
+CRITICAL - 2020-08-29 08:19:49 --> Column 'id' in where clause is ambiguous
+#0 D:\xampp\htdocs\policy-master\vendor\codeigniter4\framework\system\Database\MySQLi\Connection.php(331): mysqli->query('SELECT `incenti...')
+#1 D:\xampp\htdocs\policy-master\vendor\codeigniter4\framework\system\Database\BaseConnection.php(738): CodeIgniter\Database\MySQLi\Connection->execute('SELECT `incenti...')
+#2 D:\xampp\htdocs\policy-master\vendor\codeigniter4\framework\system\Database\BaseConnection.php(666): CodeIgniter\Database\BaseConnection->simpleQuery('SELECT `incenti...')
+#3 D:\xampp\htdocs\policy-master\vendor\codeigniter4\framework\system\Database\BaseBuilder.php(1845): CodeIgniter\Database\BaseConnection->query('SELECT `incenti...', Array, false)
+#4 D:\xampp\htdocs\policy-master\vendor\codeigniter4\framework\system\Model.php(489): CodeIgniter\Database\BaseBuilder->get()
+#5 D:\xampp\htdocs\policy-master\app\Controllers\IncentivePercentage.php(82): CodeIgniter\Model->first()
+#6 D:\xampp\htdocs\policy-master\vendor\codeigniter4\framework\system\CodeIgniter.php(914): App\Controllers\IncentivePercentage->edit()
+#7 D:\xampp\htdocs\policy-master\vendor\codeigniter4\framework\system\CodeIgniter.php(400): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\IncentivePercentage))
+#8 D:\xampp\htdocs\policy-master\vendor\codeigniter4\framework\system\CodeIgniter.php(308): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#9 D:\xampp\htdocs\policy-master\index.php(84): CodeIgniter\CodeIgniter->run()
+#10 {main}
+CRITICAL - 2020-08-29 08:20:04 --> Column 'id' in where clause is ambiguous
+#0 D:\xampp\htdocs\policy-master\vendor\codeigniter4\framework\system\Database\MySQLi\Connection.php(331): mysqli->query('SELECT `incenti...')
+#1 D:\xampp\htdocs\policy-master\vendor\codeigniter4\framework\system\Database\BaseConnection.php(738): CodeIgniter\Database\MySQLi\Connection->execute('SELECT `incenti...')
+#2 D:\xampp\htdocs\policy-master\vendor\codeigniter4\framework\system\Database\BaseConnection.php(666): CodeIgniter\Database\BaseConnection->simpleQuery('SELECT `incenti...')
+#3 D:\xampp\htdocs\policy-master\vendor\codeigniter4\framework\system\Database\BaseBuilder.php(1845): CodeIgniter\Database\BaseConnection->query('SELECT `incenti...', Array, false)
+#4 D:\xampp\htdocs\policy-master\vendor\codeigniter4\framework\system\Model.php(489): CodeIgniter\Database\BaseBuilder->get()
+#5 D:\xampp\htdocs\policy-master\app\Controllers\IncentivePercentage.php(82): CodeIgniter\Model->first()
+#6 D:\xampp\htdocs\policy-master\vendor\codeigniter4\framework\system\CodeIgniter.php(914): App\Controllers\IncentivePercentage->edit()
+#7 D:\xampp\htdocs\policy-master\vendor\codeigniter4\framework\system\CodeIgniter.php(400): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\IncentivePercentage))
+#8 D:\xampp\htdocs\policy-master\vendor\codeigniter4\framework\system\CodeIgniter.php(308): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#9 D:\xampp\htdocs\policy-master\index.php(84): CodeIgniter\CodeIgniter->run()
+#10 {main}
+CRITICAL - 2020-08-29 08:55:25 --> Undefined index: id
+#0 D:\xampp\htdocs\policy-master\app\Controllers\IncentivePercentage.php(78): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined index...', 'D:\\xampp\\htdocs...', 78, Array)
+#1 D:\xampp\htdocs\policy-master\vendor\codeigniter4\framework\system\CodeIgniter.php(914): App\Controllers\IncentivePercentage->edit()
+#2 D:\xampp\htdocs\policy-master\vendor\codeigniter4\framework\system\CodeIgniter.php(400): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\IncentivePercentage))
+#3 D:\xampp\htdocs\policy-master\vendor\codeigniter4\framework\system\CodeIgniter.php(308): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 D:\xampp\htdocs\policy-master\index.php(84): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2020-08-29 09:16:06 --> Undefined index: id
+#0 D:\xampp\htdocs\policy-master\app\Controllers\IncentivePercentage.php(101): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined index...', 'D:\\xampp\\htdocs...', 101, Array)
+#1 D:\xampp\htdocs\policy-master\vendor\codeigniter4\framework\system\CodeIgniter.php(914): App\Controllers\IncentivePercentage->update()
+#2 D:\xampp\htdocs\policy-master\vendor\codeigniter4\framework\system\CodeIgniter.php(400): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\IncentivePercentage))
+#3 D:\xampp\htdocs\policy-master\vendor\codeigniter4\framework\system\CodeIgniter.php(308): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 D:\xampp\htdocs\policy-master\index.php(84): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2020-08-29 09:16:44 --> Undefined index: id
+#0 D:\xampp\htdocs\policy-master\app\Controllers\IncentivePercentage.php(101): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined index...', 'D:\\xampp\\htdocs...', 101, Array)
+#1 D:\xampp\htdocs\policy-master\vendor\codeigniter4\framework\system\CodeIgniter.php(914): App\Controllers\IncentivePercentage->update()
+#2 D:\xampp\htdocs\policy-master\vendor\codeigniter4\framework\system\CodeIgniter.php(400): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\IncentivePercentage))
+#3 D:\xampp\htdocs\policy-master\vendor\codeigniter4\framework\system\CodeIgniter.php(308): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 D:\xampp\htdocs\policy-master\index.php(84): CodeIgniter\CodeIgniter->run()
+#5 {main}

@@ -1,0 +1,764 @@
+CRITICAL - 2020-06-23 00:20:53 --> Call to a member function where() on null
+#0 E:\xampp\htdocs\mysite\vendor\codeigniter4\framework\system\CodeIgniter.php(914): App\Controllers\ApiAuth->delete_user()
+#1 E:\xampp\htdocs\mysite\vendor\codeigniter4\framework\system\CodeIgniter.php(400): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\ApiAuth))
+#2 E:\xampp\htdocs\mysite\vendor\codeigniter4\framework\system\CodeIgniter.php(308): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 E:\xampp\htdocs\mysite\index.php(84): CodeIgniter\CodeIgniter->run()
+#4 {main}
+CRITICAL - 2020-06-23 00:23:17 --> Call to a member function where() on null
+#0 E:\xampp\htdocs\mysite\vendor\codeigniter4\framework\system\CodeIgniter.php(914): App\Controllers\ApiAuth->delete_user()
+#1 E:\xampp\htdocs\mysite\vendor\codeigniter4\framework\system\CodeIgniter.php(400): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\ApiAuth))
+#2 E:\xampp\htdocs\mysite\vendor\codeigniter4\framework\system\CodeIgniter.php(308): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 E:\xampp\htdocs\mysite\index.php(84): CodeIgniter\CodeIgniter->run()
+#4 {main}
+CRITICAL - 2020-06-23 00:24:25 --> Too few arguments to function App\Controllers\ApiAuth::delete_user(), 0 passed in E:\xampp\htdocs\mysite\vendor\codeigniter4\framework\system\CodeIgniter.php on line 914 and exactly 1 expected
+#0 E:\xampp\htdocs\mysite\vendor\codeigniter4\framework\system\CodeIgniter.php(914): App\Controllers\ApiAuth->delete_user()
+#1 E:\xampp\htdocs\mysite\vendor\codeigniter4\framework\system\CodeIgniter.php(400): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\ApiAuth))
+#2 E:\xampp\htdocs\mysite\vendor\codeigniter4\framework\system\CodeIgniter.php(308): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 E:\xampp\htdocs\mysite\index.php(84): CodeIgniter\CodeIgniter->run()
+#4 {main}
+CRITICAL - 2020-06-23 00:24:44 --> Too few arguments to function App\Controllers\ApiAuth::delete_user(), 0 passed in E:\xampp\htdocs\mysite\vendor\codeigniter4\framework\system\CodeIgniter.php on line 914 and exactly 1 expected
+#0 E:\xampp\htdocs\mysite\vendor\codeigniter4\framework\system\CodeIgniter.php(914): App\Controllers\ApiAuth->delete_user()
+#1 E:\xampp\htdocs\mysite\vendor\codeigniter4\framework\system\CodeIgniter.php(400): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\ApiAuth))
+#2 E:\xampp\htdocs\mysite\vendor\codeigniter4\framework\system\CodeIgniter.php(308): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 E:\xampp\htdocs\mysite\index.php(84): CodeIgniter\CodeIgniter->run()
+#4 {main}
+CRITICAL - 2020-06-23 00:25:09 --> Too few arguments to function App\Controllers\ApiAuth::delete_user(), 0 passed in E:\xampp\htdocs\mysite\vendor\codeigniter4\framework\system\CodeIgniter.php on line 914 and exactly 1 expected
+#0 E:\xampp\htdocs\mysite\vendor\codeigniter4\framework\system\CodeIgniter.php(914): App\Controllers\ApiAuth->delete_user()
+#1 E:\xampp\htdocs\mysite\vendor\codeigniter4\framework\system\CodeIgniter.php(400): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\ApiAuth))
+#2 E:\xampp\htdocs\mysite\vendor\codeigniter4\framework\system\CodeIgniter.php(308): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 E:\xampp\htdocs\mysite\index.php(84): CodeIgniter\CodeIgniter->run()
+#4 {main}
+CRITICAL - 2020-06-23 00:25:13 --> Too few arguments to function App\Controllers\ApiAuth::delete_user(), 0 passed in E:\xampp\htdocs\mysite\vendor\codeigniter4\framework\system\CodeIgniter.php on line 914 and exactly 1 expected
+#0 E:\xampp\htdocs\mysite\vendor\codeigniter4\framework\system\CodeIgniter.php(914): App\Controllers\ApiAuth->delete_user()
+#1 E:\xampp\htdocs\mysite\vendor\codeigniter4\framework\system\CodeIgniter.php(400): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\ApiAuth))
+#2 E:\xampp\htdocs\mysite\vendor\codeigniter4\framework\system\CodeIgniter.php(308): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 E:\xampp\htdocs\mysite\index.php(84): CodeIgniter\CodeIgniter->run()
+#4 {main}
+CRITICAL - 2020-06-23 00:27:53 --> Too few arguments to function App\Controllers\ApiAuth::delete_user(), 0 passed in E:\xampp\htdocs\mysite\vendor\codeigniter4\framework\system\CodeIgniter.php on line 914 and exactly 1 expected
+#0 E:\xampp\htdocs\mysite\vendor\codeigniter4\framework\system\CodeIgniter.php(914): App\Controllers\ApiAuth->delete_user()
+#1 E:\xampp\htdocs\mysite\vendor\codeigniter4\framework\system\CodeIgniter.php(400): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\ApiAuth))
+#2 E:\xampp\htdocs\mysite\vendor\codeigniter4\framework\system\CodeIgniter.php(308): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 E:\xampp\htdocs\mysite\index.php(84): CodeIgniter\CodeIgniter->run()
+#4 {main}
+CRITICAL - 2020-06-23 00:28:45 --> Too few arguments to function App\Controllers\ApiAuth::delete_user(), 0 passed in E:\xampp\htdocs\mysite\vendor\codeigniter4\framework\system\CodeIgniter.php on line 914 and exactly 1 expected
+#0 E:\xampp\htdocs\mysite\vendor\codeigniter4\framework\system\CodeIgniter.php(914): App\Controllers\ApiAuth->delete_user()
+#1 E:\xampp\htdocs\mysite\vendor\codeigniter4\framework\system\CodeIgniter.php(400): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\ApiAuth))
+#2 E:\xampp\htdocs\mysite\vendor\codeigniter4\framework\system\CodeIgniter.php(308): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 E:\xampp\htdocs\mysite\index.php(84): CodeIgniter\CodeIgniter->run()
+#4 {main}
+CRITICAL - 2020-06-23 00:29:03 --> Too few arguments to function App\Controllers\ApiAuth::delete_user(), 0 passed in E:\xampp\htdocs\mysite\vendor\codeigniter4\framework\system\CodeIgniter.php on line 914 and exactly 1 expected
+#0 E:\xampp\htdocs\mysite\vendor\codeigniter4\framework\system\CodeIgniter.php(914): App\Controllers\ApiAuth->delete_user()
+#1 E:\xampp\htdocs\mysite\vendor\codeigniter4\framework\system\CodeIgniter.php(400): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\ApiAuth))
+#2 E:\xampp\htdocs\mysite\vendor\codeigniter4\framework\system\CodeIgniter.php(308): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 E:\xampp\htdocs\mysite\index.php(84): CodeIgniter\CodeIgniter->run()
+#4 {main}
+CRITICAL - 2020-06-23 00:29:17 --> Too few arguments to function App\Controllers\ApiAuth::delete_user(), 0 passed in E:\xampp\htdocs\mysite\vendor\codeigniter4\framework\system\CodeIgniter.php on line 914 and exactly 1 expected
+#0 E:\xampp\htdocs\mysite\vendor\codeigniter4\framework\system\CodeIgniter.php(914): App\Controllers\ApiAuth->delete_user()
+#1 E:\xampp\htdocs\mysite\vendor\codeigniter4\framework\system\CodeIgniter.php(400): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\ApiAuth))
+#2 E:\xampp\htdocs\mysite\vendor\codeigniter4\framework\system\CodeIgniter.php(308): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 E:\xampp\htdocs\mysite\index.php(84): CodeIgniter\CodeIgniter->run()
+#4 {main}
+CRITICAL - 2020-06-23 00:29:23 --> Too few arguments to function App\Controllers\ApiAuth::delete_user(), 0 passed in E:\xampp\htdocs\mysite\vendor\codeigniter4\framework\system\CodeIgniter.php on line 914 and exactly 1 expected
+#0 E:\xampp\htdocs\mysite\vendor\codeigniter4\framework\system\CodeIgniter.php(914): App\Controllers\ApiAuth->delete_user()
+#1 E:\xampp\htdocs\mysite\vendor\codeigniter4\framework\system\CodeIgniter.php(400): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\ApiAuth))
+#2 E:\xampp\htdocs\mysite\vendor\codeigniter4\framework\system\CodeIgniter.php(308): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 E:\xampp\htdocs\mysite\index.php(84): CodeIgniter\CodeIgniter->run()
+#4 {main}
+CRITICAL - 2020-06-23 00:29:44 --> Too few arguments to function App\Controllers\ApiAuth::delete_user(), 0 passed in E:\xampp\htdocs\mysite\vendor\codeigniter4\framework\system\CodeIgniter.php on line 914 and exactly 1 expected
+#0 E:\xampp\htdocs\mysite\vendor\codeigniter4\framework\system\CodeIgniter.php(914): App\Controllers\ApiAuth->delete_user()
+#1 E:\xampp\htdocs\mysite\vendor\codeigniter4\framework\system\CodeIgniter.php(400): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\ApiAuth))
+#2 E:\xampp\htdocs\mysite\vendor\codeigniter4\framework\system\CodeIgniter.php(308): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 E:\xampp\htdocs\mysite\index.php(84): CodeIgniter\CodeIgniter->run()
+#4 {main}
+CRITICAL - 2020-06-23 00:30:47 --> Call to a member function where() on null
+#0 E:\xampp\htdocs\mysite\vendor\codeigniter4\framework\system\CodeIgniter.php(914): App\Controllers\ApiAuth->delete_user()
+#1 E:\xampp\htdocs\mysite\vendor\codeigniter4\framework\system\CodeIgniter.php(400): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\ApiAuth))
+#2 E:\xampp\htdocs\mysite\vendor\codeigniter4\framework\system\CodeIgniter.php(308): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 E:\xampp\htdocs\mysite\index.php(84): CodeIgniter\CodeIgniter->run()
+#4 {main}
+CRITICAL - 2020-06-23 00:33:28 --> Call to a member function delete() on null
+#0 E:\xampp\htdocs\mysite\vendor\codeigniter4\framework\system\CodeIgniter.php(914): App\Controllers\ApiAuth->delete_user()
+#1 E:\xampp\htdocs\mysite\vendor\codeigniter4\framework\system\CodeIgniter.php(400): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\ApiAuth))
+#2 E:\xampp\htdocs\mysite\vendor\codeigniter4\framework\system\CodeIgniter.php(308): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 E:\xampp\htdocs\mysite\index.php(84): CodeIgniter\CodeIgniter->run()
+#4 {main}
+CRITICAL - 2020-06-23 00:34:00 --> Call to a member function delete() on null
+#0 E:\xampp\htdocs\mysite\vendor\codeigniter4\framework\system\CodeIgniter.php(914): App\Controllers\ApiAuth->delete_user()
+#1 E:\xampp\htdocs\mysite\vendor\codeigniter4\framework\system\CodeIgniter.php(400): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\ApiAuth))
+#2 E:\xampp\htdocs\mysite\vendor\codeigniter4\framework\system\CodeIgniter.php(308): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 E:\xampp\htdocs\mysite\index.php(84): CodeIgniter\CodeIgniter->run()
+#4 {main}
+CRITICAL - 2020-06-23 00:35:13 --> syntax error, unexpected ';'
+#0 E:\xampp\htdocs\mysite\vendor\codeigniter4\framework\system\Autoloader\Autoloader.php(296): CodeIgniter\Autoloader\Autoloader->requireFile('E:\\xampp\\htdocs...')
+#1 E:\xampp\htdocs\mysite\vendor\codeigniter4\framework\system\Autoloader\Autoloader.php(258): CodeIgniter\Autoloader\Autoloader->loadInNamespace('App\\Controllers...')
+#2 [internal function]: CodeIgniter\Autoloader\Autoloader->loadClass('App\\Controllers...')
+#3 [internal function]: spl_autoload_call('App\\Controllers...')
+#4 E:\xampp\htdocs\mysite\vendor\codeigniter4\framework\system\CodeIgniter.php(865): class_exists('\\App\\Controller...', true)
+#5 E:\xampp\htdocs\mysite\vendor\codeigniter4\framework\system\CodeIgniter.php(390): CodeIgniter\CodeIgniter->startController()
+#6 E:\xampp\htdocs\mysite\vendor\codeigniter4\framework\system\CodeIgniter.php(308): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#7 E:\xampp\htdocs\mysite\index.php(84): CodeIgniter\CodeIgniter->run()
+#8 {main}
+CRITICAL - 2020-06-23 00:36:27 --> Call to a member function where() on null
+#0 E:\xampp\htdocs\mysite\vendor\codeigniter4\framework\system\CodeIgniter.php(914): App\Controllers\ApiAuth->delete_user()
+#1 E:\xampp\htdocs\mysite\vendor\codeigniter4\framework\system\CodeIgniter.php(400): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\ApiAuth))
+#2 E:\xampp\htdocs\mysite\vendor\codeigniter4\framework\system\CodeIgniter.php(308): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 E:\xampp\htdocs\mysite\index.php(84): CodeIgniter\CodeIgniter->run()
+#4 {main}
+CRITICAL - 2020-06-23 00:38:03 --> Call to a member function where() on null
+#0 E:\xampp\htdocs\mysite\vendor\codeigniter4\framework\system\CodeIgniter.php(914): App\Controllers\ApiAuth->delete_user()
+#1 E:\xampp\htdocs\mysite\vendor\codeigniter4\framework\system\CodeIgniter.php(400): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\ApiAuth))
+#2 E:\xampp\htdocs\mysite\vendor\codeigniter4\framework\system\CodeIgniter.php(308): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 E:\xampp\htdocs\mysite\index.php(84): CodeIgniter\CodeIgniter->run()
+#4 {main}
+CRITICAL - 2020-06-23 00:39:36 --> Call to a member function find() on null
+#0 E:\xampp\htdocs\mysite\vendor\codeigniter4\framework\system\CodeIgniter.php(914): App\Controllers\ApiAuth->delete_user()
+#1 E:\xampp\htdocs\mysite\vendor\codeigniter4\framework\system\CodeIgniter.php(400): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\ApiAuth))
+#2 E:\xampp\htdocs\mysite\vendor\codeigniter4\framework\system\CodeIgniter.php(308): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 E:\xampp\htdocs\mysite\index.php(84): CodeIgniter\CodeIgniter->run()
+#4 {main}
+CRITICAL - 2020-06-23 00:40:34 --> Call to a member function find() on null
+#0 E:\xampp\htdocs\mysite\vendor\codeigniter4\framework\system\CodeIgniter.php(914): App\Controllers\ApiAuth->delete_user()
+#1 E:\xampp\htdocs\mysite\vendor\codeigniter4\framework\system\CodeIgniter.php(400): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\ApiAuth))
+#2 E:\xampp\htdocs\mysite\vendor\codeigniter4\framework\system\CodeIgniter.php(308): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 E:\xampp\htdocs\mysite\index.php(84): CodeIgniter\CodeIgniter->run()
+#4 {main}
+CRITICAL - 2020-06-23 01:18:30 --> syntax error, unexpected '-', expecting function (T_FUNCTION) or const (T_CONST)
+#0 E:\xampp\htdocs\mysite\vendor\codeigniter4\framework\system\Autoloader\Autoloader.php(296): CodeIgniter\Autoloader\Autoloader->requireFile('E:\\xampp\\htdocs...')
+#1 E:\xampp\htdocs\mysite\vendor\codeigniter4\framework\system\Autoloader\Autoloader.php(258): CodeIgniter\Autoloader\Autoloader->loadInNamespace('App\\Controllers...')
+#2 [internal function]: CodeIgniter\Autoloader\Autoloader->loadClass('App\\Controllers...')
+#3 [internal function]: spl_autoload_call('App\\Controllers...')
+#4 E:\xampp\htdocs\mysite\vendor\codeigniter4\framework\system\CodeIgniter.php(865): class_exists('\\App\\Controller...', true)
+#5 E:\xampp\htdocs\mysite\vendor\codeigniter4\framework\system\CodeIgniter.php(390): CodeIgniter\CodeIgniter->startController()
+#6 E:\xampp\htdocs\mysite\vendor\codeigniter4\framework\system\CodeIgniter.php(308): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#7 E:\xampp\htdocs\mysite\index.php(84): CodeIgniter\CodeIgniter->run()
+#8 {main}
+CRITICAL - 2020-06-23 01:18:31 --> syntax error, unexpected '-', expecting function (T_FUNCTION) or const (T_CONST)
+#0 E:\xampp\htdocs\mysite\vendor\codeigniter4\framework\system\Autoloader\Autoloader.php(296): CodeIgniter\Autoloader\Autoloader->requireFile('E:\\xampp\\htdocs...')
+#1 E:\xampp\htdocs\mysite\vendor\codeigniter4\framework\system\Autoloader\Autoloader.php(258): CodeIgniter\Autoloader\Autoloader->loadInNamespace('App\\Controllers...')
+#2 [internal function]: CodeIgniter\Autoloader\Autoloader->loadClass('App\\Controllers...')
+#3 [internal function]: spl_autoload_call('App\\Controllers...')
+#4 E:\xampp\htdocs\mysite\vendor\codeigniter4\framework\system\CodeIgniter.php(865): class_exists('\\App\\Controller...', true)
+#5 E:\xampp\htdocs\mysite\vendor\codeigniter4\framework\system\CodeIgniter.php(390): CodeIgniter\CodeIgniter->startController()
+#6 E:\xampp\htdocs\mysite\vendor\codeigniter4\framework\system\CodeIgniter.php(308): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#7 E:\xampp\htdocs\mysite\index.php(84): CodeIgniter\CodeIgniter->run()
+#8 {main}
+CRITICAL - 2020-06-23 01:18:36 --> syntax error, unexpected '-', expecting function (T_FUNCTION) or const (T_CONST)
+#0 E:\xampp\htdocs\mysite\vendor\codeigniter4\framework\system\Autoloader\Autoloader.php(296): CodeIgniter\Autoloader\Autoloader->requireFile('E:\\xampp\\htdocs...')
+#1 E:\xampp\htdocs\mysite\vendor\codeigniter4\framework\system\Autoloader\Autoloader.php(258): CodeIgniter\Autoloader\Autoloader->loadInNamespace('App\\Controllers...')
+#2 [internal function]: CodeIgniter\Autoloader\Autoloader->loadClass('App\\Controllers...')
+#3 [internal function]: spl_autoload_call('App\\Controllers...')
+#4 E:\xampp\htdocs\mysite\vendor\codeigniter4\framework\system\CodeIgniter.php(865): class_exists('\\App\\Controller...', true)
+#5 E:\xampp\htdocs\mysite\vendor\codeigniter4\framework\system\CodeIgniter.php(390): CodeIgniter\CodeIgniter->startController()
+#6 E:\xampp\htdocs\mysite\vendor\codeigniter4\framework\system\CodeIgniter.php(308): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#7 E:\xampp\htdocs\mysite\index.php(84): CodeIgniter\CodeIgniter->run()
+#8 {main}
+CRITICAL - 2020-06-23 01:24:44 --> syntax error, unexpected '-', expecting function (T_FUNCTION) or const (T_CONST)
+#0 E:\xampp\htdocs\mysite\vendor\codeigniter4\framework\system\Autoloader\Autoloader.php(296): CodeIgniter\Autoloader\Autoloader->requireFile('E:\\xampp\\htdocs...')
+#1 E:\xampp\htdocs\mysite\vendor\codeigniter4\framework\system\Autoloader\Autoloader.php(258): CodeIgniter\Autoloader\Autoloader->loadInNamespace('App\\Controllers...')
+#2 [internal function]: CodeIgniter\Autoloader\Autoloader->loadClass('App\\Controllers...')
+#3 [internal function]: spl_autoload_call('App\\Controllers...')
+#4 E:\xampp\htdocs\mysite\vendor\codeigniter4\framework\system\CodeIgniter.php(865): class_exists('\\App\\Controller...', true)
+#5 E:\xampp\htdocs\mysite\vendor\codeigniter4\framework\system\CodeIgniter.php(390): CodeIgniter\CodeIgniter->startController()
+#6 E:\xampp\htdocs\mysite\vendor\codeigniter4\framework\system\CodeIgniter.php(308): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#7 E:\xampp\htdocs\mysite\index.php(84): CodeIgniter\CodeIgniter->run()
+#8 {main}
+CRITICAL - 2020-06-23 01:24:46 --> syntax error, unexpected '-', expecting function (T_FUNCTION) or const (T_CONST)
+#0 E:\xampp\htdocs\mysite\vendor\codeigniter4\framework\system\Autoloader\Autoloader.php(296): CodeIgniter\Autoloader\Autoloader->requireFile('E:\\xampp\\htdocs...')
+#1 E:\xampp\htdocs\mysite\vendor\codeigniter4\framework\system\Autoloader\Autoloader.php(258): CodeIgniter\Autoloader\Autoloader->loadInNamespace('App\\Controllers...')
+#2 [internal function]: CodeIgniter\Autoloader\Autoloader->loadClass('App\\Controllers...')
+#3 [internal function]: spl_autoload_call('App\\Controllers...')
+#4 E:\xampp\htdocs\mysite\vendor\codeigniter4\framework\system\CodeIgniter.php(865): class_exists('\\App\\Controller...', true)
+#5 E:\xampp\htdocs\mysite\vendor\codeigniter4\framework\system\CodeIgniter.php(390): CodeIgniter\CodeIgniter->startController()
+#6 E:\xampp\htdocs\mysite\vendor\codeigniter4\framework\system\CodeIgniter.php(308): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#7 E:\xampp\htdocs\mysite\index.php(84): CodeIgniter\CodeIgniter->run()
+#8 {main}
+CRITICAL - 2020-06-23 01:25:11 --> syntax error, unexpected '-', expecting function (T_FUNCTION) or const (T_CONST)
+#0 E:\xampp\htdocs\mysite\vendor\codeigniter4\framework\system\Autoloader\Autoloader.php(296): CodeIgniter\Autoloader\Autoloader->requireFile('E:\\xampp\\htdocs...')
+#1 E:\xampp\htdocs\mysite\vendor\codeigniter4\framework\system\Autoloader\Autoloader.php(258): CodeIgniter\Autoloader\Autoloader->loadInNamespace('App\\Controllers...')
+#2 [internal function]: CodeIgniter\Autoloader\Autoloader->loadClass('App\\Controllers...')
+#3 [internal function]: spl_autoload_call('App\\Controllers...')
+#4 E:\xampp\htdocs\mysite\vendor\codeigniter4\framework\system\CodeIgniter.php(865): class_exists('\\App\\Controller...', true)
+#5 E:\xampp\htdocs\mysite\vendor\codeigniter4\framework\system\CodeIgniter.php(390): CodeIgniter\CodeIgniter->startController()
+#6 E:\xampp\htdocs\mysite\vendor\codeigniter4\framework\system\CodeIgniter.php(308): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#7 E:\xampp\htdocs\mysite\index.php(84): CodeIgniter\CodeIgniter->run()
+#8 {main}
+CRITICAL - 2020-06-23 01:26:06 --> syntax error, unexpected '-', expecting function (T_FUNCTION) or const (T_CONST)
+#0 E:\xampp\htdocs\mysite\vendor\codeigniter4\framework\system\Autoloader\Autoloader.php(296): CodeIgniter\Autoloader\Autoloader->requireFile('E:\\xampp\\htdocs...')
+#1 E:\xampp\htdocs\mysite\vendor\codeigniter4\framework\system\Autoloader\Autoloader.php(258): CodeIgniter\Autoloader\Autoloader->loadInNamespace('App\\Controllers...')
+#2 [internal function]: CodeIgniter\Autoloader\Autoloader->loadClass('App\\Controllers...')
+#3 [internal function]: spl_autoload_call('App\\Controllers...')
+#4 E:\xampp\htdocs\mysite\vendor\codeigniter4\framework\system\CodeIgniter.php(865): class_exists('\\App\\Controller...', true)
+#5 E:\xampp\htdocs\mysite\vendor\codeigniter4\framework\system\CodeIgniter.php(390): CodeIgniter\CodeIgniter->startController()
+#6 E:\xampp\htdocs\mysite\vendor\codeigniter4\framework\system\CodeIgniter.php(308): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#7 E:\xampp\htdocs\mysite\index.php(84): CodeIgniter\CodeIgniter->run()
+#8 {main}
+CRITICAL - 2020-06-23 01:26:39 --> syntax error, unexpected '-', expecting function (T_FUNCTION) or const (T_CONST)
+#0 E:\xampp\htdocs\mysite\vendor\codeigniter4\framework\system\Autoloader\Autoloader.php(296): CodeIgniter\Autoloader\Autoloader->requireFile('E:\\xampp\\htdocs...')
+#1 E:\xampp\htdocs\mysite\vendor\codeigniter4\framework\system\Autoloader\Autoloader.php(258): CodeIgniter\Autoloader\Autoloader->loadInNamespace('App\\Controllers...')
+#2 [internal function]: CodeIgniter\Autoloader\Autoloader->loadClass('App\\Controllers...')
+#3 [internal function]: spl_autoload_call('App\\Controllers...')
+#4 E:\xampp\htdocs\mysite\vendor\codeigniter4\framework\system\CodeIgniter.php(865): class_exists('\\App\\Controller...', true)
+#5 E:\xampp\htdocs\mysite\vendor\codeigniter4\framework\system\CodeIgniter.php(390): CodeIgniter\CodeIgniter->startController()
+#6 E:\xampp\htdocs\mysite\vendor\codeigniter4\framework\system\CodeIgniter.php(308): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#7 E:\xampp\htdocs\mysite\index.php(84): CodeIgniter\CodeIgniter->run()
+#8 {main}
+CRITICAL - 2020-06-23 01:26:46 --> syntax error, unexpected '-', expecting function (T_FUNCTION) or const (T_CONST)
+#0 E:\xampp\htdocs\mysite\vendor\codeigniter4\framework\system\Autoloader\Autoloader.php(296): CodeIgniter\Autoloader\Autoloader->requireFile('E:\\xampp\\htdocs...')
+#1 E:\xampp\htdocs\mysite\vendor\codeigniter4\framework\system\Autoloader\Autoloader.php(258): CodeIgniter\Autoloader\Autoloader->loadInNamespace('App\\Controllers...')
+#2 [internal function]: CodeIgniter\Autoloader\Autoloader->loadClass('App\\Controllers...')
+#3 [internal function]: spl_autoload_call('App\\Controllers...')
+#4 E:\xampp\htdocs\mysite\vendor\codeigniter4\framework\system\CodeIgniter.php(865): class_exists('\\App\\Controller...', true)
+#5 E:\xampp\htdocs\mysite\vendor\codeigniter4\framework\system\CodeIgniter.php(390): CodeIgniter\CodeIgniter->startController()
+#6 E:\xampp\htdocs\mysite\vendor\codeigniter4\framework\system\CodeIgniter.php(308): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#7 E:\xampp\htdocs\mysite\index.php(84): CodeIgniter\CodeIgniter->run()
+#8 {main}
+CRITICAL - 2020-06-23 01:28:36 --> syntax error, unexpected '-', expecting function (T_FUNCTION) or const (T_CONST)
+#0 E:\xampp\htdocs\mysite\vendor\codeigniter4\framework\system\Autoloader\Autoloader.php(296): CodeIgniter\Autoloader\Autoloader->requireFile('E:\\xampp\\htdocs...')
+#1 E:\xampp\htdocs\mysite\vendor\codeigniter4\framework\system\Autoloader\Autoloader.php(258): CodeIgniter\Autoloader\Autoloader->loadInNamespace('App\\Controllers...')
+#2 [internal function]: CodeIgniter\Autoloader\Autoloader->loadClass('App\\Controllers...')
+#3 [internal function]: spl_autoload_call('App\\Controllers...')
+#4 E:\xampp\htdocs\mysite\vendor\codeigniter4\framework\system\CodeIgniter.php(865): class_exists('\\App\\Controller...', true)
+#5 E:\xampp\htdocs\mysite\vendor\codeigniter4\framework\system\CodeIgniter.php(390): CodeIgniter\CodeIgniter->startController()
+#6 E:\xampp\htdocs\mysite\vendor\codeigniter4\framework\system\CodeIgniter.php(308): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#7 E:\xampp\htdocs\mysite\index.php(84): CodeIgniter\CodeIgniter->run()
+#8 {main}
+CRITICAL - 2020-06-23 01:59:55 --> syntax error, unexpected '-', expecting function (T_FUNCTION) or const (T_CONST)
+#0 E:\xampp\htdocs\mysite\vendor\codeigniter4\framework\system\Autoloader\Autoloader.php(296): CodeIgniter\Autoloader\Autoloader->requireFile('E:\\xampp\\htdocs...')
+#1 E:\xampp\htdocs\mysite\vendor\codeigniter4\framework\system\Autoloader\Autoloader.php(258): CodeIgniter\Autoloader\Autoloader->loadInNamespace('App\\Controllers...')
+#2 [internal function]: CodeIgniter\Autoloader\Autoloader->loadClass('App\\Controllers...')
+#3 [internal function]: spl_autoload_call('App\\Controllers...')
+#4 E:\xampp\htdocs\mysite\vendor\codeigniter4\framework\system\CodeIgniter.php(865): class_exists('\\App\\Controller...', true)
+#5 E:\xampp\htdocs\mysite\vendor\codeigniter4\framework\system\CodeIgniter.php(390): CodeIgniter\CodeIgniter->startController()
+#6 E:\xampp\htdocs\mysite\vendor\codeigniter4\framework\system\CodeIgniter.php(308): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#7 E:\xampp\htdocs\mysite\index.php(84): CodeIgniter\CodeIgniter->run()
+#8 {main}
+CRITICAL - 2020-06-23 02:00:01 --> syntax error, unexpected '-', expecting function (T_FUNCTION) or const (T_CONST)
+#0 E:\xampp\htdocs\mysite\vendor\codeigniter4\framework\system\Autoloader\Autoloader.php(296): CodeIgniter\Autoloader\Autoloader->requireFile('E:\\xampp\\htdocs...')
+#1 E:\xampp\htdocs\mysite\vendor\codeigniter4\framework\system\Autoloader\Autoloader.php(258): CodeIgniter\Autoloader\Autoloader->loadInNamespace('App\\Controllers...')
+#2 [internal function]: CodeIgniter\Autoloader\Autoloader->loadClass('App\\Controllers...')
+#3 [internal function]: spl_autoload_call('App\\Controllers...')
+#4 E:\xampp\htdocs\mysite\vendor\codeigniter4\framework\system\CodeIgniter.php(865): class_exists('\\App\\Controller...', true)
+#5 E:\xampp\htdocs\mysite\vendor\codeigniter4\framework\system\CodeIgniter.php(390): CodeIgniter\CodeIgniter->startController()
+#6 E:\xampp\htdocs\mysite\vendor\codeigniter4\framework\system\CodeIgniter.php(308): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#7 E:\xampp\htdocs\mysite\index.php(84): CodeIgniter\CodeIgniter->run()
+#8 {main}
+CRITICAL - 2020-06-23 02:01:14 --> syntax error, unexpected '-', expecting function (T_FUNCTION) or const (T_CONST)
+#0 E:\xampp\htdocs\mysite\vendor\codeigniter4\framework\system\Autoloader\Autoloader.php(296): CodeIgniter\Autoloader\Autoloader->requireFile('E:\\xampp\\htdocs...')
+#1 E:\xampp\htdocs\mysite\vendor\codeigniter4\framework\system\Autoloader\Autoloader.php(258): CodeIgniter\Autoloader\Autoloader->loadInNamespace('App\\Controllers...')
+#2 [internal function]: CodeIgniter\Autoloader\Autoloader->loadClass('App\\Controllers...')
+#3 [internal function]: spl_autoload_call('App\\Controllers...')
+#4 E:\xampp\htdocs\mysite\vendor\codeigniter4\framework\system\CodeIgniter.php(865): class_exists('\\App\\Controller...', true)
+#5 E:\xampp\htdocs\mysite\vendor\codeigniter4\framework\system\CodeIgniter.php(390): CodeIgniter\CodeIgniter->startController()
+#6 E:\xampp\htdocs\mysite\vendor\codeigniter4\framework\system\CodeIgniter.php(308): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#7 E:\xampp\htdocs\mysite\index.php(84): CodeIgniter\CodeIgniter->run()
+#8 {main}
+CRITICAL - 2020-06-23 02:02:06 --> syntax error, unexpected '-', expecting function (T_FUNCTION) or const (T_CONST)
+#0 E:\xampp\htdocs\mysite\vendor\codeigniter4\framework\system\Autoloader\Autoloader.php(296): CodeIgniter\Autoloader\Autoloader->requireFile('E:\\xampp\\htdocs...')
+#1 E:\xampp\htdocs\mysite\vendor\codeigniter4\framework\system\Autoloader\Autoloader.php(258): CodeIgniter\Autoloader\Autoloader->loadInNamespace('App\\Controllers...')
+#2 [internal function]: CodeIgniter\Autoloader\Autoloader->loadClass('App\\Controllers...')
+#3 [internal function]: spl_autoload_call('App\\Controllers...')
+#4 E:\xampp\htdocs\mysite\vendor\codeigniter4\framework\system\CodeIgniter.php(865): class_exists('\\App\\Controller...', true)
+#5 E:\xampp\htdocs\mysite\vendor\codeigniter4\framework\system\CodeIgniter.php(390): CodeIgniter\CodeIgniter->startController()
+#6 E:\xampp\htdocs\mysite\vendor\codeigniter4\framework\system\CodeIgniter.php(308): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#7 E:\xampp\htdocs\mysite\index.php(84): CodeIgniter\CodeIgniter->run()
+#8 {main}
+CRITICAL - 2020-06-23 02:02:08 --> syntax error, unexpected '-', expecting function (T_FUNCTION) or const (T_CONST)
+#0 E:\xampp\htdocs\mysite\vendor\codeigniter4\framework\system\Autoloader\Autoloader.php(296): CodeIgniter\Autoloader\Autoloader->requireFile('E:\\xampp\\htdocs...')
+#1 E:\xampp\htdocs\mysite\vendor\codeigniter4\framework\system\Autoloader\Autoloader.php(258): CodeIgniter\Autoloader\Autoloader->loadInNamespace('App\\Controllers...')
+#2 [internal function]: CodeIgniter\Autoloader\Autoloader->loadClass('App\\Controllers...')
+#3 [internal function]: spl_autoload_call('App\\Controllers...')
+#4 E:\xampp\htdocs\mysite\vendor\codeigniter4\framework\system\CodeIgniter.php(865): class_exists('\\App\\Controller...', true)
+#5 E:\xampp\htdocs\mysite\vendor\codeigniter4\framework\system\CodeIgniter.php(390): CodeIgniter\CodeIgniter->startController()
+#6 E:\xampp\htdocs\mysite\vendor\codeigniter4\framework\system\CodeIgniter.php(308): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#7 E:\xampp\htdocs\mysite\index.php(84): CodeIgniter\CodeIgniter->run()
+#8 {main}
+CRITICAL - 2020-06-23 02:04:29 --> syntax error, unexpected '-', expecting function (T_FUNCTION) or const (T_CONST)
+#0 E:\xampp\htdocs\mysite\vendor\codeigniter4\framework\system\Autoloader\Autoloader.php(296): CodeIgniter\Autoloader\Autoloader->requireFile('E:\\xampp\\htdocs...')
+#1 E:\xampp\htdocs\mysite\vendor\codeigniter4\framework\system\Autoloader\Autoloader.php(258): CodeIgniter\Autoloader\Autoloader->loadInNamespace('App\\Controllers...')
+#2 [internal function]: CodeIgniter\Autoloader\Autoloader->loadClass('App\\Controllers...')
+#3 [internal function]: spl_autoload_call('App\\Controllers...')
+#4 E:\xampp\htdocs\mysite\vendor\codeigniter4\framework\system\CodeIgniter.php(865): class_exists('\\App\\Controller...', true)
+#5 E:\xampp\htdocs\mysite\vendor\codeigniter4\framework\system\CodeIgniter.php(390): CodeIgniter\CodeIgniter->startController()
+#6 E:\xampp\htdocs\mysite\vendor\codeigniter4\framework\system\CodeIgniter.php(308): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#7 E:\xampp\htdocs\mysite\index.php(84): CodeIgniter\CodeIgniter->run()
+#8 {main}
+CRITICAL - 2020-06-23 02:04:32 --> syntax error, unexpected '-', expecting function (T_FUNCTION) or const (T_CONST)
+#0 E:\xampp\htdocs\mysite\vendor\codeigniter4\framework\system\Autoloader\Autoloader.php(296): CodeIgniter\Autoloader\Autoloader->requireFile('E:\\xampp\\htdocs...')
+#1 E:\xampp\htdocs\mysite\vendor\codeigniter4\framework\system\Autoloader\Autoloader.php(258): CodeIgniter\Autoloader\Autoloader->loadInNamespace('App\\Controllers...')
+#2 [internal function]: CodeIgniter\Autoloader\Autoloader->loadClass('App\\Controllers...')
+#3 [internal function]: spl_autoload_call('App\\Controllers...')
+#4 E:\xampp\htdocs\mysite\vendor\codeigniter4\framework\system\CodeIgniter.php(865): class_exists('\\App\\Controller...', true)
+#5 E:\xampp\htdocs\mysite\vendor\codeigniter4\framework\system\CodeIgniter.php(390): CodeIgniter\CodeIgniter->startController()
+#6 E:\xampp\htdocs\mysite\vendor\codeigniter4\framework\system\CodeIgniter.php(308): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#7 E:\xampp\htdocs\mysite\index.php(84): CodeIgniter\CodeIgniter->run()
+#8 {main}
+CRITICAL - 2020-06-23 02:05:17 --> syntax error, unexpected '-', expecting function (T_FUNCTION) or const (T_CONST)
+#0 E:\xampp\htdocs\mysite\vendor\codeigniter4\framework\system\Autoloader\Autoloader.php(296): CodeIgniter\Autoloader\Autoloader->requireFile('E:\\xampp\\htdocs...')
+#1 E:\xampp\htdocs\mysite\vendor\codeigniter4\framework\system\Autoloader\Autoloader.php(258): CodeIgniter\Autoloader\Autoloader->loadInNamespace('App\\Controllers...')
+#2 [internal function]: CodeIgniter\Autoloader\Autoloader->loadClass('App\\Controllers...')
+#3 [internal function]: spl_autoload_call('App\\Controllers...')
+#4 E:\xampp\htdocs\mysite\vendor\codeigniter4\framework\system\CodeIgniter.php(865): class_exists('\\App\\Controller...', true)
+#5 E:\xampp\htdocs\mysite\vendor\codeigniter4\framework\system\CodeIgniter.php(390): CodeIgniter\CodeIgniter->startController()
+#6 E:\xampp\htdocs\mysite\vendor\codeigniter4\framework\system\CodeIgniter.php(308): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#7 E:\xampp\htdocs\mysite\index.php(84): CodeIgniter\CodeIgniter->run()
+#8 {main}
+CRITICAL - 2020-06-23 02:05:23 --> syntax error, unexpected '-', expecting function (T_FUNCTION) or const (T_CONST)
+#0 E:\xampp\htdocs\mysite\vendor\codeigniter4\framework\system\Autoloader\Autoloader.php(296): CodeIgniter\Autoloader\Autoloader->requireFile('E:\\xampp\\htdocs...')
+#1 E:\xampp\htdocs\mysite\vendor\codeigniter4\framework\system\Autoloader\Autoloader.php(258): CodeIgniter\Autoloader\Autoloader->loadInNamespace('App\\Controllers...')
+#2 [internal function]: CodeIgniter\Autoloader\Autoloader->loadClass('App\\Controllers...')
+#3 [internal function]: spl_autoload_call('App\\Controllers...')
+#4 E:\xampp\htdocs\mysite\vendor\codeigniter4\framework\system\CodeIgniter.php(865): class_exists('\\App\\Controller...', true)
+#5 E:\xampp\htdocs\mysite\vendor\codeigniter4\framework\system\CodeIgniter.php(390): CodeIgniter\CodeIgniter->startController()
+#6 E:\xampp\htdocs\mysite\vendor\codeigniter4\framework\system\CodeIgniter.php(308): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#7 E:\xampp\htdocs\mysite\index.php(84): CodeIgniter\CodeIgniter->run()
+#8 {main}
+CRITICAL - 2020-06-23 02:05:28 --> syntax error, unexpected '-', expecting function (T_FUNCTION) or const (T_CONST)
+#0 E:\xampp\htdocs\mysite\vendor\codeigniter4\framework\system\Autoloader\Autoloader.php(296): CodeIgniter\Autoloader\Autoloader->requireFile('E:\\xampp\\htdocs...')
+#1 E:\xampp\htdocs\mysite\vendor\codeigniter4\framework\system\Autoloader\Autoloader.php(258): CodeIgniter\Autoloader\Autoloader->loadInNamespace('App\\Controllers...')
+#2 [internal function]: CodeIgniter\Autoloader\Autoloader->loadClass('App\\Controllers...')
+#3 [internal function]: spl_autoload_call('App\\Controllers...')
+#4 E:\xampp\htdocs\mysite\vendor\codeigniter4\framework\system\CodeIgniter.php(865): class_exists('\\App\\Controller...', true)
+#5 E:\xampp\htdocs\mysite\vendor\codeigniter4\framework\system\CodeIgniter.php(390): CodeIgniter\CodeIgniter->startController()
+#6 E:\xampp\htdocs\mysite\vendor\codeigniter4\framework\system\CodeIgniter.php(308): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#7 E:\xampp\htdocs\mysite\index.php(84): CodeIgniter\CodeIgniter->run()
+#8 {main}
+CRITICAL - 2020-06-23 02:06:09 --> syntax error, unexpected '-', expecting function (T_FUNCTION) or const (T_CONST)
+#0 E:\xampp\htdocs\mysite\vendor\codeigniter4\framework\system\Autoloader\Autoloader.php(296): CodeIgniter\Autoloader\Autoloader->requireFile('E:\\xampp\\htdocs...')
+#1 E:\xampp\htdocs\mysite\vendor\codeigniter4\framework\system\Autoloader\Autoloader.php(258): CodeIgniter\Autoloader\Autoloader->loadInNamespace('App\\Controllers...')
+#2 [internal function]: CodeIgniter\Autoloader\Autoloader->loadClass('App\\Controllers...')
+#3 [internal function]: spl_autoload_call('App\\Controllers...')
+#4 E:\xampp\htdocs\mysite\vendor\codeigniter4\framework\system\CodeIgniter.php(865): class_exists('\\App\\Controller...', true)
+#5 E:\xampp\htdocs\mysite\vendor\codeigniter4\framework\system\CodeIgniter.php(390): CodeIgniter\CodeIgniter->startController()
+#6 E:\xampp\htdocs\mysite\vendor\codeigniter4\framework\system\CodeIgniter.php(308): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#7 E:\xampp\htdocs\mysite\index.php(84): CodeIgniter\CodeIgniter->run()
+#8 {main}
+CRITICAL - 2020-06-23 02:06:25 --> syntax error, unexpected '-', expecting function (T_FUNCTION) or const (T_CONST)
+#0 E:\xampp\htdocs\mysite\vendor\codeigniter4\framework\system\Autoloader\Autoloader.php(296): CodeIgniter\Autoloader\Autoloader->requireFile('E:\\xampp\\htdocs...')
+#1 E:\xampp\htdocs\mysite\vendor\codeigniter4\framework\system\Autoloader\Autoloader.php(258): CodeIgniter\Autoloader\Autoloader->loadInNamespace('App\\Controllers...')
+#2 [internal function]: CodeIgniter\Autoloader\Autoloader->loadClass('App\\Controllers...')
+#3 [internal function]: spl_autoload_call('App\\Controllers...')
+#4 E:\xampp\htdocs\mysite\vendor\codeigniter4\framework\system\CodeIgniter.php(865): class_exists('\\App\\Controller...', true)
+#5 E:\xampp\htdocs\mysite\vendor\codeigniter4\framework\system\CodeIgniter.php(390): CodeIgniter\CodeIgniter->startController()
+#6 E:\xampp\htdocs\mysite\vendor\codeigniter4\framework\system\CodeIgniter.php(308): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#7 E:\xampp\htdocs\mysite\index.php(84): CodeIgniter\CodeIgniter->run()
+#8 {main}
+CRITICAL - 2020-06-23 02:07:24 --> syntax error, unexpected '-', expecting function (T_FUNCTION) or const (T_CONST)
+#0 E:\xampp\htdocs\mysite\vendor\codeigniter4\framework\system\Autoloader\Autoloader.php(296): CodeIgniter\Autoloader\Autoloader->requireFile('E:\\xampp\\htdocs...')
+#1 E:\xampp\htdocs\mysite\vendor\codeigniter4\framework\system\Autoloader\Autoloader.php(258): CodeIgniter\Autoloader\Autoloader->loadInNamespace('App\\Controllers...')
+#2 [internal function]: CodeIgniter\Autoloader\Autoloader->loadClass('App\\Controllers...')
+#3 [internal function]: spl_autoload_call('App\\Controllers...')
+#4 E:\xampp\htdocs\mysite\vendor\codeigniter4\framework\system\CodeIgniter.php(865): class_exists('\\App\\Controller...', true)
+#5 E:\xampp\htdocs\mysite\vendor\codeigniter4\framework\system\CodeIgniter.php(390): CodeIgniter\CodeIgniter->startController()
+#6 E:\xampp\htdocs\mysite\vendor\codeigniter4\framework\system\CodeIgniter.php(308): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#7 E:\xampp\htdocs\mysite\index.php(84): CodeIgniter\CodeIgniter->run()
+#8 {main}
+CRITICAL - 2020-06-23 02:07:25 --> syntax error, unexpected '-', expecting function (T_FUNCTION) or const (T_CONST)
+#0 E:\xampp\htdocs\mysite\vendor\codeigniter4\framework\system\Autoloader\Autoloader.php(296): CodeIgniter\Autoloader\Autoloader->requireFile('E:\\xampp\\htdocs...')
+#1 E:\xampp\htdocs\mysite\vendor\codeigniter4\framework\system\Autoloader\Autoloader.php(258): CodeIgniter\Autoloader\Autoloader->loadInNamespace('App\\Controllers...')
+#2 [internal function]: CodeIgniter\Autoloader\Autoloader->loadClass('App\\Controllers...')
+#3 [internal function]: spl_autoload_call('App\\Controllers...')
+#4 E:\xampp\htdocs\mysite\vendor\codeigniter4\framework\system\CodeIgniter.php(865): class_exists('\\App\\Controller...', true)
+#5 E:\xampp\htdocs\mysite\vendor\codeigniter4\framework\system\CodeIgniter.php(390): CodeIgniter\CodeIgniter->startController()
+#6 E:\xampp\htdocs\mysite\vendor\codeigniter4\framework\system\CodeIgniter.php(308): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#7 E:\xampp\htdocs\mysite\index.php(84): CodeIgniter\CodeIgniter->run()
+#8 {main}
+CRITICAL - 2020-06-23 02:07:55 --> syntax error, unexpected '-', expecting function (T_FUNCTION) or const (T_CONST)
+#0 E:\xampp\htdocs\mysite\vendor\codeigniter4\framework\system\Autoloader\Autoloader.php(296): CodeIgniter\Autoloader\Autoloader->requireFile('E:\\xampp\\htdocs...')
+#1 E:\xampp\htdocs\mysite\vendor\codeigniter4\framework\system\Autoloader\Autoloader.php(258): CodeIgniter\Autoloader\Autoloader->loadInNamespace('App\\Controllers...')
+#2 [internal function]: CodeIgniter\Autoloader\Autoloader->loadClass('App\\Controllers...')
+#3 [internal function]: spl_autoload_call('App\\Controllers...')
+#4 E:\xampp\htdocs\mysite\vendor\codeigniter4\framework\system\CodeIgniter.php(865): class_exists('\\App\\Controller...', true)
+#5 E:\xampp\htdocs\mysite\vendor\codeigniter4\framework\system\CodeIgniter.php(390): CodeIgniter\CodeIgniter->startController()
+#6 E:\xampp\htdocs\mysite\vendor\codeigniter4\framework\system\CodeIgniter.php(308): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#7 E:\xampp\htdocs\mysite\index.php(84): CodeIgniter\CodeIgniter->run()
+#8 {main}
+CRITICAL - 2020-06-23 02:07:57 --> syntax error, unexpected '-', expecting function (T_FUNCTION) or const (T_CONST)
+#0 E:\xampp\htdocs\mysite\vendor\codeigniter4\framework\system\Autoloader\Autoloader.php(296): CodeIgniter\Autoloader\Autoloader->requireFile('E:\\xampp\\htdocs...')
+#1 E:\xampp\htdocs\mysite\vendor\codeigniter4\framework\system\Autoloader\Autoloader.php(258): CodeIgniter\Autoloader\Autoloader->loadInNamespace('App\\Controllers...')
+#2 [internal function]: CodeIgniter\Autoloader\Autoloader->loadClass('App\\Controllers...')
+#3 [internal function]: spl_autoload_call('App\\Controllers...')
+#4 E:\xampp\htdocs\mysite\vendor\codeigniter4\framework\system\CodeIgniter.php(865): class_exists('\\App\\Controller...', true)
+#5 E:\xampp\htdocs\mysite\vendor\codeigniter4\framework\system\CodeIgniter.php(390): CodeIgniter\CodeIgniter->startController()
+#6 E:\xampp\htdocs\mysite\vendor\codeigniter4\framework\system\CodeIgniter.php(308): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#7 E:\xampp\htdocs\mysite\index.php(84): CodeIgniter\CodeIgniter->run()
+#8 {main}
+CRITICAL - 2020-06-23 02:07:58 --> syntax error, unexpected '-', expecting function (T_FUNCTION) or const (T_CONST)
+#0 E:\xampp\htdocs\mysite\vendor\codeigniter4\framework\system\Autoloader\Autoloader.php(296): CodeIgniter\Autoloader\Autoloader->requireFile('E:\\xampp\\htdocs...')
+#1 E:\xampp\htdocs\mysite\vendor\codeigniter4\framework\system\Autoloader\Autoloader.php(258): CodeIgniter\Autoloader\Autoloader->loadInNamespace('App\\Controllers...')
+#2 [internal function]: CodeIgniter\Autoloader\Autoloader->loadClass('App\\Controllers...')
+#3 [internal function]: spl_autoload_call('App\\Controllers...')
+#4 E:\xampp\htdocs\mysite\vendor\codeigniter4\framework\system\CodeIgniter.php(865): class_exists('\\App\\Controller...', true)
+#5 E:\xampp\htdocs\mysite\vendor\codeigniter4\framework\system\CodeIgniter.php(390): CodeIgniter\CodeIgniter->startController()
+#6 E:\xampp\htdocs\mysite\vendor\codeigniter4\framework\system\CodeIgniter.php(308): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#7 E:\xampp\htdocs\mysite\index.php(84): CodeIgniter\CodeIgniter->run()
+#8 {main}
+CRITICAL - 2020-06-23 02:08:15 --> syntax error, unexpected '-', expecting function (T_FUNCTION) or const (T_CONST)
+#0 E:\xampp\htdocs\mysite\vendor\codeigniter4\framework\system\Autoloader\Autoloader.php(296): CodeIgniter\Autoloader\Autoloader->requireFile('E:\\xampp\\htdocs...')
+#1 E:\xampp\htdocs\mysite\vendor\codeigniter4\framework\system\Autoloader\Autoloader.php(258): CodeIgniter\Autoloader\Autoloader->loadInNamespace('App\\Controllers...')
+#2 [internal function]: CodeIgniter\Autoloader\Autoloader->loadClass('App\\Controllers...')
+#3 [internal function]: spl_autoload_call('App\\Controllers...')
+#4 E:\xampp\htdocs\mysite\vendor\codeigniter4\framework\system\CodeIgniter.php(865): class_exists('\\App\\Controller...', true)
+#5 E:\xampp\htdocs\mysite\vendor\codeigniter4\framework\system\CodeIgniter.php(390): CodeIgniter\CodeIgniter->startController()
+#6 E:\xampp\htdocs\mysite\vendor\codeigniter4\framework\system\CodeIgniter.php(308): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#7 E:\xampp\htdocs\mysite\index.php(84): CodeIgniter\CodeIgniter->run()
+#8 {main}
+CRITICAL - 2020-06-23 02:08:53 --> syntax error, unexpected '-', expecting function (T_FUNCTION) or const (T_CONST)
+#0 E:\xampp\htdocs\mysite\vendor\codeigniter4\framework\system\Autoloader\Autoloader.php(296): CodeIgniter\Autoloader\Autoloader->requireFile('E:\\xampp\\htdocs...')
+#1 E:\xampp\htdocs\mysite\vendor\codeigniter4\framework\system\Autoloader\Autoloader.php(258): CodeIgniter\Autoloader\Autoloader->loadInNamespace('App\\Controllers...')
+#2 [internal function]: CodeIgniter\Autoloader\Autoloader->loadClass('App\\Controllers...')
+#3 [internal function]: spl_autoload_call('App\\Controllers...')
+#4 E:\xampp\htdocs\mysite\vendor\codeigniter4\framework\system\CodeIgniter.php(865): class_exists('\\App\\Controller...', true)
+#5 E:\xampp\htdocs\mysite\vendor\codeigniter4\framework\system\CodeIgniter.php(390): CodeIgniter\CodeIgniter->startController()
+#6 E:\xampp\htdocs\mysite\vendor\codeigniter4\framework\system\CodeIgniter.php(308): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#7 E:\xampp\htdocs\mysite\index.php(84): CodeIgniter\CodeIgniter->run()
+#8 {main}
+CRITICAL - 2020-06-23 02:09:05 --> syntax error, unexpected '-', expecting function (T_FUNCTION) or const (T_CONST)
+#0 E:\xampp\htdocs\mysite\vendor\codeigniter4\framework\system\Autoloader\Autoloader.php(296): CodeIgniter\Autoloader\Autoloader->requireFile('E:\\xampp\\htdocs...')
+#1 E:\xampp\htdocs\mysite\vendor\codeigniter4\framework\system\Autoloader\Autoloader.php(258): CodeIgniter\Autoloader\Autoloader->loadInNamespace('App\\Controllers...')
+#2 [internal function]: CodeIgniter\Autoloader\Autoloader->loadClass('App\\Controllers...')
+#3 [internal function]: spl_autoload_call('App\\Controllers...')
+#4 E:\xampp\htdocs\mysite\vendor\codeigniter4\framework\system\CodeIgniter.php(865): class_exists('\\App\\Controller...', true)
+#5 E:\xampp\htdocs\mysite\vendor\codeigniter4\framework\system\CodeIgniter.php(390): CodeIgniter\CodeIgniter->startController()
+#6 E:\xampp\htdocs\mysite\vendor\codeigniter4\framework\system\CodeIgniter.php(308): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#7 E:\xampp\htdocs\mysite\index.php(84): CodeIgniter\CodeIgniter->run()
+#8 {main}
+CRITICAL - 2020-06-23 02:09:17 --> syntax error, unexpected '-', expecting function (T_FUNCTION) or const (T_CONST)
+#0 E:\xampp\htdocs\mysite\vendor\codeigniter4\framework\system\Autoloader\Autoloader.php(296): CodeIgniter\Autoloader\Autoloader->requireFile('E:\\xampp\\htdocs...')
+#1 E:\xampp\htdocs\mysite\vendor\codeigniter4\framework\system\Autoloader\Autoloader.php(258): CodeIgniter\Autoloader\Autoloader->loadInNamespace('App\\Controllers...')
+#2 [internal function]: CodeIgniter\Autoloader\Autoloader->loadClass('App\\Controllers...')
+#3 [internal function]: spl_autoload_call('App\\Controllers...')
+#4 E:\xampp\htdocs\mysite\vendor\codeigniter4\framework\system\CodeIgniter.php(865): class_exists('\\App\\Controller...', true)
+#5 E:\xampp\htdocs\mysite\vendor\codeigniter4\framework\system\CodeIgniter.php(390): CodeIgniter\CodeIgniter->startController()
+#6 E:\xampp\htdocs\mysite\vendor\codeigniter4\framework\system\CodeIgniter.php(308): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#7 E:\xampp\htdocs\mysite\index.php(84): CodeIgniter\CodeIgniter->run()
+#8 {main}
+CRITICAL - 2020-06-23 02:09:25 --> syntax error, unexpected '-', expecting function (T_FUNCTION) or const (T_CONST)
+#0 E:\xampp\htdocs\mysite\vendor\codeigniter4\framework\system\Autoloader\Autoloader.php(296): CodeIgniter\Autoloader\Autoloader->requireFile('E:\\xampp\\htdocs...')
+#1 E:\xampp\htdocs\mysite\vendor\codeigniter4\framework\system\Autoloader\Autoloader.php(258): CodeIgniter\Autoloader\Autoloader->loadInNamespace('App\\Controllers...')
+#2 [internal function]: CodeIgniter\Autoloader\Autoloader->loadClass('App\\Controllers...')
+#3 [internal function]: spl_autoload_call('App\\Controllers...')
+#4 E:\xampp\htdocs\mysite\vendor\codeigniter4\framework\system\CodeIgniter.php(865): class_exists('\\App\\Controller...', true)
+#5 E:\xampp\htdocs\mysite\vendor\codeigniter4\framework\system\CodeIgniter.php(390): CodeIgniter\CodeIgniter->startController()
+#6 E:\xampp\htdocs\mysite\vendor\codeigniter4\framework\system\CodeIgniter.php(308): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#7 E:\xampp\htdocs\mysite\index.php(84): CodeIgniter\CodeIgniter->run()
+#8 {main}
+CRITICAL - 2020-06-23 02:11:24 --> syntax error, unexpected '-', expecting function (T_FUNCTION) or const (T_CONST)
+#0 E:\xampp\htdocs\mysite\vendor\codeigniter4\framework\system\Autoloader\Autoloader.php(296): CodeIgniter\Autoloader\Autoloader->requireFile('E:\\xampp\\htdocs...')
+#1 E:\xampp\htdocs\mysite\vendor\codeigniter4\framework\system\Autoloader\Autoloader.php(258): CodeIgniter\Autoloader\Autoloader->loadInNamespace('App\\Controllers...')
+#2 [internal function]: CodeIgniter\Autoloader\Autoloader->loadClass('App\\Controllers...')
+#3 [internal function]: spl_autoload_call('App\\Controllers...')
+#4 E:\xampp\htdocs\mysite\vendor\codeigniter4\framework\system\CodeIgniter.php(865): class_exists('\\App\\Controller...', true)
+#5 E:\xampp\htdocs\mysite\vendor\codeigniter4\framework\system\CodeIgniter.php(390): CodeIgniter\CodeIgniter->startController()
+#6 E:\xampp\htdocs\mysite\vendor\codeigniter4\framework\system\CodeIgniter.php(308): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#7 E:\xampp\htdocs\mysite\index.php(84): CodeIgniter\CodeIgniter->run()
+#8 {main}
+CRITICAL - 2020-06-23 02:12:07 --> syntax error, unexpected '-', expecting function (T_FUNCTION) or const (T_CONST)
+#0 E:\xampp\htdocs\mysite\vendor\codeigniter4\framework\system\Autoloader\Autoloader.php(296): CodeIgniter\Autoloader\Autoloader->requireFile('E:\\xampp\\htdocs...')
+#1 E:\xampp\htdocs\mysite\vendor\codeigniter4\framework\system\Autoloader\Autoloader.php(258): CodeIgniter\Autoloader\Autoloader->loadInNamespace('App\\Controllers...')
+#2 [internal function]: CodeIgniter\Autoloader\Autoloader->loadClass('App\\Controllers...')
+#3 [internal function]: spl_autoload_call('App\\Controllers...')
+#4 E:\xampp\htdocs\mysite\vendor\codeigniter4\framework\system\CodeIgniter.php(865): class_exists('\\App\\Controller...', true)
+#5 E:\xampp\htdocs\mysite\vendor\codeigniter4\framework\system\CodeIgniter.php(390): CodeIgniter\CodeIgniter->startController()
+#6 E:\xampp\htdocs\mysite\vendor\codeigniter4\framework\system\CodeIgniter.php(308): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#7 E:\xampp\htdocs\mysite\index.php(84): CodeIgniter\CodeIgniter->run()
+#8 {main}
+CRITICAL - 2020-06-23 02:14:54 --> syntax error, unexpected '-', expecting function (T_FUNCTION) or const (T_CONST)
+#0 E:\xampp\htdocs\mysite\vendor\codeigniter4\framework\system\Autoloader\Autoloader.php(296): CodeIgniter\Autoloader\Autoloader->requireFile('E:\\xampp\\htdocs...')
+#1 E:\xampp\htdocs\mysite\vendor\codeigniter4\framework\system\Autoloader\Autoloader.php(258): CodeIgniter\Autoloader\Autoloader->loadInNamespace('App\\Controllers...')
+#2 [internal function]: CodeIgniter\Autoloader\Autoloader->loadClass('App\\Controllers...')
+#3 [internal function]: spl_autoload_call('App\\Controllers...')
+#4 E:\xampp\htdocs\mysite\vendor\codeigniter4\framework\system\CodeIgniter.php(865): class_exists('\\App\\Controller...', true)
+#5 E:\xampp\htdocs\mysite\vendor\codeigniter4\framework\system\CodeIgniter.php(390): CodeIgniter\CodeIgniter->startController()
+#6 E:\xampp\htdocs\mysite\vendor\codeigniter4\framework\system\CodeIgniter.php(308): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#7 E:\xampp\htdocs\mysite\index.php(84): CodeIgniter\CodeIgniter->run()
+#8 {main}
+CRITICAL - 2020-06-23 03:01:49 --> Invalid file: form.php
+#0 E:\xampp\htdocs\mysite\vendor\codeigniter4\framework\system\View\View.php(228): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('form.php')
+#1 E:\xampp\htdocs\mysite\vendor\codeigniter4\framework\system\Common.php(1087): CodeIgniter\View\View->render('form', Array, true)
+#2 E:\xampp\htdocs\mysite\app\Controllers\Form.php(9): view('form')
+#3 E:\xampp\htdocs\mysite\vendor\codeigniter4\framework\system\CodeIgniter.php(914): App\Controllers\Form->index()
+#4 E:\xampp\htdocs\mysite\vendor\codeigniter4\framework\system\CodeIgniter.php(400): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Form))
+#5 E:\xampp\htdocs\mysite\vendor\codeigniter4\framework\system\CodeIgniter.php(308): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 E:\xampp\htdocs\mysite\index.php(84): CodeIgniter\CodeIgniter->run()
+#7 {main}
+CRITICAL - 2020-06-23 05:00:58 --> 
+#0 E:\xampp\htdocs\mysite\vendor\codeigniter4\framework\system\HTTP\RedirectResponse.php(92): CodeIgniter\HTTP\Exceptions\HTTPException::forInvalidRedirectRoute('')
+#1 E:\xampp\htdocs\mysite\vendor\codeigniter4\framework\system\Common.php(813): CodeIgniter\HTTP\RedirectResponse->route(false)
+#2 E:\xampp\htdocs\mysite\app\Controllers\Form.php(33): redirect('index')
+#3 E:\xampp\htdocs\mysite\vendor\codeigniter4\framework\system\CodeIgniter.php(914): App\Controllers\Form->store()
+#4 E:\xampp\htdocs\mysite\vendor\codeigniter4\framework\system\CodeIgniter.php(400): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Form))
+#5 E:\xampp\htdocs\mysite\vendor\codeigniter4\framework\system\CodeIgniter.php(308): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 E:\xampp\htdocs\mysite\index.php(84): CodeIgniter\CodeIgniter->run()
+#7 {main}
+CRITICAL - 2020-06-23 05:16:19 --> 
+#0 E:\xampp\htdocs\mysite\vendor\codeigniter4\framework\system\HTTP\RedirectResponse.php(92): CodeIgniter\HTTP\Exceptions\HTTPException::forInvalidRedirectRoute('')
+#1 E:\xampp\htdocs\mysite\vendor\codeigniter4\framework\system\Common.php(813): CodeIgniter\HTTP\RedirectResponse->route(false)
+#2 E:\xampp\htdocs\mysite\app\Controllers\Form.php(32): redirect('index')
+#3 E:\xampp\htdocs\mysite\vendor\codeigniter4\framework\system\CodeIgniter.php(914): App\Controllers\Form->store()
+#4 E:\xampp\htdocs\mysite\vendor\codeigniter4\framework\system\CodeIgniter.php(400): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Form))
+#5 E:\xampp\htdocs\mysite\vendor\codeigniter4\framework\system\CodeIgniter.php(308): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 E:\xampp\htdocs\mysite\index.php(84): CodeIgniter\CodeIgniter->run()
+#7 {main}
+CRITICAL - 2020-06-23 05:16:47 --> 
+#0 E:\xampp\htdocs\mysite\vendor\codeigniter4\framework\system\HTTP\RedirectResponse.php(92): CodeIgniter\HTTP\Exceptions\HTTPException::forInvalidRedirectRoute('')
+#1 E:\xampp\htdocs\mysite\vendor\codeigniter4\framework\system\Common.php(813): CodeIgniter\HTTP\RedirectResponse->route(false)
+#2 E:\xampp\htdocs\mysite\app\Controllers\Form.php(32): redirect('index')
+#3 E:\xampp\htdocs\mysite\vendor\codeigniter4\framework\system\CodeIgniter.php(914): App\Controllers\Form->store()
+#4 E:\xampp\htdocs\mysite\vendor\codeigniter4\framework\system\CodeIgniter.php(400): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Form))
+#5 E:\xampp\htdocs\mysite\vendor\codeigniter4\framework\system\CodeIgniter.php(308): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 E:\xampp\htdocs\mysite\index.php(84): CodeIgniter\CodeIgniter->run()
+#7 {main}
+CRITICAL - 2020-06-23 05:16:50 --> 
+#0 E:\xampp\htdocs\mysite\vendor\codeigniter4\framework\system\HTTP\RedirectResponse.php(92): CodeIgniter\HTTP\Exceptions\HTTPException::forInvalidRedirectRoute('')
+#1 E:\xampp\htdocs\mysite\vendor\codeigniter4\framework\system\Common.php(813): CodeIgniter\HTTP\RedirectResponse->route(false)
+#2 E:\xampp\htdocs\mysite\app\Controllers\Form.php(32): redirect('index')
+#3 E:\xampp\htdocs\mysite\vendor\codeigniter4\framework\system\CodeIgniter.php(914): App\Controllers\Form->store()
+#4 E:\xampp\htdocs\mysite\vendor\codeigniter4\framework\system\CodeIgniter.php(400): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Form))
+#5 E:\xampp\htdocs\mysite\vendor\codeigniter4\framework\system\CodeIgniter.php(308): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 E:\xampp\htdocs\mysite\index.php(84): CodeIgniter\CodeIgniter->run()
+#7 {main}
+CRITICAL - 2020-06-23 05:17:12 --> 
+#0 E:\xampp\htdocs\mysite\vendor\codeigniter4\framework\system\HTTP\RedirectResponse.php(92): CodeIgniter\HTTP\Exceptions\HTTPException::forInvalidRedirectRoute('')
+#1 E:\xampp\htdocs\mysite\vendor\codeigniter4\framework\system\Common.php(813): CodeIgniter\HTTP\RedirectResponse->route(false)
+#2 E:\xampp\htdocs\mysite\app\Controllers\Form.php(32): redirect('index')
+#3 E:\xampp\htdocs\mysite\vendor\codeigniter4\framework\system\CodeIgniter.php(914): App\Controllers\Form->store()
+#4 E:\xampp\htdocs\mysite\vendor\codeigniter4\framework\system\CodeIgniter.php(400): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Form))
+#5 E:\xampp\htdocs\mysite\vendor\codeigniter4\framework\system\CodeIgniter.php(308): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 E:\xampp\htdocs\mysite\index.php(84): CodeIgniter\CodeIgniter->run()
+#7 {main}
+CRITICAL - 2020-06-23 05:17:14 --> Class 'App\Models\FormModel' not found
+#0 E:\xampp\htdocs\mysite\vendor\codeigniter4\framework\system\CodeIgniter.php(914): App\Controllers\Form->index()
+#1 E:\xampp\htdocs\mysite\vendor\codeigniter4\framework\system\CodeIgniter.php(400): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Form))
+#2 E:\xampp\htdocs\mysite\vendor\codeigniter4\framework\system\CodeIgniter.php(308): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 E:\xampp\htdocs\mysite\index.php(84): CodeIgniter\CodeIgniter->run()
+#4 {main}
+CRITICAL - 2020-06-23 05:17:16 --> Class 'App\Models\FormModel' not found
+#0 E:\xampp\htdocs\mysite\vendor\codeigniter4\framework\system\CodeIgniter.php(914): App\Controllers\Form->index()
+#1 E:\xampp\htdocs\mysite\vendor\codeigniter4\framework\system\CodeIgniter.php(400): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Form))
+#2 E:\xampp\htdocs\mysite\vendor\codeigniter4\framework\system\CodeIgniter.php(308): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 E:\xampp\htdocs\mysite\index.php(84): CodeIgniter\CodeIgniter->run()
+#4 {main}
+CRITICAL - 2020-06-23 05:17:17 --> Class 'App\Models\FormModel' not found
+#0 E:\xampp\htdocs\mysite\vendor\codeigniter4\framework\system\CodeIgniter.php(914): App\Controllers\Form->index()
+#1 E:\xampp\htdocs\mysite\vendor\codeigniter4\framework\system\CodeIgniter.php(400): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Form))
+#2 E:\xampp\htdocs\mysite\vendor\codeigniter4\framework\system\CodeIgniter.php(308): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 E:\xampp\htdocs\mysite\index.php(84): CodeIgniter\CodeIgniter->run()
+#4 {main}
+CRITICAL - 2020-06-23 05:17:18 --> Class 'App\Models\FormModel' not found
+#0 E:\xampp\htdocs\mysite\vendor\codeigniter4\framework\system\CodeIgniter.php(914): App\Controllers\Form->index()
+#1 E:\xampp\htdocs\mysite\vendor\codeigniter4\framework\system\CodeIgniter.php(400): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Form))
+#2 E:\xampp\htdocs\mysite\vendor\codeigniter4\framework\system\CodeIgniter.php(308): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 E:\xampp\htdocs\mysite\index.php(84): CodeIgniter\CodeIgniter->run()
+#4 {main}
+CRITICAL - 2020-06-23 05:17:27 --> Class 'App\Models\FormModel' not found
+#0 E:\xampp\htdocs\mysite\vendor\codeigniter4\framework\system\CodeIgniter.php(914): App\Controllers\Form->index()
+#1 E:\xampp\htdocs\mysite\vendor\codeigniter4\framework\system\CodeIgniter.php(400): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Form))
+#2 E:\xampp\htdocs\mysite\vendor\codeigniter4\framework\system\CodeIgniter.php(308): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 E:\xampp\htdocs\mysite\index.php(84): CodeIgniter\CodeIgniter->run()
+#4 {main}
+CRITICAL - 2020-06-23 05:17:32 --> Class 'App\Models\FormModel' not found
+#0 E:\xampp\htdocs\mysite\vendor\codeigniter4\framework\system\CodeIgniter.php(914): App\Controllers\Form->index()
+#1 E:\xampp\htdocs\mysite\vendor\codeigniter4\framework\system\CodeIgniter.php(400): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Form))
+#2 E:\xampp\htdocs\mysite\vendor\codeigniter4\framework\system\CodeIgniter.php(308): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 E:\xampp\htdocs\mysite\index.php(84): CodeIgniter\CodeIgniter->run()
+#4 {main}
+CRITICAL - 2020-06-23 05:17:32 --> Class 'App\Models\FormModel' not found
+#0 E:\xampp\htdocs\mysite\vendor\codeigniter4\framework\system\CodeIgniter.php(914): App\Controllers\Form->index()
+#1 E:\xampp\htdocs\mysite\vendor\codeigniter4\framework\system\CodeIgniter.php(400): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Form))
+#2 E:\xampp\htdocs\mysite\vendor\codeigniter4\framework\system\CodeIgniter.php(308): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 E:\xampp\htdocs\mysite\index.php(84): CodeIgniter\CodeIgniter->run()
+#4 {main}
+CRITICAL - 2020-06-23 05:17:32 --> Class 'App\Models\FormModel' not found
+#0 E:\xampp\htdocs\mysite\vendor\codeigniter4\framework\system\CodeIgniter.php(914): App\Controllers\Form->index()
+#1 E:\xampp\htdocs\mysite\vendor\codeigniter4\framework\system\CodeIgniter.php(400): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Form))
+#2 E:\xampp\htdocs\mysite\vendor\codeigniter4\framework\system\CodeIgniter.php(308): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 E:\xampp\htdocs\mysite\index.php(84): CodeIgniter\CodeIgniter->run()
+#4 {main}
+CRITICAL - 2020-06-23 05:17:32 --> Class 'App\Models\FormModel' not found
+#0 E:\xampp\htdocs\mysite\vendor\codeigniter4\framework\system\CodeIgniter.php(914): App\Controllers\Form->index()
+#1 E:\xampp\htdocs\mysite\vendor\codeigniter4\framework\system\CodeIgniter.php(400): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Form))
+#2 E:\xampp\htdocs\mysite\vendor\codeigniter4\framework\system\CodeIgniter.php(308): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 E:\xampp\htdocs\mysite\index.php(84): CodeIgniter\CodeIgniter->run()
+#4 {main}
+CRITICAL - 2020-06-23 05:17:33 --> Class 'App\Models\FormModel' not found
+#0 E:\xampp\htdocs\mysite\vendor\codeigniter4\framework\system\CodeIgniter.php(914): App\Controllers\Form->index()
+#1 E:\xampp\htdocs\mysite\vendor\codeigniter4\framework\system\CodeIgniter.php(400): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Form))
+#2 E:\xampp\htdocs\mysite\vendor\codeigniter4\framework\system\CodeIgniter.php(308): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 E:\xampp\htdocs\mysite\index.php(84): CodeIgniter\CodeIgniter->run()
+#4 {main}
+CRITICAL - 2020-06-23 05:17:42 --> Class 'App\Models\FormModel' not found
+#0 E:\xampp\htdocs\mysite\vendor\codeigniter4\framework\system\CodeIgniter.php(914): App\Controllers\Form->index()
+#1 E:\xampp\htdocs\mysite\vendor\codeigniter4\framework\system\CodeIgniter.php(400): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Form))
+#2 E:\xampp\htdocs\mysite\vendor\codeigniter4\framework\system\CodeIgniter.php(308): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 E:\xampp\htdocs\mysite\index.php(84): CodeIgniter\CodeIgniter->run()
+#4 {main}
+CRITICAL - 2020-06-23 05:19:11 --> Class 'App\Models\FormModel' not found
+#0 E:\xampp\htdocs\mysite\vendor\codeigniter4\framework\system\CodeIgniter.php(914): App\Controllers\Form->index()
+#1 E:\xampp\htdocs\mysite\vendor\codeigniter4\framework\system\CodeIgniter.php(400): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Form))
+#2 E:\xampp\htdocs\mysite\vendor\codeigniter4\framework\system\CodeIgniter.php(308): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 E:\xampp\htdocs\mysite\index.php(84): CodeIgniter\CodeIgniter->run()
+#4 {main}
+CRITICAL - 2020-06-23 05:20:27 --> Class 'App\Models\FormModel' not found
+#0 E:\xampp\htdocs\mysite\vendor\codeigniter4\framework\system\CodeIgniter.php(914): App\Controllers\Form->index()
+#1 E:\xampp\htdocs\mysite\vendor\codeigniter4\framework\system\CodeIgniter.php(400): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Form))
+#2 E:\xampp\htdocs\mysite\vendor\codeigniter4\framework\system\CodeIgniter.php(308): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 E:\xampp\htdocs\mysite\index.php(84): CodeIgniter\CodeIgniter->run()
+#4 {main}
+CRITICAL - 2020-06-23 05:21:07 --> 
+#0 E:\xampp\htdocs\mysite\vendor\codeigniter4\framework\system\HTTP\RedirectResponse.php(92): CodeIgniter\HTTP\Exceptions\HTTPException::forInvalidRedirectRoute('')
+#1 E:\xampp\htdocs\mysite\vendor\codeigniter4\framework\system\Common.php(813): CodeIgniter\HTTP\RedirectResponse->route(false)
+#2 E:\xampp\htdocs\mysite\app\Controllers\Form.php(32): redirect('index')
+#3 E:\xampp\htdocs\mysite\vendor\codeigniter4\framework\system\CodeIgniter.php(914): App\Controllers\Form->store()
+#4 E:\xampp\htdocs\mysite\vendor\codeigniter4\framework\system\CodeIgniter.php(400): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Form))
+#5 E:\xampp\htdocs\mysite\vendor\codeigniter4\framework\system\CodeIgniter.php(308): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 E:\xampp\htdocs\mysite\index.php(84): CodeIgniter\CodeIgniter->run()
+#7 {main}
+CRITICAL - 2020-06-23 05:29:41 --> 
+#0 E:\xampp\htdocs\mysite\vendor\codeigniter4\framework\system\HTTP\RedirectResponse.php(92): CodeIgniter\HTTP\Exceptions\HTTPException::forInvalidRedirectRoute('')
+#1 E:\xampp\htdocs\mysite\vendor\codeigniter4\framework\system\Common.php(813): CodeIgniter\HTTP\RedirectResponse->route(false)
+#2 E:\xampp\htdocs\mysite\app\Controllers\Form.php(32): redirect('index')
+#3 E:\xampp\htdocs\mysite\vendor\codeigniter4\framework\system\CodeIgniter.php(914): App\Controllers\Form->store()
+#4 E:\xampp\htdocs\mysite\vendor\codeigniter4\framework\system\CodeIgniter.php(400): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Form))
+#5 E:\xampp\htdocs\mysite\vendor\codeigniter4\framework\system\CodeIgniter.php(308): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 E:\xampp\htdocs\mysite\index.php(84): CodeIgniter\CodeIgniter->run()
+#7 {main}
+CRITICAL - 2020-06-23 05:36:43 --> 
+#0 E:\xampp\htdocs\mysite\vendor\codeigniter4\framework\system\HTTP\RedirectResponse.php(92): CodeIgniter\HTTP\Exceptions\HTTPException::forInvalidRedirectRoute('')
+#1 E:\xampp\htdocs\mysite\vendor\codeigniter4\framework\system\Common.php(813): CodeIgniter\HTTP\RedirectResponse->route(false)
+#2 E:\xampp\htdocs\mysite\app\Controllers\Form.php(34): redirect('index')
+#3 E:\xampp\htdocs\mysite\vendor\codeigniter4\framework\system\CodeIgniter.php(914): App\Controllers\Form->store()
+#4 E:\xampp\htdocs\mysite\vendor\codeigniter4\framework\system\CodeIgniter.php(400): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Form))
+#5 E:\xampp\htdocs\mysite\vendor\codeigniter4\framework\system\CodeIgniter.php(308): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 E:\xampp\htdocs\mysite\index.php(84): CodeIgniter\CodeIgniter->run()
+#7 {main}
+CRITICAL - 2020-06-23 05:37:45 --> 
+#0 E:\xampp\htdocs\mysite\vendor\codeigniter4\framework\system\HTTP\RedirectResponse.php(92): CodeIgniter\HTTP\Exceptions\HTTPException::forInvalidRedirectRoute('')
+#1 E:\xampp\htdocs\mysite\vendor\codeigniter4\framework\system\Common.php(813): CodeIgniter\HTTP\RedirectResponse->route(false)
+#2 E:\xampp\htdocs\mysite\app\Controllers\Form.php(34): redirect('index')
+#3 E:\xampp\htdocs\mysite\vendor\codeigniter4\framework\system\CodeIgniter.php(914): App\Controllers\Form->store()
+#4 E:\xampp\htdocs\mysite\vendor\codeigniter4\framework\system\CodeIgniter.php(400): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Form))
+#5 E:\xampp\htdocs\mysite\vendor\codeigniter4\framework\system\CodeIgniter.php(308): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 E:\xampp\htdocs\mysite\index.php(84): CodeIgniter\CodeIgniter->run()
+#7 {main}
+CRITICAL - 2020-06-23 05:37:48 --> 
+#0 E:\xampp\htdocs\mysite\vendor\codeigniter4\framework\system\HTTP\RedirectResponse.php(92): CodeIgniter\HTTP\Exceptions\HTTPException::forInvalidRedirectRoute('')
+#1 E:\xampp\htdocs\mysite\vendor\codeigniter4\framework\system\Common.php(813): CodeIgniter\HTTP\RedirectResponse->route(false)
+#2 E:\xampp\htdocs\mysite\app\Controllers\Form.php(34): redirect('index')
+#3 E:\xampp\htdocs\mysite\vendor\codeigniter4\framework\system\CodeIgniter.php(914): App\Controllers\Form->store()
+#4 E:\xampp\htdocs\mysite\vendor\codeigniter4\framework\system\CodeIgniter.php(400): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Form))
+#5 E:\xampp\htdocs\mysite\vendor\codeigniter4\framework\system\CodeIgniter.php(308): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 E:\xampp\htdocs\mysite\index.php(84): CodeIgniter\CodeIgniter->run()
+#7 {main}
+CRITICAL - 2020-06-23 06:25:35 --> 
+#0 E:\xampp\htdocs\mysite\vendor\codeigniter4\framework\system\HTTP\RedirectResponse.php(92): CodeIgniter\HTTP\Exceptions\HTTPException::forInvalidRedirectRoute('')
+#1 E:\xampp\htdocs\mysite\vendor\codeigniter4\framework\system\Common.php(813): CodeIgniter\HTTP\RedirectResponse->route(false)
+#2 E:\xampp\htdocs\mysite\app\Controllers\Form.php(34): redirect('index')
+#3 E:\xampp\htdocs\mysite\vendor\codeigniter4\framework\system\CodeIgniter.php(914): App\Controllers\Form->store()
+#4 E:\xampp\htdocs\mysite\vendor\codeigniter4\framework\system\CodeIgniter.php(400): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Form))
+#5 E:\xampp\htdocs\mysite\vendor\codeigniter4\framework\system\CodeIgniter.php(308): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 E:\xampp\htdocs\mysite\index.php(84): CodeIgniter\CodeIgniter->run()
+#7 {main}
+CRITICAL - 2020-06-23 06:25:37 --> 
+#0 E:\xampp\htdocs\mysite\vendor\codeigniter4\framework\system\HTTP\RedirectResponse.php(92): CodeIgniter\HTTP\Exceptions\HTTPException::forInvalidRedirectRoute('')
+#1 E:\xampp\htdocs\mysite\vendor\codeigniter4\framework\system\Common.php(813): CodeIgniter\HTTP\RedirectResponse->route(false)
+#2 E:\xampp\htdocs\mysite\app\Controllers\Form.php(34): redirect('index')
+#3 E:\xampp\htdocs\mysite\vendor\codeigniter4\framework\system\CodeIgniter.php(914): App\Controllers\Form->store()
+#4 E:\xampp\htdocs\mysite\vendor\codeigniter4\framework\system\CodeIgniter.php(400): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Form))
+#5 E:\xampp\htdocs\mysite\vendor\codeigniter4\framework\system\CodeIgniter.php(308): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 E:\xampp\htdocs\mysite\index.php(84): CodeIgniter\CodeIgniter->run()
+#7 {main}
+CRITICAL - 2020-06-23 06:26:25 --> 
+#0 E:\xampp\htdocs\mysite\vendor\codeigniter4\framework\system\HTTP\RedirectResponse.php(92): CodeIgniter\HTTP\Exceptions\HTTPException::forInvalidRedirectRoute('')
+#1 E:\xampp\htdocs\mysite\vendor\codeigniter4\framework\system\Common.php(813): CodeIgniter\HTTP\RedirectResponse->route(false)
+#2 E:\xampp\htdocs\mysite\app\Controllers\Form.php(34): redirect('index')
+#3 E:\xampp\htdocs\mysite\vendor\codeigniter4\framework\system\CodeIgniter.php(914): App\Controllers\Form->store()
+#4 E:\xampp\htdocs\mysite\vendor\codeigniter4\framework\system\CodeIgniter.php(400): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Form))
+#5 E:\xampp\htdocs\mysite\vendor\codeigniter4\framework\system\CodeIgniter.php(308): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 E:\xampp\htdocs\mysite\index.php(84): CodeIgniter\CodeIgniter->run()
+#7 {main}
+CRITICAL - 2020-06-23 06:26:47 --> 
+#0 E:\xampp\htdocs\mysite\vendor\codeigniter4\framework\system\HTTP\RedirectResponse.php(92): CodeIgniter\HTTP\Exceptions\HTTPException::forInvalidRedirectRoute('')
+#1 E:\xampp\htdocs\mysite\vendor\codeigniter4\framework\system\Common.php(813): CodeIgniter\HTTP\RedirectResponse->route(false)
+#2 E:\xampp\htdocs\mysite\app\Controllers\Form.php(34): redirect('index')
+#3 E:\xampp\htdocs\mysite\vendor\codeigniter4\framework\system\CodeIgniter.php(914): App\Controllers\Form->store()
+#4 E:\xampp\htdocs\mysite\vendor\codeigniter4\framework\system\CodeIgniter.php(400): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Form))
+#5 E:\xampp\htdocs\mysite\vendor\codeigniter4\framework\system\CodeIgniter.php(308): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 E:\xampp\htdocs\mysite\index.php(84): CodeIgniter\CodeIgniter->run()
+#7 {main}
+CRITICAL - 2020-06-23 06:32:31 --> Class 'App\Models\FormModel' not found
+#0 E:\xampp\htdocs\mysite\vendor\codeigniter4\framework\system\CodeIgniter.php(914): App\Controllers\Form->store()
+#1 E:\xampp\htdocs\mysite\vendor\codeigniter4\framework\system\CodeIgniter.php(400): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Form))
+#2 E:\xampp\htdocs\mysite\vendor\codeigniter4\framework\system\CodeIgniter.php(308): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 E:\xampp\htdocs\mysite\index.php(84): CodeIgniter\CodeIgniter->run()
+#4 {main}
+CRITICAL - 2020-06-23 06:33:08 --> Class 'App\Models\FormModel' not found
+#0 E:\xampp\htdocs\mysite\vendor\codeigniter4\framework\system\CodeIgniter.php(914): App\Controllers\Form->store()
+#1 E:\xampp\htdocs\mysite\vendor\codeigniter4\framework\system\CodeIgniter.php(400): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Form))
+#2 E:\xampp\htdocs\mysite\vendor\codeigniter4\framework\system\CodeIgniter.php(308): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 E:\xampp\htdocs\mysite\index.php(84): CodeIgniter\CodeIgniter->run()
+#4 {main}
+CRITICAL - 2020-06-23 06:33:28 --> Class 'App\Models\FormModel' not found
+#0 E:\xampp\htdocs\mysite\vendor\codeigniter4\framework\system\CodeIgniter.php(914): App\Controllers\Form->store()
+#1 E:\xampp\htdocs\mysite\vendor\codeigniter4\framework\system\CodeIgniter.php(400): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Form))
+#2 E:\xampp\htdocs\mysite\vendor\codeigniter4\framework\system\CodeIgniter.php(308): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 E:\xampp\htdocs\mysite\index.php(84): CodeIgniter\CodeIgniter->run()
+#4 {main}
+CRITICAL - 2020-06-23 06:45:24 --> Class 'App\Models\FormModel' not found
+#0 E:\xampp\htdocs\mysite\vendor\codeigniter4\framework\system\CodeIgniter.php(914): App\Controllers\Form->store()
+#1 E:\xampp\htdocs\mysite\vendor\codeigniter4\framework\system\CodeIgniter.php(400): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Form))
+#2 E:\xampp\htdocs\mysite\vendor\codeigniter4\framework\system\CodeIgniter.php(308): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 E:\xampp\htdocs\mysite\index.php(84): CodeIgniter\CodeIgniter->run()
+#4 {main}
+CRITICAL - 2020-06-23 06:46:50 --> Class 'App\Models\FormModel' not found
+#0 E:\xampp\htdocs\mysite\vendor\codeigniter4\framework\system\CodeIgniter.php(914): App\Controllers\Form->store()
+#1 E:\xampp\htdocs\mysite\vendor\codeigniter4\framework\system\CodeIgniter.php(400): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Form))
+#2 E:\xampp\htdocs\mysite\vendor\codeigniter4\framework\system\CodeIgniter.php(308): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 E:\xampp\htdocs\mysite\index.php(84): CodeIgniter\CodeIgniter->run()
+#4 {main}
+CRITICAL - 2020-06-23 06:46:55 --> Class 'App\Models\FormModel' not found
+#0 E:\xampp\htdocs\mysite\vendor\codeigniter4\framework\system\CodeIgniter.php(914): App\Controllers\Form->store()
+#1 E:\xampp\htdocs\mysite\vendor\codeigniter4\framework\system\CodeIgniter.php(400): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Form))
+#2 E:\xampp\htdocs\mysite\vendor\codeigniter4\framework\system\CodeIgniter.php(308): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 E:\xampp\htdocs\mysite\index.php(84): CodeIgniter\CodeIgniter->run()
+#4 {main}
+CRITICAL - 2020-06-23 06:47:13 --> Class 'App\Models\FormModel' not found
+#0 E:\xampp\htdocs\mysite\vendor\codeigniter4\framework\system\CodeIgniter.php(914): App\Controllers\Form->store()
+#1 E:\xampp\htdocs\mysite\vendor\codeigniter4\framework\system\CodeIgniter.php(400): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Form))
+#2 E:\xampp\htdocs\mysite\vendor\codeigniter4\framework\system\CodeIgniter.php(308): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 E:\xampp\htdocs\mysite\index.php(84): CodeIgniter\CodeIgniter->run()
+#4 {main}
+CRITICAL - 2020-06-23 06:50:03 --> Argument 2 passed to CodeIgniter\Model::insert() must be of the type bool, object given, called in E:\xampp\htdocs\mysite\app\Controllers\Form.php on line 41
+#0 E:\xampp\htdocs\mysite\app\Controllers\Form.php(41): CodeIgniter\Model->insert('sagar', Object(CodeIgniter\HTTP\Files\UploadedFile))
+#1 E:\xampp\htdocs\mysite\vendor\codeigniter4\framework\system\CodeIgniter.php(914): App\Controllers\Form->store()
+#2 E:\xampp\htdocs\mysite\vendor\codeigniter4\framework\system\CodeIgniter.php(400): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Form))
+#3 E:\xampp\htdocs\mysite\vendor\codeigniter4\framework\system\CodeIgniter.php(308): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 E:\xampp\htdocs\mysite\index.php(84): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2020-06-23 06:50:13 --> Argument 2 passed to CodeIgniter\Model::insert() must be of the type bool, object given, called in E:\xampp\htdocs\mysite\app\Controllers\Form.php on line 41
+#0 E:\xampp\htdocs\mysite\app\Controllers\Form.php(41): CodeIgniter\Model->insert('sagar', Object(CodeIgniter\HTTP\Files\UploadedFile))
+#1 E:\xampp\htdocs\mysite\vendor\codeigniter4\framework\system\CodeIgniter.php(914): App\Controllers\Form->store()
+#2 E:\xampp\htdocs\mysite\vendor\codeigniter4\framework\system\CodeIgniter.php(400): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Form))
+#3 E:\xampp\htdocs\mysite\vendor\codeigniter4\framework\system\CodeIgniter.php(308): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 E:\xampp\htdocs\mysite\index.php(84): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2020-06-23 06:53:36 --> Argument 2 passed to CodeIgniter\Model::insert() must be of the type bool, object given, called in E:\xampp\htdocs\mysite\app\Controllers\Form.php on line 41
+#0 E:\xampp\htdocs\mysite\app\Controllers\Form.php(41): CodeIgniter\Model->insert('Tanvi', Object(CodeIgniter\HTTP\Files\UploadedFile))
+#1 E:\xampp\htdocs\mysite\vendor\codeigniter4\framework\system\CodeIgniter.php(914): App\Controllers\Form->store()
+#2 E:\xampp\htdocs\mysite\vendor\codeigniter4\framework\system\CodeIgniter.php(400): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Form))
+#3 E:\xampp\htdocs\mysite\vendor\codeigniter4\framework\system\CodeIgniter.php(308): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 E:\xampp\htdocs\mysite\index.php(84): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2020-06-23 06:54:05 --> Argument 2 passed to CodeIgniter\Model::insert() must be of the type bool, object given, called in E:\xampp\htdocs\mysite\app\Controllers\Form.php on line 41
+#0 E:\xampp\htdocs\mysite\app\Controllers\Form.php(41): CodeIgniter\Model->insert('Tanvi', Object(CodeIgniter\HTTP\Files\UploadedFile))
+#1 E:\xampp\htdocs\mysite\vendor\codeigniter4\framework\system\CodeIgniter.php(914): App\Controllers\Form->store()
+#2 E:\xampp\htdocs\mysite\vendor\codeigniter4\framework\system\CodeIgniter.php(400): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Form))
+#3 E:\xampp\htdocs\mysite\vendor\codeigniter4\framework\system\CodeIgniter.php(308): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 E:\xampp\htdocs\mysite\index.php(84): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2020-06-23 06:54:56 --> Argument 2 passed to CodeIgniter\Model::insert() must be of the type bool, object given, called in E:\xampp\htdocs\mysite\app\Controllers\Form.php on line 41
+#0 E:\xampp\htdocs\mysite\app\Controllers\Form.php(41): CodeIgniter\Model->insert('sagar', Object(CodeIgniter\HTTP\Files\UploadedFile))
+#1 E:\xampp\htdocs\mysite\vendor\codeigniter4\framework\system\CodeIgniter.php(914): App\Controllers\Form->store()
+#2 E:\xampp\htdocs\mysite\vendor\codeigniter4\framework\system\CodeIgniter.php(400): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Form))
+#3 E:\xampp\htdocs\mysite\vendor\codeigniter4\framework\system\CodeIgniter.php(308): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 E:\xampp\htdocs\mysite\index.php(84): CodeIgniter\CodeIgniter->run()
+#5 {main}

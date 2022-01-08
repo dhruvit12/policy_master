@@ -1,0 +1,278 @@
+CRITICAL - 2020-07-31 04:25:47 --> Class 'App\Controllers\Services' not found
+#0 E:\wamp64\www\policy-master\vendor\codeigniter4\framework\system\CodeIgniter.php(886): App\Controllers\Admin->__construct()
+#1 E:\wamp64\www\policy-master\vendor\codeigniter4\framework\system\CodeIgniter.php(395): CodeIgniter\CodeIgniter->createController()
+#2 E:\wamp64\www\policy-master\vendor\codeigniter4\framework\system\CodeIgniter.php(308): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 E:\wamp64\www\policy-master\index.php(84): CodeIgniter\CodeIgniter->run()
+#4 {main}
+CRITICAL - 2020-07-31 04:26:17 --> Class 'App\Controllers\Services' not found
+#0 E:\wamp64\www\policy-master\vendor\codeigniter4\framework\system\CodeIgniter.php(886): App\Controllers\Admin->__construct()
+#1 E:\wamp64\www\policy-master\vendor\codeigniter4\framework\system\CodeIgniter.php(395): CodeIgniter\CodeIgniter->createController()
+#2 E:\wamp64\www\policy-master\vendor\codeigniter4\framework\system\CodeIgniter.php(308): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 E:\wamp64\www\policy-master\index.php(84): CodeIgniter\CodeIgniter->run()
+#4 {main}
+CRITICAL - 2020-07-31 04:26:26 --> Undefined property: App\Controllers\Admin::$session
+#0 E:\wamp64\www\policy-master\app\Controllers\Admin.php(12): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined prope...', 'E:\\wamp64\\www\\p...', 12, Array)
+#1 E:\wamp64\www\policy-master\vendor\codeigniter4\framework\system\CodeIgniter.php(914): App\Controllers\Admin->index()
+#2 E:\wamp64\www\policy-master\vendor\codeigniter4\framework\system\CodeIgniter.php(400): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Admin))
+#3 E:\wamp64\www\policy-master\vendor\codeigniter4\framework\system\CodeIgniter.php(308): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 E:\wamp64\www\policy-master\index.php(84): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2020-07-31 04:28:01 --> 
+#0 E:\wamp64\www\policy-master\vendor\codeigniter4\framework\system\HTTP\RedirectResponse.php(92): CodeIgniter\HTTP\Exceptions\HTTPException::forInvalidRedirectRoute('')
+#1 E:\wamp64\www\policy-master\app\Controllers\Auth.php(44): CodeIgniter\HTTP\RedirectResponse->route(false)
+#2 E:\wamp64\www\policy-master\vendor\codeigniter4\framework\system\CodeIgniter.php(914): App\Controllers\Auth->login()
+#3 E:\wamp64\www\policy-master\vendor\codeigniter4\framework\system\CodeIgniter.php(400): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Auth))
+#4 E:\wamp64\www\policy-master\vendor\codeigniter4\framework\system\CodeIgniter.php(308): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#5 E:\wamp64\www\policy-master\index.php(84): CodeIgniter\CodeIgniter->run()
+#6 {main}
+CRITICAL - 2020-07-31 04:39:02 --> 
+#0 E:\wamp64\www\policy-master\vendor\codeigniter4\framework\system\HTTP\RedirectResponse.php(92): CodeIgniter\HTTP\Exceptions\HTTPException::forInvalidRedirectRoute('')
+#1 E:\wamp64\www\policy-master\vendor\codeigniter4\framework\system\Common.php(813): CodeIgniter\HTTP\RedirectResponse->route(false)
+#2 E:\wamp64\www\policy-master\app\Controllers\Admin.php(14): redirect('auth/login')
+#3 E:\wamp64\www\policy-master\vendor\codeigniter4\framework\system\CodeIgniter.php(914): App\Controllers\Admin->index()
+#4 E:\wamp64\www\policy-master\vendor\codeigniter4\framework\system\CodeIgniter.php(400): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Admin))
+#5 E:\wamp64\www\policy-master\vendor\codeigniter4\framework\system\CodeIgniter.php(308): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 E:\wamp64\www\policy-master\index.php(84): CodeIgniter\CodeIgniter->run()
+#7 {main}
+CRITICAL - 2020-07-31 04:43:30 --> Class 'App\Controllers\AmdinModel' not found
+#0 E:\wamp64\www\policy-master\vendor\codeigniter4\framework\system\CodeIgniter.php(886): App\Controllers\Admin->__construct()
+#1 E:\wamp64\www\policy-master\vendor\codeigniter4\framework\system\CodeIgniter.php(395): CodeIgniter\CodeIgniter->createController()
+#2 E:\wamp64\www\policy-master\vendor\codeigniter4\framework\system\CodeIgniter.php(308): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 E:\wamp64\www\policy-master\index.php(84): CodeIgniter\CodeIgniter->run()
+#4 {main}
+CRITICAL - 2020-07-31 04:43:46 --> Class 'App\Controllers\AdinModel' not found
+#0 E:\wamp64\www\policy-master\vendor\codeigniter4\framework\system\CodeIgniter.php(886): App\Controllers\Admin->__construct()
+#1 E:\wamp64\www\policy-master\vendor\codeigniter4\framework\system\CodeIgniter.php(395): CodeIgniter\CodeIgniter->createController()
+#2 E:\wamp64\www\policy-master\vendor\codeigniter4\framework\system\CodeIgniter.php(308): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 E:\wamp64\www\policy-master\index.php(84): CodeIgniter\CodeIgniter->run()
+#4 {main}
+CRITICAL - 2020-07-31 04:43:56 --> Undefined variable: model
+#0 E:\wamp64\www\policy-master\app\Controllers\Admin.php(17): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined varia...', 'E:\\wamp64\\www\\p...', 17, Array)
+#1 E:\wamp64\www\policy-master\vendor\codeigniter4\framework\system\CodeIgniter.php(914): App\Controllers\Admin->index()
+#2 E:\wamp64\www\policy-master\vendor\codeigniter4\framework\system\CodeIgniter.php(400): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Admin))
+#3 E:\wamp64\www\policy-master\vendor\codeigniter4\framework\system\CodeIgniter.php(308): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 E:\wamp64\www\policy-master\index.php(84): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2020-07-31 04:44:44 --> Undefined property: App\Controllers\Admin::$model
+#0 E:\wamp64\www\policy-master\app\Controllers\Admin.php(18): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined prope...', 'E:\\wamp64\\www\\p...', 18, Array)
+#1 E:\wamp64\www\policy-master\vendor\codeigniter4\framework\system\CodeIgniter.php(914): App\Controllers\Admin->index()
+#2 E:\wamp64\www\policy-master\vendor\codeigniter4\framework\system\CodeIgniter.php(400): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Admin))
+#3 E:\wamp64\www\policy-master\vendor\codeigniter4\framework\system\CodeIgniter.php(308): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 E:\wamp64\www\policy-master\index.php(84): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2020-07-31 04:44:46 --> Undefined property: App\Controllers\Admin::$model
+#0 E:\wamp64\www\policy-master\app\Controllers\Admin.php(18): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined prope...', 'E:\\wamp64\\www\\p...', 18, Array)
+#1 E:\wamp64\www\policy-master\vendor\codeigniter4\framework\system\CodeIgniter.php(914): App\Controllers\Admin->index()
+#2 E:\wamp64\www\policy-master\vendor\codeigniter4\framework\system\CodeIgniter.php(400): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Admin))
+#3 E:\wamp64\www\policy-master\vendor\codeigniter4\framework\system\CodeIgniter.php(308): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 E:\wamp64\www\policy-master\index.php(84): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2020-07-31 04:45:15 --> Undefined variable: model
+#0 E:\wamp64\www\policy-master\app\Controllers\Admin.php(18): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined varia...', 'E:\\wamp64\\www\\p...', 18, Array)
+#1 E:\wamp64\www\policy-master\vendor\codeigniter4\framework\system\CodeIgniter.php(914): App\Controllers\Admin->index()
+#2 E:\wamp64\www\policy-master\vendor\codeigniter4\framework\system\CodeIgniter.php(400): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Admin))
+#3 E:\wamp64\www\policy-master\vendor\codeigniter4\framework\system\CodeIgniter.php(308): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 E:\wamp64\www\policy-master\index.php(84): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2020-07-31 04:57:23 --> Call to undefined method App\Controllers\Admin::rander_page()
+#0 E:\wamp64\www\policy-master\vendor\codeigniter4\framework\system\CodeIgniter.php(914): App\Controllers\Admin->index()
+#1 E:\wamp64\www\policy-master\vendor\codeigniter4\framework\system\CodeIgniter.php(400): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Admin))
+#2 E:\wamp64\www\policy-master\vendor\codeigniter4\framework\system\CodeIgniter.php(308): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 E:\wamp64\www\policy-master\index.php(84): CodeIgniter\CodeIgniter->run()
+#4 {main}
+CRITICAL - 2020-07-31 04:58:05 --> Undefined variable: title
+#0 E:\wamp64\www\policy-master\app\Views\header.php(8): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined varia...', 'E:\\wamp64\\www\\p...', 8, Array)
+#1 E:\wamp64\www\policy-master\vendor\codeigniter4\framework\system\View\View.php(246): include('E:\\wamp64\\www\\p...')
+#2 E:\wamp64\www\policy-master\vendor\codeigniter4\framework\system\Common.php(1087): CodeIgniter\View\View->render('header', Array, true)
+#3 E:\wamp64\www\policy-master\app\Controllers\BaseController.php(50): view('header', Array)
+#4 E:\wamp64\www\policy-master\app\Controllers\Admin.php(19): App\Controllers\BaseController->render_page('admin/list', Array)
+#5 E:\wamp64\www\policy-master\vendor\codeigniter4\framework\system\CodeIgniter.php(914): App\Controllers\Admin->index()
+#6 E:\wamp64\www\policy-master\vendor\codeigniter4\framework\system\CodeIgniter.php(400): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Admin))
+#7 E:\wamp64\www\policy-master\vendor\codeigniter4\framework\system\CodeIgniter.php(308): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#8 E:\wamp64\www\policy-master\index.php(84): CodeIgniter\CodeIgniter->run()
+#9 {main}
+CRITICAL - 2020-07-31 05:20:10 --> Undefined variable: family
+#0 E:\wamp64\www\policy-master\app\Views\admin\list.php(45): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined varia...', 'E:\\wamp64\\www\\p...', 45, Array)
+#1 E:\wamp64\www\policy-master\vendor\codeigniter4\framework\system\View\View.php(246): include('E:\\wamp64\\www\\p...')
+#2 E:\wamp64\www\policy-master\vendor\codeigniter4\framework\system\Common.php(1087): CodeIgniter\View\View->render('admin/list', Array, true)
+#3 E:\wamp64\www\policy-master\app\Controllers\BaseController.php(53): view('admin/list', Array)
+#4 E:\wamp64\www\policy-master\app\Controllers\Admin.php(20): App\Controllers\BaseController->render_page('admin/list', Array)
+#5 E:\wamp64\www\policy-master\vendor\codeigniter4\framework\system\CodeIgniter.php(914): App\Controllers\Admin->index()
+#6 E:\wamp64\www\policy-master\vendor\codeigniter4\framework\system\CodeIgniter.php(400): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Admin))
+#7 E:\wamp64\www\policy-master\vendor\codeigniter4\framework\system\CodeIgniter.php(308): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#8 E:\wamp64\www\policy-master\index.php(84): CodeIgniter\CodeIgniter->run()
+#9 {main}
+CRITICAL - 2020-07-31 05:37:50 --> syntax error, unexpected '?>'
+#0 E:\wamp64\www\policy-master\vendor\codeigniter4\framework\system\Common.php(1087): CodeIgniter\View\View->render('footer', Array, true)
+#1 E:\wamp64\www\policy-master\app\Controllers\BaseController.php(54): view('footer', Array)
+#2 E:\wamp64\www\policy-master\app\Controllers\Admin.php(20): App\Controllers\BaseController->render_page('admin/list', Array)
+#3 E:\wamp64\www\policy-master\vendor\codeigniter4\framework\system\CodeIgniter.php(914): App\Controllers\Admin->index()
+#4 E:\wamp64\www\policy-master\vendor\codeigniter4\framework\system\CodeIgniter.php(400): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Admin))
+#5 E:\wamp64\www\policy-master\vendor\codeigniter4\framework\system\CodeIgniter.php(308): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 E:\wamp64\www\policy-master\index.php(84): CodeIgniter\CodeIgniter->run()
+#7 {main}
+CRITICAL - 2020-07-31 05:38:06 --> syntax error, unexpected '?>'
+#0 E:\wamp64\www\policy-master\vendor\codeigniter4\framework\system\Common.php(1087): CodeIgniter\View\View->render('footer', Array, true)
+#1 E:\wamp64\www\policy-master\app\Controllers\BaseController.php(54): view('footer', Array)
+#2 E:\wamp64\www\policy-master\app\Controllers\Admin.php(20): App\Controllers\BaseController->render_page('admin/list', Array)
+#3 E:\wamp64\www\policy-master\vendor\codeigniter4\framework\system\CodeIgniter.php(914): App\Controllers\Admin->index()
+#4 E:\wamp64\www\policy-master\vendor\codeigniter4\framework\system\CodeIgniter.php(400): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Admin))
+#5 E:\wamp64\www\policy-master\vendor\codeigniter4\framework\system\CodeIgniter.php(308): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 E:\wamp64\www\policy-master\index.php(84): CodeIgniter\CodeIgniter->run()
+#7 {main}
+CRITICAL - 2020-07-31 05:49:06 --> syntax error, unexpected '}'
+#0 E:\wamp64\www\policy-master\vendor\codeigniter4\framework\system\Router\Router.php(192): CodeIgniter\Router\Router->autoRoute('/admin/index')
+#1 E:\wamp64\www\policy-master\vendor\codeigniter4\framework\system\CodeIgniter.php(789): CodeIgniter\Router\Router->handle('/admin/index')
+#2 E:\wamp64\www\policy-master\vendor\codeigniter4\framework\system\CodeIgniter.php(360): CodeIgniter\CodeIgniter->tryToRouteIt(Object(CodeIgniter\Router\RouteCollection))
+#3 E:\wamp64\www\policy-master\vendor\codeigniter4\framework\system\CodeIgniter.php(308): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 E:\wamp64\www\policy-master\index.php(84): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2020-07-31 06:41:03 --> 
+#0 E:\wamp64\www\policy-master\vendor\codeigniter4\framework\system\HTTP\RedirectResponse.php(92): CodeIgniter\HTTP\Exceptions\HTTPException::forInvalidRedirectRoute('')
+#1 E:\wamp64\www\policy-master\app\Controllers\Auth.php(44): CodeIgniter\HTTP\RedirectResponse->route(false)
+#2 E:\wamp64\www\policy-master\vendor\codeigniter4\framework\system\CodeIgniter.php(914): App\Controllers\Auth->login()
+#3 E:\wamp64\www\policy-master\vendor\codeigniter4\framework\system\CodeIgniter.php(400): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Auth))
+#4 E:\wamp64\www\policy-master\vendor\codeigniter4\framework\system\CodeIgniter.php(308): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#5 E:\wamp64\www\policy-master\index.php(84): CodeIgniter\CodeIgniter->run()
+#6 {main}
+CRITICAL - 2020-07-31 06:46:10 --> syntax error, unexpected ')'
+#0 E:\wamp64\www\policy-master\vendor\codeigniter4\framework\system\Router\Router.php(192): CodeIgniter\Router\Router->autoRoute('/admin/index')
+#1 E:\wamp64\www\policy-master\vendor\codeigniter4\framework\system\CodeIgniter.php(789): CodeIgniter\Router\Router->handle('/admin/index')
+#2 E:\wamp64\www\policy-master\vendor\codeigniter4\framework\system\CodeIgniter.php(360): CodeIgniter\CodeIgniter->tryToRouteIt(Object(CodeIgniter\Router\RouteCollection))
+#3 E:\wamp64\www\policy-master\vendor\codeigniter4\framework\system\CodeIgniter.php(308): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 E:\wamp64\www\policy-master\index.php(84): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2020-07-31 06:55:53 --> Undefined variable: session
+#0 E:\wamp64\www\policy-master\app\Controllers\Admin.php(20): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined varia...', 'E:\\wamp64\\www\\p...', 20, Array)
+#1 E:\wamp64\www\policy-master\app\Controllers\Admin.php(13): App\Controllers\Admin->index()
+#2 E:\wamp64\www\policy-master\vendor\codeigniter4\framework\system\CodeIgniter.php(886): App\Controllers\Admin->__construct()
+#3 E:\wamp64\www\policy-master\vendor\codeigniter4\framework\system\CodeIgniter.php(395): CodeIgniter\CodeIgniter->createController()
+#4 E:\wamp64\www\policy-master\vendor\codeigniter4\framework\system\CodeIgniter.php(308): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#5 E:\wamp64\www\policy-master\index.php(84): CodeIgniter\CodeIgniter->run()
+#6 {main}
+CRITICAL - 2020-07-31 06:57:27 --> 
+#0 E:\wamp64\www\policy-master\vendor\codeigniter4\framework\system\HTTP\RedirectResponse.php(92): CodeIgniter\HTTP\Exceptions\HTTPException::forInvalidRedirectRoute('')
+#1 E:\wamp64\www\policy-master\app\Controllers\Admin.php(28): CodeIgniter\HTTP\RedirectResponse->route(false)
+#2 E:\wamp64\www\policy-master\app\Controllers\Admin.php(13): App\Controllers\Admin->index()
+#3 E:\wamp64\www\policy-master\vendor\codeigniter4\framework\system\CodeIgniter.php(886): App\Controllers\Admin->__construct()
+#4 E:\wamp64\www\policy-master\vendor\codeigniter4\framework\system\CodeIgniter.php(395): CodeIgniter\CodeIgniter->createController()
+#5 E:\wamp64\www\policy-master\vendor\codeigniter4\framework\system\CodeIgniter.php(308): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 E:\wamp64\www\policy-master\index.php(84): CodeIgniter\CodeIgniter->run()
+#7 {main}
+CRITICAL - 2020-07-31 07:04:44 --> 
+#0 E:\wamp64\www\policy-master\vendor\codeigniter4\framework\system\HTTP\RedirectResponse.php(92): CodeIgniter\HTTP\Exceptions\HTTPException::forInvalidRedirectRoute('')
+#1 E:\wamp64\www\policy-master\app\Controllers\Admin.php(30): CodeIgniter\HTTP\RedirectResponse->route(false)
+#2 E:\wamp64\www\policy-master\app\Controllers\Admin.php(15): App\Controllers\Admin->index()
+#3 E:\wamp64\www\policy-master\vendor\codeigniter4\framework\system\CodeIgniter.php(886): App\Controllers\Admin->__construct()
+#4 E:\wamp64\www\policy-master\vendor\codeigniter4\framework\system\CodeIgniter.php(395): CodeIgniter\CodeIgniter->createController()
+#5 E:\wamp64\www\policy-master\vendor\codeigniter4\framework\system\CodeIgniter.php(308): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 E:\wamp64\www\policy-master\index.php(84): CodeIgniter\CodeIgniter->run()
+#7 {main}
+CRITICAL - 2020-07-31 07:04:47 --> 
+#0 E:\wamp64\www\policy-master\vendor\codeigniter4\framework\system\HTTP\RedirectResponse.php(92): CodeIgniter\HTTP\Exceptions\HTTPException::forInvalidRedirectRoute('')
+#1 E:\wamp64\www\policy-master\app\Controllers\Admin.php(30): CodeIgniter\HTTP\RedirectResponse->route(false)
+#2 E:\wamp64\www\policy-master\app\Controllers\Admin.php(15): App\Controllers\Admin->index()
+#3 E:\wamp64\www\policy-master\vendor\codeigniter4\framework\system\CodeIgniter.php(886): App\Controllers\Admin->__construct()
+#4 E:\wamp64\www\policy-master\vendor\codeigniter4\framework\system\CodeIgniter.php(395): CodeIgniter\CodeIgniter->createController()
+#5 E:\wamp64\www\policy-master\vendor\codeigniter4\framework\system\CodeIgniter.php(308): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 E:\wamp64\www\policy-master\index.php(84): CodeIgniter\CodeIgniter->run()
+#7 {main}
+CRITICAL - 2020-07-31 07:20:13 --> syntax error, unexpected ''user-name'' (T_CONSTANT_ENCAPSED_STRING), expecting ']'
+#0 E:\wamp64\www\policy-master\vendor\codeigniter4\framework\system\Router\Router.php(192): CodeIgniter\Router\Router->autoRoute('/admin/add')
+#1 E:\wamp64\www\policy-master\vendor\codeigniter4\framework\system\CodeIgniter.php(789): CodeIgniter\Router\Router->handle('/admin/add')
+#2 E:\wamp64\www\policy-master\vendor\codeigniter4\framework\system\CodeIgniter.php(360): CodeIgniter\CodeIgniter->tryToRouteIt(Object(CodeIgniter\Router\RouteCollection))
+#3 E:\wamp64\www\policy-master\vendor\codeigniter4\framework\system\CodeIgniter.php(308): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 E:\wamp64\www\policy-master\index.php(84): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2020-07-31 07:27:56 --> Call to undefined method CodeIgniter\HTTP\IncomingRequest::post()
+#0 E:\wamp64\www\policy-master\vendor\codeigniter4\framework\system\CodeIgniter.php(914): App\Controllers\Admin->add()
+#1 E:\wamp64\www\policy-master\vendor\codeigniter4\framework\system\CodeIgniter.php(400): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Admin))
+#2 E:\wamp64\www\policy-master\vendor\codeigniter4\framework\system\CodeIgniter.php(308): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 E:\wamp64\www\policy-master\index.php(84): CodeIgniter\CodeIgniter->run()
+#4 {main}
+CRITICAL - 2020-07-31 07:30:08 --> Undefined variable: session
+#0 E:\wamp64\www\policy-master\app\Controllers\Admin.php(66): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined varia...', 'E:\\wamp64\\www\\p...', 66, Array)
+#1 E:\wamp64\www\policy-master\vendor\codeigniter4\framework\system\CodeIgniter.php(914): App\Controllers\Admin->add()
+#2 E:\wamp64\www\policy-master\vendor\codeigniter4\framework\system\CodeIgniter.php(400): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Admin))
+#3 E:\wamp64\www\policy-master\vendor\codeigniter4\framework\system\CodeIgniter.php(308): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 E:\wamp64\www\policy-master\index.php(84): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2020-07-31 07:33:09 --> Undefined property: App\Controllers\Admin::$session
+#0 E:\wamp64\www\policy-master\app\Controllers\Admin.php(66): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined prope...', 'E:\\wamp64\\www\\p...', 66, Array)
+#1 E:\wamp64\www\policy-master\vendor\codeigniter4\framework\system\CodeIgniter.php(914): App\Controllers\Admin->add()
+#2 E:\wamp64\www\policy-master\vendor\codeigniter4\framework\system\CodeIgniter.php(400): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Admin))
+#3 E:\wamp64\www\policy-master\vendor\codeigniter4\framework\system\CodeIgniter.php(308): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 E:\wamp64\www\policy-master\index.php(84): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2020-07-31 08:23:10 --> Class 'App\Controllers\AdminModel' not found
+#0 E:\wamp64\www\policy-master\vendor\codeigniter4\framework\system\CodeIgniter.php(914): App\Controllers\Company->index()
+#1 E:\wamp64\www\policy-master\vendor\codeigniter4\framework\system\CodeIgniter.php(400): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Company))
+#2 E:\wamp64\www\policy-master\vendor\codeigniter4\framework\system\CodeIgniter.php(308): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 E:\wamp64\www\policy-master\index.php(84): CodeIgniter\CodeIgniter->run()
+#4 {main}
+CRITICAL - 2020-07-31 09:06:08 --> Undefined index: role_id
+#0 E:\wamp64\www\policy-master\app\Views\navbar.php(44): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined index...', 'E:\\wamp64\\www\\p...', 44, Array)
+#1 E:\wamp64\www\policy-master\vendor\codeigniter4\framework\system\View\View.php(246): include('E:\\wamp64\\www\\p...')
+#2 E:\wamp64\www\policy-master\vendor\codeigniter4\framework\system\Common.php(1087): CodeIgniter\View\View->render('navbar', Array, true)
+#3 E:\wamp64\www\policy-master\app\Controllers\BaseController.php(51): view('navbar', Array)
+#4 E:\wamp64\www\policy-master\app\Controllers\Admin.php(27): App\Controllers\BaseController->render_page('admin/list', Array)
+#5 E:\wamp64\www\policy-master\vendor\codeigniter4\framework\system\CodeIgniter.php(914): App\Controllers\Admin->index()
+#6 E:\wamp64\www\policy-master\vendor\codeigniter4\framework\system\CodeIgniter.php(400): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Admin))
+#7 E:\wamp64\www\policy-master\vendor\codeigniter4\framework\system\CodeIgniter.php(308): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#8 E:\wamp64\www\policy-master\index.php(84): CodeIgniter\CodeIgniter->run()
+#9 {main}
+CRITICAL - 2020-07-31 09:06:13 --> Undefined index: role_id
+#0 E:\wamp64\www\policy-master\app\Views\navbar.php(44): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined index...', 'E:\\wamp64\\www\\p...', 44, Array)
+#1 E:\wamp64\www\policy-master\vendor\codeigniter4\framework\system\View\View.php(246): include('E:\\wamp64\\www\\p...')
+#2 E:\wamp64\www\policy-master\vendor\codeigniter4\framework\system\Common.php(1087): CodeIgniter\View\View->render('navbar', Array, true)
+#3 E:\wamp64\www\policy-master\app\Controllers\BaseController.php(51): view('navbar', Array)
+#4 E:\wamp64\www\policy-master\app\Controllers\Company.php(25): App\Controllers\BaseController->render_page('company/list', Array)
+#5 E:\wamp64\www\policy-master\vendor\codeigniter4\framework\system\CodeIgniter.php(914): App\Controllers\Company->index()
+#6 E:\wamp64\www\policy-master\vendor\codeigniter4\framework\system\CodeIgniter.php(400): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Company))
+#7 E:\wamp64\www\policy-master\vendor\codeigniter4\framework\system\CodeIgniter.php(308): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#8 E:\wamp64\www\policy-master\index.php(84): CodeIgniter\CodeIgniter->run()
+#9 {main}
+CRITICAL - 2020-07-31 09:06:16 --> Undefined index: role_id
+#0 E:\wamp64\www\policy-master\app\Views\navbar.php(44): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined index...', 'E:\\wamp64\\www\\p...', 44, Array)
+#1 E:\wamp64\www\policy-master\vendor\codeigniter4\framework\system\View\View.php(246): include('E:\\wamp64\\www\\p...')
+#2 E:\wamp64\www\policy-master\vendor\codeigniter4\framework\system\Common.php(1087): CodeIgniter\View\View->render('navbar', Array, true)
+#3 E:\wamp64\www\policy-master\app\Controllers\BaseController.php(51): view('navbar', Array)
+#4 E:\wamp64\www\policy-master\app\Controllers\Admin.php(46): App\Controllers\BaseController->render_page('admin/add', Array)
+#5 E:\wamp64\www\policy-master\vendor\codeigniter4\framework\system\CodeIgniter.php(914): App\Controllers\Admin->add()
+#6 E:\wamp64\www\policy-master\vendor\codeigniter4\framework\system\CodeIgniter.php(400): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Admin))
+#7 E:\wamp64\www\policy-master\vendor\codeigniter4\framework\system\CodeIgniter.php(308): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#8 E:\wamp64\www\policy-master\index.php(84): CodeIgniter\CodeIgniter->run()
+#9 {main}
+CRITICAL - 2020-07-31 09:06:17 --> Undefined index: role_id
+#0 E:\wamp64\www\policy-master\app\Views\navbar.php(44): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined index...', 'E:\\wamp64\\www\\p...', 44, Array)
+#1 E:\wamp64\www\policy-master\vendor\codeigniter4\framework\system\View\View.php(246): include('E:\\wamp64\\www\\p...')
+#2 E:\wamp64\www\policy-master\vendor\codeigniter4\framework\system\Common.php(1087): CodeIgniter\View\View->render('navbar', Array, true)
+#3 E:\wamp64\www\policy-master\app\Controllers\BaseController.php(51): view('navbar', Array)
+#4 E:\wamp64\www\policy-master\app\Controllers\Admin.php(27): App\Controllers\BaseController->render_page('admin/list', Array)
+#5 E:\wamp64\www\policy-master\vendor\codeigniter4\framework\system\CodeIgniter.php(914): App\Controllers\Admin->index()
+#6 E:\wamp64\www\policy-master\vendor\codeigniter4\framework\system\CodeIgniter.php(400): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Admin))
+#7 E:\wamp64\www\policy-master\vendor\codeigniter4\framework\system\CodeIgniter.php(308): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#8 E:\wamp64\www\policy-master\index.php(84): CodeIgniter\CodeIgniter->run()
+#9 {main}
+CRITICAL - 2020-07-31 09:06:18 --> Undefined index: role_id
+#0 E:\wamp64\www\policy-master\app\Views\navbar.php(44): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined index...', 'E:\\wamp64\\www\\p...', 44, Array)
+#1 E:\wamp64\www\policy-master\vendor\codeigniter4\framework\system\View\View.php(246): include('E:\\wamp64\\www\\p...')
+#2 E:\wamp64\www\policy-master\vendor\codeigniter4\framework\system\Common.php(1087): CodeIgniter\View\View->render('navbar', Array, true)
+#3 E:\wamp64\www\policy-master\app\Controllers\BaseController.php(51): view('navbar', Array)
+#4 E:\wamp64\www\policy-master\app\Controllers\Admin.php(46): App\Controllers\BaseController->render_page('admin/add', Array)
+#5 E:\wamp64\www\policy-master\vendor\codeigniter4\framework\system\CodeIgniter.php(914): App\Controllers\Admin->add()
+#6 E:\wamp64\www\policy-master\vendor\codeigniter4\framework\system\CodeIgniter.php(400): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Admin))
+#7 E:\wamp64\www\policy-master\vendor\codeigniter4\framework\system\CodeIgniter.php(308): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#8 E:\wamp64\www\policy-master\index.php(84): CodeIgniter\CodeIgniter->run()
+#9 {main}
+CRITICAL - 2020-07-31 09:06:18 --> Undefined index: role_id
+#0 E:\wamp64\www\policy-master\app\Views\navbar.php(44): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined index...', 'E:\\wamp64\\www\\p...', 44, Array)
+#1 E:\wamp64\www\policy-master\vendor\codeigniter4\framework\system\View\View.php(246): include('E:\\wamp64\\www\\p...')
+#2 E:\wamp64\www\policy-master\vendor\codeigniter4\framework\system\Common.php(1087): CodeIgniter\View\View->render('navbar', Array, true)
+#3 E:\wamp64\www\policy-master\app\Controllers\BaseController.php(51): view('navbar', Array)
+#4 E:\wamp64\www\policy-master\app\Controllers\Admin.php(27): App\Controllers\BaseController->render_page('admin/list', Array)
+#5 E:\wamp64\www\policy-master\vendor\codeigniter4\framework\system\CodeIgniter.php(914): App\Controllers\Admin->index()
+#6 E:\wamp64\www\policy-master\vendor\codeigniter4\framework\system\CodeIgniter.php(400): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Admin))
+#7 E:\wamp64\www\policy-master\vendor\codeigniter4\framework\system\CodeIgniter.php(308): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#8 E:\wamp64\www\policy-master\index.php(84): CodeIgniter\CodeIgniter->run()
+#9 {main}

@@ -1,0 +1,9 @@
+CRITICAL - 2020-09-23 02:38:28 --> syntax error, unexpected '?>'
+#0 D:\xampp\htdocs\policy-master\vendor\codeigniter4\framework\system\Common.php(1087): CodeIgniter\View\View->render('quotation/add2', Array, true)
+#1 D:\xampp\htdocs\policy-master\app\Controllers\BaseController.php(62): view('quotation/add2', Array)
+#2 D:\xampp\htdocs\policy-master\app\Controllers\InsuranceQuotation.php(83): App\Controllers\BaseController->render_page('quotation/add2', Array)
+#3 D:\xampp\htdocs\policy-master\vendor\codeigniter4\framework\system\CodeIgniter.php(914): App\Controllers\InsuranceQuotation->create('2')
+#4 D:\xampp\htdocs\policy-master\vendor\codeigniter4\framework\system\CodeIgniter.php(400): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\InsuranceQuotation))
+#5 D:\xampp\htdocs\policy-master\vendor\codeigniter4\framework\system\CodeIgniter.php(308): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 D:\xampp\htdocs\policy-master\index.php(84): CodeIgniter\CodeIgniter->run()
+#7 {main}

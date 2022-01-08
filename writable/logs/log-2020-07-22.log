@@ -1,0 +1,871 @@
+CRITICAL - 2020-07-22 00:22:18 --> syntax error, unexpected '}', expecting end of file
+#0 E:\wamp64\www\healthyhabbits\vendor\codeigniter4\framework\system\Common.php(1087): CodeIgniter\View\View->render('users/users', Array, true)
+#1 E:\wamp64\www\healthyhabbits\app\Controllers\BaseController.php(56): view('users/users', Array)
+#2 E:\wamp64\www\healthyhabbits\app\Controllers\Users.php(21): App\Controllers\BaseController->render_page('users/users', Array)
+#3 E:\wamp64\www\healthyhabbits\vendor\codeigniter4\framework\system\CodeIgniter.php(914): App\Controllers\Users->index()
+#4 E:\wamp64\www\healthyhabbits\vendor\codeigniter4\framework\system\CodeIgniter.php(400): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Users))
+#5 E:\wamp64\www\healthyhabbits\vendor\codeigniter4\framework\system\CodeIgniter.php(308): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 E:\wamp64\www\healthyhabbits\index.php(84): CodeIgniter\CodeIgniter->run()
+#7 {main}
+CRITICAL - 2020-07-22 00:22:54 --> Undefined index: is_deleted
+#0 E:\wamp64\www\healthyhabbits\app\Views\users\users.php(72): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined index...', 'E:\\wamp64\\www\\h...', 72, Array)
+#1 E:\wamp64\www\healthyhabbits\vendor\codeigniter4\framework\system\View\View.php(246): include('E:\\wamp64\\www\\h...')
+#2 E:\wamp64\www\healthyhabbits\vendor\codeigniter4\framework\system\Common.php(1087): CodeIgniter\View\View->render('users/users', Array, true)
+#3 E:\wamp64\www\healthyhabbits\app\Controllers\BaseController.php(56): view('users/users', Array)
+#4 E:\wamp64\www\healthyhabbits\app\Controllers\Users.php(21): App\Controllers\BaseController->render_page('users/users', Array)
+#5 E:\wamp64\www\healthyhabbits\vendor\codeigniter4\framework\system\CodeIgniter.php(914): App\Controllers\Users->index()
+#6 E:\wamp64\www\healthyhabbits\vendor\codeigniter4\framework\system\CodeIgniter.php(400): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Users))
+#7 E:\wamp64\www\healthyhabbits\vendor\codeigniter4\framework\system\CodeIgniter.php(308): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#8 E:\wamp64\www\healthyhabbits\index.php(84): CodeIgniter\CodeIgniter->run()
+#9 {main}
+CRITICAL - 2020-07-22 00:24:58 --> Undefined index: is_deleted
+#0 E:\wamp64\www\healthyhabbits\app\Controllers\Users.php(221): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined index...', 'E:\\wamp64\\www\\h...', 221, Array)
+#1 E:\wamp64\www\healthyhabbits\vendor\codeigniter4\framework\system\CodeIgniter.php(914): App\Controllers\Users->delete_status()
+#2 E:\wamp64\www\healthyhabbits\vendor\codeigniter4\framework\system\CodeIgniter.php(400): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Users))
+#3 E:\wamp64\www\healthyhabbits\vendor\codeigniter4\framework\system\CodeIgniter.php(308): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 E:\wamp64\www\healthyhabbits\index.php(84): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2020-07-22 00:24:59 --> Undefined index: is_deleted
+#0 E:\wamp64\www\healthyhabbits\app\Controllers\Users.php(221): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined index...', 'E:\\wamp64\\www\\h...', 221, Array)
+#1 E:\wamp64\www\healthyhabbits\vendor\codeigniter4\framework\system\CodeIgniter.php(914): App\Controllers\Users->delete_status()
+#2 E:\wamp64\www\healthyhabbits\vendor\codeigniter4\framework\system\CodeIgniter.php(400): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Users))
+#3 E:\wamp64\www\healthyhabbits\vendor\codeigniter4\framework\system\CodeIgniter.php(308): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 E:\wamp64\www\healthyhabbits\index.php(84): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2020-07-22 00:24:59 --> Undefined index: is_deleted
+#0 E:\wamp64\www\healthyhabbits\app\Controllers\Users.php(221): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined index...', 'E:\\wamp64\\www\\h...', 221, Array)
+#1 E:\wamp64\www\healthyhabbits\vendor\codeigniter4\framework\system\CodeIgniter.php(914): App\Controllers\Users->delete_status()
+#2 E:\wamp64\www\healthyhabbits\vendor\codeigniter4\framework\system\CodeIgniter.php(400): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Users))
+#3 E:\wamp64\www\healthyhabbits\vendor\codeigniter4\framework\system\CodeIgniter.php(308): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 E:\wamp64\www\healthyhabbits\index.php(84): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2020-07-22 00:24:59 --> Undefined index: is_deleted
+#0 E:\wamp64\www\healthyhabbits\app\Controllers\Users.php(221): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined index...', 'E:\\wamp64\\www\\h...', 221, Array)
+#1 E:\wamp64\www\healthyhabbits\vendor\codeigniter4\framework\system\CodeIgniter.php(914): App\Controllers\Users->delete_status()
+#2 E:\wamp64\www\healthyhabbits\vendor\codeigniter4\framework\system\CodeIgniter.php(400): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Users))
+#3 E:\wamp64\www\healthyhabbits\vendor\codeigniter4\framework\system\CodeIgniter.php(308): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 E:\wamp64\www\healthyhabbits\index.php(84): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2020-07-22 00:25:15 --> Undefined index: is_deleted
+#0 E:\wamp64\www\healthyhabbits\app\Controllers\Users.php(221): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined index...', 'E:\\wamp64\\www\\h...', 221, Array)
+#1 E:\wamp64\www\healthyhabbits\vendor\codeigniter4\framework\system\CodeIgniter.php(914): App\Controllers\Users->delete_status()
+#2 E:\wamp64\www\healthyhabbits\vendor\codeigniter4\framework\system\CodeIgniter.php(400): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Users))
+#3 E:\wamp64\www\healthyhabbits\vendor\codeigniter4\framework\system\CodeIgniter.php(308): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 E:\wamp64\www\healthyhabbits\index.php(84): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2020-07-22 00:25:16 --> Undefined index: is_deleted
+#0 E:\wamp64\www\healthyhabbits\app\Controllers\Users.php(221): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined index...', 'E:\\wamp64\\www\\h...', 221, Array)
+#1 E:\wamp64\www\healthyhabbits\vendor\codeigniter4\framework\system\CodeIgniter.php(914): App\Controllers\Users->delete_status()
+#2 E:\wamp64\www\healthyhabbits\vendor\codeigniter4\framework\system\CodeIgniter.php(400): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Users))
+#3 E:\wamp64\www\healthyhabbits\vendor\codeigniter4\framework\system\CodeIgniter.php(308): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 E:\wamp64\www\healthyhabbits\index.php(84): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2020-07-22 01:02:13 --> Undefined variable: postdata
+#0 E:\wamp64\www\healthyhabbits\app\Controllers\Users.php(230): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined varia...', 'E:\\wamp64\\www\\h...', 230, Array)
+#1 E:\wamp64\www\healthyhabbits\vendor\codeigniter4\framework\system\CodeIgniter.php(914): App\Controllers\Users->delete_status('83', '0')
+#2 E:\wamp64\www\healthyhabbits\vendor\codeigniter4\framework\system\CodeIgniter.php(400): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Users))
+#3 E:\wamp64\www\healthyhabbits\vendor\codeigniter4\framework\system\CodeIgniter.php(308): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 E:\wamp64\www\healthyhabbits\index.php(84): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2020-07-22 01:02:34 --> You must use the "set" method to update an entry.
+#0 E:\wamp64\www\healthyhabbits\vendor\codeigniter4\framework\system\Database\BaseBuilder.php(2415): CodeIgniter\Database\BaseBuilder->validateUpdate()
+#1 E:\wamp64\www\healthyhabbits\vendor\codeigniter4\framework\system\Model.php(864): CodeIgniter\Database\BaseBuilder->update()
+#2 E:\wamp64\www\healthyhabbits\app\Controllers\Users.php(231): CodeIgniter\Model->update()
+#3 E:\wamp64\www\healthyhabbits\vendor\codeigniter4\framework\system\CodeIgniter.php(914): App\Controllers\Users->delete_status('83', '0')
+#4 E:\wamp64\www\healthyhabbits\vendor\codeigniter4\framework\system\CodeIgniter.php(400): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Users))
+#5 E:\wamp64\www\healthyhabbits\vendor\codeigniter4\framework\system\CodeIgniter.php(308): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 E:\wamp64\www\healthyhabbits\index.php(84): CodeIgniter\CodeIgniter->run()
+#7 {main}
+CRITICAL - 2020-07-22 01:04:01 --> You must use the "set" method to update an entry.
+#0 E:\wamp64\www\healthyhabbits\vendor\codeigniter4\framework\system\Database\BaseBuilder.php(2415): CodeIgniter\Database\BaseBuilder->validateUpdate()
+#1 E:\wamp64\www\healthyhabbits\vendor\codeigniter4\framework\system\Model.php(864): CodeIgniter\Database\BaseBuilder->update()
+#2 E:\wamp64\www\healthyhabbits\app\Controllers\Users.php(231): CodeIgniter\Model->update()
+#3 E:\wamp64\www\healthyhabbits\vendor\codeigniter4\framework\system\CodeIgniter.php(914): App\Controllers\Users->delete_status('83', '0')
+#4 E:\wamp64\www\healthyhabbits\vendor\codeigniter4\framework\system\CodeIgniter.php(400): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Users))
+#5 E:\wamp64\www\healthyhabbits\vendor\codeigniter4\framework\system\CodeIgniter.php(308): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 E:\wamp64\www\healthyhabbits\index.php(84): CodeIgniter\CodeIgniter->run()
+#7 {main}
+CRITICAL - 2020-07-22 01:05:54 --> You must use the "set" method to update an entry.
+#0 E:\wamp64\www\healthyhabbits\vendor\codeigniter4\framework\system\Database\BaseBuilder.php(2415): CodeIgniter\Database\BaseBuilder->validateUpdate()
+#1 E:\wamp64\www\healthyhabbits\vendor\codeigniter4\framework\system\Model.php(864): CodeIgniter\Database\BaseBuilder->update()
+#2 E:\wamp64\www\healthyhabbits\app\Controllers\Users.php(231): CodeIgniter\Model->update()
+#3 E:\wamp64\www\healthyhabbits\vendor\codeigniter4\framework\system\CodeIgniter.php(914): App\Controllers\Users->delete_status('83', '0')
+#4 E:\wamp64\www\healthyhabbits\vendor\codeigniter4\framework\system\CodeIgniter.php(400): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Users))
+#5 E:\wamp64\www\healthyhabbits\vendor\codeigniter4\framework\system\CodeIgniter.php(308): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 E:\wamp64\www\healthyhabbits\index.php(84): CodeIgniter\CodeIgniter->run()
+#7 {main}
+CRITICAL - 2020-07-22 01:05:54 --> You must use the "set" method to update an entry.
+#0 E:\wamp64\www\healthyhabbits\vendor\codeigniter4\framework\system\Database\BaseBuilder.php(2415): CodeIgniter\Database\BaseBuilder->validateUpdate()
+#1 E:\wamp64\www\healthyhabbits\vendor\codeigniter4\framework\system\Model.php(864): CodeIgniter\Database\BaseBuilder->update()
+#2 E:\wamp64\www\healthyhabbits\app\Controllers\Users.php(231): CodeIgniter\Model->update()
+#3 E:\wamp64\www\healthyhabbits\vendor\codeigniter4\framework\system\CodeIgniter.php(914): App\Controllers\Users->delete_status('83', '0')
+#4 E:\wamp64\www\healthyhabbits\vendor\codeigniter4\framework\system\CodeIgniter.php(400): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Users))
+#5 E:\wamp64\www\healthyhabbits\vendor\codeigniter4\framework\system\CodeIgniter.php(308): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 E:\wamp64\www\healthyhabbits\index.php(84): CodeIgniter\CodeIgniter->run()
+#7 {main}
+CRITICAL - 2020-07-22 01:05:55 --> You must use the "set" method to update an entry.
+#0 E:\wamp64\www\healthyhabbits\vendor\codeigniter4\framework\system\Database\BaseBuilder.php(2415): CodeIgniter\Database\BaseBuilder->validateUpdate()
+#1 E:\wamp64\www\healthyhabbits\vendor\codeigniter4\framework\system\Model.php(864): CodeIgniter\Database\BaseBuilder->update()
+#2 E:\wamp64\www\healthyhabbits\app\Controllers\Users.php(231): CodeIgniter\Model->update()
+#3 E:\wamp64\www\healthyhabbits\vendor\codeigniter4\framework\system\CodeIgniter.php(914): App\Controllers\Users->delete_status('83', '0')
+#4 E:\wamp64\www\healthyhabbits\vendor\codeigniter4\framework\system\CodeIgniter.php(400): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Users))
+#5 E:\wamp64\www\healthyhabbits\vendor\codeigniter4\framework\system\CodeIgniter.php(308): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 E:\wamp64\www\healthyhabbits\index.php(84): CodeIgniter\CodeIgniter->run()
+#7 {main}
+CRITICAL - 2020-07-22 01:07:26 --> You must use the "set" method to update an entry.
+#0 E:\wamp64\www\healthyhabbits\vendor\codeigniter4\framework\system\Database\BaseBuilder.php(2415): CodeIgniter\Database\BaseBuilder->validateUpdate()
+#1 E:\wamp64\www\healthyhabbits\vendor\codeigniter4\framework\system\Model.php(864): CodeIgniter\Database\BaseBuilder->update()
+#2 E:\wamp64\www\healthyhabbits\app\Controllers\Users.php(231): CodeIgniter\Model->update()
+#3 E:\wamp64\www\healthyhabbits\vendor\codeigniter4\framework\system\CodeIgniter.php(914): App\Controllers\Users->delete_status('83', '0')
+#4 E:\wamp64\www\healthyhabbits\vendor\codeigniter4\framework\system\CodeIgniter.php(400): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Users))
+#5 E:\wamp64\www\healthyhabbits\vendor\codeigniter4\framework\system\CodeIgniter.php(308): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 E:\wamp64\www\healthyhabbits\index.php(84): CodeIgniter\CodeIgniter->run()
+#7 {main}
+CRITICAL - 2020-07-22 01:07:27 --> You must use the "set" method to update an entry.
+#0 E:\wamp64\www\healthyhabbits\vendor\codeigniter4\framework\system\Database\BaseBuilder.php(2415): CodeIgniter\Database\BaseBuilder->validateUpdate()
+#1 E:\wamp64\www\healthyhabbits\vendor\codeigniter4\framework\system\Model.php(864): CodeIgniter\Database\BaseBuilder->update()
+#2 E:\wamp64\www\healthyhabbits\app\Controllers\Users.php(231): CodeIgniter\Model->update()
+#3 E:\wamp64\www\healthyhabbits\vendor\codeigniter4\framework\system\CodeIgniter.php(914): App\Controllers\Users->delete_status('83', '0')
+#4 E:\wamp64\www\healthyhabbits\vendor\codeigniter4\framework\system\CodeIgniter.php(400): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Users))
+#5 E:\wamp64\www\healthyhabbits\vendor\codeigniter4\framework\system\CodeIgniter.php(308): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 E:\wamp64\www\healthyhabbits\index.php(84): CodeIgniter\CodeIgniter->run()
+#7 {main}
+CRITICAL - 2020-07-22 01:07:27 --> You must use the "set" method to update an entry.
+#0 E:\wamp64\www\healthyhabbits\vendor\codeigniter4\framework\system\Database\BaseBuilder.php(2415): CodeIgniter\Database\BaseBuilder->validateUpdate()
+#1 E:\wamp64\www\healthyhabbits\vendor\codeigniter4\framework\system\Model.php(864): CodeIgniter\Database\BaseBuilder->update()
+#2 E:\wamp64\www\healthyhabbits\app\Controllers\Users.php(231): CodeIgniter\Model->update()
+#3 E:\wamp64\www\healthyhabbits\vendor\codeigniter4\framework\system\CodeIgniter.php(914): App\Controllers\Users->delete_status('83', '0')
+#4 E:\wamp64\www\healthyhabbits\vendor\codeigniter4\framework\system\CodeIgniter.php(400): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Users))
+#5 E:\wamp64\www\healthyhabbits\vendor\codeigniter4\framework\system\CodeIgniter.php(308): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 E:\wamp64\www\healthyhabbits\index.php(84): CodeIgniter\CodeIgniter->run()
+#7 {main}
+CRITICAL - 2020-07-22 01:07:27 --> You must use the "set" method to update an entry.
+#0 E:\wamp64\www\healthyhabbits\vendor\codeigniter4\framework\system\Database\BaseBuilder.php(2415): CodeIgniter\Database\BaseBuilder->validateUpdate()
+#1 E:\wamp64\www\healthyhabbits\vendor\codeigniter4\framework\system\Model.php(864): CodeIgniter\Database\BaseBuilder->update()
+#2 E:\wamp64\www\healthyhabbits\app\Controllers\Users.php(231): CodeIgniter\Model->update()
+#3 E:\wamp64\www\healthyhabbits\vendor\codeigniter4\framework\system\CodeIgniter.php(914): App\Controllers\Users->delete_status('83', '0')
+#4 E:\wamp64\www\healthyhabbits\vendor\codeigniter4\framework\system\CodeIgniter.php(400): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Users))
+#5 E:\wamp64\www\healthyhabbits\vendor\codeigniter4\framework\system\CodeIgniter.php(308): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 E:\wamp64\www\healthyhabbits\index.php(84): CodeIgniter\CodeIgniter->run()
+#7 {main}
+CRITICAL - 2020-07-22 01:07:28 --> You must use the "set" method to update an entry.
+#0 E:\wamp64\www\healthyhabbits\vendor\codeigniter4\framework\system\Database\BaseBuilder.php(2415): CodeIgniter\Database\BaseBuilder->validateUpdate()
+#1 E:\wamp64\www\healthyhabbits\vendor\codeigniter4\framework\system\Model.php(864): CodeIgniter\Database\BaseBuilder->update()
+#2 E:\wamp64\www\healthyhabbits\app\Controllers\Users.php(231): CodeIgniter\Model->update()
+#3 E:\wamp64\www\healthyhabbits\vendor\codeigniter4\framework\system\CodeIgniter.php(914): App\Controllers\Users->delete_status('83', '0')
+#4 E:\wamp64\www\healthyhabbits\vendor\codeigniter4\framework\system\CodeIgniter.php(400): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Users))
+#5 E:\wamp64\www\healthyhabbits\vendor\codeigniter4\framework\system\CodeIgniter.php(308): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 E:\wamp64\www\healthyhabbits\index.php(84): CodeIgniter\CodeIgniter->run()
+#7 {main}
+CRITICAL - 2020-07-22 01:07:28 --> You must use the "set" method to update an entry.
+#0 E:\wamp64\www\healthyhabbits\vendor\codeigniter4\framework\system\Database\BaseBuilder.php(2415): CodeIgniter\Database\BaseBuilder->validateUpdate()
+#1 E:\wamp64\www\healthyhabbits\vendor\codeigniter4\framework\system\Model.php(864): CodeIgniter\Database\BaseBuilder->update()
+#2 E:\wamp64\www\healthyhabbits\app\Controllers\Users.php(231): CodeIgniter\Model->update()
+#3 E:\wamp64\www\healthyhabbits\vendor\codeigniter4\framework\system\CodeIgniter.php(914): App\Controllers\Users->delete_status('83', '0')
+#4 E:\wamp64\www\healthyhabbits\vendor\codeigniter4\framework\system\CodeIgniter.php(400): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Users))
+#5 E:\wamp64\www\healthyhabbits\vendor\codeigniter4\framework\system\CodeIgniter.php(308): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 E:\wamp64\www\healthyhabbits\index.php(84): CodeIgniter\CodeIgniter->run()
+#7 {main}
+CRITICAL - 2020-07-22 01:07:28 --> You must use the "set" method to update an entry.
+#0 E:\wamp64\www\healthyhabbits\vendor\codeigniter4\framework\system\Database\BaseBuilder.php(2415): CodeIgniter\Database\BaseBuilder->validateUpdate()
+#1 E:\wamp64\www\healthyhabbits\vendor\codeigniter4\framework\system\Model.php(864): CodeIgniter\Database\BaseBuilder->update()
+#2 E:\wamp64\www\healthyhabbits\app\Controllers\Users.php(231): CodeIgniter\Model->update()
+#3 E:\wamp64\www\healthyhabbits\vendor\codeigniter4\framework\system\CodeIgniter.php(914): App\Controllers\Users->delete_status('83', '0')
+#4 E:\wamp64\www\healthyhabbits\vendor\codeigniter4\framework\system\CodeIgniter.php(400): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Users))
+#5 E:\wamp64\www\healthyhabbits\vendor\codeigniter4\framework\system\CodeIgniter.php(308): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 E:\wamp64\www\healthyhabbits\index.php(84): CodeIgniter\CodeIgniter->run()
+#7 {main}
+CRITICAL - 2020-07-22 01:07:28 --> You must use the "set" method to update an entry.
+#0 E:\wamp64\www\healthyhabbits\vendor\codeigniter4\framework\system\Database\BaseBuilder.php(2415): CodeIgniter\Database\BaseBuilder->validateUpdate()
+#1 E:\wamp64\www\healthyhabbits\vendor\codeigniter4\framework\system\Model.php(864): CodeIgniter\Database\BaseBuilder->update()
+#2 E:\wamp64\www\healthyhabbits\app\Controllers\Users.php(231): CodeIgniter\Model->update()
+#3 E:\wamp64\www\healthyhabbits\vendor\codeigniter4\framework\system\CodeIgniter.php(914): App\Controllers\Users->delete_status('83', '0')
+#4 E:\wamp64\www\healthyhabbits\vendor\codeigniter4\framework\system\CodeIgniter.php(400): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Users))
+#5 E:\wamp64\www\healthyhabbits\vendor\codeigniter4\framework\system\CodeIgniter.php(308): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 E:\wamp64\www\healthyhabbits\index.php(84): CodeIgniter\CodeIgniter->run()
+#7 {main}
+CRITICAL - 2020-07-22 01:07:28 --> You must use the "set" method to update an entry.
+#0 E:\wamp64\www\healthyhabbits\vendor\codeigniter4\framework\system\Database\BaseBuilder.php(2415): CodeIgniter\Database\BaseBuilder->validateUpdate()
+#1 E:\wamp64\www\healthyhabbits\vendor\codeigniter4\framework\system\Model.php(864): CodeIgniter\Database\BaseBuilder->update()
+#2 E:\wamp64\www\healthyhabbits\app\Controllers\Users.php(231): CodeIgniter\Model->update()
+#3 E:\wamp64\www\healthyhabbits\vendor\codeigniter4\framework\system\CodeIgniter.php(914): App\Controllers\Users->delete_status('83', '0')
+#4 E:\wamp64\www\healthyhabbits\vendor\codeigniter4\framework\system\CodeIgniter.php(400): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Users))
+#5 E:\wamp64\www\healthyhabbits\vendor\codeigniter4\framework\system\CodeIgniter.php(308): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 E:\wamp64\www\healthyhabbits\index.php(84): CodeIgniter\CodeIgniter->run()
+#7 {main}
+CRITICAL - 2020-07-22 01:07:29 --> You must use the "set" method to update an entry.
+#0 E:\wamp64\www\healthyhabbits\vendor\codeigniter4\framework\system\Database\BaseBuilder.php(2415): CodeIgniter\Database\BaseBuilder->validateUpdate()
+#1 E:\wamp64\www\healthyhabbits\vendor\codeigniter4\framework\system\Model.php(864): CodeIgniter\Database\BaseBuilder->update()
+#2 E:\wamp64\www\healthyhabbits\app\Controllers\Users.php(231): CodeIgniter\Model->update()
+#3 E:\wamp64\www\healthyhabbits\vendor\codeigniter4\framework\system\CodeIgniter.php(914): App\Controllers\Users->delete_status('83', '0')
+#4 E:\wamp64\www\healthyhabbits\vendor\codeigniter4\framework\system\CodeIgniter.php(400): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Users))
+#5 E:\wamp64\www\healthyhabbits\vendor\codeigniter4\framework\system\CodeIgniter.php(308): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 E:\wamp64\www\healthyhabbits\index.php(84): CodeIgniter\CodeIgniter->run()
+#7 {main}
+CRITICAL - 2020-07-22 01:07:29 --> You must use the "set" method to update an entry.
+#0 E:\wamp64\www\healthyhabbits\vendor\codeigniter4\framework\system\Database\BaseBuilder.php(2415): CodeIgniter\Database\BaseBuilder->validateUpdate()
+#1 E:\wamp64\www\healthyhabbits\vendor\codeigniter4\framework\system\Model.php(864): CodeIgniter\Database\BaseBuilder->update()
+#2 E:\wamp64\www\healthyhabbits\app\Controllers\Users.php(231): CodeIgniter\Model->update()
+#3 E:\wamp64\www\healthyhabbits\vendor\codeigniter4\framework\system\CodeIgniter.php(914): App\Controllers\Users->delete_status('83', '0')
+#4 E:\wamp64\www\healthyhabbits\vendor\codeigniter4\framework\system\CodeIgniter.php(400): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Users))
+#5 E:\wamp64\www\healthyhabbits\vendor\codeigniter4\framework\system\CodeIgniter.php(308): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 E:\wamp64\www\healthyhabbits\index.php(84): CodeIgniter\CodeIgniter->run()
+#7 {main}
+CRITICAL - 2020-07-22 01:07:31 --> You must use the "set" method to update an entry.
+#0 E:\wamp64\www\healthyhabbits\vendor\codeigniter4\framework\system\Database\BaseBuilder.php(2415): CodeIgniter\Database\BaseBuilder->validateUpdate()
+#1 E:\wamp64\www\healthyhabbits\vendor\codeigniter4\framework\system\Model.php(864): CodeIgniter\Database\BaseBuilder->update()
+#2 E:\wamp64\www\healthyhabbits\app\Controllers\Users.php(231): CodeIgniter\Model->update()
+#3 E:\wamp64\www\healthyhabbits\vendor\codeigniter4\framework\system\CodeIgniter.php(914): App\Controllers\Users->delete_status('83', '0')
+#4 E:\wamp64\www\healthyhabbits\vendor\codeigniter4\framework\system\CodeIgniter.php(400): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Users))
+#5 E:\wamp64\www\healthyhabbits\vendor\codeigniter4\framework\system\CodeIgniter.php(308): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 E:\wamp64\www\healthyhabbits\index.php(84): CodeIgniter\CodeIgniter->run()
+#7 {main}
+CRITICAL - 2020-07-22 01:07:32 --> You must use the "set" method to update an entry.
+#0 E:\wamp64\www\healthyhabbits\vendor\codeigniter4\framework\system\Database\BaseBuilder.php(2415): CodeIgniter\Database\BaseBuilder->validateUpdate()
+#1 E:\wamp64\www\healthyhabbits\vendor\codeigniter4\framework\system\Model.php(864): CodeIgniter\Database\BaseBuilder->update()
+#2 E:\wamp64\www\healthyhabbits\app\Controllers\Users.php(231): CodeIgniter\Model->update()
+#3 E:\wamp64\www\healthyhabbits\vendor\codeigniter4\framework\system\CodeIgniter.php(914): App\Controllers\Users->delete_status('83', '0')
+#4 E:\wamp64\www\healthyhabbits\vendor\codeigniter4\framework\system\CodeIgniter.php(400): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Users))
+#5 E:\wamp64\www\healthyhabbits\vendor\codeigniter4\framework\system\CodeIgniter.php(308): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 E:\wamp64\www\healthyhabbits\index.php(84): CodeIgniter\CodeIgniter->run()
+#7 {main}
+CRITICAL - 2020-07-22 01:09:43 --> You must use the "set" method to update an entry.
+#0 E:\wamp64\www\healthyhabbits\vendor\codeigniter4\framework\system\Database\BaseBuilder.php(2415): CodeIgniter\Database\BaseBuilder->validateUpdate()
+#1 E:\wamp64\www\healthyhabbits\vendor\codeigniter4\framework\system\Model.php(864): CodeIgniter\Database\BaseBuilder->update()
+#2 E:\wamp64\www\healthyhabbits\app\Controllers\Users.php(231): CodeIgniter\Model->update()
+#3 E:\wamp64\www\healthyhabbits\vendor\codeigniter4\framework\system\CodeIgniter.php(914): App\Controllers\Users->delete_status('83', '0')
+#4 E:\wamp64\www\healthyhabbits\vendor\codeigniter4\framework\system\CodeIgniter.php(400): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Users))
+#5 E:\wamp64\www\healthyhabbits\vendor\codeigniter4\framework\system\CodeIgniter.php(308): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 E:\wamp64\www\healthyhabbits\index.php(84): CodeIgniter\CodeIgniter->run()
+#7 {main}
+CRITICAL - 2020-07-22 01:34:59 --> You must use the "set" method to update an entry.
+#0 E:\wamp64\www\healthyhabbits\vendor\codeigniter4\framework\system\Database\BaseBuilder.php(2415): CodeIgniter\Database\BaseBuilder->validateUpdate()
+#1 E:\wamp64\www\healthyhabbits\vendor\codeigniter4\framework\system\Model.php(864): CodeIgniter\Database\BaseBuilder->update()
+#2 E:\wamp64\www\healthyhabbits\app\Controllers\Users.php(238): CodeIgniter\Model->update(Array, Array)
+#3 E:\wamp64\www\healthyhabbits\vendor\codeigniter4\framework\system\CodeIgniter.php(914): App\Controllers\Users->delete_status('83', '0')
+#4 E:\wamp64\www\healthyhabbits\vendor\codeigniter4\framework\system\CodeIgniter.php(400): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Users))
+#5 E:\wamp64\www\healthyhabbits\vendor\codeigniter4\framework\system\CodeIgniter.php(308): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 E:\wamp64\www\healthyhabbits\index.php(84): CodeIgniter\CodeIgniter->run()
+#7 {main}
+CRITICAL - 2020-07-22 01:37:18 --> You must use the "set" method to update an entry.
+#0 E:\wamp64\www\healthyhabbits\vendor\codeigniter4\framework\system\Database\BaseBuilder.php(2415): CodeIgniter\Database\BaseBuilder->validateUpdate()
+#1 E:\wamp64\www\healthyhabbits\vendor\codeigniter4\framework\system\Model.php(864): CodeIgniter\Database\BaseBuilder->update()
+#2 E:\wamp64\www\healthyhabbits\app\Controllers\Users.php(241): CodeIgniter\Model->update(Array, Array)
+#3 E:\wamp64\www\healthyhabbits\vendor\codeigniter4\framework\system\CodeIgniter.php(914): App\Controllers\Users->delete_status('83', '0')
+#4 E:\wamp64\www\healthyhabbits\vendor\codeigniter4\framework\system\CodeIgniter.php(400): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Users))
+#5 E:\wamp64\www\healthyhabbits\vendor\codeigniter4\framework\system\CodeIgniter.php(308): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 E:\wamp64\www\healthyhabbits\index.php(84): CodeIgniter\CodeIgniter->run()
+#7 {main}
+CRITICAL - 2020-07-22 01:37:18 --> You must use the "set" method to update an entry.
+#0 E:\wamp64\www\healthyhabbits\vendor\codeigniter4\framework\system\Database\BaseBuilder.php(2415): CodeIgniter\Database\BaseBuilder->validateUpdate()
+#1 E:\wamp64\www\healthyhabbits\vendor\codeigniter4\framework\system\Model.php(864): CodeIgniter\Database\BaseBuilder->update()
+#2 E:\wamp64\www\healthyhabbits\app\Controllers\Users.php(241): CodeIgniter\Model->update(Array, Array)
+#3 E:\wamp64\www\healthyhabbits\vendor\codeigniter4\framework\system\CodeIgniter.php(914): App\Controllers\Users->delete_status('83', '0')
+#4 E:\wamp64\www\healthyhabbits\vendor\codeigniter4\framework\system\CodeIgniter.php(400): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Users))
+#5 E:\wamp64\www\healthyhabbits\vendor\codeigniter4\framework\system\CodeIgniter.php(308): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 E:\wamp64\www\healthyhabbits\index.php(84): CodeIgniter\CodeIgniter->run()
+#7 {main}
+CRITICAL - 2020-07-22 01:37:19 --> You must use the "set" method to update an entry.
+#0 E:\wamp64\www\healthyhabbits\vendor\codeigniter4\framework\system\Database\BaseBuilder.php(2415): CodeIgniter\Database\BaseBuilder->validateUpdate()
+#1 E:\wamp64\www\healthyhabbits\vendor\codeigniter4\framework\system\Model.php(864): CodeIgniter\Database\BaseBuilder->update()
+#2 E:\wamp64\www\healthyhabbits\app\Controllers\Users.php(241): CodeIgniter\Model->update(Array, Array)
+#3 E:\wamp64\www\healthyhabbits\vendor\codeigniter4\framework\system\CodeIgniter.php(914): App\Controllers\Users->delete_status('83', '0')
+#4 E:\wamp64\www\healthyhabbits\vendor\codeigniter4\framework\system\CodeIgniter.php(400): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Users))
+#5 E:\wamp64\www\healthyhabbits\vendor\codeigniter4\framework\system\CodeIgniter.php(308): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 E:\wamp64\www\healthyhabbits\index.php(84): CodeIgniter\CodeIgniter->run()
+#7 {main}
+CRITICAL - 2020-07-22 01:37:19 --> You must use the "set" method to update an entry.
+#0 E:\wamp64\www\healthyhabbits\vendor\codeigniter4\framework\system\Database\BaseBuilder.php(2415): CodeIgniter\Database\BaseBuilder->validateUpdate()
+#1 E:\wamp64\www\healthyhabbits\vendor\codeigniter4\framework\system\Model.php(864): CodeIgniter\Database\BaseBuilder->update()
+#2 E:\wamp64\www\healthyhabbits\app\Controllers\Users.php(241): CodeIgniter\Model->update(Array, Array)
+#3 E:\wamp64\www\healthyhabbits\vendor\codeigniter4\framework\system\CodeIgniter.php(914): App\Controllers\Users->delete_status('83', '0')
+#4 E:\wamp64\www\healthyhabbits\vendor\codeigniter4\framework\system\CodeIgniter.php(400): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Users))
+#5 E:\wamp64\www\healthyhabbits\vendor\codeigniter4\framework\system\CodeIgniter.php(308): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 E:\wamp64\www\healthyhabbits\index.php(84): CodeIgniter\CodeIgniter->run()
+#7 {main}
+CRITICAL - 2020-07-22 01:37:19 --> You must use the "set" method to update an entry.
+#0 E:\wamp64\www\healthyhabbits\vendor\codeigniter4\framework\system\Database\BaseBuilder.php(2415): CodeIgniter\Database\BaseBuilder->validateUpdate()
+#1 E:\wamp64\www\healthyhabbits\vendor\codeigniter4\framework\system\Model.php(864): CodeIgniter\Database\BaseBuilder->update()
+#2 E:\wamp64\www\healthyhabbits\app\Controllers\Users.php(241): CodeIgniter\Model->update(Array, Array)
+#3 E:\wamp64\www\healthyhabbits\vendor\codeigniter4\framework\system\CodeIgniter.php(914): App\Controllers\Users->delete_status('83', '0')
+#4 E:\wamp64\www\healthyhabbits\vendor\codeigniter4\framework\system\CodeIgniter.php(400): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Users))
+#5 E:\wamp64\www\healthyhabbits\vendor\codeigniter4\framework\system\CodeIgniter.php(308): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 E:\wamp64\www\healthyhabbits\index.php(84): CodeIgniter\CodeIgniter->run()
+#7 {main}
+CRITICAL - 2020-07-22 01:37:19 --> You must use the "set" method to update an entry.
+#0 E:\wamp64\www\healthyhabbits\vendor\codeigniter4\framework\system\Database\BaseBuilder.php(2415): CodeIgniter\Database\BaseBuilder->validateUpdate()
+#1 E:\wamp64\www\healthyhabbits\vendor\codeigniter4\framework\system\Model.php(864): CodeIgniter\Database\BaseBuilder->update()
+#2 E:\wamp64\www\healthyhabbits\app\Controllers\Users.php(241): CodeIgniter\Model->update(Array, Array)
+#3 E:\wamp64\www\healthyhabbits\vendor\codeigniter4\framework\system\CodeIgniter.php(914): App\Controllers\Users->delete_status('83', '0')
+#4 E:\wamp64\www\healthyhabbits\vendor\codeigniter4\framework\system\CodeIgniter.php(400): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Users))
+#5 E:\wamp64\www\healthyhabbits\vendor\codeigniter4\framework\system\CodeIgniter.php(308): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 E:\wamp64\www\healthyhabbits\index.php(84): CodeIgniter\CodeIgniter->run()
+#7 {main}
+CRITICAL - 2020-07-22 01:37:20 --> You must use the "set" method to update an entry.
+#0 E:\wamp64\www\healthyhabbits\vendor\codeigniter4\framework\system\Database\BaseBuilder.php(2415): CodeIgniter\Database\BaseBuilder->validateUpdate()
+#1 E:\wamp64\www\healthyhabbits\vendor\codeigniter4\framework\system\Model.php(864): CodeIgniter\Database\BaseBuilder->update()
+#2 E:\wamp64\www\healthyhabbits\app\Controllers\Users.php(241): CodeIgniter\Model->update(Array, Array)
+#3 E:\wamp64\www\healthyhabbits\vendor\codeigniter4\framework\system\CodeIgniter.php(914): App\Controllers\Users->delete_status('83', '0')
+#4 E:\wamp64\www\healthyhabbits\vendor\codeigniter4\framework\system\CodeIgniter.php(400): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Users))
+#5 E:\wamp64\www\healthyhabbits\vendor\codeigniter4\framework\system\CodeIgniter.php(308): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 E:\wamp64\www\healthyhabbits\index.php(84): CodeIgniter\CodeIgniter->run()
+#7 {main}
+CRITICAL - 2020-07-22 01:39:40 --> You must use the "set" method to update an entry.
+#0 E:\wamp64\www\healthyhabbits\vendor\codeigniter4\framework\system\Database\BaseBuilder.php(2415): CodeIgniter\Database\BaseBuilder->validateUpdate()
+#1 E:\wamp64\www\healthyhabbits\vendor\codeigniter4\framework\system\Model.php(864): CodeIgniter\Database\BaseBuilder->update()
+#2 E:\wamp64\www\healthyhabbits\app\Controllers\Users.php(241): CodeIgniter\Model->update(Array, Array)
+#3 E:\wamp64\www\healthyhabbits\vendor\codeigniter4\framework\system\CodeIgniter.php(914): App\Controllers\Users->delete_status('83', '0')
+#4 E:\wamp64\www\healthyhabbits\vendor\codeigniter4\framework\system\CodeIgniter.php(400): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Users))
+#5 E:\wamp64\www\healthyhabbits\vendor\codeigniter4\framework\system\CodeIgniter.php(308): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 E:\wamp64\www\healthyhabbits\index.php(84): CodeIgniter\CodeIgniter->run()
+#7 {main}
+CRITICAL - 2020-07-22 01:40:53 --> You must use the "set" method to update an entry.
+#0 E:\wamp64\www\healthyhabbits\vendor\codeigniter4\framework\system\Database\BaseBuilder.php(2415): CodeIgniter\Database\BaseBuilder->validateUpdate()
+#1 E:\wamp64\www\healthyhabbits\vendor\codeigniter4\framework\system\Model.php(864): CodeIgniter\Database\BaseBuilder->update()
+#2 E:\wamp64\www\healthyhabbits\app\Controllers\Users.php(241): CodeIgniter\Model->update(Array, Array)
+#3 E:\wamp64\www\healthyhabbits\vendor\codeigniter4\framework\system\CodeIgniter.php(914): App\Controllers\Users->delete_status('83', '0')
+#4 E:\wamp64\www\healthyhabbits\vendor\codeigniter4\framework\system\CodeIgniter.php(400): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Users))
+#5 E:\wamp64\www\healthyhabbits\vendor\codeigniter4\framework\system\CodeIgniter.php(308): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 E:\wamp64\www\healthyhabbits\index.php(84): CodeIgniter\CodeIgniter->run()
+#7 {main}
+CRITICAL - 2020-07-22 01:40:54 --> You must use the "set" method to update an entry.
+#0 E:\wamp64\www\healthyhabbits\vendor\codeigniter4\framework\system\Database\BaseBuilder.php(2415): CodeIgniter\Database\BaseBuilder->validateUpdate()
+#1 E:\wamp64\www\healthyhabbits\vendor\codeigniter4\framework\system\Model.php(864): CodeIgniter\Database\BaseBuilder->update()
+#2 E:\wamp64\www\healthyhabbits\app\Controllers\Users.php(241): CodeIgniter\Model->update(Array, Array)
+#3 E:\wamp64\www\healthyhabbits\vendor\codeigniter4\framework\system\CodeIgniter.php(914): App\Controllers\Users->delete_status('83', '0')
+#4 E:\wamp64\www\healthyhabbits\vendor\codeigniter4\framework\system\CodeIgniter.php(400): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Users))
+#5 E:\wamp64\www\healthyhabbits\vendor\codeigniter4\framework\system\CodeIgniter.php(308): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 E:\wamp64\www\healthyhabbits\index.php(84): CodeIgniter\CodeIgniter->run()
+#7 {main}
+CRITICAL - 2020-07-22 01:40:54 --> You must use the "set" method to update an entry.
+#0 E:\wamp64\www\healthyhabbits\vendor\codeigniter4\framework\system\Database\BaseBuilder.php(2415): CodeIgniter\Database\BaseBuilder->validateUpdate()
+#1 E:\wamp64\www\healthyhabbits\vendor\codeigniter4\framework\system\Model.php(864): CodeIgniter\Database\BaseBuilder->update()
+#2 E:\wamp64\www\healthyhabbits\app\Controllers\Users.php(241): CodeIgniter\Model->update(Array, Array)
+#3 E:\wamp64\www\healthyhabbits\vendor\codeigniter4\framework\system\CodeIgniter.php(914): App\Controllers\Users->delete_status('83', '0')
+#4 E:\wamp64\www\healthyhabbits\vendor\codeigniter4\framework\system\CodeIgniter.php(400): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Users))
+#5 E:\wamp64\www\healthyhabbits\vendor\codeigniter4\framework\system\CodeIgniter.php(308): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 E:\wamp64\www\healthyhabbits\index.php(84): CodeIgniter\CodeIgniter->run()
+#7 {main}
+CRITICAL - 2020-07-22 01:40:54 --> You must use the "set" method to update an entry.
+#0 E:\wamp64\www\healthyhabbits\vendor\codeigniter4\framework\system\Database\BaseBuilder.php(2415): CodeIgniter\Database\BaseBuilder->validateUpdate()
+#1 E:\wamp64\www\healthyhabbits\vendor\codeigniter4\framework\system\Model.php(864): CodeIgniter\Database\BaseBuilder->update()
+#2 E:\wamp64\www\healthyhabbits\app\Controllers\Users.php(241): CodeIgniter\Model->update(Array, Array)
+#3 E:\wamp64\www\healthyhabbits\vendor\codeigniter4\framework\system\CodeIgniter.php(914): App\Controllers\Users->delete_status('83', '0')
+#4 E:\wamp64\www\healthyhabbits\vendor\codeigniter4\framework\system\CodeIgniter.php(400): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Users))
+#5 E:\wamp64\www\healthyhabbits\vendor\codeigniter4\framework\system\CodeIgniter.php(308): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 E:\wamp64\www\healthyhabbits\index.php(84): CodeIgniter\CodeIgniter->run()
+#7 {main}
+CRITICAL - 2020-07-22 01:42:57 --> You must use the "set" method to update an entry.
+#0 E:\wamp64\www\healthyhabbits\vendor\codeigniter4\framework\system\Database\BaseBuilder.php(2415): CodeIgniter\Database\BaseBuilder->validateUpdate()
+#1 E:\wamp64\www\healthyhabbits\vendor\codeigniter4\framework\system\Model.php(864): CodeIgniter\Database\BaseBuilder->update()
+#2 E:\wamp64\www\healthyhabbits\app\Controllers\Users.php(242): CodeIgniter\Model->update()
+#3 E:\wamp64\www\healthyhabbits\vendor\codeigniter4\framework\system\CodeIgniter.php(914): App\Controllers\Users->delete_status('83', '0')
+#4 E:\wamp64\www\healthyhabbits\vendor\codeigniter4\framework\system\CodeIgniter.php(400): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Users))
+#5 E:\wamp64\www\healthyhabbits\vendor\codeigniter4\framework\system\CodeIgniter.php(308): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 E:\wamp64\www\healthyhabbits\index.php(84): CodeIgniter\CodeIgniter->run()
+#7 {main}
+CRITICAL - 2020-07-22 01:42:58 --> You must use the "set" method to update an entry.
+#0 E:\wamp64\www\healthyhabbits\vendor\codeigniter4\framework\system\Database\BaseBuilder.php(2415): CodeIgniter\Database\BaseBuilder->validateUpdate()
+#1 E:\wamp64\www\healthyhabbits\vendor\codeigniter4\framework\system\Model.php(864): CodeIgniter\Database\BaseBuilder->update()
+#2 E:\wamp64\www\healthyhabbits\app\Controllers\Users.php(242): CodeIgniter\Model->update()
+#3 E:\wamp64\www\healthyhabbits\vendor\codeigniter4\framework\system\CodeIgniter.php(914): App\Controllers\Users->delete_status('83', '0')
+#4 E:\wamp64\www\healthyhabbits\vendor\codeigniter4\framework\system\CodeIgniter.php(400): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Users))
+#5 E:\wamp64\www\healthyhabbits\vendor\codeigniter4\framework\system\CodeIgniter.php(308): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 E:\wamp64\www\healthyhabbits\index.php(84): CodeIgniter\CodeIgniter->run()
+#7 {main}
+CRITICAL - 2020-07-22 01:42:58 --> You must use the "set" method to update an entry.
+#0 E:\wamp64\www\healthyhabbits\vendor\codeigniter4\framework\system\Database\BaseBuilder.php(2415): CodeIgniter\Database\BaseBuilder->validateUpdate()
+#1 E:\wamp64\www\healthyhabbits\vendor\codeigniter4\framework\system\Model.php(864): CodeIgniter\Database\BaseBuilder->update()
+#2 E:\wamp64\www\healthyhabbits\app\Controllers\Users.php(242): CodeIgniter\Model->update()
+#3 E:\wamp64\www\healthyhabbits\vendor\codeigniter4\framework\system\CodeIgniter.php(914): App\Controllers\Users->delete_status('83', '0')
+#4 E:\wamp64\www\healthyhabbits\vendor\codeigniter4\framework\system\CodeIgniter.php(400): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Users))
+#5 E:\wamp64\www\healthyhabbits\vendor\codeigniter4\framework\system\CodeIgniter.php(308): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 E:\wamp64\www\healthyhabbits\index.php(84): CodeIgniter\CodeIgniter->run()
+#7 {main}
+CRITICAL - 2020-07-22 01:42:58 --> You must use the "set" method to update an entry.
+#0 E:\wamp64\www\healthyhabbits\vendor\codeigniter4\framework\system\Database\BaseBuilder.php(2415): CodeIgniter\Database\BaseBuilder->validateUpdate()
+#1 E:\wamp64\www\healthyhabbits\vendor\codeigniter4\framework\system\Model.php(864): CodeIgniter\Database\BaseBuilder->update()
+#2 E:\wamp64\www\healthyhabbits\app\Controllers\Users.php(242): CodeIgniter\Model->update()
+#3 E:\wamp64\www\healthyhabbits\vendor\codeigniter4\framework\system\CodeIgniter.php(914): App\Controllers\Users->delete_status('83', '0')
+#4 E:\wamp64\www\healthyhabbits\vendor\codeigniter4\framework\system\CodeIgniter.php(400): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Users))
+#5 E:\wamp64\www\healthyhabbits\vendor\codeigniter4\framework\system\CodeIgniter.php(308): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 E:\wamp64\www\healthyhabbits\index.php(84): CodeIgniter\CodeIgniter->run()
+#7 {main}
+CRITICAL - 2020-07-22 01:42:59 --> You must use the "set" method to update an entry.
+#0 E:\wamp64\www\healthyhabbits\vendor\codeigniter4\framework\system\Database\BaseBuilder.php(2415): CodeIgniter\Database\BaseBuilder->validateUpdate()
+#1 E:\wamp64\www\healthyhabbits\vendor\codeigniter4\framework\system\Model.php(864): CodeIgniter\Database\BaseBuilder->update()
+#2 E:\wamp64\www\healthyhabbits\app\Controllers\Users.php(242): CodeIgniter\Model->update()
+#3 E:\wamp64\www\healthyhabbits\vendor\codeigniter4\framework\system\CodeIgniter.php(914): App\Controllers\Users->delete_status('83', '0')
+#4 E:\wamp64\www\healthyhabbits\vendor\codeigniter4\framework\system\CodeIgniter.php(400): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Users))
+#5 E:\wamp64\www\healthyhabbits\vendor\codeigniter4\framework\system\CodeIgniter.php(308): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 E:\wamp64\www\healthyhabbits\index.php(84): CodeIgniter\CodeIgniter->run()
+#7 {main}
+CRITICAL - 2020-07-22 01:42:59 --> You must use the "set" method to update an entry.
+#0 E:\wamp64\www\healthyhabbits\vendor\codeigniter4\framework\system\Database\BaseBuilder.php(2415): CodeIgniter\Database\BaseBuilder->validateUpdate()
+#1 E:\wamp64\www\healthyhabbits\vendor\codeigniter4\framework\system\Model.php(864): CodeIgniter\Database\BaseBuilder->update()
+#2 E:\wamp64\www\healthyhabbits\app\Controllers\Users.php(242): CodeIgniter\Model->update()
+#3 E:\wamp64\www\healthyhabbits\vendor\codeigniter4\framework\system\CodeIgniter.php(914): App\Controllers\Users->delete_status('83', '0')
+#4 E:\wamp64\www\healthyhabbits\vendor\codeigniter4\framework\system\CodeIgniter.php(400): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Users))
+#5 E:\wamp64\www\healthyhabbits\vendor\codeigniter4\framework\system\CodeIgniter.php(308): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 E:\wamp64\www\healthyhabbits\index.php(84): CodeIgniter\CodeIgniter->run()
+#7 {main}
+CRITICAL - 2020-07-22 01:42:59 --> You must use the "set" method to update an entry.
+#0 E:\wamp64\www\healthyhabbits\vendor\codeigniter4\framework\system\Database\BaseBuilder.php(2415): CodeIgniter\Database\BaseBuilder->validateUpdate()
+#1 E:\wamp64\www\healthyhabbits\vendor\codeigniter4\framework\system\Model.php(864): CodeIgniter\Database\BaseBuilder->update()
+#2 E:\wamp64\www\healthyhabbits\app\Controllers\Users.php(242): CodeIgniter\Model->update()
+#3 E:\wamp64\www\healthyhabbits\vendor\codeigniter4\framework\system\CodeIgniter.php(914): App\Controllers\Users->delete_status('83', '0')
+#4 E:\wamp64\www\healthyhabbits\vendor\codeigniter4\framework\system\CodeIgniter.php(400): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Users))
+#5 E:\wamp64\www\healthyhabbits\vendor\codeigniter4\framework\system\CodeIgniter.php(308): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 E:\wamp64\www\healthyhabbits\index.php(84): CodeIgniter\CodeIgniter->run()
+#7 {main}
+CRITICAL - 2020-07-22 01:42:59 --> You must use the "set" method to update an entry.
+#0 E:\wamp64\www\healthyhabbits\vendor\codeigniter4\framework\system\Database\BaseBuilder.php(2415): CodeIgniter\Database\BaseBuilder->validateUpdate()
+#1 E:\wamp64\www\healthyhabbits\vendor\codeigniter4\framework\system\Model.php(864): CodeIgniter\Database\BaseBuilder->update()
+#2 E:\wamp64\www\healthyhabbits\app\Controllers\Users.php(242): CodeIgniter\Model->update()
+#3 E:\wamp64\www\healthyhabbits\vendor\codeigniter4\framework\system\CodeIgniter.php(914): App\Controllers\Users->delete_status('83', '0')
+#4 E:\wamp64\www\healthyhabbits\vendor\codeigniter4\framework\system\CodeIgniter.php(400): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Users))
+#5 E:\wamp64\www\healthyhabbits\vendor\codeigniter4\framework\system\CodeIgniter.php(308): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 E:\wamp64\www\healthyhabbits\index.php(84): CodeIgniter\CodeIgniter->run()
+#7 {main}
+CRITICAL - 2020-07-22 01:42:59 --> You must use the "set" method to update an entry.
+#0 E:\wamp64\www\healthyhabbits\vendor\codeigniter4\framework\system\Database\BaseBuilder.php(2415): CodeIgniter\Database\BaseBuilder->validateUpdate()
+#1 E:\wamp64\www\healthyhabbits\vendor\codeigniter4\framework\system\Model.php(864): CodeIgniter\Database\BaseBuilder->update()
+#2 E:\wamp64\www\healthyhabbits\app\Controllers\Users.php(242): CodeIgniter\Model->update()
+#3 E:\wamp64\www\healthyhabbits\vendor\codeigniter4\framework\system\CodeIgniter.php(914): App\Controllers\Users->delete_status('83', '0')
+#4 E:\wamp64\www\healthyhabbits\vendor\codeigniter4\framework\system\CodeIgniter.php(400): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Users))
+#5 E:\wamp64\www\healthyhabbits\vendor\codeigniter4\framework\system\CodeIgniter.php(308): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 E:\wamp64\www\healthyhabbits\index.php(84): CodeIgniter\CodeIgniter->run()
+#7 {main}
+CRITICAL - 2020-07-22 01:42:59 --> You must use the "set" method to update an entry.
+#0 E:\wamp64\www\healthyhabbits\vendor\codeigniter4\framework\system\Database\BaseBuilder.php(2415): CodeIgniter\Database\BaseBuilder->validateUpdate()
+#1 E:\wamp64\www\healthyhabbits\vendor\codeigniter4\framework\system\Model.php(864): CodeIgniter\Database\BaseBuilder->update()
+#2 E:\wamp64\www\healthyhabbits\app\Controllers\Users.php(242): CodeIgniter\Model->update()
+#3 E:\wamp64\www\healthyhabbits\vendor\codeigniter4\framework\system\CodeIgniter.php(914): App\Controllers\Users->delete_status('83', '0')
+#4 E:\wamp64\www\healthyhabbits\vendor\codeigniter4\framework\system\CodeIgniter.php(400): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Users))
+#5 E:\wamp64\www\healthyhabbits\vendor\codeigniter4\framework\system\CodeIgniter.php(308): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 E:\wamp64\www\healthyhabbits\index.php(84): CodeIgniter\CodeIgniter->run()
+#7 {main}
+CRITICAL - 2020-07-22 01:43:00 --> You must use the "set" method to update an entry.
+#0 E:\wamp64\www\healthyhabbits\vendor\codeigniter4\framework\system\Database\BaseBuilder.php(2415): CodeIgniter\Database\BaseBuilder->validateUpdate()
+#1 E:\wamp64\www\healthyhabbits\vendor\codeigniter4\framework\system\Model.php(864): CodeIgniter\Database\BaseBuilder->update()
+#2 E:\wamp64\www\healthyhabbits\app\Controllers\Users.php(242): CodeIgniter\Model->update()
+#3 E:\wamp64\www\healthyhabbits\vendor\codeigniter4\framework\system\CodeIgniter.php(914): App\Controllers\Users->delete_status('83', '0')
+#4 E:\wamp64\www\healthyhabbits\vendor\codeigniter4\framework\system\CodeIgniter.php(400): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Users))
+#5 E:\wamp64\www\healthyhabbits\vendor\codeigniter4\framework\system\CodeIgniter.php(308): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 E:\wamp64\www\healthyhabbits\index.php(84): CodeIgniter\CodeIgniter->run()
+#7 {main}
+CRITICAL - 2020-07-22 01:43:00 --> You must use the "set" method to update an entry.
+#0 E:\wamp64\www\healthyhabbits\vendor\codeigniter4\framework\system\Database\BaseBuilder.php(2415): CodeIgniter\Database\BaseBuilder->validateUpdate()
+#1 E:\wamp64\www\healthyhabbits\vendor\codeigniter4\framework\system\Model.php(864): CodeIgniter\Database\BaseBuilder->update()
+#2 E:\wamp64\www\healthyhabbits\app\Controllers\Users.php(242): CodeIgniter\Model->update()
+#3 E:\wamp64\www\healthyhabbits\vendor\codeigniter4\framework\system\CodeIgniter.php(914): App\Controllers\Users->delete_status('83', '0')
+#4 E:\wamp64\www\healthyhabbits\vendor\codeigniter4\framework\system\CodeIgniter.php(400): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Users))
+#5 E:\wamp64\www\healthyhabbits\vendor\codeigniter4\framework\system\CodeIgniter.php(308): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 E:\wamp64\www\healthyhabbits\index.php(84): CodeIgniter\CodeIgniter->run()
+#7 {main}
+CRITICAL - 2020-07-22 01:43:00 --> You must use the "set" method to update an entry.
+#0 E:\wamp64\www\healthyhabbits\vendor\codeigniter4\framework\system\Database\BaseBuilder.php(2415): CodeIgniter\Database\BaseBuilder->validateUpdate()
+#1 E:\wamp64\www\healthyhabbits\vendor\codeigniter4\framework\system\Model.php(864): CodeIgniter\Database\BaseBuilder->update()
+#2 E:\wamp64\www\healthyhabbits\app\Controllers\Users.php(242): CodeIgniter\Model->update()
+#3 E:\wamp64\www\healthyhabbits\vendor\codeigniter4\framework\system\CodeIgniter.php(914): App\Controllers\Users->delete_status('83', '0')
+#4 E:\wamp64\www\healthyhabbits\vendor\codeigniter4\framework\system\CodeIgniter.php(400): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Users))
+#5 E:\wamp64\www\healthyhabbits\vendor\codeigniter4\framework\system\CodeIgniter.php(308): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 E:\wamp64\www\healthyhabbits\index.php(84): CodeIgniter\CodeIgniter->run()
+#7 {main}
+CRITICAL - 2020-07-22 01:43:00 --> You must use the "set" method to update an entry.
+#0 E:\wamp64\www\healthyhabbits\vendor\codeigniter4\framework\system\Database\BaseBuilder.php(2415): CodeIgniter\Database\BaseBuilder->validateUpdate()
+#1 E:\wamp64\www\healthyhabbits\vendor\codeigniter4\framework\system\Model.php(864): CodeIgniter\Database\BaseBuilder->update()
+#2 E:\wamp64\www\healthyhabbits\app\Controllers\Users.php(242): CodeIgniter\Model->update()
+#3 E:\wamp64\www\healthyhabbits\vendor\codeigniter4\framework\system\CodeIgniter.php(914): App\Controllers\Users->delete_status('83', '0')
+#4 E:\wamp64\www\healthyhabbits\vendor\codeigniter4\framework\system\CodeIgniter.php(400): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Users))
+#5 E:\wamp64\www\healthyhabbits\vendor\codeigniter4\framework\system\CodeIgniter.php(308): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 E:\wamp64\www\healthyhabbits\index.php(84): CodeIgniter\CodeIgniter->run()
+#7 {main}
+CRITICAL - 2020-07-22 01:43:00 --> You must use the "set" method to update an entry.
+#0 E:\wamp64\www\healthyhabbits\vendor\codeigniter4\framework\system\Database\BaseBuilder.php(2415): CodeIgniter\Database\BaseBuilder->validateUpdate()
+#1 E:\wamp64\www\healthyhabbits\vendor\codeigniter4\framework\system\Model.php(864): CodeIgniter\Database\BaseBuilder->update()
+#2 E:\wamp64\www\healthyhabbits\app\Controllers\Users.php(242): CodeIgniter\Model->update()
+#3 E:\wamp64\www\healthyhabbits\vendor\codeigniter4\framework\system\CodeIgniter.php(914): App\Controllers\Users->delete_status('83', '0')
+#4 E:\wamp64\www\healthyhabbits\vendor\codeigniter4\framework\system\CodeIgniter.php(400): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Users))
+#5 E:\wamp64\www\healthyhabbits\vendor\codeigniter4\framework\system\CodeIgniter.php(308): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 E:\wamp64\www\healthyhabbits\index.php(84): CodeIgniter\CodeIgniter->run()
+#7 {main}
+CRITICAL - 2020-07-22 01:43:01 --> You must use the "set" method to update an entry.
+#0 E:\wamp64\www\healthyhabbits\vendor\codeigniter4\framework\system\Database\BaseBuilder.php(2415): CodeIgniter\Database\BaseBuilder->validateUpdate()
+#1 E:\wamp64\www\healthyhabbits\vendor\codeigniter4\framework\system\Model.php(864): CodeIgniter\Database\BaseBuilder->update()
+#2 E:\wamp64\www\healthyhabbits\app\Controllers\Users.php(242): CodeIgniter\Model->update()
+#3 E:\wamp64\www\healthyhabbits\vendor\codeigniter4\framework\system\CodeIgniter.php(914): App\Controllers\Users->delete_status('83', '0')
+#4 E:\wamp64\www\healthyhabbits\vendor\codeigniter4\framework\system\CodeIgniter.php(400): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Users))
+#5 E:\wamp64\www\healthyhabbits\vendor\codeigniter4\framework\system\CodeIgniter.php(308): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 E:\wamp64\www\healthyhabbits\index.php(84): CodeIgniter\CodeIgniter->run()
+#7 {main}
+CRITICAL - 2020-07-22 01:43:01 --> You must use the "set" method to update an entry.
+#0 E:\wamp64\www\healthyhabbits\vendor\codeigniter4\framework\system\Database\BaseBuilder.php(2415): CodeIgniter\Database\BaseBuilder->validateUpdate()
+#1 E:\wamp64\www\healthyhabbits\vendor\codeigniter4\framework\system\Model.php(864): CodeIgniter\Database\BaseBuilder->update()
+#2 E:\wamp64\www\healthyhabbits\app\Controllers\Users.php(242): CodeIgniter\Model->update()
+#3 E:\wamp64\www\healthyhabbits\vendor\codeigniter4\framework\system\CodeIgniter.php(914): App\Controllers\Users->delete_status('83', '0')
+#4 E:\wamp64\www\healthyhabbits\vendor\codeigniter4\framework\system\CodeIgniter.php(400): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Users))
+#5 E:\wamp64\www\healthyhabbits\vendor\codeigniter4\framework\system\CodeIgniter.php(308): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 E:\wamp64\www\healthyhabbits\index.php(84): CodeIgniter\CodeIgniter->run()
+#7 {main}
+CRITICAL - 2020-07-22 01:43:01 --> You must use the "set" method to update an entry.
+#0 E:\wamp64\www\healthyhabbits\vendor\codeigniter4\framework\system\Database\BaseBuilder.php(2415): CodeIgniter\Database\BaseBuilder->validateUpdate()
+#1 E:\wamp64\www\healthyhabbits\vendor\codeigniter4\framework\system\Model.php(864): CodeIgniter\Database\BaseBuilder->update()
+#2 E:\wamp64\www\healthyhabbits\app\Controllers\Users.php(242): CodeIgniter\Model->update()
+#3 E:\wamp64\www\healthyhabbits\vendor\codeigniter4\framework\system\CodeIgniter.php(914): App\Controllers\Users->delete_status('83', '0')
+#4 E:\wamp64\www\healthyhabbits\vendor\codeigniter4\framework\system\CodeIgniter.php(400): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Users))
+#5 E:\wamp64\www\healthyhabbits\vendor\codeigniter4\framework\system\CodeIgniter.php(308): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 E:\wamp64\www\healthyhabbits\index.php(84): CodeIgniter\CodeIgniter->run()
+#7 {main}
+CRITICAL - 2020-07-22 01:43:01 --> You must use the "set" method to update an entry.
+#0 E:\wamp64\www\healthyhabbits\vendor\codeigniter4\framework\system\Database\BaseBuilder.php(2415): CodeIgniter\Database\BaseBuilder->validateUpdate()
+#1 E:\wamp64\www\healthyhabbits\vendor\codeigniter4\framework\system\Model.php(864): CodeIgniter\Database\BaseBuilder->update()
+#2 E:\wamp64\www\healthyhabbits\app\Controllers\Users.php(242): CodeIgniter\Model->update()
+#3 E:\wamp64\www\healthyhabbits\vendor\codeigniter4\framework\system\CodeIgniter.php(914): App\Controllers\Users->delete_status('83', '0')
+#4 E:\wamp64\www\healthyhabbits\vendor\codeigniter4\framework\system\CodeIgniter.php(400): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Users))
+#5 E:\wamp64\www\healthyhabbits\vendor\codeigniter4\framework\system\CodeIgniter.php(308): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 E:\wamp64\www\healthyhabbits\index.php(84): CodeIgniter\CodeIgniter->run()
+#7 {main}
+CRITICAL - 2020-07-22 01:43:01 --> You must use the "set" method to update an entry.
+#0 E:\wamp64\www\healthyhabbits\vendor\codeigniter4\framework\system\Database\BaseBuilder.php(2415): CodeIgniter\Database\BaseBuilder->validateUpdate()
+#1 E:\wamp64\www\healthyhabbits\vendor\codeigniter4\framework\system\Model.php(864): CodeIgniter\Database\BaseBuilder->update()
+#2 E:\wamp64\www\healthyhabbits\app\Controllers\Users.php(242): CodeIgniter\Model->update()
+#3 E:\wamp64\www\healthyhabbits\vendor\codeigniter4\framework\system\CodeIgniter.php(914): App\Controllers\Users->delete_status('83', '0')
+#4 E:\wamp64\www\healthyhabbits\vendor\codeigniter4\framework\system\CodeIgniter.php(400): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Users))
+#5 E:\wamp64\www\healthyhabbits\vendor\codeigniter4\framework\system\CodeIgniter.php(308): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 E:\wamp64\www\healthyhabbits\index.php(84): CodeIgniter\CodeIgniter->run()
+#7 {main}
+CRITICAL - 2020-07-22 01:43:02 --> You must use the "set" method to update an entry.
+#0 E:\wamp64\www\healthyhabbits\vendor\codeigniter4\framework\system\Database\BaseBuilder.php(2415): CodeIgniter\Database\BaseBuilder->validateUpdate()
+#1 E:\wamp64\www\healthyhabbits\vendor\codeigniter4\framework\system\Model.php(864): CodeIgniter\Database\BaseBuilder->update()
+#2 E:\wamp64\www\healthyhabbits\app\Controllers\Users.php(242): CodeIgniter\Model->update()
+#3 E:\wamp64\www\healthyhabbits\vendor\codeigniter4\framework\system\CodeIgniter.php(914): App\Controllers\Users->delete_status('83', '0')
+#4 E:\wamp64\www\healthyhabbits\vendor\codeigniter4\framework\system\CodeIgniter.php(400): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Users))
+#5 E:\wamp64\www\healthyhabbits\vendor\codeigniter4\framework\system\CodeIgniter.php(308): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 E:\wamp64\www\healthyhabbits\index.php(84): CodeIgniter\CodeIgniter->run()
+#7 {main}
+CRITICAL - 2020-07-22 01:45:04 --> You must use the "set" method to update an entry.
+#0 E:\wamp64\www\healthyhabbits\vendor\codeigniter4\framework\system\Database\BaseBuilder.php(2415): CodeIgniter\Database\BaseBuilder->validateUpdate()
+#1 E:\wamp64\www\healthyhabbits\vendor\codeigniter4\framework\system\Model.php(864): CodeIgniter\Database\BaseBuilder->update()
+#2 E:\wamp64\www\healthyhabbits\app\Controllers\Users.php(240): CodeIgniter\Model->update(Array, Array)
+#3 E:\wamp64\www\healthyhabbits\vendor\codeigniter4\framework\system\CodeIgniter.php(914): App\Controllers\Users->delete_status('83', '0')
+#4 E:\wamp64\www\healthyhabbits\vendor\codeigniter4\framework\system\CodeIgniter.php(400): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Users))
+#5 E:\wamp64\www\healthyhabbits\vendor\codeigniter4\framework\system\CodeIgniter.php(308): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 E:\wamp64\www\healthyhabbits\index.php(84): CodeIgniter\CodeIgniter->run()
+#7 {main}
+CRITICAL - 2020-07-22 01:45:05 --> You must use the "set" method to update an entry.
+#0 E:\wamp64\www\healthyhabbits\vendor\codeigniter4\framework\system\Database\BaseBuilder.php(2415): CodeIgniter\Database\BaseBuilder->validateUpdate()
+#1 E:\wamp64\www\healthyhabbits\vendor\codeigniter4\framework\system\Model.php(864): CodeIgniter\Database\BaseBuilder->update()
+#2 E:\wamp64\www\healthyhabbits\app\Controllers\Users.php(240): CodeIgniter\Model->update(Array, Array)
+#3 E:\wamp64\www\healthyhabbits\vendor\codeigniter4\framework\system\CodeIgniter.php(914): App\Controllers\Users->delete_status('83', '0')
+#4 E:\wamp64\www\healthyhabbits\vendor\codeigniter4\framework\system\CodeIgniter.php(400): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Users))
+#5 E:\wamp64\www\healthyhabbits\vendor\codeigniter4\framework\system\CodeIgniter.php(308): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 E:\wamp64\www\healthyhabbits\index.php(84): CodeIgniter\CodeIgniter->run()
+#7 {main}
+CRITICAL - 2020-07-22 01:45:05 --> You must use the "set" method to update an entry.
+#0 E:\wamp64\www\healthyhabbits\vendor\codeigniter4\framework\system\Database\BaseBuilder.php(2415): CodeIgniter\Database\BaseBuilder->validateUpdate()
+#1 E:\wamp64\www\healthyhabbits\vendor\codeigniter4\framework\system\Model.php(864): CodeIgniter\Database\BaseBuilder->update()
+#2 E:\wamp64\www\healthyhabbits\app\Controllers\Users.php(240): CodeIgniter\Model->update(Array, Array)
+#3 E:\wamp64\www\healthyhabbits\vendor\codeigniter4\framework\system\CodeIgniter.php(914): App\Controllers\Users->delete_status('83', '0')
+#4 E:\wamp64\www\healthyhabbits\vendor\codeigniter4\framework\system\CodeIgniter.php(400): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Users))
+#5 E:\wamp64\www\healthyhabbits\vendor\codeigniter4\framework\system\CodeIgniter.php(308): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 E:\wamp64\www\healthyhabbits\index.php(84): CodeIgniter\CodeIgniter->run()
+#7 {main}
+CRITICAL - 2020-07-22 01:45:05 --> You must use the "set" method to update an entry.
+#0 E:\wamp64\www\healthyhabbits\vendor\codeigniter4\framework\system\Database\BaseBuilder.php(2415): CodeIgniter\Database\BaseBuilder->validateUpdate()
+#1 E:\wamp64\www\healthyhabbits\vendor\codeigniter4\framework\system\Model.php(864): CodeIgniter\Database\BaseBuilder->update()
+#2 E:\wamp64\www\healthyhabbits\app\Controllers\Users.php(240): CodeIgniter\Model->update(Array, Array)
+#3 E:\wamp64\www\healthyhabbits\vendor\codeigniter4\framework\system\CodeIgniter.php(914): App\Controllers\Users->delete_status('83', '0')
+#4 E:\wamp64\www\healthyhabbits\vendor\codeigniter4\framework\system\CodeIgniter.php(400): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Users))
+#5 E:\wamp64\www\healthyhabbits\vendor\codeigniter4\framework\system\CodeIgniter.php(308): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 E:\wamp64\www\healthyhabbits\index.php(84): CodeIgniter\CodeIgniter->run()
+#7 {main}
+CRITICAL - 2020-07-22 01:45:05 --> You must use the "set" method to update an entry.
+#0 E:\wamp64\www\healthyhabbits\vendor\codeigniter4\framework\system\Database\BaseBuilder.php(2415): CodeIgniter\Database\BaseBuilder->validateUpdate()
+#1 E:\wamp64\www\healthyhabbits\vendor\codeigniter4\framework\system\Model.php(864): CodeIgniter\Database\BaseBuilder->update()
+#2 E:\wamp64\www\healthyhabbits\app\Controllers\Users.php(240): CodeIgniter\Model->update(Array, Array)
+#3 E:\wamp64\www\healthyhabbits\vendor\codeigniter4\framework\system\CodeIgniter.php(914): App\Controllers\Users->delete_status('83', '0')
+#4 E:\wamp64\www\healthyhabbits\vendor\codeigniter4\framework\system\CodeIgniter.php(400): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Users))
+#5 E:\wamp64\www\healthyhabbits\vendor\codeigniter4\framework\system\CodeIgniter.php(308): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 E:\wamp64\www\healthyhabbits\index.php(84): CodeIgniter\CodeIgniter->run()
+#7 {main}
+CRITICAL - 2020-07-22 01:45:06 --> You must use the "set" method to update an entry.
+#0 E:\wamp64\www\healthyhabbits\vendor\codeigniter4\framework\system\Database\BaseBuilder.php(2415): CodeIgniter\Database\BaseBuilder->validateUpdate()
+#1 E:\wamp64\www\healthyhabbits\vendor\codeigniter4\framework\system\Model.php(864): CodeIgniter\Database\BaseBuilder->update()
+#2 E:\wamp64\www\healthyhabbits\app\Controllers\Users.php(240): CodeIgniter\Model->update(Array, Array)
+#3 E:\wamp64\www\healthyhabbits\vendor\codeigniter4\framework\system\CodeIgniter.php(914): App\Controllers\Users->delete_status('83', '0')
+#4 E:\wamp64\www\healthyhabbits\vendor\codeigniter4\framework\system\CodeIgniter.php(400): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Users))
+#5 E:\wamp64\www\healthyhabbits\vendor\codeigniter4\framework\system\CodeIgniter.php(308): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 E:\wamp64\www\healthyhabbits\index.php(84): CodeIgniter\CodeIgniter->run()
+#7 {main}
+CRITICAL - 2020-07-22 02:02:22 --> Undefined index: is_deleted
+#0 E:\wamp64\www\healthyhabbits\app\Views\relationmaster\list.php(77): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined index...', 'E:\\wamp64\\www\\h...', 77, Array)
+#1 E:\wamp64\www\healthyhabbits\vendor\codeigniter4\framework\system\View\View.php(246): include('E:\\wamp64\\www\\h...')
+#2 E:\wamp64\www\healthyhabbits\vendor\codeigniter4\framework\system\Common.php(1087): CodeIgniter\View\View->render('relationmaster/...', Array, true)
+#3 E:\wamp64\www\healthyhabbits\app\Controllers\BaseController.php(56): view('relationmaster/...', Array)
+#4 E:\wamp64\www\healthyhabbits\app\Controllers\RelationMaster.php(19): App\Controllers\BaseController->render_page('relationmaster/...', Array)
+#5 E:\wamp64\www\healthyhabbits\vendor\codeigniter4\framework\system\CodeIgniter.php(914): App\Controllers\RelationMaster->index()
+#6 E:\wamp64\www\healthyhabbits\vendor\codeigniter4\framework\system\CodeIgniter.php(400): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\RelationMaster))
+#7 E:\wamp64\www\healthyhabbits\vendor\codeigniter4\framework\system\CodeIgniter.php(308): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#8 E:\wamp64\www\healthyhabbits\index.php(84): CodeIgniter\CodeIgniter->run()
+#9 {main}
+CRITICAL - 2020-07-22 02:05:24 --> Class 'App\Controllers\UsersModel' not found
+#0 E:\wamp64\www\healthyhabbits\vendor\codeigniter4\framework\system\CodeIgniter.php(914): App\Controllers\RelationMaster->delete_status('1', '0')
+#1 E:\wamp64\www\healthyhabbits\vendor\codeigniter4\framework\system\CodeIgniter.php(400): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\RelationMaster))
+#2 E:\wamp64\www\healthyhabbits\vendor\codeigniter4\framework\system\CodeIgniter.php(308): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 E:\wamp64\www\healthyhabbits\index.php(84): CodeIgniter\CodeIgniter->run()
+#4 {main}
+CRITICAL - 2020-07-22 02:05:37 --> You must use the "set" method to update an entry.
+#0 E:\wamp64\www\healthyhabbits\vendor\codeigniter4\framework\system\Database\BaseBuilder.php(2415): CodeIgniter\Database\BaseBuilder->validateUpdate()
+#1 E:\wamp64\www\healthyhabbits\vendor\codeigniter4\framework\system\Model.php(864): CodeIgniter\Database\BaseBuilder->update()
+#2 E:\wamp64\www\healthyhabbits\app\Controllers\RelationMaster.php(199): CodeIgniter\Model->update()
+#3 E:\wamp64\www\healthyhabbits\vendor\codeigniter4\framework\system\CodeIgniter.php(914): App\Controllers\RelationMaster->delete_status('1', '0')
+#4 E:\wamp64\www\healthyhabbits\vendor\codeigniter4\framework\system\CodeIgniter.php(400): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\RelationMaster))
+#5 E:\wamp64\www\healthyhabbits\vendor\codeigniter4\framework\system\CodeIgniter.php(308): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 E:\wamp64\www\healthyhabbits\index.php(84): CodeIgniter\CodeIgniter->run()
+#7 {main}
+CRITICAL - 2020-07-22 02:15:24 --> Call to undefined method App\Models\CheckupModel::order_by
+#0 E:\wamp64\www\healthyhabbits\app\Controllers\CheckupMaster.php(17): CodeIgniter\Model->__call('order_by', Array)
+#1 E:\wamp64\www\healthyhabbits\vendor\codeigniter4\framework\system\CodeIgniter.php(914): App\Controllers\CheckupMaster->index()
+#2 E:\wamp64\www\healthyhabbits\vendor\codeigniter4\framework\system\CodeIgniter.php(400): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\CheckupMaster))
+#3 E:\wamp64\www\healthyhabbits\vendor\codeigniter4\framework\system\CodeIgniter.php(308): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 E:\wamp64\www\healthyhabbits\index.php(84): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2020-07-22 02:25:03 --> Class 'App\Controllers\CheckupModel' not found
+#0 E:\wamp64\www\healthyhabbits\vendor\codeigniter4\framework\system\CodeIgniter.php(914): App\Controllers\Policy->delete_status('1', '0')
+#1 E:\wamp64\www\healthyhabbits\vendor\codeigniter4\framework\system\CodeIgniter.php(400): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Policy))
+#2 E:\wamp64\www\healthyhabbits\vendor\codeigniter4\framework\system\CodeIgniter.php(308): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 E:\wamp64\www\healthyhabbits\index.php(84): CodeIgniter\CodeIgniter->run()
+#4 {main}
+CRITICAL - 2020-07-22 04:23:59 --> Trying to get property 'insert_id' of non-object
+#0 E:\wamp64\www\healthyhabbits\vendor\codeigniter4\framework\system\Database\MySQLi\Connection.php(687): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Trying to get p...', 'E:\\wamp64\\www\\h...', 687, Array)
+#1 E:\wamp64\www\healthyhabbits\vendor\codeigniter4\framework\system\Model.php(1712): CodeIgniter\Database\MySQLi\Connection->insertID()
+#2 E:\wamp64\www\healthyhabbits\app\Controllers\FamilyMember.php(40): CodeIgniter\Model->__call('insertId', Array)
+#3 E:\wamp64\www\healthyhabbits\vendor\codeigniter4\framework\system\CodeIgniter.php(914): App\Controllers\FamilyMember->create('79')
+#4 E:\wamp64\www\healthyhabbits\vendor\codeigniter4\framework\system\CodeIgniter.php(400): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\FamilyMember))
+#5 E:\wamp64\www\healthyhabbits\vendor\codeigniter4\framework\system\CodeIgniter.php(308): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 E:\wamp64\www\healthyhabbits\index.php(84): CodeIgniter\CodeIgniter->run()
+#7 {main}
+CRITICAL - 2020-07-22 04:24:04 --> Trying to get property 'insert_id' of non-object
+#0 E:\wamp64\www\healthyhabbits\vendor\codeigniter4\framework\system\Database\MySQLi\Connection.php(687): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Trying to get p...', 'E:\\wamp64\\www\\h...', 687, Array)
+#1 E:\wamp64\www\healthyhabbits\vendor\codeigniter4\framework\system\Model.php(1712): CodeIgniter\Database\MySQLi\Connection->insertID()
+#2 E:\wamp64\www\healthyhabbits\app\Controllers\FamilyMember.php(40): CodeIgniter\Model->__call('insertId', Array)
+#3 E:\wamp64\www\healthyhabbits\vendor\codeigniter4\framework\system\CodeIgniter.php(914): App\Controllers\FamilyMember->create('79')
+#4 E:\wamp64\www\healthyhabbits\vendor\codeigniter4\framework\system\CodeIgniter.php(400): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\FamilyMember))
+#5 E:\wamp64\www\healthyhabbits\vendor\codeigniter4\framework\system\CodeIgniter.php(308): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 E:\wamp64\www\healthyhabbits\index.php(84): CodeIgniter\CodeIgniter->run()
+#7 {main}
+CRITICAL - 2020-07-22 04:28:03 --> Invalid argument supplied for foreach()
+#0 E:\wamp64\www\healthyhabbits\vendor\codeigniter4\framework\system\Database\BaseBuilder.php(358): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Invalid argumen...', 'E:\\wamp64\\www\\h...', 358, Array)
+#1 E:\wamp64\www\healthyhabbits\vendor\codeigniter4\framework\system\Model.php(1716): CodeIgniter\Database\BaseBuilder->select(NULL)
+#2 E:\wamp64\www\healthyhabbits\app\Controllers\FamilyMember.php(40): CodeIgniter\Model->__call('select', Array)
+#3 E:\wamp64\www\healthyhabbits\vendor\codeigniter4\framework\system\CodeIgniter.php(914): App\Controllers\FamilyMember->create('79')
+#4 E:\wamp64\www\healthyhabbits\vendor\codeigniter4\framework\system\CodeIgniter.php(400): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\FamilyMember))
+#5 E:\wamp64\www\healthyhabbits\vendor\codeigniter4\framework\system\CodeIgniter.php(308): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 E:\wamp64\www\healthyhabbits\index.php(84): CodeIgniter\CodeIgniter->run()
+#7 {main}
+CRITICAL - 2020-07-22 04:28:25 --> Invalid argument supplied for foreach()
+#0 E:\wamp64\www\healthyhabbits\vendor\codeigniter4\framework\system\Database\BaseBuilder.php(358): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Invalid argumen...', 'E:\\wamp64\\www\\h...', 358, Array)
+#1 E:\wamp64\www\healthyhabbits\vendor\codeigniter4\framework\system\Model.php(1716): CodeIgniter\Database\BaseBuilder->select(NULL)
+#2 E:\wamp64\www\healthyhabbits\app\Controllers\FamilyMember.php(40): CodeIgniter\Model->__call('select', Array)
+#3 E:\wamp64\www\healthyhabbits\vendor\codeigniter4\framework\system\CodeIgniter.php(914): App\Controllers\FamilyMember->create('79')
+#4 E:\wamp64\www\healthyhabbits\vendor\codeigniter4\framework\system\CodeIgniter.php(400): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\FamilyMember))
+#5 E:\wamp64\www\healthyhabbits\vendor\codeigniter4\framework\system\CodeIgniter.php(308): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 E:\wamp64\www\healthyhabbits\index.php(84): CodeIgniter\CodeIgniter->run()
+#7 {main}
+CRITICAL - 2020-07-22 04:28:29 --> Invalid argument supplied for foreach()
+#0 E:\wamp64\www\healthyhabbits\vendor\codeigniter4\framework\system\Database\BaseBuilder.php(358): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Invalid argumen...', 'E:\\wamp64\\www\\h...', 358, Array)
+#1 E:\wamp64\www\healthyhabbits\vendor\codeigniter4\framework\system\Model.php(1716): CodeIgniter\Database\BaseBuilder->select(NULL)
+#2 E:\wamp64\www\healthyhabbits\app\Controllers\FamilyMember.php(40): CodeIgniter\Model->__call('select', Array)
+#3 E:\wamp64\www\healthyhabbits\vendor\codeigniter4\framework\system\CodeIgniter.php(914): App\Controllers\FamilyMember->create('79')
+#4 E:\wamp64\www\healthyhabbits\vendor\codeigniter4\framework\system\CodeIgniter.php(400): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\FamilyMember))
+#5 E:\wamp64\www\healthyhabbits\vendor\codeigniter4\framework\system\CodeIgniter.php(308): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 E:\wamp64\www\healthyhabbits\index.php(84): CodeIgniter\CodeIgniter->run()
+#7 {main}
+CRITICAL - 2020-07-22 04:32:02 --> syntax error, unexpected '$db' (T_VARIABLE)
+#0 E:\wamp64\www\healthyhabbits\vendor\codeigniter4\framework\system\Router\Router.php(192): CodeIgniter\Router\Router->autoRoute('/familymember/c...')
+#1 E:\wamp64\www\healthyhabbits\vendor\codeigniter4\framework\system\CodeIgniter.php(789): CodeIgniter\Router\Router->handle('/familymember/c...')
+#2 E:\wamp64\www\healthyhabbits\vendor\codeigniter4\framework\system\CodeIgniter.php(360): CodeIgniter\CodeIgniter->tryToRouteIt(Object(CodeIgniter\Router\RouteCollection))
+#3 E:\wamp64\www\healthyhabbits\vendor\codeigniter4\framework\system\CodeIgniter.php(308): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 E:\wamp64\www\healthyhabbits\index.php(84): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2020-07-22 04:32:04 --> syntax error, unexpected '$db' (T_VARIABLE)
+#0 E:\wamp64\www\healthyhabbits\vendor\codeigniter4\framework\system\Router\Router.php(192): CodeIgniter\Router\Router->autoRoute('/familymember/c...')
+#1 E:\wamp64\www\healthyhabbits\vendor\codeigniter4\framework\system\CodeIgniter.php(789): CodeIgniter\Router\Router->handle('/familymember/c...')
+#2 E:\wamp64\www\healthyhabbits\vendor\codeigniter4\framework\system\CodeIgniter.php(360): CodeIgniter\CodeIgniter->tryToRouteIt(Object(CodeIgniter\Router\RouteCollection))
+#3 E:\wamp64\www\healthyhabbits\vendor\codeigniter4\framework\system\CodeIgniter.php(308): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 E:\wamp64\www\healthyhabbits\index.php(84): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2020-07-22 04:32:15 --> syntax error, unexpected 'var' (T_VAR)
+#0 E:\wamp64\www\healthyhabbits\vendor\codeigniter4\framework\system\Router\Router.php(192): CodeIgniter\Router\Router->autoRoute('/familymember/c...')
+#1 E:\wamp64\www\healthyhabbits\vendor\codeigniter4\framework\system\CodeIgniter.php(789): CodeIgniter\Router\Router->handle('/familymember/c...')
+#2 E:\wamp64\www\healthyhabbits\vendor\codeigniter4\framework\system\CodeIgniter.php(360): CodeIgniter\CodeIgniter->tryToRouteIt(Object(CodeIgniter\Router\RouteCollection))
+#3 E:\wamp64\www\healthyhabbits\vendor\codeigniter4\framework\system\CodeIgniter.php(308): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 E:\wamp64\www\healthyhabbits\index.php(84): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2020-07-22 04:32:17 --> syntax error, unexpected 'var' (T_VAR)
+#0 E:\wamp64\www\healthyhabbits\vendor\codeigniter4\framework\system\Router\Router.php(192): CodeIgniter\Router\Router->autoRoute('/familymember/c...')
+#1 E:\wamp64\www\healthyhabbits\vendor\codeigniter4\framework\system\CodeIgniter.php(789): CodeIgniter\Router\Router->handle('/familymember/c...')
+#2 E:\wamp64\www\healthyhabbits\vendor\codeigniter4\framework\system\CodeIgniter.php(360): CodeIgniter\CodeIgniter->tryToRouteIt(Object(CodeIgniter\Router\RouteCollection))
+#3 E:\wamp64\www\healthyhabbits\vendor\codeigniter4\framework\system\CodeIgniter.php(308): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 E:\wamp64\www\healthyhabbits\index.php(84): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2020-07-22 04:32:33 --> Undefined variable: id
+#0 E:\wamp64\www\healthyhabbits\app\Controllers\FamilyMember.php(40): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined varia...', 'E:\\wamp64\\www\\h...', 40, Array)
+#1 E:\wamp64\www\healthyhabbits\vendor\codeigniter4\framework\system\CodeIgniter.php(914): App\Controllers\FamilyMember->create('79')
+#2 E:\wamp64\www\healthyhabbits\vendor\codeigniter4\framework\system\CodeIgniter.php(400): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\FamilyMember))
+#3 E:\wamp64\www\healthyhabbits\vendor\codeigniter4\framework\system\CodeIgniter.php(308): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 E:\wamp64\www\healthyhabbits\index.php(84): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2020-07-22 04:32:54 --> Undefined property: App\Controllers\FamilyMember::$db
+#0 E:\wamp64\www\healthyhabbits\app\Controllers\FamilyMember.php(45): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined prope...', 'E:\\wamp64\\www\\h...', 45, Array)
+#1 E:\wamp64\www\healthyhabbits\vendor\codeigniter4\framework\system\CodeIgniter.php(914): App\Controllers\FamilyMember->create('79')
+#2 E:\wamp64\www\healthyhabbits\vendor\codeigniter4\framework\system\CodeIgniter.php(400): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\FamilyMember))
+#3 E:\wamp64\www\healthyhabbits\vendor\codeigniter4\framework\system\CodeIgniter.php(308): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 E:\wamp64\www\healthyhabbits\index.php(84): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2020-07-22 04:33:54 --> Undefined property: App\Controllers\FamilyMember::$db
+#0 E:\wamp64\www\healthyhabbits\app\Controllers\FamilyMember.php(45): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined prope...', 'E:\\wamp64\\www\\h...', 45, Array)
+#1 E:\wamp64\www\healthyhabbits\vendor\codeigniter4\framework\system\CodeIgniter.php(914): App\Controllers\FamilyMember->create('79')
+#2 E:\wamp64\www\healthyhabbits\vendor\codeigniter4\framework\system\CodeIgniter.php(400): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\FamilyMember))
+#3 E:\wamp64\www\healthyhabbits\vendor\codeigniter4\framework\system\CodeIgniter.php(308): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 E:\wamp64\www\healthyhabbits\index.php(84): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2020-07-22 04:33:55 --> Undefined property: App\Controllers\FamilyMember::$db
+#0 E:\wamp64\www\healthyhabbits\app\Controllers\FamilyMember.php(45): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined prope...', 'E:\\wamp64\\www\\h...', 45, Array)
+#1 E:\wamp64\www\healthyhabbits\vendor\codeigniter4\framework\system\CodeIgniter.php(914): App\Controllers\FamilyMember->create('79')
+#2 E:\wamp64\www\healthyhabbits\vendor\codeigniter4\framework\system\CodeIgniter.php(400): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\FamilyMember))
+#3 E:\wamp64\www\healthyhabbits\vendor\codeigniter4\framework\system\CodeIgniter.php(308): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 E:\wamp64\www\healthyhabbits\index.php(84): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2020-07-22 04:33:55 --> Undefined property: App\Controllers\FamilyMember::$db
+#0 E:\wamp64\www\healthyhabbits\app\Controllers\FamilyMember.php(45): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined prope...', 'E:\\wamp64\\www\\h...', 45, Array)
+#1 E:\wamp64\www\healthyhabbits\vendor\codeigniter4\framework\system\CodeIgniter.php(914): App\Controllers\FamilyMember->create('79')
+#2 E:\wamp64\www\healthyhabbits\vendor\codeigniter4\framework\system\CodeIgniter.php(400): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\FamilyMember))
+#3 E:\wamp64\www\healthyhabbits\vendor\codeigniter4\framework\system\CodeIgniter.php(308): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 E:\wamp64\www\healthyhabbits\index.php(84): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2020-07-22 04:34:18 --> Call to undefined method App\Controllers\FamilyMember::query()
+#0 E:\wamp64\www\healthyhabbits\vendor\codeigniter4\framework\system\CodeIgniter.php(914): App\Controllers\FamilyMember->create('79')
+#1 E:\wamp64\www\healthyhabbits\vendor\codeigniter4\framework\system\CodeIgniter.php(400): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\FamilyMember))
+#2 E:\wamp64\www\healthyhabbits\vendor\codeigniter4\framework\system\CodeIgniter.php(308): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 E:\wamp64\www\healthyhabbits\index.php(84): CodeIgniter\CodeIgniter->run()
+#4 {main}
+CRITICAL - 2020-07-22 04:34:19 --> Call to undefined method App\Controllers\FamilyMember::query()
+#0 E:\wamp64\www\healthyhabbits\vendor\codeigniter4\framework\system\CodeIgniter.php(914): App\Controllers\FamilyMember->create('79')
+#1 E:\wamp64\www\healthyhabbits\vendor\codeigniter4\framework\system\CodeIgniter.php(400): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\FamilyMember))
+#2 E:\wamp64\www\healthyhabbits\vendor\codeigniter4\framework\system\CodeIgniter.php(308): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 E:\wamp64\www\healthyhabbits\index.php(84): CodeIgniter\CodeIgniter->run()
+#4 {main}
+CRITICAL - 2020-07-22 04:34:19 --> Call to undefined method App\Controllers\FamilyMember::query()
+#0 E:\wamp64\www\healthyhabbits\vendor\codeigniter4\framework\system\CodeIgniter.php(914): App\Controllers\FamilyMember->create('79')
+#1 E:\wamp64\www\healthyhabbits\vendor\codeigniter4\framework\system\CodeIgniter.php(400): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\FamilyMember))
+#2 E:\wamp64\www\healthyhabbits\vendor\codeigniter4\framework\system\CodeIgniter.php(308): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 E:\wamp64\www\healthyhabbits\index.php(84): CodeIgniter\CodeIgniter->run()
+#4 {main}
+CRITICAL - 2020-07-22 04:39:19 --> Undefined property: App\Controllers\FamilyMember::$db
+#0 E:\wamp64\www\healthyhabbits\app\Controllers\FamilyMember.php(40): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined prope...', 'E:\\wamp64\\www\\h...', 40, Array)
+#1 E:\wamp64\www\healthyhabbits\vendor\codeigniter4\framework\system\CodeIgniter.php(914): App\Controllers\FamilyMember->create('79')
+#2 E:\wamp64\www\healthyhabbits\vendor\codeigniter4\framework\system\CodeIgniter.php(400): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\FamilyMember))
+#3 E:\wamp64\www\healthyhabbits\vendor\codeigniter4\framework\system\CodeIgniter.php(308): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 E:\wamp64\www\healthyhabbits\index.php(84): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2020-07-22 04:39:20 --> Undefined property: App\Controllers\FamilyMember::$db
+#0 E:\wamp64\www\healthyhabbits\app\Controllers\FamilyMember.php(40): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined prope...', 'E:\\wamp64\\www\\h...', 40, Array)
+#1 E:\wamp64\www\healthyhabbits\vendor\codeigniter4\framework\system\CodeIgniter.php(914): App\Controllers\FamilyMember->create('79')
+#2 E:\wamp64\www\healthyhabbits\vendor\codeigniter4\framework\system\CodeIgniter.php(400): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\FamilyMember))
+#3 E:\wamp64\www\healthyhabbits\vendor\codeigniter4\framework\system\CodeIgniter.php(308): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 E:\wamp64\www\healthyhabbits\index.php(84): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2020-07-22 04:39:53 --> Undefined property: App\Controllers\FamilyMember::$db
+#0 E:\wamp64\www\healthyhabbits\app\Controllers\FamilyMember.php(40): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined prope...', 'E:\\wamp64\\www\\h...', 40, Array)
+#1 E:\wamp64\www\healthyhabbits\vendor\codeigniter4\framework\system\CodeIgniter.php(914): App\Controllers\FamilyMember->create('79')
+#2 E:\wamp64\www\healthyhabbits\vendor\codeigniter4\framework\system\CodeIgniter.php(400): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\FamilyMember))
+#3 E:\wamp64\www\healthyhabbits\vendor\codeigniter4\framework\system\CodeIgniter.php(308): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 E:\wamp64\www\healthyhabbits\index.php(84): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2020-07-22 04:39:53 --> Undefined property: App\Controllers\FamilyMember::$db
+#0 E:\wamp64\www\healthyhabbits\app\Controllers\FamilyMember.php(40): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined prope...', 'E:\\wamp64\\www\\h...', 40, Array)
+#1 E:\wamp64\www\healthyhabbits\vendor\codeigniter4\framework\system\CodeIgniter.php(914): App\Controllers\FamilyMember->create('79')
+#2 E:\wamp64\www\healthyhabbits\vendor\codeigniter4\framework\system\CodeIgniter.php(400): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\FamilyMember))
+#3 E:\wamp64\www\healthyhabbits\vendor\codeigniter4\framework\system\CodeIgniter.php(308): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 E:\wamp64\www\healthyhabbits\index.php(84): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2020-07-22 04:39:54 --> Undefined property: App\Controllers\FamilyMember::$db
+#0 E:\wamp64\www\healthyhabbits\app\Controllers\FamilyMember.php(40): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined prope...', 'E:\\wamp64\\www\\h...', 40, Array)
+#1 E:\wamp64\www\healthyhabbits\vendor\codeigniter4\framework\system\CodeIgniter.php(914): App\Controllers\FamilyMember->create('79')
+#2 E:\wamp64\www\healthyhabbits\vendor\codeigniter4\framework\system\CodeIgniter.php(400): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\FamilyMember))
+#3 E:\wamp64\www\healthyhabbits\vendor\codeigniter4\framework\system\CodeIgniter.php(308): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 E:\wamp64\www\healthyhabbits\index.php(84): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2020-07-22 04:39:54 --> Undefined property: App\Controllers\FamilyMember::$db
+#0 E:\wamp64\www\healthyhabbits\app\Controllers\FamilyMember.php(40): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined prope...', 'E:\\wamp64\\www\\h...', 40, Array)
+#1 E:\wamp64\www\healthyhabbits\vendor\codeigniter4\framework\system\CodeIgniter.php(914): App\Controllers\FamilyMember->create('79')
+#2 E:\wamp64\www\healthyhabbits\vendor\codeigniter4\framework\system\CodeIgniter.php(400): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\FamilyMember))
+#3 E:\wamp64\www\healthyhabbits\vendor\codeigniter4\framework\system\CodeIgniter.php(308): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 E:\wamp64\www\healthyhabbits\index.php(84): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2020-07-22 04:40:19 --> Call to undefined method CodeIgniter\Database\MySQLi\Result::row()
+#0 E:\wamp64\www\healthyhabbits\vendor\codeigniter4\framework\system\CodeIgniter.php(914): App\Controllers\FamilyMember->create('79')
+#1 E:\wamp64\www\healthyhabbits\vendor\codeigniter4\framework\system\CodeIgniter.php(400): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\FamilyMember))
+#2 E:\wamp64\www\healthyhabbits\vendor\codeigniter4\framework\system\CodeIgniter.php(308): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 E:\wamp64\www\healthyhabbits\index.php(84): CodeIgniter\CodeIgniter->run()
+#4 {main}
+CRITICAL - 2020-07-22 04:40:21 --> Call to undefined method CodeIgniter\Database\MySQLi\Result::row()
+#0 E:\wamp64\www\healthyhabbits\vendor\codeigniter4\framework\system\CodeIgniter.php(914): App\Controllers\FamilyMember->create('79')
+#1 E:\wamp64\www\healthyhabbits\vendor\codeigniter4\framework\system\CodeIgniter.php(400): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\FamilyMember))
+#2 E:\wamp64\www\healthyhabbits\vendor\codeigniter4\framework\system\CodeIgniter.php(308): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 E:\wamp64\www\healthyhabbits\index.php(84): CodeIgniter\CodeIgniter->run()
+#4 {main}
+CRITICAL - 2020-07-22 04:50:34 --> Use of undefined constant hsdhhsdf - assumed 'hsdhhsdf' (this will throw an Error in a future version of PHP)
+#0 E:\wamp64\www\healthyhabbits\app\Views\family\list.php(1): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Use of undefine...', 'E:\\wamp64\\www\\h...', 1, Array)
+#1 E:\wamp64\www\healthyhabbits\vendor\codeigniter4\framework\system\View\View.php(246): include('E:\\wamp64\\www\\h...')
+#2 E:\wamp64\www\healthyhabbits\vendor\codeigniter4\framework\system\Common.php(1087): CodeIgniter\View\View->render('Family/list', Array, true)
+#3 E:\wamp64\www\healthyhabbits\app\Controllers\BaseController.php(56): view('Family/list', Array)
+#4 E:\wamp64\www\healthyhabbits\app\Controllers\FamilyMember.php(24): App\Controllers\BaseController->render_page('Family/list', Array)
+#5 E:\wamp64\www\healthyhabbits\vendor\codeigniter4\framework\system\CodeIgniter.php(914): App\Controllers\FamilyMember->index('79')
+#6 E:\wamp64\www\healthyhabbits\vendor\codeigniter4\framework\system\CodeIgniter.php(400): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\FamilyMember))
+#7 E:\wamp64\www\healthyhabbits\vendor\codeigniter4\framework\system\CodeIgniter.php(308): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#8 E:\wamp64\www\healthyhabbits\index.php(84): CodeIgniter\CodeIgniter->run()
+#9 {main}
+CRITICAL - 2020-07-22 04:53:15 --> Cannot use [] for reading
+#0 [internal function]: CodeIgniter\Debug\Exceptions->shutdownHandler()
+#1 {main}
+CRITICAL - 2020-07-22 07:39:54 --> Undefined index: is_active
+#0 E:\wamp64\www\healthyhabbits\app\Views\medicinemaster\list.php(44): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined index...', 'E:\\wamp64\\www\\h...', 44, Array)
+#1 E:\wamp64\www\healthyhabbits\vendor\codeigniter4\framework\system\View\View.php(246): include('E:\\wamp64\\www\\h...')
+#2 E:\wamp64\www\healthyhabbits\vendor\codeigniter4\framework\system\Common.php(1087): CodeIgniter\View\View->render('medicinemaster/...', Array, true)
+#3 E:\wamp64\www\healthyhabbits\app\Controllers\BaseController.php(56): view('medicinemaster/...', Array)
+#4 E:\wamp64\www\healthyhabbits\app\Controllers\MedicineMaster.php(19): App\Controllers\BaseController->render_page('medicinemaster/...', Array)
+#5 E:\wamp64\www\healthyhabbits\vendor\codeigniter4\framework\system\CodeIgniter.php(914): App\Controllers\MedicineMaster->index()
+#6 E:\wamp64\www\healthyhabbits\vendor\codeigniter4\framework\system\CodeIgniter.php(400): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\MedicineMaster))
+#7 E:\wamp64\www\healthyhabbits\vendor\codeigniter4\framework\system\CodeIgniter.php(308): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#8 E:\wamp64\www\healthyhabbits\index.php(84): CodeIgniter\CodeIgniter->run()
+#9 {main}
+CRITICAL - 2020-07-22 07:41:17 --> Invalid file: medicinemaster/edit.php
+#0 E:\wamp64\www\healthyhabbits\vendor\codeigniter4\framework\system\View\View.php(228): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('medicinemaster/...')
+#1 E:\wamp64\www\healthyhabbits\vendor\codeigniter4\framework\system\Common.php(1087): CodeIgniter\View\View->render('medicinemaster/...', Array, true)
+#2 E:\wamp64\www\healthyhabbits\app\Controllers\BaseController.php(56): view('medicinemaster/...', Array)
+#3 E:\wamp64\www\healthyhabbits\app\Controllers\MedicineMaster.php(100): App\Controllers\BaseController->render_page('medicinemaster/...', Array)
+#4 E:\wamp64\www\healthyhabbits\vendor\codeigniter4\framework\system\CodeIgniter.php(914): App\Controllers\MedicineMaster->edit('1')
+#5 E:\wamp64\www\healthyhabbits\vendor\codeigniter4\framework\system\CodeIgniter.php(400): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\MedicineMaster))
+#6 E:\wamp64\www\healthyhabbits\vendor\codeigniter4\framework\system\CodeIgniter.php(308): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#7 E:\wamp64\www\healthyhabbits\index.php(84): CodeIgniter\CodeIgniter->run()
+#8 {main}
+CRITICAL - 2020-07-22 07:46:36 --> Undefined variable: plan
+#0 E:\wamp64\www\healthyhabbits\app\Views\medicinemaster\edit.php(15): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined varia...', 'E:\\wamp64\\www\\h...', 15, Array)
+#1 E:\wamp64\www\healthyhabbits\vendor\codeigniter4\framework\system\View\View.php(246): include('E:\\wamp64\\www\\h...')
+#2 E:\wamp64\www\healthyhabbits\vendor\codeigniter4\framework\system\Common.php(1087): CodeIgniter\View\View->render('medicinemaster/...', Array, true)
+#3 E:\wamp64\www\healthyhabbits\app\Controllers\BaseController.php(56): view('medicinemaster/...', Array)
+#4 E:\wamp64\www\healthyhabbits\app\Controllers\MedicineMaster.php(100): App\Controllers\BaseController->render_page('medicinemaster/...', Array)
+#5 E:\wamp64\www\healthyhabbits\vendor\codeigniter4\framework\system\CodeIgniter.php(914): App\Controllers\MedicineMaster->edit('1')
+#6 E:\wamp64\www\healthyhabbits\vendor\codeigniter4\framework\system\CodeIgniter.php(400): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\MedicineMaster))
+#7 E:\wamp64\www\healthyhabbits\vendor\codeigniter4\framework\system\CodeIgniter.php(308): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#8 E:\wamp64\www\healthyhabbits\index.php(84): CodeIgniter\CodeIgniter->run()
+#9 {main}
+CRITICAL - 2020-07-22 08:14:13 --> Class 'App\Models\ScheduleModel' not found
+#0 E:\wamp64\www\healthyhabbits\vendor\codeigniter4\framework\system\CodeIgniter.php(914): App\Controllers\MedicineSchedule->index()
+#1 E:\wamp64\www\healthyhabbits\vendor\codeigniter4\framework\system\CodeIgniter.php(400): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\MedicineSchedule))
+#2 E:\wamp64\www\healthyhabbits\vendor\codeigniter4\framework\system\CodeIgniter.php(308): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 E:\wamp64\www\healthyhabbits\index.php(84): CodeIgniter\CodeIgniter->run()
+#4 {main}

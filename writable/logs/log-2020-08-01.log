@@ -1,0 +1,9 @@
+CRITICAL - 2020-08-01 07:50:23 --> syntax error, unexpected '}'
+#0 E:\wamp64\www\policy-master\vendor\codeigniter4\framework\system\Common.php(1087): CodeIgniter\View\View->render('navbar', Array, true)
+#1 E:\wamp64\www\policy-master\app\Controllers\BaseController.php(51): view('navbar', Array)
+#2 E:\wamp64\www\policy-master\app\Controllers\Admin.php(27): App\Controllers\BaseController->render_page('admin/list', Array)
+#3 E:\wamp64\www\policy-master\vendor\codeigniter4\framework\system\CodeIgniter.php(914): App\Controllers\Admin->index()
+#4 E:\wamp64\www\policy-master\vendor\codeigniter4\framework\system\CodeIgniter.php(400): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Admin))
+#5 E:\wamp64\www\policy-master\vendor\codeigniter4\framework\system\CodeIgniter.php(308): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 E:\wamp64\www\policy-master\index.php(84): CodeIgniter\CodeIgniter->run()
+#7 {main}

@@ -1,0 +1,226 @@
+
+@media (min-width: 992px){
+	.dropdown-menu .dropdown-toggle:after{
+		border-top: .3em solid transparent;
+	    border-right: 0;
+	    border-bottom: .3em solid transparent;
+	    border-left: .3em solid;
+	}
+	.dropdown-menu .dropdown-menu{
+		margin-left:0; margin-right: 0;
+	}
+	.dropdown-menu li{
+		position: relative;
+	}
+	.nav-item .submenu{
+		display: none;
+		position: absolute;
+		left:100%; top:-7px;
+	}
+	.nav-item .submenu-left{
+		right:100%; left:auto;
+	}
+	.dropdown-menu > li:hover{ background-color: #f1f1f1 }
+	.dropdown-menu > li:hover > .submenu{
+		display: block;
+	}
+}
+.vertical-divider{
+    margin: 0 7px;
+    border-left: solid 1px #dee2e6;
+}
+.layout-navbar-fixed .wrapper .main-header, .layout-navbar-fixed .wrapper .content-wrapper {
+    margin-left: 241px;
+}
+
+.spinner {
+    left: 50%;
+    margin-left: -20px;
+    top: 50%;
+    margin-top: -20px;
+    position: absolute;
+    z-index: 19 !important;
+    animation: loading-bar-spinner 400ms linear infinite;
+}
+
+.spinner .spinner-icon {
+    width: 60px;
+    height: 60px;
+    border:  solid 8px transparent;
+    border-top-color:  #bbbbbb !important;
+    border-left-color: #9a9a9a !important;
+    border-radius: 50%;
+		/* display:none;width:69px;height:89px;border:1px solid black;position:absolute;top:50%;left:50%;padding:2px; */
+}
+
+@keyframes loading-bar-spinner {
+  0%   { transform: rotate(0deg);   transform: rotate(0deg); }
+  100% { transform: rotate(360deg); transform: rotate(360deg); }
+}
+
+.btn-blueviolet{
+	color: #ffffff;
+	background-color: blueviolet;
+	border-color: blueviolet;
+	box-shadow: none;
+}
+.btn-blueviolet:hover{
+	color: #ffffff;
+	background-color: #61149e;
+	border-color: #61149e;
+}
+.btn-darkred{
+	color: #ffffff;
+	background-color: darkred;
+	border-color: darkred;
+	box-shadow: none;
+}
+.btn-darkred:hover{
+	color: #ffffff;
+	background-color: #6d0000;
+	border-color: #6d0000;
+}
+.btn-azure{
+	color: #212529;
+	background-color: #b6fdfd;
+	border-color: #b6fdfd;
+	box-shadow: none;
+}
+.btn-azure:hover{
+	color: #212529;
+	background-color: azure;
+	border-color: #b6fdfd;
+}
+.select2, .select2-container, .select2-container--default, .select2-container--below, .select2-container--focus{
+	display: block;
+width: 100%;
+height: calc(2.25rem + 2px);
+padding: .375rem .75rem;
+font-size: 1rem;
+font-weight: 400;
+line-height: 1.5;
+color: #495057;
+background-color: #fff;
+background-clip: padding-box;
+border: 1px solid #ced4da;
+border-radius: .25rem;
+box-shadow: inset 0 0 0 transparent;
+transition: border-color .15s ease-in-out,box-shadow .15s ease-in-out;
+}
+.select2-container .selection .select2-selection{border: none;}
+.select2-container .selection .select2-selection:focus{outline: none;}
+.alert-center{margin: auto; width: 50%;}
+.spacer-10{height: 10px};
+.spacer-30{height: 30px};
+.bg-white .insert-panel-layout{ background-color: #ceea93!important; padding: 8px;}
+table.insertpaneltbl {
+  /* font-family: arial, sans-serif; */
+  border-collapse: collapse;
+  width: 100%;
+}
+
+table.insertpaneltbl td, table.insertpaneltbl th {
+  text-align: left;
+  padding: 8px;
+}
+table.insertpaneltbl thead {
+	background: #007bff;
+	color: white;
+}
+table.insertpaneltbl tr:nth-child(even) {background-color: #ceea93;}
+.layout-footer-fixed .wrapper .main-footer {margin: 0;}
+.width-full {width: 100%;}
+.mh-250 {min-height: 250px;}
+.mh-150 {min-height: 150px;}
+.width-25 {width:25%;}
+.width-full {width:100%;}
+.align-end{text-align: end;}
+.align-center{text-align: center;}
+.form-element-row{display: flex; width: 100%;}
+.allocating-credit-note-header{border-bottom: 1px solid #dfdfdf; margin-bottom: 10px;}
+.allocating-credit-note-header .row .col-md-12 p{margin-right: auto;}
+.allocating-credit-note-amount-panal .col-md-12 div{margin-right: auto;margin-bottom:5px;display: flex;}
+.allocating-credit-note-amount-panal .col-md-12 div input{margin-left: 15px;width: 150px;}
+.form-element-row div.form-group{width: 15%; margin: auto; padding: 10px;}
+.card-footer{border-top: 1px solid #6c757d59;}
+.nav-company-data{font: menu; text-align: right;}
+.nav-company-data *{margin-bottom: 1px;}
+.nav-company-data p{font-size: 11px;}
+.nav-company-data a{font-size: 12px;}
+.layout-navbar-fixed .wrapper .content-wrapper {margin-top: calc(4.9rem + 1px);}
+.table-fluide{overflow-x:auto;}
+.table-fluide table thead tr th{width: auto;}
+.bordered-row{border-top: 1px solid #1f2d3d42;border-bottom: 1px solid #1f2d3d42;margin-bottom: 5px;height: 28px;}
+.detail-row{display: flex;}.detail-row p{margin: auto;}
+.export-btn-row{margin-right: 10%;}
+.dropdown .dropdown-menu li .dropdown-item i.nav-angle-right{float: right;}
+.width-50{width: 50%;}
+.alert-center-60{width: 60%;margin: auto;}
+.cr-no-drop {cursor: no-drop;}
+.select-list-box{
+	margin-top: 10px;
+	border: 1px solid #c8c8c8;
+	border-radius: 5px;
+	height: 80%;
+	overflow: overlay;
+}
+.select-list-box ul.select-list{
+	    list-style: none;
+}
+.select-list-box ul.select-list li{
+	    margin-left: -30px;
+			cursor: pointer;
+}
+.select-list-box ul.select-list li.selected{
+			background-color: #0d6efd8f;
+}
+.select-list-box ul.select-list li:hover{
+	background-color: #0d6efd8f;
+}
+.dashboard-count .card-body .row .col-md-9 p.card-number{
+    margin: 0;
+    font-size: 36px;
+    font-weight: bold;
+		color: #fff;
+}
+.dashboard-count .card-body .row .col-md-9 p.card-text{
+    margin: 0;
+    font-weight: bold;
+		color: #fff;
+}
+.dashboard-count .card-body .row .col-md-3 i{
+    font-size: 80px;
+		color: #fff;
+}
+.dashboard-count .card-body .row .col-md-3{
+    text-align: center;
+}
+.dashboard-count .card-footer{
+    display: flex;
+		padding: 2px 8px;
+		cursor: pointer;
+}
+.dashboard-count .card-footer:hover{
+    opacity: .85;
+}
+.dashboard-count .card-footer .footer-arrow{
+		margin: 0;
+    margin-left: auto;
+		color: #fff;
+}
+.dashboard-count .card-footer .footer-text{
+		margin: 0;
+		color: #fff;
+}
+.dashboard-range-control{
+	display: flex;
+	text-align: center;
+	justify-content: center;
+}
+.dashboard-range-control .range-control{
+	    width: 20%;
+			margin: 0 15px;
+}
+.dashboard-range-control .range-control label{
+margin-bottom: 0;
+}

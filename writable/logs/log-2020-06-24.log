@@ -1,0 +1,39 @@
+CRITICAL - 2020-06-24 06:29:44 --> There is no data to update.
+#0 E:\xampp\htdocs\mysite\vendor\codeigniter4\framework\system\Model.php(809): CodeIgniter\Database\Exceptions\DataException::forEmptyDataset('update')
+#1 E:\xampp\htdocs\mysite\app\Controllers\Api_setschedule.php(117): CodeIgniter\Model->update(Array, NULL)
+#2 E:\xampp\htdocs\mysite\vendor\codeigniter4\framework\system\CodeIgniter.php(914): App\Controllers\Api_setschedule->edit_setschedule()
+#3 E:\xampp\htdocs\mysite\vendor\codeigniter4\framework\system\CodeIgniter.php(400): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Api_setschedule))
+#4 E:\xampp\htdocs\mysite\vendor\codeigniter4\framework\system\CodeIgniter.php(308): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#5 E:\xampp\htdocs\mysite\index.php(84): CodeIgniter\CodeIgniter->run()
+#6 {main}
+CRITICAL - 2020-06-24 06:29:46 --> There is no data to update.
+#0 E:\xampp\htdocs\mysite\vendor\codeigniter4\framework\system\Model.php(809): CodeIgniter\Database\Exceptions\DataException::forEmptyDataset('update')
+#1 E:\xampp\htdocs\mysite\app\Controllers\Api_setschedule.php(117): CodeIgniter\Model->update(Array, NULL)
+#2 E:\xampp\htdocs\mysite\vendor\codeigniter4\framework\system\CodeIgniter.php(914): App\Controllers\Api_setschedule->edit_setschedule()
+#3 E:\xampp\htdocs\mysite\vendor\codeigniter4\framework\system\CodeIgniter.php(400): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Api_setschedule))
+#4 E:\xampp\htdocs\mysite\vendor\codeigniter4\framework\system\CodeIgniter.php(308): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#5 E:\xampp\htdocs\mysite\index.php(84): CodeIgniter\CodeIgniter->run()
+#6 {main}
+CRITICAL - 2020-06-24 06:31:28 --> There is no data to update.
+#0 E:\xampp\htdocs\mysite\vendor\codeigniter4\framework\system\Model.php(809): CodeIgniter\Database\Exceptions\DataException::forEmptyDataset('update')
+#1 E:\xampp\htdocs\mysite\app\Controllers\Api_setschedule.php(117): CodeIgniter\Model->update(Array, NULL)
+#2 E:\xampp\htdocs\mysite\vendor\codeigniter4\framework\system\CodeIgniter.php(914): App\Controllers\Api_setschedule->edit_setschedule()
+#3 E:\xampp\htdocs\mysite\vendor\codeigniter4\framework\system\CodeIgniter.php(400): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Api_setschedule))
+#4 E:\xampp\htdocs\mysite\vendor\codeigniter4\framework\system\CodeIgniter.php(308): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#5 E:\xampp\htdocs\mysite\index.php(84): CodeIgniter\CodeIgniter->run()
+#6 {main}
+CRITICAL - 2020-06-24 06:31:29 --> There is no data to update.
+#0 E:\xampp\htdocs\mysite\vendor\codeigniter4\framework\system\Model.php(809): CodeIgniter\Database\Exceptions\DataException::forEmptyDataset('update')
+#1 E:\xampp\htdocs\mysite\app\Controllers\Api_setschedule.php(117): CodeIgniter\Model->update(Array, NULL)
+#2 E:\xampp\htdocs\mysite\vendor\codeigniter4\framework\system\CodeIgniter.php(914): App\Controllers\Api_setschedule->edit_setschedule()
+#3 E:\xampp\htdocs\mysite\vendor\codeigniter4\framework\system\CodeIgniter.php(400): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Api_setschedule))
+#4 E:\xampp\htdocs\mysite\vendor\codeigniter4\framework\system\CodeIgniter.php(308): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#5 E:\xampp\htdocs\mysite\index.php(84): CodeIgniter\CodeIgniter->run()
+#6 {main}
+CRITICAL - 2020-06-24 07:54:15 --> Argument 2 passed to CodeIgniter\Model::insert() must be of the type bool, null given, called in E:\xampp\htdocs\mysite\app\Controllers\Form.php on line 38
+#0 E:\xampp\htdocs\mysite\app\Controllers\Form.php(38): CodeIgniter\Model->insert(NULL, NULL)
+#1 E:\xampp\htdocs\mysite\vendor\codeigniter4\framework\system\CodeIgniter.php(914): App\Controllers\Form->store()
+#2 E:\xampp\htdocs\mysite\vendor\codeigniter4\framework\system\CodeIgniter.php(400): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Form))
+#3 E:\xampp\htdocs\mysite\vendor\codeigniter4\framework\system\CodeIgniter.php(308): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 E:\xampp\htdocs\mysite\index.php(84): CodeIgniter\CodeIgniter->run()
+#5 {main}

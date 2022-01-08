@@ -1,0 +1,207 @@
+CRITICAL - 2020-06-08 00:17:25 --> Call to a member function hasError() on null
+#0 E:\xampp\htdocs\mysite\vendor\codeigniter4\framework\system\View\View.php(246): include()
+#1 E:\xampp\htdocs\mysite\vendor\codeigniter4\framework\system\Common.php(1087): CodeIgniter\View\View->render('users/create-us...', Array, true)
+#2 E:\xampp\htdocs\mysite\app\Controllers\Users.php(24): view('users/create-us...', Array)
+#3 E:\xampp\htdocs\mysite\vendor\codeigniter4\framework\system\CodeIgniter.php(914): App\Controllers\Users->create()
+#4 E:\xampp\htdocs\mysite\vendor\codeigniter4\framework\system\CodeIgniter.php(400): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Users))
+#5 E:\xampp\htdocs\mysite\vendor\codeigniter4\framework\system\CodeIgniter.php(308): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 E:\xampp\htdocs\mysite\index.php(45): CodeIgniter\CodeIgniter->run()
+#7 {main}
+CRITICAL - 2020-06-08 00:19:14 --> Call to a member function hasError() on null
+#0 E:\xampp\htdocs\mysite\vendor\codeigniter4\framework\system\View\View.php(246): include()
+#1 E:\xampp\htdocs\mysite\vendor\codeigniter4\framework\system\Common.php(1087): CodeIgniter\View\View->render('users/create-us...', Array, true)
+#2 E:\xampp\htdocs\mysite\app\Controllers\Users.php(24): view('users/create-us...', Array)
+#3 E:\xampp\htdocs\mysite\vendor\codeigniter4\framework\system\CodeIgniter.php(914): App\Controllers\Users->create()
+#4 E:\xampp\htdocs\mysite\vendor\codeigniter4\framework\system\CodeIgniter.php(400): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Users))
+#5 E:\xampp\htdocs\mysite\vendor\codeigniter4\framework\system\CodeIgniter.php(308): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 E:\xampp\htdocs\mysite\index.php(45): CodeIgniter\CodeIgniter->run()
+#7 {main}
+CRITICAL - 2020-06-08 00:19:15 --> Call to a member function hasError() on null
+#0 E:\xampp\htdocs\mysite\vendor\codeigniter4\framework\system\View\View.php(246): include()
+#1 E:\xampp\htdocs\mysite\vendor\codeigniter4\framework\system\Common.php(1087): CodeIgniter\View\View->render('users/create-us...', Array, true)
+#2 E:\xampp\htdocs\mysite\app\Controllers\Users.php(24): view('users/create-us...', Array)
+#3 E:\xampp\htdocs\mysite\vendor\codeigniter4\framework\system\CodeIgniter.php(914): App\Controllers\Users->create()
+#4 E:\xampp\htdocs\mysite\vendor\codeigniter4\framework\system\CodeIgniter.php(400): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Users))
+#5 E:\xampp\htdocs\mysite\vendor\codeigniter4\framework\system\CodeIgniter.php(308): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 E:\xampp\htdocs\mysite\index.php(45): CodeIgniter\CodeIgniter->run()
+#7 {main}
+CRITICAL - 2020-06-08 00:19:46 --> Call to a member function hasError() on null
+#0 E:\xampp\htdocs\mysite\vendor\codeigniter4\framework\system\View\View.php(246): include()
+#1 E:\xampp\htdocs\mysite\vendor\codeigniter4\framework\system\Common.php(1087): CodeIgniter\View\View->render('users/create-us...', Array, true)
+#2 E:\xampp\htdocs\mysite\app\Controllers\Users.php(24): view('users/create-us...', Array)
+#3 E:\xampp\htdocs\mysite\vendor\codeigniter4\framework\system\CodeIgniter.php(914): App\Controllers\Users->create()
+#4 E:\xampp\htdocs\mysite\vendor\codeigniter4\framework\system\CodeIgniter.php(400): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Users))
+#5 E:\xampp\htdocs\mysite\vendor\codeigniter4\framework\system\CodeIgniter.php(308): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 E:\xampp\htdocs\mysite\index.php(45): CodeIgniter\CodeIgniter->run()
+#7 {main}
+CRITICAL - 2020-06-08 00:19:47 --> Call to a member function hasError() on null
+#0 E:\xampp\htdocs\mysite\vendor\codeigniter4\framework\system\View\View.php(246): include()
+#1 E:\xampp\htdocs\mysite\vendor\codeigniter4\framework\system\Common.php(1087): CodeIgniter\View\View->render('users/create-us...', Array, true)
+#2 E:\xampp\htdocs\mysite\app\Controllers\Users.php(24): view('users/create-us...', Array)
+#3 E:\xampp\htdocs\mysite\vendor\codeigniter4\framework\system\CodeIgniter.php(914): App\Controllers\Users->create()
+#4 E:\xampp\htdocs\mysite\vendor\codeigniter4\framework\system\CodeIgniter.php(400): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Users))
+#5 E:\xampp\htdocs\mysite\vendor\codeigniter4\framework\system\CodeIgniter.php(308): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 E:\xampp\htdocs\mysite\index.php(45): CodeIgniter\CodeIgniter->run()
+#7 {main}
+CRITICAL - 2020-06-08 00:22:15 --> Call to a member function hasError() on null
+#0 E:\xampp\htdocs\mysite\vendor\codeigniter4\framework\system\View\View.php(246): include()
+#1 E:\xampp\htdocs\mysite\vendor\codeigniter4\framework\system\Common.php(1087): CodeIgniter\View\View->render('users/create-us...', Array, true)
+#2 E:\xampp\htdocs\mysite\app\Controllers\Users.php(24): view('users/create-us...', Array)
+#3 E:\xampp\htdocs\mysite\vendor\codeigniter4\framework\system\CodeIgniter.php(914): App\Controllers\Users->create()
+#4 E:\xampp\htdocs\mysite\vendor\codeigniter4\framework\system\CodeIgniter.php(400): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Users))
+#5 E:\xampp\htdocs\mysite\vendor\codeigniter4\framework\system\CodeIgniter.php(308): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 E:\xampp\htdocs\mysite\index.php(45): CodeIgniter\CodeIgniter->run()
+#7 {main}
+CRITICAL - 2020-06-08 00:22:48 --> Call to a member function hasError() on null
+#0 E:\xampp\htdocs\mysite\vendor\codeigniter4\framework\system\View\View.php(246): include()
+#1 E:\xampp\htdocs\mysite\vendor\codeigniter4\framework\system\Common.php(1087): CodeIgniter\View\View->render('users/create-us...', Array, true)
+#2 E:\xampp\htdocs\mysite\app\Controllers\Users.php(24): view('users/create-us...', Array)
+#3 E:\xampp\htdocs\mysite\vendor\codeigniter4\framework\system\CodeIgniter.php(914): App\Controllers\Users->create()
+#4 E:\xampp\htdocs\mysite\vendor\codeigniter4\framework\system\CodeIgniter.php(400): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Users))
+#5 E:\xampp\htdocs\mysite\vendor\codeigniter4\framework\system\CodeIgniter.php(308): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 E:\xampp\htdocs\mysite\index.php(45): CodeIgniter\CodeIgniter->run()
+#7 {main}
+CRITICAL - 2020-06-08 00:22:49 --> Call to a member function hasError() on null
+#0 E:\xampp\htdocs\mysite\vendor\codeigniter4\framework\system\View\View.php(246): include()
+#1 E:\xampp\htdocs\mysite\vendor\codeigniter4\framework\system\Common.php(1087): CodeIgniter\View\View->render('users/create-us...', Array, true)
+#2 E:\xampp\htdocs\mysite\app\Controllers\Users.php(24): view('users/create-us...', Array)
+#3 E:\xampp\htdocs\mysite\vendor\codeigniter4\framework\system\CodeIgniter.php(914): App\Controllers\Users->create()
+#4 E:\xampp\htdocs\mysite\vendor\codeigniter4\framework\system\CodeIgniter.php(400): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Users))
+#5 E:\xampp\htdocs\mysite\vendor\codeigniter4\framework\system\CodeIgniter.php(308): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 E:\xampp\htdocs\mysite\index.php(45): CodeIgniter\CodeIgniter->run()
+#7 {main}
+CRITICAL - 2020-06-08 00:23:27 --> Call to a member function hasError() on null
+#0 E:\xampp\htdocs\mysite\vendor\codeigniter4\framework\system\View\View.php(246): include()
+#1 E:\xampp\htdocs\mysite\vendor\codeigniter4\framework\system\Common.php(1087): CodeIgniter\View\View->render('users/create-us...', Array, true)
+#2 E:\xampp\htdocs\mysite\app\Controllers\Users.php(24): view('users/create-us...', Array)
+#3 E:\xampp\htdocs\mysite\vendor\codeigniter4\framework\system\CodeIgniter.php(914): App\Controllers\Users->create()
+#4 E:\xampp\htdocs\mysite\vendor\codeigniter4\framework\system\CodeIgniter.php(400): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Users))
+#5 E:\xampp\htdocs\mysite\vendor\codeigniter4\framework\system\CodeIgniter.php(308): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 E:\xampp\htdocs\mysite\index.php(45): CodeIgniter\CodeIgniter->run()
+#7 {main}
+CRITICAL - 2020-06-08 00:24:32 --> Call to a member function hasError() on null
+#0 E:\xampp\htdocs\mysite\vendor\codeigniter4\framework\system\View\View.php(246): include()
+#1 E:\xampp\htdocs\mysite\vendor\codeigniter4\framework\system\Common.php(1087): CodeIgniter\View\View->render('users/create-us...', Array, true)
+#2 E:\xampp\htdocs\mysite\app\Controllers\Users.php(24): view('users/create-us...', Array)
+#3 E:\xampp\htdocs\mysite\vendor\codeigniter4\framework\system\CodeIgniter.php(914): App\Controllers\Users->create()
+#4 E:\xampp\htdocs\mysite\vendor\codeigniter4\framework\system\CodeIgniter.php(400): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Users))
+#5 E:\xampp\htdocs\mysite\vendor\codeigniter4\framework\system\CodeIgniter.php(308): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 E:\xampp\htdocs\mysite\index.php(45): CodeIgniter\CodeIgniter->run()
+#7 {main}
+CRITICAL - 2020-06-08 00:24:34 --> Call to a member function hasError() on null
+#0 E:\xampp\htdocs\mysite\vendor\codeigniter4\framework\system\View\View.php(246): include()
+#1 E:\xampp\htdocs\mysite\vendor\codeigniter4\framework\system\Common.php(1087): CodeIgniter\View\View->render('users/create-us...', Array, true)
+#2 E:\xampp\htdocs\mysite\app\Controllers\Users.php(24): view('users/create-us...', Array)
+#3 E:\xampp\htdocs\mysite\vendor\codeigniter4\framework\system\CodeIgniter.php(914): App\Controllers\Users->create()
+#4 E:\xampp\htdocs\mysite\vendor\codeigniter4\framework\system\CodeIgniter.php(400): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Users))
+#5 E:\xampp\htdocs\mysite\vendor\codeigniter4\framework\system\CodeIgniter.php(308): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 E:\xampp\htdocs\mysite\index.php(45): CodeIgniter\CodeIgniter->run()
+#7 {main}
+CRITICAL - 2020-06-08 00:24:48 --> Call to a member function hasError() on null
+#0 E:\xampp\htdocs\mysite\vendor\codeigniter4\framework\system\View\View.php(246): include()
+#1 E:\xampp\htdocs\mysite\vendor\codeigniter4\framework\system\Common.php(1087): CodeIgniter\View\View->render('users/create-us...', Array, true)
+#2 E:\xampp\htdocs\mysite\app\Controllers\Users.php(24): view('users/create-us...', Array)
+#3 E:\xampp\htdocs\mysite\vendor\codeigniter4\framework\system\CodeIgniter.php(914): App\Controllers\Users->create()
+#4 E:\xampp\htdocs\mysite\vendor\codeigniter4\framework\system\CodeIgniter.php(400): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Users))
+#5 E:\xampp\htdocs\mysite\vendor\codeigniter4\framework\system\CodeIgniter.php(308): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 E:\xampp\htdocs\mysite\index.php(45): CodeIgniter\CodeIgniter->run()
+#7 {main}
+CRITICAL - 2020-06-08 00:25:12 --> Call to a member function hasError() on null
+#0 E:\xampp\htdocs\mysite\vendor\codeigniter4\framework\system\View\View.php(246): include()
+#1 E:\xampp\htdocs\mysite\vendor\codeigniter4\framework\system\Common.php(1087): CodeIgniter\View\View->render('users/create-us...', Array, true)
+#2 E:\xampp\htdocs\mysite\app\Controllers\Users.php(24): view('users/create-us...', Array)
+#3 E:\xampp\htdocs\mysite\vendor\codeigniter4\framework\system\CodeIgniter.php(914): App\Controllers\Users->create()
+#4 E:\xampp\htdocs\mysite\vendor\codeigniter4\framework\system\CodeIgniter.php(400): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Users))
+#5 E:\xampp\htdocs\mysite\vendor\codeigniter4\framework\system\CodeIgniter.php(308): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 E:\xampp\htdocs\mysite\index.php(45): CodeIgniter\CodeIgniter->run()
+#7 {main}
+CRITICAL - 2020-06-08 00:25:40 --> Call to a member function hasError() on null
+#0 E:\xampp\htdocs\mysite\vendor\codeigniter4\framework\system\View\View.php(246): include()
+#1 E:\xampp\htdocs\mysite\vendor\codeigniter4\framework\system\Common.php(1087): CodeIgniter\View\View->render('users/create-us...', Array, true)
+#2 E:\xampp\htdocs\mysite\app\Controllers\Users.php(24): view('users/create-us...', Array)
+#3 E:\xampp\htdocs\mysite\vendor\codeigniter4\framework\system\CodeIgniter.php(914): App\Controllers\Users->create()
+#4 E:\xampp\htdocs\mysite\vendor\codeigniter4\framework\system\CodeIgniter.php(400): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Users))
+#5 E:\xampp\htdocs\mysite\vendor\codeigniter4\framework\system\CodeIgniter.php(308): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 E:\xampp\htdocs\mysite\index.php(45): CodeIgniter\CodeIgniter->run()
+#7 {main}
+CRITICAL - 2020-06-08 00:26:48 --> Call to a member function hasError() on null
+#0 E:\xampp\htdocs\mysite\vendor\codeigniter4\framework\system\View\View.php(246): include()
+#1 E:\xampp\htdocs\mysite\vendor\codeigniter4\framework\system\Common.php(1087): CodeIgniter\View\View->render('users/create-us...', Array, true)
+#2 E:\xampp\htdocs\mysite\app\Controllers\Users.php(24): view('users/create-us...', Array)
+#3 E:\xampp\htdocs\mysite\vendor\codeigniter4\framework\system\CodeIgniter.php(914): App\Controllers\Users->create()
+#4 E:\xampp\htdocs\mysite\vendor\codeigniter4\framework\system\CodeIgniter.php(400): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Users))
+#5 E:\xampp\htdocs\mysite\vendor\codeigniter4\framework\system\CodeIgniter.php(308): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 E:\xampp\htdocs\mysite\index.php(45): CodeIgniter\CodeIgniter->run()
+#7 {main}
+CRITICAL - 2020-06-08 00:27:33 --> Call to a member function hasError() on null
+#0 E:\xampp\htdocs\mysite\vendor\codeigniter4\framework\system\View\View.php(246): include()
+#1 E:\xampp\htdocs\mysite\vendor\codeigniter4\framework\system\Common.php(1087): CodeIgniter\View\View->render('users/create-us...', Array, true)
+#2 E:\xampp\htdocs\mysite\app\Controllers\Users.php(24): view('users/create-us...', Array)
+#3 E:\xampp\htdocs\mysite\vendor\codeigniter4\framework\system\CodeIgniter.php(914): App\Controllers\Users->create()
+#4 E:\xampp\htdocs\mysite\vendor\codeigniter4\framework\system\CodeIgniter.php(400): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Users))
+#5 E:\xampp\htdocs\mysite\vendor\codeigniter4\framework\system\CodeIgniter.php(308): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 E:\xampp\htdocs\mysite\index.php(45): CodeIgniter\CodeIgniter->run()
+#7 {main}
+CRITICAL - 2020-06-08 00:29:15 --> Call to a member function hasError() on null
+#0 E:\xampp\htdocs\mysite\vendor\codeigniter4\framework\system\View\View.php(246): include()
+#1 E:\xampp\htdocs\mysite\vendor\codeigniter4\framework\system\Common.php(1087): CodeIgniter\View\View->render('users/create-us...', Array, true)
+#2 E:\xampp\htdocs\mysite\app\Controllers\Users.php(24): view('users/create-us...', Array)
+#3 E:\xampp\htdocs\mysite\vendor\codeigniter4\framework\system\CodeIgniter.php(914): App\Controllers\Users->create()
+#4 E:\xampp\htdocs\mysite\vendor\codeigniter4\framework\system\CodeIgniter.php(400): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Users))
+#5 E:\xampp\htdocs\mysite\vendor\codeigniter4\framework\system\CodeIgniter.php(308): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 E:\xampp\htdocs\mysite\index.php(45): CodeIgniter\CodeIgniter->run()
+#7 {main}
+CRITICAL - 2020-06-08 00:49:47 --> Call to a member function hasError() on null
+#0 E:\xampp\htdocs\mysite\vendor\codeigniter4\framework\system\View\View.php(246): include()
+#1 E:\xampp\htdocs\mysite\vendor\codeigniter4\framework\system\Common.php(1087): CodeIgniter\View\View->render('users/create-us...', Array, true)
+#2 E:\xampp\htdocs\mysite\app\Controllers\Users.php(24): view('users/create-us...', Array)
+#3 E:\xampp\htdocs\mysite\vendor\codeigniter4\framework\system\CodeIgniter.php(914): App\Controllers\Users->create()
+#4 E:\xampp\htdocs\mysite\vendor\codeigniter4\framework\system\CodeIgniter.php(400): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Users))
+#5 E:\xampp\htdocs\mysite\vendor\codeigniter4\framework\system\CodeIgniter.php(308): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 E:\xampp\htdocs\mysite\index.php(45): CodeIgniter\CodeIgniter->run()
+#7 {main}
+CRITICAL - 2020-06-08 01:32:25 --> Invalid file: users/edit-user.php
+#0 E:\xampp\htdocs\mysite\vendor\codeigniter4\framework\system\View\View.php(228): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('users/edit-user...')
+#1 E:\xampp\htdocs\mysite\vendor\codeigniter4\framework\system\Common.php(1087): CodeIgniter\View\View->render('users/edit-user', Array, true)
+#2 E:\xampp\htdocs\mysite\app\Controllers\Users.php(64): view('users/edit-user', Array)
+#3 E:\xampp\htdocs\mysite\vendor\codeigniter4\framework\system\CodeIgniter.php(914): App\Controllers\Users->edit('32')
+#4 E:\xampp\htdocs\mysite\vendor\codeigniter4\framework\system\CodeIgniter.php(400): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Users))
+#5 E:\xampp\htdocs\mysite\vendor\codeigniter4\framework\system\CodeIgniter.php(308): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 E:\xampp\htdocs\mysite\index.php(45): CodeIgniter\CodeIgniter->run()
+#7 {main}
+CRITICAL - 2020-06-08 01:34:29 --> Call to a member function hasError() on null
+#0 E:\xampp\htdocs\mysite\vendor\codeigniter4\framework\system\View\View.php(246): include()
+#1 E:\xampp\htdocs\mysite\vendor\codeigniter4\framework\system\Common.php(1087): CodeIgniter\View\View->render('users/edit-user', Array, true)
+#2 E:\xampp\htdocs\mysite\app\Controllers\Users.php(64): view('users/edit-user', Array)
+#3 E:\xampp\htdocs\mysite\vendor\codeigniter4\framework\system\CodeIgniter.php(914): App\Controllers\Users->edit('33')
+#4 E:\xampp\htdocs\mysite\vendor\codeigniter4\framework\system\CodeIgniter.php(400): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Users))
+#5 E:\xampp\htdocs\mysite\vendor\codeigniter4\framework\system\CodeIgniter.php(308): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 E:\xampp\htdocs\mysite\index.php(45): CodeIgniter\CodeIgniter->run()
+#7 {main}
+CRITICAL - 2020-06-08 04:26:59 --> Call to undefined function swal()
+#0 E:\xampp\htdocs\mysite\vendor\codeigniter4\framework\system\View\View.php(246): include()
+#1 E:\xampp\htdocs\mysite\vendor\codeigniter4\framework\system\Common.php(1087): CodeIgniter\View\View->render('users/users', Array, true)
+#2 E:\xampp\htdocs\mysite\app\Controllers\Users.php(17): view('users/users', Array)
+#3 E:\xampp\htdocs\mysite\vendor\codeigniter4\framework\system\CodeIgniter.php(914): App\Controllers\Users->index()
+#4 E:\xampp\htdocs\mysite\vendor\codeigniter4\framework\system\CodeIgniter.php(400): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Users))
+#5 E:\xampp\htdocs\mysite\vendor\codeigniter4\framework\system\CodeIgniter.php(308): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 E:\xampp\htdocs\mysite\index.php(45): CodeIgniter\CodeIgniter->run()
+#7 {main}
+CRITICAL - 2020-06-08 04:27:02 --> Call to undefined function swal()
+#0 E:\xampp\htdocs\mysite\vendor\codeigniter4\framework\system\View\View.php(246): include()
+#1 E:\xampp\htdocs\mysite\vendor\codeigniter4\framework\system\Common.php(1087): CodeIgniter\View\View->render('users/users', Array, true)
+#2 E:\xampp\htdocs\mysite\app\Controllers\Users.php(17): view('users/users', Array)
+#3 E:\xampp\htdocs\mysite\vendor\codeigniter4\framework\system\CodeIgniter.php(914): App\Controllers\Users->index()
+#4 E:\xampp\htdocs\mysite\vendor\codeigniter4\framework\system\CodeIgniter.php(400): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Users))
+#5 E:\xampp\htdocs\mysite\vendor\codeigniter4\framework\system\CodeIgniter.php(308): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 E:\xampp\htdocs\mysite\index.php(45): CodeIgniter\CodeIgniter->run()
+#7 {main}
+CRITICAL - 2020-06-08 04:27:49 --> Call to undefined function swal()
+#0 E:\xampp\htdocs\mysite\vendor\codeigniter4\framework\system\View\View.php(246): include()
+#1 E:\xampp\htdocs\mysite\vendor\codeigniter4\framework\system\Common.php(1087): CodeIgniter\View\View->render('users/users', Array, true)
+#2 E:\xampp\htdocs\mysite\app\Controllers\Users.php(17): view('users/users', Array)
+#3 E:\xampp\htdocs\mysite\vendor\codeigniter4\framework\system\CodeIgniter.php(914): App\Controllers\Users->index()
+#4 E:\xampp\htdocs\mysite\vendor\codeigniter4\framework\system\CodeIgniter.php(400): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Users))
+#5 E:\xampp\htdocs\mysite\vendor\codeigniter4\framework\system\CodeIgniter.php(308): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 E:\xampp\htdocs\mysite\index.php(45): CodeIgniter\CodeIgniter->run()
+#7 {main}

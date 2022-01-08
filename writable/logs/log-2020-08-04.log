@@ -1,0 +1,28 @@
+CRITICAL - 2020-08-04 00:49:01 --> 
+#0 E:\wamp64\www\policy-master\vendor\codeigniter4\framework\system\HTTP\RedirectResponse.php(92): CodeIgniter\HTTP\Exceptions\HTTPException::forInvalidRedirectRoute('')
+#1 E:\wamp64\www\policy-master\app\Controllers\Auth.php(43): CodeIgniter\HTTP\RedirectResponse->route(false)
+#2 E:\wamp64\www\policy-master\vendor\codeigniter4\framework\system\CodeIgniter.php(914): App\Controllers\Auth->login()
+#3 E:\wamp64\www\policy-master\vendor\codeigniter4\framework\system\CodeIgniter.php(400): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Auth))
+#4 E:\wamp64\www\policy-master\vendor\codeigniter4\framework\system\CodeIgniter.php(308): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#5 E:\wamp64\www\policy-master\index.php(84): CodeIgniter\CodeIgniter->run()
+#6 {main}
+CRITICAL - 2020-08-04 07:49:17 --> Class 'App\Controllers\CompanyModel' not found
+#0 E:\wamp64\www\policy-master\vendor\codeigniter4\framework\system\CodeIgniter.php(914): App\Controllers\Clients->index()
+#1 E:\wamp64\www\policy-master\vendor\codeigniter4\framework\system\CodeIgniter.php(400): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Clients))
+#2 E:\wamp64\www\policy-master\vendor\codeigniter4\framework\system\CodeIgniter.php(308): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 E:\wamp64\www\policy-master\index.php(84): CodeIgniter\CodeIgniter->run()
+#4 {main}
+CRITICAL - 2020-08-04 08:01:47 --> Call to undefined method App\Models\ClientModel::fillAll
+#0 E:\wamp64\www\policy-master\app\Controllers\Clients.php(14): CodeIgniter\Model->__call('fillAll', Array)
+#1 E:\wamp64\www\policy-master\vendor\codeigniter4\framework\system\CodeIgniter.php(914): App\Controllers\Clients->index()
+#2 E:\wamp64\www\policy-master\vendor\codeigniter4\framework\system\CodeIgniter.php(400): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Clients))
+#3 E:\wamp64\www\policy-master\vendor\codeigniter4\framework\system\CodeIgniter.php(308): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 E:\wamp64\www\policy-master\index.php(84): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2020-08-04 08:06:01 --> Too few arguments to function App\Controllers\BaseController::render_page(), 1 passed in E:\wamp64\www\policy-master\app\Controllers\Clients.php on line 29 and exactly 2 expected
+#0 E:\wamp64\www\policy-master\app\Controllers\Clients.php(29): App\Controllers\BaseController->render_page('client/add')
+#1 E:\wamp64\www\policy-master\vendor\codeigniter4\framework\system\CodeIgniter.php(914): App\Controllers\Clients->add()
+#2 E:\wamp64\www\policy-master\vendor\codeigniter4\framework\system\CodeIgniter.php(400): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Clients))
+#3 E:\wamp64\www\policy-master\vendor\codeigniter4\framework\system\CodeIgniter.php(308): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 E:\wamp64\www\policy-master\index.php(84): CodeIgniter\CodeIgniter->run()
+#5 {main}

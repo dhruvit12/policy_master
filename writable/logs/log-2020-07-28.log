@@ -1,0 +1,128 @@
+CRITICAL - 2020-07-28 02:14:24 --> Undefined index: isLoggedIn
+#0 E:\wamp64\www\healthyhabbits\app\Controllers\BookingAppointment.php(13): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined index...', 'E:\\wamp64\\www\\h...', 13, Array)
+#1 E:\wamp64\www\healthyhabbits\vendor\codeigniter4\framework\system\CodeIgniter.php(914): App\Controllers\BookingAppointment->index()
+#2 E:\wamp64\www\healthyhabbits\vendor\codeigniter4\framework\system\CodeIgniter.php(400): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\BookingAppointment))
+#3 E:\wamp64\www\healthyhabbits\vendor\codeigniter4\framework\system\CodeIgniter.php(308): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 E:\wamp64\www\healthyhabbits\index.php(84): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2020-07-28 02:15:07 --> Undefined index: isLoggedIn
+#0 E:\wamp64\www\healthyhabbits\app\Controllers\RelationMaster.php(13): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined index...', 'E:\\wamp64\\www\\h...', 13, Array)
+#1 E:\wamp64\www\healthyhabbits\vendor\codeigniter4\framework\system\CodeIgniter.php(914): App\Controllers\RelationMaster->index()
+#2 E:\wamp64\www\healthyhabbits\vendor\codeigniter4\framework\system\CodeIgniter.php(400): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\RelationMaster))
+#3 E:\wamp64\www\healthyhabbits\vendor\codeigniter4\framework\system\CodeIgniter.php(308): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 E:\wamp64\www\healthyhabbits\index.php(84): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2020-07-28 02:15:08 --> Undefined index: isLoggedIn
+#0 E:\wamp64\www\healthyhabbits\app\Controllers\Policy.php(13): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined index...', 'E:\\wamp64\\www\\h...', 13, Array)
+#1 E:\wamp64\www\healthyhabbits\vendor\codeigniter4\framework\system\CodeIgniter.php(914): App\Controllers\Policy->index()
+#2 E:\wamp64\www\healthyhabbits\vendor\codeigniter4\framework\system\CodeIgniter.php(400): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Policy))
+#3 E:\wamp64\www\healthyhabbits\vendor\codeigniter4\framework\system\CodeIgniter.php(308): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 E:\wamp64\www\healthyhabbits\index.php(84): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2020-07-28 02:15:10 --> Undefined index: isLoggedIn
+#0 E:\wamp64\www\healthyhabbits\app\Controllers\RelationMaster.php(13): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined index...', 'E:\\wamp64\\www\\h...', 13, Array)
+#1 E:\wamp64\www\healthyhabbits\vendor\codeigniter4\framework\system\CodeIgniter.php(914): App\Controllers\RelationMaster->index()
+#2 E:\wamp64\www\healthyhabbits\vendor\codeigniter4\framework\system\CodeIgniter.php(400): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\RelationMaster))
+#3 E:\wamp64\www\healthyhabbits\vendor\codeigniter4\framework\system\CodeIgniter.php(308): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 E:\wamp64\www\healthyhabbits\index.php(84): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2020-07-28 02:15:13 --> Undefined index: isLoggedIn
+#0 E:\wamp64\www\healthyhabbits\app\Controllers\Policy.php(13): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined index...', 'E:\\wamp64\\www\\h...', 13, Array)
+#1 E:\wamp64\www\healthyhabbits\vendor\codeigniter4\framework\system\CodeIgniter.php(914): App\Controllers\Policy->index()
+#2 E:\wamp64\www\healthyhabbits\vendor\codeigniter4\framework\system\CodeIgniter.php(400): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Policy))
+#3 E:\wamp64\www\healthyhabbits\vendor\codeigniter4\framework\system\CodeIgniter.php(308): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 E:\wamp64\www\healthyhabbits\index.php(84): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2020-07-28 02:15:14 --> Undefined index: isLoggedIn
+#0 E:\wamp64\www\healthyhabbits\app\Controllers\UploadReport.php(13): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined index...', 'E:\\wamp64\\www\\h...', 13, Array)
+#1 E:\wamp64\www\healthyhabbits\vendor\codeigniter4\framework\system\CodeIgniter.php(914): App\Controllers\UploadReport->index()
+#2 E:\wamp64\www\healthyhabbits\vendor\codeigniter4\framework\system\CodeIgniter.php(400): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\UploadReport))
+#3 E:\wamp64\www\healthyhabbits\vendor\codeigniter4\framework\system\CodeIgniter.php(308): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 E:\wamp64\www\healthyhabbits\index.php(84): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2020-07-28 02:16:00 --> Undefined index: fk_user_id
+#0 E:\wamp64\www\healthyhabbits\app\Views\uploadreport\list.php(72): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined index...', 'E:\\wamp64\\www\\h...', 72, Array)
+#1 E:\wamp64\www\healthyhabbits\vendor\codeigniter4\framework\system\View\View.php(246): include('E:\\wamp64\\www\\h...')
+#2 E:\wamp64\www\healthyhabbits\vendor\codeigniter4\framework\system\Common.php(1087): CodeIgniter\View\View->render('uploadreport/li...', Array, true)
+#3 E:\wamp64\www\healthyhabbits\app\Controllers\BaseController.php(56): view('uploadreport/li...', Array)
+#4 E:\wamp64\www\healthyhabbits\app\Controllers\UploadReport.php(19): App\Controllers\BaseController->render_page('uploadreport/li...', Array)
+#5 E:\wamp64\www\healthyhabbits\vendor\codeigniter4\framework\system\CodeIgniter.php(914): App\Controllers\UploadReport->index()
+#6 E:\wamp64\www\healthyhabbits\vendor\codeigniter4\framework\system\CodeIgniter.php(400): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\UploadReport))
+#7 E:\wamp64\www\healthyhabbits\vendor\codeigniter4\framework\system\CodeIgniter.php(308): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#8 E:\wamp64\www\healthyhabbits\index.php(84): CodeIgniter\CodeIgniter->run()
+#9 {main}
+CRITICAL - 2020-07-28 02:16:57 --> Undefined index: fk_user_id
+#0 E:\wamp64\www\healthyhabbits\app\Views\uploadreport\list.php(72): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined index...', 'E:\\wamp64\\www\\h...', 72, Array)
+#1 E:\wamp64\www\healthyhabbits\vendor\codeigniter4\framework\system\View\View.php(246): include('E:\\wamp64\\www\\h...')
+#2 E:\wamp64\www\healthyhabbits\vendor\codeigniter4\framework\system\Common.php(1087): CodeIgniter\View\View->render('uploadreport/li...', Array, true)
+#3 E:\wamp64\www\healthyhabbits\app\Controllers\BaseController.php(56): view('uploadreport/li...', Array)
+#4 E:\wamp64\www\healthyhabbits\app\Controllers\UploadReport.php(19): App\Controllers\BaseController->render_page('uploadreport/li...', Array)
+#5 E:\wamp64\www\healthyhabbits\vendor\codeigniter4\framework\system\CodeIgniter.php(914): App\Controllers\UploadReport->index()
+#6 E:\wamp64\www\healthyhabbits\vendor\codeigniter4\framework\system\CodeIgniter.php(400): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\UploadReport))
+#7 E:\wamp64\www\healthyhabbits\vendor\codeigniter4\framework\system\CodeIgniter.php(308): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#8 E:\wamp64\www\healthyhabbits\index.php(84): CodeIgniter\CodeIgniter->run()
+#9 {main}
+CRITICAL - 2020-07-28 02:18:12 --> Undefined index: booking_id
+#0 E:\wamp64\www\healthyhabbits\app\Views\booking\list.php(44): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined index...', 'E:\\wamp64\\www\\h...', 44, Array)
+#1 E:\wamp64\www\healthyhabbits\vendor\codeigniter4\framework\system\View\View.php(246): include('E:\\wamp64\\www\\h...')
+#2 E:\wamp64\www\healthyhabbits\vendor\codeigniter4\framework\system\Common.php(1087): CodeIgniter\View\View->render('booking/list', Array, true)
+#3 E:\wamp64\www\healthyhabbits\app\Controllers\BaseController.php(56): view('booking/list', Array)
+#4 E:\wamp64\www\healthyhabbits\app\Controllers\BookingAppointment.php(19): App\Controllers\BaseController->render_page('booking/list', Array)
+#5 E:\wamp64\www\healthyhabbits\vendor\codeigniter4\framework\system\CodeIgniter.php(914): App\Controllers\BookingAppointment->index()
+#6 E:\wamp64\www\healthyhabbits\vendor\codeigniter4\framework\system\CodeIgniter.php(400): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\BookingAppointment))
+#7 E:\wamp64\www\healthyhabbits\vendor\codeigniter4\framework\system\CodeIgniter.php(308): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#8 E:\wamp64\www\healthyhabbits\index.php(84): CodeIgniter\CodeIgniter->run()
+#9 {main}
+CRITICAL - 2020-07-28 02:18:56 --> Undefined index: booking_id
+#0 E:\wamp64\www\healthyhabbits\app\Views\booking\list.php(54): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined index...', 'E:\\wamp64\\www\\h...', 54, Array)
+#1 E:\wamp64\www\healthyhabbits\vendor\codeigniter4\framework\system\View\View.php(246): include('E:\\wamp64\\www\\h...')
+#2 E:\wamp64\www\healthyhabbits\vendor\codeigniter4\framework\system\Common.php(1087): CodeIgniter\View\View->render('booking/list', Array, true)
+#3 E:\wamp64\www\healthyhabbits\app\Controllers\BaseController.php(56): view('booking/list', Array)
+#4 E:\wamp64\www\healthyhabbits\app\Controllers\BookingAppointment.php(19): App\Controllers\BaseController->render_page('booking/list', Array)
+#5 E:\wamp64\www\healthyhabbits\vendor\codeigniter4\framework\system\CodeIgniter.php(914): App\Controllers\BookingAppointment->index()
+#6 E:\wamp64\www\healthyhabbits\vendor\codeigniter4\framework\system\CodeIgniter.php(400): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\BookingAppointment))
+#7 E:\wamp64\www\healthyhabbits\vendor\codeigniter4\framework\system\CodeIgniter.php(308): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#8 E:\wamp64\www\healthyhabbits\index.php(84): CodeIgniter\CodeIgniter->run()
+#9 {main}
+CRITICAL - 2020-07-28 02:20:17 --> Undefined index: booking_id
+#0 E:\wamp64\www\healthyhabbits\app\Views\booking\list.php(54): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined index...', 'E:\\wamp64\\www\\h...', 54, Array)
+#1 E:\wamp64\www\healthyhabbits\vendor\codeigniter4\framework\system\View\View.php(246): include('E:\\wamp64\\www\\h...')
+#2 E:\wamp64\www\healthyhabbits\vendor\codeigniter4\framework\system\Common.php(1087): CodeIgniter\View\View->render('booking/list', Array, true)
+#3 E:\wamp64\www\healthyhabbits\app\Controllers\BaseController.php(56): view('booking/list', Array)
+#4 E:\wamp64\www\healthyhabbits\app\Controllers\BookingAppointment.php(19): App\Controllers\BaseController->render_page('booking/list', Array)
+#5 E:\wamp64\www\healthyhabbits\vendor\codeigniter4\framework\system\CodeIgniter.php(914): App\Controllers\BookingAppointment->index()
+#6 E:\wamp64\www\healthyhabbits\vendor\codeigniter4\framework\system\CodeIgniter.php(400): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\BookingAppointment))
+#7 E:\wamp64\www\healthyhabbits\vendor\codeigniter4\framework\system\CodeIgniter.php(308): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#8 E:\wamp64\www\healthyhabbits\index.php(84): CodeIgniter\CodeIgniter->run()
+#9 {main}
+CRITICAL - 2020-07-28 02:20:38 --> Unknown column 'booking_id' in 'where clause'
+#0 E:\wamp64\www\healthyhabbits\vendor\codeigniter4\framework\system\Database\MySQLi\Connection.php(331): mysqli->query('UPDATE `tbl_boo...')
+#1 E:\wamp64\www\healthyhabbits\vendor\codeigniter4\framework\system\Database\BaseConnection.php(738): CodeIgniter\Database\MySQLi\Connection->execute('UPDATE `tbl_boo...')
+#2 E:\wamp64\www\healthyhabbits\vendor\codeigniter4\framework\system\Database\BaseConnection.php(666): CodeIgniter\Database\BaseConnection->simpleQuery('UPDATE `tbl_boo...')
+#3 E:\wamp64\www\healthyhabbits\vendor\codeigniter4\framework\system\Database\BaseBuilder.php(2441): CodeIgniter\Database\BaseConnection->query('UPDATE `tbl_boo...', Array, false)
+#4 E:\wamp64\www\healthyhabbits\vendor\codeigniter4\framework\system\Model.php(864): CodeIgniter\Database\BaseBuilder->update()
+#5 E:\wamp64\www\healthyhabbits\app\Controllers\BookingAppointment.php(40): CodeIgniter\Model->update()
+#6 E:\wamp64\www\healthyhabbits\vendor\codeigniter4\framework\system\CodeIgniter.php(914): App\Controllers\BookingAppointment->update_status()
+#7 E:\wamp64\www\healthyhabbits\vendor\codeigniter4\framework\system\CodeIgniter.php(400): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\BookingAppointment))
+#8 E:\wamp64\www\healthyhabbits\vendor\codeigniter4\framework\system\CodeIgniter.php(308): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#9 E:\wamp64\www\healthyhabbits\index.php(84): CodeIgniter\CodeIgniter->run()
+#10 {main}
+CRITICAL - 2020-07-28 02:20:38 --> Unknown column 'booking_id' in 'where clause'
+#0 E:\wamp64\www\healthyhabbits\vendor\codeigniter4\framework\system\Database\MySQLi\Connection.php(331): mysqli->query('UPDATE `tbl_boo...')
+#1 E:\wamp64\www\healthyhabbits\vendor\codeigniter4\framework\system\Database\BaseConnection.php(738): CodeIgniter\Database\MySQLi\Connection->execute('UPDATE `tbl_boo...')
+#2 E:\wamp64\www\healthyhabbits\vendor\codeigniter4\framework\system\Database\BaseConnection.php(666): CodeIgniter\Database\BaseConnection->simpleQuery('UPDATE `tbl_boo...')
+#3 E:\wamp64\www\healthyhabbits\vendor\codeigniter4\framework\system\Database\BaseBuilder.php(2441): CodeIgniter\Database\BaseConnection->query('UPDATE `tbl_boo...', Array, false)
+#4 E:\wamp64\www\healthyhabbits\vendor\codeigniter4\framework\system\Model.php(864): CodeIgniter\Database\BaseBuilder->update()
+#5 E:\wamp64\www\healthyhabbits\app\Controllers\BookingAppointment.php(40): CodeIgniter\Model->update()
+#6 E:\wamp64\www\healthyhabbits\vendor\codeigniter4\framework\system\CodeIgniter.php(914): App\Controllers\BookingAppointment->update_status()
+#7 E:\wamp64\www\healthyhabbits\vendor\codeigniter4\framework\system\CodeIgniter.php(400): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\BookingAppointment))
+#8 E:\wamp64\www\healthyhabbits\vendor\codeigniter4\framework\system\CodeIgniter.php(308): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#9 E:\wamp64\www\healthyhabbits\index.php(84): CodeIgniter\CodeIgniter->run()
+#10 {main}
+CRITICAL - 2020-07-28 02:21:47 --> syntax error, unexpected '=>' (T_DOUBLE_ARROW)
+#0 E:\wamp64\www\healthyhabbits\vendor\codeigniter4\framework\system\Router\Router.php(192): CodeIgniter\Router\Router->autoRoute('/medicinemaster')
+#1 E:\wamp64\www\healthyhabbits\vendor\codeigniter4\framework\system\CodeIgniter.php(789): CodeIgniter\Router\Router->handle('/medicinemaster')
+#2 E:\wamp64\www\healthyhabbits\vendor\codeigniter4\framework\system\CodeIgniter.php(360): CodeIgniter\CodeIgniter->tryToRouteIt(Object(CodeIgniter\Router\RouteCollection))
+#3 E:\wamp64\www\healthyhabbits\vendor\codeigniter4\framework\system\CodeIgniter.php(308): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 E:\wamp64\www\healthyhabbits\index.php(84): CodeIgniter\CodeIgniter->run()
+#5 {main}

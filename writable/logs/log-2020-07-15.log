@@ -1,0 +1,283 @@
+CRITICAL - 2020-07-15 01:15:37 --> syntax error, unexpected '$model' (T_VARIABLE), expecting function (T_FUNCTION) or const (T_CONST)
+#0 E:\wamp64\www\healthyhabbits\vendor\codeigniter4\framework\system\Autoloader\Autoloader.php(296): CodeIgniter\Autoloader\Autoloader->requireFile('E:\\wamp64\\www\\h...')
+#1 E:\wamp64\www\healthyhabbits\vendor\codeigniter4\framework\system\Autoloader\Autoloader.php(258): CodeIgniter\Autoloader\Autoloader->loadInNamespace('App\\Controllers...')
+#2 [internal function]: CodeIgniter\Autoloader\Autoloader->loadClass('App\\Controllers...')
+#3 [internal function]: spl_autoload_call('App\\Controllers...')
+#4 E:\wamp64\www\healthyhabbits\vendor\codeigniter4\framework\system\CodeIgniter.php(865): class_exists('\\App\\Controller...', true)
+#5 E:\wamp64\www\healthyhabbits\vendor\codeigniter4\framework\system\CodeIgniter.php(390): CodeIgniter\CodeIgniter->startController()
+#6 E:\wamp64\www\healthyhabbits\vendor\codeigniter4\framework\system\CodeIgniter.php(308): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#7 E:\wamp64\www\healthyhabbits\index.php(84): CodeIgniter\CodeIgniter->run()
+#8 {main}
+CRITICAL - 2020-07-15 02:29:12 --> Invalid file: users/create_user.php
+#0 E:\wamp64\www\healthyhabbits\vendor\codeigniter4\framework\system\View\View.php(228): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('users/create_us...')
+#1 E:\wamp64\www\healthyhabbits\vendor\codeigniter4\framework\system\Common.php(1087): CodeIgniter\View\View->render('users/create_us...', Array, true)
+#2 E:\wamp64\www\healthyhabbits\app\Controllers\Users.php(55): view('users/create_us...', Array)
+#3 E:\wamp64\www\healthyhabbits\vendor\codeigniter4\framework\system\CodeIgniter.php(914): App\Controllers\Users->create()
+#4 E:\wamp64\www\healthyhabbits\vendor\codeigniter4\framework\system\CodeIgniter.php(400): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Users))
+#5 E:\wamp64\www\healthyhabbits\vendor\codeigniter4\framework\system\CodeIgniter.php(308): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 E:\wamp64\www\healthyhabbits\index.php(84): CodeIgniter\CodeIgniter->run()
+#7 {main}
+CRITICAL - 2020-07-15 02:32:28 --> Invalid file: users/create_user.php
+#0 E:\wamp64\www\healthyhabbits\vendor\codeigniter4\framework\system\View\View.php(228): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('users/create_us...')
+#1 E:\wamp64\www\healthyhabbits\vendor\codeigniter4\framework\system\Common.php(1087): CodeIgniter\View\View->render('users/create_us...', Array, true)
+#2 E:\wamp64\www\healthyhabbits\app\Controllers\Users.php(55): view('users/create_us...', Array)
+#3 E:\wamp64\www\healthyhabbits\vendor\codeigniter4\framework\system\CodeIgniter.php(914): App\Controllers\Users->create()
+#4 E:\wamp64\www\healthyhabbits\vendor\codeigniter4\framework\system\CodeIgniter.php(400): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Users))
+#5 E:\wamp64\www\healthyhabbits\vendor\codeigniter4\framework\system\CodeIgniter.php(308): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 E:\wamp64\www\healthyhabbits\index.php(84): CodeIgniter\CodeIgniter->run()
+#7 {main}
+CRITICAL - 2020-07-15 02:40:38 --> Call to a member function callFunction() on null
+#0 E:\wamp64\www\healthyhabbits\vendor\codeigniter4\framework\system\CodeIgniter.php(914): App\Controllers\Users->create()
+#1 E:\wamp64\www\healthyhabbits\vendor\codeigniter4\framework\system\CodeIgniter.php(400): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Users))
+#2 E:\wamp64\www\healthyhabbits\vendor\codeigniter4\framework\system\CodeIgniter.php(308): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 E:\wamp64\www\healthyhabbits\index.php(84): CodeIgniter\CodeIgniter->run()
+#4 {main}
+CRITICAL - 2020-07-15 02:40:48 --> Call to undefined method App\Controllers\Users::callFunction()
+#0 E:\wamp64\www\healthyhabbits\vendor\codeigniter4\framework\system\CodeIgniter.php(914): App\Controllers\Users->create()
+#1 E:\wamp64\www\healthyhabbits\vendor\codeigniter4\framework\system\CodeIgniter.php(400): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Users))
+#2 E:\wamp64\www\healthyhabbits\vendor\codeigniter4\framework\system\CodeIgniter.php(308): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 E:\wamp64\www\healthyhabbits\index.php(84): CodeIgniter\CodeIgniter->run()
+#4 {main}
+CRITICAL - 2020-07-15 02:40:52 --> Call to undefined method App\Controllers\Users::callFunction()
+#0 E:\wamp64\www\healthyhabbits\vendor\codeigniter4\framework\system\CodeIgniter.php(914): App\Controllers\Users->create()
+#1 E:\wamp64\www\healthyhabbits\vendor\codeigniter4\framework\system\CodeIgniter.php(400): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Users))
+#2 E:\wamp64\www\healthyhabbits\vendor\codeigniter4\framework\system\CodeIgniter.php(308): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 E:\wamp64\www\healthyhabbits\index.php(84): CodeIgniter\CodeIgniter->run()
+#4 {main}
+CRITICAL - 2020-07-15 02:45:01 --> custom is not a valid database connection group.
+#0 E:\wamp64\www\healthyhabbits\vendor\codeigniter4\framework\system\Common.php(235): CodeIgniter\Database\Config::connect('custom', true)
+#1 E:\wamp64\www\healthyhabbits\app\Controllers\Users.php(51): db_connect('custom')
+#2 E:\wamp64\www\healthyhabbits\vendor\codeigniter4\framework\system\CodeIgniter.php(914): App\Controllers\Users->create()
+#3 E:\wamp64\www\healthyhabbits\vendor\codeigniter4\framework\system\CodeIgniter.php(400): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Users))
+#4 E:\wamp64\www\healthyhabbits\vendor\codeigniter4\framework\system\CodeIgniter.php(308): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#5 E:\wamp64\www\healthyhabbits\index.php(84): CodeIgniter\CodeIgniter->run()
+#6 {main}
+CRITICAL - 2020-07-15 03:58:07 --> Call to a member function set() on null
+#0 E:\wamp64\www\healthyhabbits\vendor\codeigniter4\framework\system\CodeIgniter.php(914): App\Controllers\Users->create()
+#1 E:\wamp64\www\healthyhabbits\vendor\codeigniter4\framework\system\CodeIgniter.php(400): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Users))
+#2 E:\wamp64\www\healthyhabbits\vendor\codeigniter4\framework\system\CodeIgniter.php(308): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 E:\wamp64\www\healthyhabbits\index.php(84): CodeIgniter\CodeIgniter->run()
+#4 {main}
+CRITICAL - 2020-07-15 03:58:55 --> Call to a member function set() on null
+#0 E:\wamp64\www\healthyhabbits\vendor\codeigniter4\framework\system\CodeIgniter.php(914): App\Controllers\Users->create()
+#1 E:\wamp64\www\healthyhabbits\vendor\codeigniter4\framework\system\CodeIgniter.php(400): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Users))
+#2 E:\wamp64\www\healthyhabbits\vendor\codeigniter4\framework\system\CodeIgniter.php(308): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 E:\wamp64\www\healthyhabbits\index.php(84): CodeIgniter\CodeIgniter->run()
+#4 {main}
+CRITICAL - 2020-07-15 04:00:29 --> Call to a member function set() on null
+#0 E:\wamp64\www\healthyhabbits\vendor\codeigniter4\framework\system\CodeIgniter.php(914): App\Controllers\Users->create()
+#1 E:\wamp64\www\healthyhabbits\vendor\codeigniter4\framework\system\CodeIgniter.php(400): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Users))
+#2 E:\wamp64\www\healthyhabbits\vendor\codeigniter4\framework\system\CodeIgniter.php(308): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 E:\wamp64\www\healthyhabbits\index.php(84): CodeIgniter\CodeIgniter->run()
+#4 {main}
+CRITICAL - 2020-07-15 04:00:31 --> Call to a member function set() on null
+#0 E:\wamp64\www\healthyhabbits\vendor\codeigniter4\framework\system\CodeIgniter.php(914): App\Controllers\Users->create()
+#1 E:\wamp64\www\healthyhabbits\vendor\codeigniter4\framework\system\CodeIgniter.php(400): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Users))
+#2 E:\wamp64\www\healthyhabbits\vendor\codeigniter4\framework\system\CodeIgniter.php(308): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 E:\wamp64\www\healthyhabbits\index.php(84): CodeIgniter\CodeIgniter->run()
+#4 {main}
+CRITICAL - 2020-07-15 04:01:21 --> Invalid file: users/create-user.php
+#0 E:\wamp64\www\healthyhabbits\vendor\codeigniter4\framework\system\View\View.php(228): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('users/create-us...')
+#1 E:\wamp64\www\healthyhabbits\vendor\codeigniter4\framework\system\Common.php(1087): CodeIgniter\View\View->render('users/create-us...', Array, true)
+#2 E:\wamp64\www\healthyhabbits\app\Controllers\Users.php(55): view('users/create-us...', Array)
+#3 E:\wamp64\www\healthyhabbits\vendor\codeigniter4\framework\system\CodeIgniter.php(914): App\Controllers\Users->create()
+#4 E:\wamp64\www\healthyhabbits\vendor\codeigniter4\framework\system\CodeIgniter.php(400): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Users))
+#5 E:\wamp64\www\healthyhabbits\vendor\codeigniter4\framework\system\CodeIgniter.php(308): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 E:\wamp64\www\healthyhabbits\index.php(84): CodeIgniter\CodeIgniter->run()
+#7 {main}
+CRITICAL - 2020-07-15 04:24:17 --> Call to a member function sess_destroy() on null
+#0 E:\wamp64\www\healthyhabbits\vendor\codeigniter4\framework\system\CodeIgniter.php(914): App\Controllers\Login->logout()
+#1 E:\wamp64\www\healthyhabbits\vendor\codeigniter4\framework\system\CodeIgniter.php(400): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Login))
+#2 E:\wamp64\www\healthyhabbits\vendor\codeigniter4\framework\system\CodeIgniter.php(308): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 E:\wamp64\www\healthyhabbits\index.php(84): CodeIgniter\CodeIgniter->run()
+#4 {main}
+CRITICAL - 2020-07-15 04:24:40 --> syntax error, unexpected '\' (T_NS_SEPARATOR), expecting identifier (T_STRING)
+#0 E:\wamp64\www\healthyhabbits\vendor\codeigniter4\framework\system\Router\Router.php(192): CodeIgniter\Router\Router->autoRoute('/login/logout')
+#1 E:\wamp64\www\healthyhabbits\vendor\codeigniter4\framework\system\CodeIgniter.php(789): CodeIgniter\Router\Router->handle('/login/logout')
+#2 E:\wamp64\www\healthyhabbits\vendor\codeigniter4\framework\system\CodeIgniter.php(360): CodeIgniter\CodeIgniter->tryToRouteIt(Object(CodeIgniter\Router\RouteCollection))
+#3 E:\wamp64\www\healthyhabbits\vendor\codeigniter4\framework\system\CodeIgniter.php(308): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 E:\wamp64\www\healthyhabbits\index.php(84): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2020-07-15 04:36:08 --> Cannot redeclare App\Controllers\Login::__construct()
+#0 [internal function]: CodeIgniter\Debug\Exceptions->shutdownHandler()
+#1 {main}
+CRITICAL - 2020-07-15 04:41:58 --> Cannot redeclare App\Controllers\Login::__construct()
+#0 [internal function]: CodeIgniter\Debug\Exceptions->shutdownHandler()
+#1 {main}
+CRITICAL - 2020-07-15 04:42:28 --> Cannot redeclare App\Controllers\Login::__construct()
+#0 [internal function]: CodeIgniter\Debug\Exceptions->shutdownHandler()
+#1 {main}
+CRITICAL - 2020-07-15 04:42:34 --> Cannot redeclare App\Controllers\Login::__construct()
+#0 [internal function]: CodeIgniter\Debug\Exceptions->shutdownHandler()
+#1 {main}
+CRITICAL - 2020-07-15 04:52:15 --> Call to a member function library() on null
+#0 E:\wamp64\www\healthyhabbits\vendor\codeigniter4\framework\system\CodeIgniter.php(886): App\Controllers\Login->__construct()
+#1 E:\wamp64\www\healthyhabbits\vendor\codeigniter4\framework\system\CodeIgniter.php(395): CodeIgniter\CodeIgniter->createController()
+#2 E:\wamp64\www\healthyhabbits\vendor\codeigniter4\framework\system\CodeIgniter.php(308): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 E:\wamp64\www\healthyhabbits\index.php(84): CodeIgniter\CodeIgniter->run()
+#4 {main}
+CRITICAL - 2020-07-15 04:52:32 --> Call to a member function library() on null
+#0 E:\wamp64\www\healthyhabbits\vendor\codeigniter4\framework\system\CodeIgniter.php(886): App\Controllers\Login->__construct()
+#1 E:\wamp64\www\healthyhabbits\vendor\codeigniter4\framework\system\CodeIgniter.php(395): CodeIgniter\CodeIgniter->createController()
+#2 E:\wamp64\www\healthyhabbits\vendor\codeigniter4\framework\system\CodeIgniter.php(308): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 E:\wamp64\www\healthyhabbits\index.php(84): CodeIgniter\CodeIgniter->run()
+#4 {main}
+CRITICAL - 2020-07-15 05:06:50 --> Call to a member function destroy() on null
+#0 E:\wamp64\www\healthyhabbits\vendor\codeigniter4\framework\system\CodeIgniter.php(914): App\Controllers\Login->logout()
+#1 E:\wamp64\www\healthyhabbits\vendor\codeigniter4\framework\system\CodeIgniter.php(400): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Login))
+#2 E:\wamp64\www\healthyhabbits\vendor\codeigniter4\framework\system\CodeIgniter.php(308): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 E:\wamp64\www\healthyhabbits\index.php(84): CodeIgniter\CodeIgniter->run()
+#4 {main}
+CRITICAL - 2020-07-15 07:10:23 --> syntax error, unexpected '}'
+#0 E:\wamp64\www\healthyhabbits\vendor\codeigniter4\framework\system\Router\Router.php(192): CodeIgniter\Router\Router->autoRoute('/users/test')
+#1 E:\wamp64\www\healthyhabbits\vendor\codeigniter4\framework\system\CodeIgniter.php(789): CodeIgniter\Router\Router->handle('/users/test')
+#2 E:\wamp64\www\healthyhabbits\vendor\codeigniter4\framework\system\CodeIgniter.php(360): CodeIgniter\CodeIgniter->tryToRouteIt(Object(CodeIgniter\Router\RouteCollection))
+#3 E:\wamp64\www\healthyhabbits\vendor\codeigniter4\framework\system\CodeIgniter.php(308): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 E:\wamp64\www\healthyhabbits\index.php(84): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2020-07-15 07:11:21 --> syntax error, unexpected '}', expecting ',' or ';'
+#0 E:\wamp64\www\healthyhabbits\vendor\codeigniter4\framework\system\Router\Router.php(192): CodeIgniter\Router\Router->autoRoute('/users/test')
+#1 E:\wamp64\www\healthyhabbits\vendor\codeigniter4\framework\system\CodeIgniter.php(789): CodeIgniter\Router\Router->handle('/users/test')
+#2 E:\wamp64\www\healthyhabbits\vendor\codeigniter4\framework\system\CodeIgniter.php(360): CodeIgniter\CodeIgniter->tryToRouteIt(Object(CodeIgniter\Router\RouteCollection))
+#3 E:\wamp64\www\healthyhabbits\vendor\codeigniter4\framework\system\CodeIgniter.php(308): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 E:\wamp64\www\healthyhabbits\index.php(84): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2020-07-15 07:11:24 --> syntax error, unexpected '}', expecting ',' or ';'
+#0 E:\wamp64\www\healthyhabbits\vendor\codeigniter4\framework\system\Router\Router.php(192): CodeIgniter\Router\Router->autoRoute('/users/test')
+#1 E:\wamp64\www\healthyhabbits\vendor\codeigniter4\framework\system\CodeIgniter.php(789): CodeIgniter\Router\Router->handle('/users/test')
+#2 E:\wamp64\www\healthyhabbits\vendor\codeigniter4\framework\system\CodeIgniter.php(360): CodeIgniter\CodeIgniter->tryToRouteIt(Object(CodeIgniter\Router\RouteCollection))
+#3 E:\wamp64\www\healthyhabbits\vendor\codeigniter4\framework\system\CodeIgniter.php(308): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 E:\wamp64\www\healthyhabbits\index.php(84): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2020-07-15 07:11:56 --> syntax error, unexpected '}', expecting ';'
+#0 E:\wamp64\www\healthyhabbits\vendor\codeigniter4\framework\system\Router\Router.php(192): CodeIgniter\Router\Router->autoRoute('/users/test')
+#1 E:\wamp64\www\healthyhabbits\vendor\codeigniter4\framework\system\CodeIgniter.php(789): CodeIgniter\Router\Router->handle('/users/test')
+#2 E:\wamp64\www\healthyhabbits\vendor\codeigniter4\framework\system\CodeIgniter.php(360): CodeIgniter\CodeIgniter->tryToRouteIt(Object(CodeIgniter\Router\RouteCollection))
+#3 E:\wamp64\www\healthyhabbits\vendor\codeigniter4\framework\system\CodeIgniter.php(308): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 E:\wamp64\www\healthyhabbits\index.php(84): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2020-07-15 07:12:08 --> include(header.php): failed to open stream: No such file or directory
+#0 E:\wamp64\www\healthyhabbits\app\Views\users\test.php(1): CodeIgniter\Debug\Exceptions->errorHandler(2, 'include(header....', 'E:\\wamp64\\www\\h...', 1, Array)
+#1 E:\wamp64\www\healthyhabbits\app\Views\users\test.php(1): include()
+#2 E:\wamp64\www\healthyhabbits\vendor\codeigniter4\framework\system\View\View.php(246): include('E:\\wamp64\\www\\h...')
+#3 E:\wamp64\www\healthyhabbits\vendor\codeigniter4\framework\system\Common.php(1087): CodeIgniter\View\View->render('users/test', Array, true)
+#4 E:\wamp64\www\healthyhabbits\app\Controllers\Users.php(27): view('users/test')
+#5 E:\wamp64\www\healthyhabbits\vendor\codeigniter4\framework\system\CodeIgniter.php(914): App\Controllers\Users->test()
+#6 E:\wamp64\www\healthyhabbits\vendor\codeigniter4\framework\system\CodeIgniter.php(400): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Users))
+#7 E:\wamp64\www\healthyhabbits\vendor\codeigniter4\framework\system\CodeIgniter.php(308): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#8 E:\wamp64\www\healthyhabbits\index.php(84): CodeIgniter\CodeIgniter->run()
+#9 {main}
+CRITICAL - 2020-07-15 07:12:11 --> include(header.php): failed to open stream: No such file or directory
+#0 E:\wamp64\www\healthyhabbits\app\Views\users\test.php(1): CodeIgniter\Debug\Exceptions->errorHandler(2, 'include(header....', 'E:\\wamp64\\www\\h...', 1, Array)
+#1 E:\wamp64\www\healthyhabbits\app\Views\users\test.php(1): include()
+#2 E:\wamp64\www\healthyhabbits\vendor\codeigniter4\framework\system\View\View.php(246): include('E:\\wamp64\\www\\h...')
+#3 E:\wamp64\www\healthyhabbits\vendor\codeigniter4\framework\system\Common.php(1087): CodeIgniter\View\View->render('users/test', Array, true)
+#4 E:\wamp64\www\healthyhabbits\app\Controllers\Users.php(27): view('users/test')
+#5 E:\wamp64\www\healthyhabbits\vendor\codeigniter4\framework\system\CodeIgniter.php(914): App\Controllers\Users->test()
+#6 E:\wamp64\www\healthyhabbits\vendor\codeigniter4\framework\system\CodeIgniter.php(400): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Users))
+#7 E:\wamp64\www\healthyhabbits\vendor\codeigniter4\framework\system\CodeIgniter.php(308): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#8 E:\wamp64\www\healthyhabbits\index.php(84): CodeIgniter\CodeIgniter->run()
+#9 {main}
+CRITICAL - 2020-07-15 07:13:10 --> include(header.php): failed to open stream: No such file or directory
+#0 E:\wamp64\www\healthyhabbits\app\Views\users\test.php(1): CodeIgniter\Debug\Exceptions->errorHandler(2, 'include(header....', 'E:\\wamp64\\www\\h...', 1, Array)
+#1 E:\wamp64\www\healthyhabbits\app\Views\users\test.php(1): include()
+#2 E:\wamp64\www\healthyhabbits\vendor\codeigniter4\framework\system\View\View.php(246): include('E:\\wamp64\\www\\h...')
+#3 E:\wamp64\www\healthyhabbits\vendor\codeigniter4\framework\system\Common.php(1087): CodeIgniter\View\View->render('users/test', Array, true)
+#4 E:\wamp64\www\healthyhabbits\app\Controllers\Users.php(29): view('users/test')
+#5 E:\wamp64\www\healthyhabbits\vendor\codeigniter4\framework\system\CodeIgniter.php(914): App\Controllers\Users->test()
+#6 E:\wamp64\www\healthyhabbits\vendor\codeigniter4\framework\system\CodeIgniter.php(400): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Users))
+#7 E:\wamp64\www\healthyhabbits\vendor\codeigniter4\framework\system\CodeIgniter.php(308): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#8 E:\wamp64\www\healthyhabbits\index.php(84): CodeIgniter\CodeIgniter->run()
+#9 {main}
+CRITICAL - 2020-07-15 08:17:22 --> Call to a member function load() on null
+#0 E:\wamp64\www\healthyhabbits\vendor\codeigniter4\framework\system\CodeIgniter.php(914): App\Controllers\Users->test()
+#1 E:\wamp64\www\healthyhabbits\vendor\codeigniter4\framework\system\CodeIgniter.php(400): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Users))
+#2 E:\wamp64\www\healthyhabbits\vendor\codeigniter4\framework\system\CodeIgniter.php(308): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 E:\wamp64\www\healthyhabbits\index.php(84): CodeIgniter\CodeIgniter->run()
+#4 {main}
+CRITICAL - 2020-07-15 08:18:16 --> Call to a member function view() on null
+#0 E:\wamp64\www\healthyhabbits\vendor\codeigniter4\framework\system\CodeIgniter.php(914): App\Controllers\Users->test()
+#1 E:\wamp64\www\healthyhabbits\vendor\codeigniter4\framework\system\CodeIgniter.php(400): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Users))
+#2 E:\wamp64\www\healthyhabbits\vendor\codeigniter4\framework\system\CodeIgniter.php(308): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 E:\wamp64\www\healthyhabbits\index.php(84): CodeIgniter\CodeIgniter->run()
+#4 {main}
+CRITICAL - 2020-07-15 08:18:34 --> Argument 2 passed to view() must be of the type array, string given, called in E:\wamp64\www\healthyhabbits\app\Controllers\Users.php on line 27
+#0 E:\wamp64\www\healthyhabbits\app\Controllers\Users.php(27): view('template', 'users/test')
+#1 E:\wamp64\www\healthyhabbits\vendor\codeigniter4\framework\system\CodeIgniter.php(914): App\Controllers\Users->test()
+#2 E:\wamp64\www\healthyhabbits\vendor\codeigniter4\framework\system\CodeIgniter.php(400): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Users))
+#3 E:\wamp64\www\healthyhabbits\vendor\codeigniter4\framework\system\CodeIgniter.php(308): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 E:\wamp64\www\healthyhabbits\index.php(84): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2020-07-15 08:18:38 --> Argument 2 passed to view() must be of the type array, string given, called in E:\wamp64\www\healthyhabbits\app\Controllers\Users.php on line 27
+#0 E:\wamp64\www\healthyhabbits\app\Controllers\Users.php(27): view('template', 'users/test')
+#1 E:\wamp64\www\healthyhabbits\vendor\codeigniter4\framework\system\CodeIgniter.php(914): App\Controllers\Users->test()
+#2 E:\wamp64\www\healthyhabbits\vendor\codeigniter4\framework\system\CodeIgniter.php(400): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Users))
+#3 E:\wamp64\www\healthyhabbits\vendor\codeigniter4\framework\system\CodeIgniter.php(308): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 E:\wamp64\www\healthyhabbits\index.php(84): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2020-07-15 08:29:39 --> Argument 2 passed to view() must be of the type array, string given, called in E:\wamp64\www\healthyhabbits\app\Controllers\Users.php on line 27
+#0 E:\wamp64\www\healthyhabbits\app\Controllers\Users.php(27): view('template', 'users/test')
+#1 E:\wamp64\www\healthyhabbits\vendor\codeigniter4\framework\system\CodeIgniter.php(914): App\Controllers\Users->test()
+#2 E:\wamp64\www\healthyhabbits\vendor\codeigniter4\framework\system\CodeIgniter.php(400): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Users))
+#3 E:\wamp64\www\healthyhabbits\vendor\codeigniter4\framework\system\CodeIgniter.php(308): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 E:\wamp64\www\healthyhabbits\index.php(84): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2020-07-15 08:31:15 --> Argument 2 passed to view() must be of the type array, null given, called in E:\wamp64\www\healthyhabbits\app\Controllers\BaseController.php on line 48
+#0 E:\wamp64\www\healthyhabbits\app\Controllers\BaseController.php(48): view('header', NULL)
+#1 E:\wamp64\www\healthyhabbits\app\Controllers\Users.php(27): App\Controllers\BaseController->render_page('users/test', NULL)
+#2 E:\wamp64\www\healthyhabbits\vendor\codeigniter4\framework\system\CodeIgniter.php(914): App\Controllers\Users->test()
+#3 E:\wamp64\www\healthyhabbits\vendor\codeigniter4\framework\system\CodeIgniter.php(400): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Users))
+#4 E:\wamp64\www\healthyhabbits\vendor\codeigniter4\framework\system\CodeIgniter.php(308): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#5 E:\wamp64\www\healthyhabbits\index.php(84): CodeIgniter\CodeIgniter->run()
+#6 {main}
+CRITICAL - 2020-07-15 08:31:17 --> Argument 2 passed to view() must be of the type array, null given, called in E:\wamp64\www\healthyhabbits\app\Controllers\BaseController.php on line 48
+#0 E:\wamp64\www\healthyhabbits\app\Controllers\BaseController.php(48): view('header', NULL)
+#1 E:\wamp64\www\healthyhabbits\app\Controllers\Users.php(27): App\Controllers\BaseController->render_page('users/test', NULL)
+#2 E:\wamp64\www\healthyhabbits\vendor\codeigniter4\framework\system\CodeIgniter.php(914): App\Controllers\Users->test()
+#3 E:\wamp64\www\healthyhabbits\vendor\codeigniter4\framework\system\CodeIgniter.php(400): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Users))
+#4 E:\wamp64\www\healthyhabbits\vendor\codeigniter4\framework\system\CodeIgniter.php(308): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#5 E:\wamp64\www\healthyhabbits\index.php(84): CodeIgniter\CodeIgniter->run()
+#6 {main}
+CRITICAL - 2020-07-15 08:31:38 --> Argument 2 passed to view() must be of the type array, null given, called in E:\wamp64\www\healthyhabbits\app\Controllers\BaseController.php on line 48
+#0 E:\wamp64\www\healthyhabbits\app\Controllers\BaseController.php(48): view('header', NULL)
+#1 E:\wamp64\www\healthyhabbits\app\Controllers\Users.php(27): App\Controllers\BaseController->render_page('users/test', NULL)
+#2 E:\wamp64\www\healthyhabbits\vendor\codeigniter4\framework\system\CodeIgniter.php(914): App\Controllers\Users->test()
+#3 E:\wamp64\www\healthyhabbits\vendor\codeigniter4\framework\system\CodeIgniter.php(400): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Users))
+#4 E:\wamp64\www\healthyhabbits\vendor\codeigniter4\framework\system\CodeIgniter.php(308): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#5 E:\wamp64\www\healthyhabbits\index.php(84): CodeIgniter\CodeIgniter->run()
+#6 {main}
+CRITICAL - 2020-07-15 08:31:47 --> Too few arguments to function App\Controllers\BaseController::render_page(), 1 passed in E:\wamp64\www\healthyhabbits\app\Controllers\Users.php on line 27 and exactly 2 expected
+#0 E:\wamp64\www\healthyhabbits\app\Controllers\Users.php(27): App\Controllers\BaseController->render_page('users/test')
+#1 E:\wamp64\www\healthyhabbits\vendor\codeigniter4\framework\system\CodeIgniter.php(914): App\Controllers\Users->test()
+#2 E:\wamp64\www\healthyhabbits\vendor\codeigniter4\framework\system\CodeIgniter.php(400): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Users))
+#3 E:\wamp64\www\healthyhabbits\vendor\codeigniter4\framework\system\CodeIgniter.php(308): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 E:\wamp64\www\healthyhabbits\index.php(84): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2020-07-15 08:31:48 --> Too few arguments to function App\Controllers\BaseController::render_page(), 1 passed in E:\wamp64\www\healthyhabbits\app\Controllers\Users.php on line 27 and exactly 2 expected
+#0 E:\wamp64\www\healthyhabbits\app\Controllers\Users.php(27): App\Controllers\BaseController->render_page('users/test')
+#1 E:\wamp64\www\healthyhabbits\vendor\codeigniter4\framework\system\CodeIgniter.php(914): App\Controllers\Users->test()
+#2 E:\wamp64\www\healthyhabbits\vendor\codeigniter4\framework\system\CodeIgniter.php(400): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Users))
+#3 E:\wamp64\www\healthyhabbits\vendor\codeigniter4\framework\system\CodeIgniter.php(308): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 E:\wamp64\www\healthyhabbits\index.php(84): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2020-07-15 08:31:48 --> Too few arguments to function App\Controllers\BaseController::render_page(), 1 passed in E:\wamp64\www\healthyhabbits\app\Controllers\Users.php on line 27 and exactly 2 expected
+#0 E:\wamp64\www\healthyhabbits\app\Controllers\Users.php(27): App\Controllers\BaseController->render_page('users/test')
+#1 E:\wamp64\www\healthyhabbits\vendor\codeigniter4\framework\system\CodeIgniter.php(914): App\Controllers\Users->test()
+#2 E:\wamp64\www\healthyhabbits\vendor\codeigniter4\framework\system\CodeIgniter.php(400): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Users))
+#3 E:\wamp64\www\healthyhabbits\vendor\codeigniter4\framework\system\CodeIgniter.php(308): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 E:\wamp64\www\healthyhabbits\index.php(84): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2020-07-15 08:32:39 --> Too few arguments to function App\Controllers\BaseController::render_page(), 1 passed in E:\wamp64\www\healthyhabbits\app\Controllers\Users.php on line 27 and exactly 2 expected
+#0 E:\wamp64\www\healthyhabbits\app\Controllers\Users.php(27): App\Controllers\BaseController->render_page('users/test')
+#1 E:\wamp64\www\healthyhabbits\vendor\codeigniter4\framework\system\CodeIgniter.php(914): App\Controllers\Users->test()
+#2 E:\wamp64\www\healthyhabbits\vendor\codeigniter4\framework\system\CodeIgniter.php(400): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Users))
+#3 E:\wamp64\www\healthyhabbits\vendor\codeigniter4\framework\system\CodeIgniter.php(308): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 E:\wamp64\www\healthyhabbits\index.php(84): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2020-07-15 08:32:45 --> Too few arguments to function App\Controllers\BaseController::render_page(), 1 passed in E:\wamp64\www\healthyhabbits\app\Controllers\Users.php on line 27 and exactly 2 expected
+#0 E:\wamp64\www\healthyhabbits\app\Controllers\Users.php(27): App\Controllers\BaseController->render_page('users/test')
+#1 E:\wamp64\www\healthyhabbits\vendor\codeigniter4\framework\system\CodeIgniter.php(914): App\Controllers\Users->test()
+#2 E:\wamp64\www\healthyhabbits\vendor\codeigniter4\framework\system\CodeIgniter.php(400): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Users))
+#3 E:\wamp64\www\healthyhabbits\vendor\codeigniter4\framework\system\CodeIgniter.php(308): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 E:\wamp64\www\healthyhabbits\index.php(84): CodeIgniter\CodeIgniter->run()
+#5 {main}

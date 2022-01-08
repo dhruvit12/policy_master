@@ -1,0 +1,134 @@
+CRITICAL - 2020-06-22 07:10:55 --> Call to a member function where() on null
+#0 E:\xampp\htdocs\mysite\vendor\codeigniter4\framework\system\CodeIgniter.php(914): App\Controllers\ApiAuth->delete_user()
+#1 E:\xampp\htdocs\mysite\vendor\codeigniter4\framework\system\CodeIgniter.php(400): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\ApiAuth))
+#2 E:\xampp\htdocs\mysite\vendor\codeigniter4\framework\system\CodeIgniter.php(308): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 E:\xampp\htdocs\mysite\index.php(84): CodeIgniter\CodeIgniter->run()
+#4 {main}
+CRITICAL - 2020-06-22 07:11:04 --> Call to a member function where() on null
+#0 E:\xampp\htdocs\mysite\vendor\codeigniter4\framework\system\CodeIgniter.php(914): App\Controllers\ApiAuth->delete_user()
+#1 E:\xampp\htdocs\mysite\vendor\codeigniter4\framework\system\CodeIgniter.php(400): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\ApiAuth))
+#2 E:\xampp\htdocs\mysite\vendor\codeigniter4\framework\system\CodeIgniter.php(308): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 E:\xampp\htdocs\mysite\index.php(84): CodeIgniter\CodeIgniter->run()
+#4 {main}
+CRITICAL - 2020-06-22 07:11:05 --> Call to a member function where() on null
+#0 E:\xampp\htdocs\mysite\vendor\codeigniter4\framework\system\CodeIgniter.php(914): App\Controllers\ApiAuth->delete_user()
+#1 E:\xampp\htdocs\mysite\vendor\codeigniter4\framework\system\CodeIgniter.php(400): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\ApiAuth))
+#2 E:\xampp\htdocs\mysite\vendor\codeigniter4\framework\system\CodeIgniter.php(308): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 E:\xampp\htdocs\mysite\index.php(84): CodeIgniter\CodeIgniter->run()
+#4 {main}
+CRITICAL - 2020-06-22 07:11:52 --> Call to a member function where() on null
+#0 E:\xampp\htdocs\mysite\vendor\codeigniter4\framework\system\CodeIgniter.php(914): App\Controllers\ApiAuth->delete_user()
+#1 E:\xampp\htdocs\mysite\vendor\codeigniter4\framework\system\CodeIgniter.php(400): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\ApiAuth))
+#2 E:\xampp\htdocs\mysite\vendor\codeigniter4\framework\system\CodeIgniter.php(308): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 E:\xampp\htdocs\mysite\index.php(84): CodeIgniter\CodeIgniter->run()
+#4 {main}
+CRITICAL - 2020-06-22 07:11:53 --> Call to a member function where() on null
+#0 E:\xampp\htdocs\mysite\vendor\codeigniter4\framework\system\CodeIgniter.php(914): App\Controllers\ApiAuth->delete_user()
+#1 E:\xampp\htdocs\mysite\vendor\codeigniter4\framework\system\CodeIgniter.php(400): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\ApiAuth))
+#2 E:\xampp\htdocs\mysite\vendor\codeigniter4\framework\system\CodeIgniter.php(308): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 E:\xampp\htdocs\mysite\index.php(84): CodeIgniter\CodeIgniter->run()
+#4 {main}
+CRITICAL - 2020-06-22 07:12:24 --> Call to a member function where() on null
+#0 E:\xampp\htdocs\mysite\vendor\codeigniter4\framework\system\CodeIgniter.php(914): App\Controllers\ApiAuth->delete_user()
+#1 E:\xampp\htdocs\mysite\vendor\codeigniter4\framework\system\CodeIgniter.php(400): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\ApiAuth))
+#2 E:\xampp\htdocs\mysite\vendor\codeigniter4\framework\system\CodeIgniter.php(308): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 E:\xampp\htdocs\mysite\index.php(84): CodeIgniter\CodeIgniter->run()
+#4 {main}
+CRITICAL - 2020-06-22 07:13:16 --> Call to a member function where() on null
+#0 E:\xampp\htdocs\mysite\vendor\codeigniter4\framework\system\CodeIgniter.php(914): App\Controllers\ApiAuth->delete_user()
+#1 E:\xampp\htdocs\mysite\vendor\codeigniter4\framework\system\CodeIgniter.php(400): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\ApiAuth))
+#2 E:\xampp\htdocs\mysite\vendor\codeigniter4\framework\system\CodeIgniter.php(308): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 E:\xampp\htdocs\mysite\index.php(84): CodeIgniter\CodeIgniter->run()
+#4 {main}
+CRITICAL - 2020-06-22 07:13:19 --> Call to a member function where() on null
+#0 E:\xampp\htdocs\mysite\vendor\codeigniter4\framework\system\CodeIgniter.php(914): App\Controllers\ApiAuth->delete_user()
+#1 E:\xampp\htdocs\mysite\vendor\codeigniter4\framework\system\CodeIgniter.php(400): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\ApiAuth))
+#2 E:\xampp\htdocs\mysite\vendor\codeigniter4\framework\system\CodeIgniter.php(308): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 E:\xampp\htdocs\mysite\index.php(84): CodeIgniter\CodeIgniter->run()
+#4 {main}
+CRITICAL - 2020-06-22 07:15:25 --> Call to a member function where() on null
+#0 E:\xampp\htdocs\mysite\vendor\codeigniter4\framework\system\CodeIgniter.php(914): App\Controllers\ApiAuth->delete_user()
+#1 E:\xampp\htdocs\mysite\vendor\codeigniter4\framework\system\CodeIgniter.php(400): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\ApiAuth))
+#2 E:\xampp\htdocs\mysite\vendor\codeigniter4\framework\system\CodeIgniter.php(308): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 E:\xampp\htdocs\mysite\index.php(84): CodeIgniter\CodeIgniter->run()
+#4 {main}
+CRITICAL - 2020-06-22 07:15:30 --> Call to a member function where() on null
+#0 E:\xampp\htdocs\mysite\vendor\codeigniter4\framework\system\CodeIgniter.php(914): App\Controllers\ApiAuth->delete_user()
+#1 E:\xampp\htdocs\mysite\vendor\codeigniter4\framework\system\CodeIgniter.php(400): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\ApiAuth))
+#2 E:\xampp\htdocs\mysite\vendor\codeigniter4\framework\system\CodeIgniter.php(308): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 E:\xampp\htdocs\mysite\index.php(84): CodeIgniter\CodeIgniter->run()
+#4 {main}
+CRITICAL - 2020-06-22 07:16:08 --> Call to a member function where() on null
+#0 E:\xampp\htdocs\mysite\vendor\codeigniter4\framework\system\CodeIgniter.php(914): App\Controllers\ApiAuth->delete_user()
+#1 E:\xampp\htdocs\mysite\vendor\codeigniter4\framework\system\CodeIgniter.php(400): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\ApiAuth))
+#2 E:\xampp\htdocs\mysite\vendor\codeigniter4\framework\system\CodeIgniter.php(308): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 E:\xampp\htdocs\mysite\index.php(84): CodeIgniter\CodeIgniter->run()
+#4 {main}
+CRITICAL - 2020-06-22 07:19:45 --> Class 'App\Controllers\Api_auth_model' not found
+#0 E:\xampp\htdocs\mysite\vendor\codeigniter4\framework\system\CodeIgniter.php(914): App\Controllers\ApiAuth->delete_user()
+#1 E:\xampp\htdocs\mysite\vendor\codeigniter4\framework\system\CodeIgniter.php(400): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\ApiAuth))
+#2 E:\xampp\htdocs\mysite\vendor\codeigniter4\framework\system\CodeIgniter.php(308): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 E:\xampp\htdocs\mysite\index.php(84): CodeIgniter\CodeIgniter->run()
+#4 {main}
+CRITICAL - 2020-06-22 07:25:30 --> Too few arguments to function App\Controllers\ApiAuth::delete_user(), 0 passed in E:\xampp\htdocs\mysite\vendor\codeigniter4\framework\system\CodeIgniter.php on line 914 and exactly 1 expected
+#0 E:\xampp\htdocs\mysite\vendor\codeigniter4\framework\system\CodeIgniter.php(914): App\Controllers\ApiAuth->delete_user()
+#1 E:\xampp\htdocs\mysite\vendor\codeigniter4\framework\system\CodeIgniter.php(400): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\ApiAuth))
+#2 E:\xampp\htdocs\mysite\vendor\codeigniter4\framework\system\CodeIgniter.php(308): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 E:\xampp\htdocs\mysite\index.php(84): CodeIgniter\CodeIgniter->run()
+#4 {main}
+CRITICAL - 2020-06-22 07:27:33 --> syntax error, unexpected '(', expecting identifier (T_STRING) or variable (T_VARIABLE) or '{' or '$'
+#0 E:\xampp\htdocs\mysite\vendor\codeigniter4\framework\system\Autoloader\Autoloader.php(296): CodeIgniter\Autoloader\Autoloader->requireFile('E:\\xampp\\htdocs...')
+#1 E:\xampp\htdocs\mysite\vendor\codeigniter4\framework\system\Autoloader\Autoloader.php(258): CodeIgniter\Autoloader\Autoloader->loadInNamespace('App\\Controllers...')
+#2 [internal function]: CodeIgniter\Autoloader\Autoloader->loadClass('App\\Controllers...')
+#3 [internal function]: spl_autoload_call('App\\Controllers...')
+#4 E:\xampp\htdocs\mysite\vendor\codeigniter4\framework\system\CodeIgniter.php(865): class_exists('\\App\\Controller...', true)
+#5 E:\xampp\htdocs\mysite\vendor\codeigniter4\framework\system\CodeIgniter.php(390): CodeIgniter\CodeIgniter->startController()
+#6 E:\xampp\htdocs\mysite\vendor\codeigniter4\framework\system\CodeIgniter.php(308): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#7 E:\xampp\htdocs\mysite\index.php(84): CodeIgniter\CodeIgniter->run()
+#8 {main}
+CRITICAL - 2020-06-22 07:29:10 --> Call to a member function where() on null
+#0 E:\xampp\htdocs\mysite\vendor\codeigniter4\framework\system\CodeIgniter.php(914): App\Controllers\ApiAuth->delete_user()
+#1 E:\xampp\htdocs\mysite\vendor\codeigniter4\framework\system\CodeIgniter.php(400): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\ApiAuth))
+#2 E:\xampp\htdocs\mysite\vendor\codeigniter4\framework\system\CodeIgniter.php(308): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 E:\xampp\htdocs\mysite\index.php(84): CodeIgniter\CodeIgniter->run()
+#4 {main}
+CRITICAL - 2020-06-22 07:29:43 --> Call to a member function where() on null
+#0 E:\xampp\htdocs\mysite\vendor\codeigniter4\framework\system\CodeIgniter.php(914): App\Controllers\ApiAuth->delete_user()
+#1 E:\xampp\htdocs\mysite\vendor\codeigniter4\framework\system\CodeIgniter.php(400): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\ApiAuth))
+#2 E:\xampp\htdocs\mysite\vendor\codeigniter4\framework\system\CodeIgniter.php(308): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 E:\xampp\htdocs\mysite\index.php(84): CodeIgniter\CodeIgniter->run()
+#4 {main}
+CRITICAL - 2020-06-22 07:37:23 --> Call to a member function where() on null
+#0 E:\xampp\htdocs\mysite\vendor\codeigniter4\framework\system\CodeIgniter.php(914): App\Controllers\ApiAuth->delete_user()
+#1 E:\xampp\htdocs\mysite\vendor\codeigniter4\framework\system\CodeIgniter.php(400): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\ApiAuth))
+#2 E:\xampp\htdocs\mysite\vendor\codeigniter4\framework\system\CodeIgniter.php(308): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 E:\xampp\htdocs\mysite\index.php(84): CodeIgniter\CodeIgniter->run()
+#4 {main}
+CRITICAL - 2020-06-22 07:38:24 --> syntax error, unexpected '(', expecting identifier (T_STRING) or variable (T_VARIABLE) or '{' or '$'
+#0 E:\xampp\htdocs\mysite\vendor\codeigniter4\framework\system\Autoloader\Autoloader.php(296): CodeIgniter\Autoloader\Autoloader->requireFile('E:\\xampp\\htdocs...')
+#1 E:\xampp\htdocs\mysite\vendor\codeigniter4\framework\system\Autoloader\Autoloader.php(258): CodeIgniter\Autoloader\Autoloader->loadInNamespace('App\\Controllers...')
+#2 [internal function]: CodeIgniter\Autoloader\Autoloader->loadClass('App\\Controllers...')
+#3 [internal function]: spl_autoload_call('App\\Controllers...')
+#4 E:\xampp\htdocs\mysite\vendor\codeigniter4\framework\system\CodeIgniter.php(865): class_exists('\\App\\Controller...', true)
+#5 E:\xampp\htdocs\mysite\vendor\codeigniter4\framework\system\CodeIgniter.php(390): CodeIgniter\CodeIgniter->startController()
+#6 E:\xampp\htdocs\mysite\vendor\codeigniter4\framework\system\CodeIgniter.php(308): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#7 E:\xampp\htdocs\mysite\index.php(84): CodeIgniter\CodeIgniter->run()
+#8 {main}
+CRITICAL - 2020-06-22 07:57:32 --> Call to a member function where() on null
+#0 E:\xampp\htdocs\mysite\vendor\codeigniter4\framework\system\CodeIgniter.php(914): App\Controllers\ApiAuth->delete_user()
+#1 E:\xampp\htdocs\mysite\vendor\codeigniter4\framework\system\CodeIgniter.php(400): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\ApiAuth))
+#2 E:\xampp\htdocs\mysite\vendor\codeigniter4\framework\system\CodeIgniter.php(308): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 E:\xampp\htdocs\mysite\index.php(84): CodeIgniter\CodeIgniter->run()
+#4 {main}
+CRITICAL - 2020-06-22 07:57:41 --> Call to a member function where() on null
+#0 E:\xampp\htdocs\mysite\vendor\codeigniter4\framework\system\CodeIgniter.php(914): App\Controllers\ApiAuth->delete_user()
+#1 E:\xampp\htdocs\mysite\vendor\codeigniter4\framework\system\CodeIgniter.php(400): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\ApiAuth))
+#2 E:\xampp\htdocs\mysite\vendor\codeigniter4\framework\system\CodeIgniter.php(308): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 E:\xampp\htdocs\mysite\index.php(84): CodeIgniter\CodeIgniter->run()
+#4 {main}
+CRITICAL - 2020-06-22 07:57:48 --> Call to a member function where() on null
+#0 E:\xampp\htdocs\mysite\vendor\codeigniter4\framework\system\CodeIgniter.php(914): App\Controllers\ApiAuth->delete_user()
+#1 E:\xampp\htdocs\mysite\vendor\codeigniter4\framework\system\CodeIgniter.php(400): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\ApiAuth))
+#2 E:\xampp\htdocs\mysite\vendor\codeigniter4\framework\system\CodeIgniter.php(308): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 E:\xampp\htdocs\mysite\index.php(84): CodeIgniter\CodeIgniter->run()
+#4 {main}

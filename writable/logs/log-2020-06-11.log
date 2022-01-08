@@ -1,0 +1,840 @@
+CRITICAL - 2020-06-11 01:10:36 --> Use of undefined constant AUTHUSER_NAME - assumed 'AUTHUSER_NAME' (this will throw an Error in a future version of PHP)
+#0 E:\xampp\htdocs\mysite\app\Controllers\ApiAuth.php(68): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Use of undefine...', 'E:\\xampp\\htdocs...', 68, Array)
+#1 E:\xampp\htdocs\mysite\vendor\codeigniter4\framework\system\CodeIgniter.php(914): App\Controllers\ApiAuth->login()
+#2 E:\xampp\htdocs\mysite\vendor\codeigniter4\framework\system\CodeIgniter.php(400): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\ApiAuth))
+#3 E:\xampp\htdocs\mysite\vendor\codeigniter4\framework\system\CodeIgniter.php(308): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 E:\xampp\htdocs\mysite\index.php(45): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2020-06-11 01:10:58 --> Use of undefined constant AUTHUSER_NAME - assumed 'AUTHUSER_NAME' (this will throw an Error in a future version of PHP)
+#0 E:\xampp\htdocs\mysite\app\Controllers\ApiAuth.php(69): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Use of undefine...', 'E:\\xampp\\htdocs...', 69, Array)
+#1 E:\xampp\htdocs\mysite\vendor\codeigniter4\framework\system\CodeIgniter.php(914): App\Controllers\ApiAuth->login()
+#2 E:\xampp\htdocs\mysite\vendor\codeigniter4\framework\system\CodeIgniter.php(400): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\ApiAuth))
+#3 E:\xampp\htdocs\mysite\vendor\codeigniter4\framework\system\CodeIgniter.php(308): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 E:\xampp\htdocs\mysite\index.php(45): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2020-06-11 01:10:59 --> Use of undefined constant AUTHUSER_NAME - assumed 'AUTHUSER_NAME' (this will throw an Error in a future version of PHP)
+#0 E:\xampp\htdocs\mysite\app\Controllers\ApiAuth.php(69): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Use of undefine...', 'E:\\xampp\\htdocs...', 69, Array)
+#1 E:\xampp\htdocs\mysite\vendor\codeigniter4\framework\system\CodeIgniter.php(914): App\Controllers\ApiAuth->login()
+#2 E:\xampp\htdocs\mysite\vendor\codeigniter4\framework\system\CodeIgniter.php(400): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\ApiAuth))
+#3 E:\xampp\htdocs\mysite\vendor\codeigniter4\framework\system\CodeIgniter.php(308): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 E:\xampp\htdocs\mysite\index.php(45): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2020-06-11 01:10:59 --> Use of undefined constant AUTHUSER_NAME - assumed 'AUTHUSER_NAME' (this will throw an Error in a future version of PHP)
+#0 E:\xampp\htdocs\mysite\app\Controllers\ApiAuth.php(69): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Use of undefine...', 'E:\\xampp\\htdocs...', 69, Array)
+#1 E:\xampp\htdocs\mysite\vendor\codeigniter4\framework\system\CodeIgniter.php(914): App\Controllers\ApiAuth->login()
+#2 E:\xampp\htdocs\mysite\vendor\codeigniter4\framework\system\CodeIgniter.php(400): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\ApiAuth))
+#3 E:\xampp\htdocs\mysite\vendor\codeigniter4\framework\system\CodeIgniter.php(308): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 E:\xampp\htdocs\mysite\index.php(45): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2020-06-11 01:11:00 --> Use of undefined constant AUTHUSER_NAME - assumed 'AUTHUSER_NAME' (this will throw an Error in a future version of PHP)
+#0 E:\xampp\htdocs\mysite\app\Controllers\ApiAuth.php(69): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Use of undefine...', 'E:\\xampp\\htdocs...', 69, Array)
+#1 E:\xampp\htdocs\mysite\vendor\codeigniter4\framework\system\CodeIgniter.php(914): App\Controllers\ApiAuth->login()
+#2 E:\xampp\htdocs\mysite\vendor\codeigniter4\framework\system\CodeIgniter.php(400): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\ApiAuth))
+#3 E:\xampp\htdocs\mysite\vendor\codeigniter4\framework\system\CodeIgniter.php(308): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 E:\xampp\htdocs\mysite\index.php(45): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2020-06-11 01:11:00 --> Use of undefined constant AUTHUSER_NAME - assumed 'AUTHUSER_NAME' (this will throw an Error in a future version of PHP)
+#0 E:\xampp\htdocs\mysite\app\Controllers\ApiAuth.php(69): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Use of undefine...', 'E:\\xampp\\htdocs...', 69, Array)
+#1 E:\xampp\htdocs\mysite\vendor\codeigniter4\framework\system\CodeIgniter.php(914): App\Controllers\ApiAuth->login()
+#2 E:\xampp\htdocs\mysite\vendor\codeigniter4\framework\system\CodeIgniter.php(400): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\ApiAuth))
+#3 E:\xampp\htdocs\mysite\vendor\codeigniter4\framework\system\CodeIgniter.php(308): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 E:\xampp\htdocs\mysite\index.php(45): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2020-06-11 01:11:00 --> Use of undefined constant AUTHUSER_NAME - assumed 'AUTHUSER_NAME' (this will throw an Error in a future version of PHP)
+#0 E:\xampp\htdocs\mysite\app\Controllers\ApiAuth.php(69): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Use of undefine...', 'E:\\xampp\\htdocs...', 69, Array)
+#1 E:\xampp\htdocs\mysite\vendor\codeigniter4\framework\system\CodeIgniter.php(914): App\Controllers\ApiAuth->login()
+#2 E:\xampp\htdocs\mysite\vendor\codeigniter4\framework\system\CodeIgniter.php(400): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\ApiAuth))
+#3 E:\xampp\htdocs\mysite\vendor\codeigniter4\framework\system\CodeIgniter.php(308): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 E:\xampp\htdocs\mysite\index.php(45): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2020-06-11 01:11:45 --> Use of undefined constant AUTHUSER_NAME - assumed 'AUTHUSER_NAME' (this will throw an Error in a future version of PHP)
+#0 E:\xampp\htdocs\mysite\app\Controllers\ApiAuth.php(69): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Use of undefine...', 'E:\\xampp\\htdocs...', 69, Array)
+#1 E:\xampp\htdocs\mysite\vendor\codeigniter4\framework\system\CodeIgniter.php(914): App\Controllers\ApiAuth->login()
+#2 E:\xampp\htdocs\mysite\vendor\codeigniter4\framework\system\CodeIgniter.php(400): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\ApiAuth))
+#3 E:\xampp\htdocs\mysite\vendor\codeigniter4\framework\system\CodeIgniter.php(308): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 E:\xampp\htdocs\mysite\index.php(45): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2020-06-11 01:12:17 --> Use of undefined constant AUTHUSER_NAME - assumed 'AUTHUSER_NAME' (this will throw an Error in a future version of PHP)
+#0 E:\xampp\htdocs\mysite\app\Controllers\ApiAuth.php(69): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Use of undefine...', 'E:\\xampp\\htdocs...', 69, Array)
+#1 E:\xampp\htdocs\mysite\vendor\codeigniter4\framework\system\CodeIgniter.php(914): App\Controllers\ApiAuth->login()
+#2 E:\xampp\htdocs\mysite\vendor\codeigniter4\framework\system\CodeIgniter.php(400): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\ApiAuth))
+#3 E:\xampp\htdocs\mysite\vendor\codeigniter4\framework\system\CodeIgniter.php(308): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 E:\xampp\htdocs\mysite\index.php(45): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2020-06-11 01:12:42 --> Use of undefined constant AUTHUSER_NAME - assumed 'AUTHUSER_NAME' (this will throw an Error in a future version of PHP)
+#0 E:\xampp\htdocs\mysite\app\Controllers\ApiAuth.php(70): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Use of undefine...', 'E:\\xampp\\htdocs...', 70, Array)
+#1 E:\xampp\htdocs\mysite\vendor\codeigniter4\framework\system\CodeIgniter.php(914): App\Controllers\ApiAuth->login()
+#2 E:\xampp\htdocs\mysite\vendor\codeigniter4\framework\system\CodeIgniter.php(400): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\ApiAuth))
+#3 E:\xampp\htdocs\mysite\vendor\codeigniter4\framework\system\CodeIgniter.php(308): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 E:\xampp\htdocs\mysite\index.php(45): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2020-06-11 01:13:55 --> Use of undefined constant AUTHUSER_NAME - assumed 'AUTHUSER_NAME' (this will throw an Error in a future version of PHP)
+#0 E:\xampp\htdocs\mysite\app\Controllers\ApiAuth.php(70): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Use of undefine...', 'E:\\xampp\\htdocs...', 70, Array)
+#1 E:\xampp\htdocs\mysite\vendor\codeigniter4\framework\system\CodeIgniter.php(914): App\Controllers\ApiAuth->login()
+#2 E:\xampp\htdocs\mysite\vendor\codeigniter4\framework\system\CodeIgniter.php(400): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\ApiAuth))
+#3 E:\xampp\htdocs\mysite\vendor\codeigniter4\framework\system\CodeIgniter.php(308): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 E:\xampp\htdocs\mysite\index.php(45): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2020-06-11 01:14:01 --> Use of undefined constant AUTHUSER_NAME - assumed 'AUTHUSER_NAME' (this will throw an Error in a future version of PHP)
+#0 E:\xampp\htdocs\mysite\app\Controllers\ApiAuth.php(70): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Use of undefine...', 'E:\\xampp\\htdocs...', 70, Array)
+#1 E:\xampp\htdocs\mysite\vendor\codeigniter4\framework\system\CodeIgniter.php(914): App\Controllers\ApiAuth->login()
+#2 E:\xampp\htdocs\mysite\vendor\codeigniter4\framework\system\CodeIgniter.php(400): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\ApiAuth))
+#3 E:\xampp\htdocs\mysite\vendor\codeigniter4\framework\system\CodeIgniter.php(308): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 E:\xampp\htdocs\mysite\index.php(45): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2020-06-11 01:14:50 --> Use of undefined constant AUTHUSER_NAME - assumed 'AUTHUSER_NAME' (this will throw an Error in a future version of PHP)
+#0 E:\xampp\htdocs\mysite\app\Controllers\ApiAuth.php(70): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Use of undefine...', 'E:\\xampp\\htdocs...', 70, Array)
+#1 E:\xampp\htdocs\mysite\vendor\codeigniter4\framework\system\CodeIgniter.php(914): App\Controllers\ApiAuth->login()
+#2 E:\xampp\htdocs\mysite\vendor\codeigniter4\framework\system\CodeIgniter.php(400): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\ApiAuth))
+#3 E:\xampp\htdocs\mysite\vendor\codeigniter4\framework\system\CodeIgniter.php(308): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 E:\xampp\htdocs\mysite\index.php(45): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2020-06-11 01:15:44 --> Use of undefined constant AUTHUSER_NAME - assumed 'AUTHUSER_NAME' (this will throw an Error in a future version of PHP)
+#0 E:\xampp\htdocs\mysite\app\Controllers\ApiAuth.php(70): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Use of undefine...', 'E:\\xampp\\htdocs...', 70, Array)
+#1 E:\xampp\htdocs\mysite\vendor\codeigniter4\framework\system\CodeIgniter.php(914): App\Controllers\ApiAuth->login()
+#2 E:\xampp\htdocs\mysite\vendor\codeigniter4\framework\system\CodeIgniter.php(400): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\ApiAuth))
+#3 E:\xampp\htdocs\mysite\vendor\codeigniter4\framework\system\CodeIgniter.php(308): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 E:\xampp\htdocs\mysite\index.php(45): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2020-06-11 01:16:07 --> Use of undefined constant AUTHUSER_NAME - assumed 'AUTHUSER_NAME' (this will throw an Error in a future version of PHP)
+#0 E:\xampp\htdocs\mysite\app\Controllers\ApiAuth.php(70): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Use of undefine...', 'E:\\xampp\\htdocs...', 70, Array)
+#1 E:\xampp\htdocs\mysite\vendor\codeigniter4\framework\system\CodeIgniter.php(914): App\Controllers\ApiAuth->login()
+#2 E:\xampp\htdocs\mysite\vendor\codeigniter4\framework\system\CodeIgniter.php(400): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\ApiAuth))
+#3 E:\xampp\htdocs\mysite\vendor\codeigniter4\framework\system\CodeIgniter.php(308): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 E:\xampp\htdocs\mysite\index.php(45): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2020-06-11 01:16:08 --> Use of undefined constant AUTHUSER_NAME - assumed 'AUTHUSER_NAME' (this will throw an Error in a future version of PHP)
+#0 E:\xampp\htdocs\mysite\app\Controllers\ApiAuth.php(70): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Use of undefine...', 'E:\\xampp\\htdocs...', 70, Array)
+#1 E:\xampp\htdocs\mysite\vendor\codeigniter4\framework\system\CodeIgniter.php(914): App\Controllers\ApiAuth->login()
+#2 E:\xampp\htdocs\mysite\vendor\codeigniter4\framework\system\CodeIgniter.php(400): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\ApiAuth))
+#3 E:\xampp\htdocs\mysite\vendor\codeigniter4\framework\system\CodeIgniter.php(308): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 E:\xampp\htdocs\mysite\index.php(45): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2020-06-11 01:16:08 --> Use of undefined constant AUTHUSER_NAME - assumed 'AUTHUSER_NAME' (this will throw an Error in a future version of PHP)
+#0 E:\xampp\htdocs\mysite\app\Controllers\ApiAuth.php(70): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Use of undefine...', 'E:\\xampp\\htdocs...', 70, Array)
+#1 E:\xampp\htdocs\mysite\vendor\codeigniter4\framework\system\CodeIgniter.php(914): App\Controllers\ApiAuth->login()
+#2 E:\xampp\htdocs\mysite\vendor\codeigniter4\framework\system\CodeIgniter.php(400): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\ApiAuth))
+#3 E:\xampp\htdocs\mysite\vendor\codeigniter4\framework\system\CodeIgniter.php(308): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 E:\xampp\htdocs\mysite\index.php(45): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2020-06-11 01:16:09 --> Use of undefined constant AUTHUSER_NAME - assumed 'AUTHUSER_NAME' (this will throw an Error in a future version of PHP)
+#0 E:\xampp\htdocs\mysite\app\Controllers\ApiAuth.php(70): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Use of undefine...', 'E:\\xampp\\htdocs...', 70, Array)
+#1 E:\xampp\htdocs\mysite\vendor\codeigniter4\framework\system\CodeIgniter.php(914): App\Controllers\ApiAuth->login()
+#2 E:\xampp\htdocs\mysite\vendor\codeigniter4\framework\system\CodeIgniter.php(400): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\ApiAuth))
+#3 E:\xampp\htdocs\mysite\vendor\codeigniter4\framework\system\CodeIgniter.php(308): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 E:\xampp\htdocs\mysite\index.php(45): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2020-06-11 01:16:09 --> Use of undefined constant AUTHUSER_NAME - assumed 'AUTHUSER_NAME' (this will throw an Error in a future version of PHP)
+#0 E:\xampp\htdocs\mysite\app\Controllers\ApiAuth.php(70): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Use of undefine...', 'E:\\xampp\\htdocs...', 70, Array)
+#1 E:\xampp\htdocs\mysite\vendor\codeigniter4\framework\system\CodeIgniter.php(914): App\Controllers\ApiAuth->login()
+#2 E:\xampp\htdocs\mysite\vendor\codeigniter4\framework\system\CodeIgniter.php(400): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\ApiAuth))
+#3 E:\xampp\htdocs\mysite\vendor\codeigniter4\framework\system\CodeIgniter.php(308): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 E:\xampp\htdocs\mysite\index.php(45): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2020-06-11 01:17:12 --> Use of undefined constant AUTHUSER_NAME - assumed 'AUTHUSER_NAME' (this will throw an Error in a future version of PHP)
+#0 E:\xampp\htdocs\mysite\app\Controllers\ApiAuth.php(70): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Use of undefine...', 'E:\\xampp\\htdocs...', 70, Array)
+#1 E:\xampp\htdocs\mysite\vendor\codeigniter4\framework\system\CodeIgniter.php(914): App\Controllers\ApiAuth->login()
+#2 E:\xampp\htdocs\mysite\vendor\codeigniter4\framework\system\CodeIgniter.php(400): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\ApiAuth))
+#3 E:\xampp\htdocs\mysite\vendor\codeigniter4\framework\system\CodeIgniter.php(308): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 E:\xampp\htdocs\mysite\index.php(45): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2020-06-11 01:17:21 --> Use of undefined constant AUTHUSER_NAME - assumed 'AUTHUSER_NAME' (this will throw an Error in a future version of PHP)
+#0 E:\xampp\htdocs\mysite\app\Controllers\ApiAuth.php(70): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Use of undefine...', 'E:\\xampp\\htdocs...', 70, Array)
+#1 E:\xampp\htdocs\mysite\vendor\codeigniter4\framework\system\CodeIgniter.php(914): App\Controllers\ApiAuth->login()
+#2 E:\xampp\htdocs\mysite\vendor\codeigniter4\framework\system\CodeIgniter.php(400): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\ApiAuth))
+#3 E:\xampp\htdocs\mysite\vendor\codeigniter4\framework\system\CodeIgniter.php(308): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 E:\xampp\htdocs\mysite\index.php(45): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2020-06-11 01:18:01 --> Use of undefined constant AUTHUSER_NAME - assumed 'AUTHUSER_NAME' (this will throw an Error in a future version of PHP)
+#0 E:\xampp\htdocs\mysite\app\Controllers\ApiAuth.php(71): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Use of undefine...', 'E:\\xampp\\htdocs...', 71, Array)
+#1 E:\xampp\htdocs\mysite\vendor\codeigniter4\framework\system\CodeIgniter.php(914): App\Controllers\ApiAuth->login()
+#2 E:\xampp\htdocs\mysite\vendor\codeigniter4\framework\system\CodeIgniter.php(400): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\ApiAuth))
+#3 E:\xampp\htdocs\mysite\vendor\codeigniter4\framework\system\CodeIgniter.php(308): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 E:\xampp\htdocs\mysite\index.php(45): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2020-06-11 01:21:53 --> Call to a member function where() on null
+#0 E:\xampp\htdocs\mysite\vendor\codeigniter4\framework\system\CodeIgniter.php(914): App\Controllers\ApiAuth->login()
+#1 E:\xampp\htdocs\mysite\vendor\codeigniter4\framework\system\CodeIgniter.php(400): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\ApiAuth))
+#2 E:\xampp\htdocs\mysite\vendor\codeigniter4\framework\system\CodeIgniter.php(308): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 E:\xampp\htdocs\mysite\index.php(45): CodeIgniter\CodeIgniter->run()
+#4 {main}
+CRITICAL - 2020-06-11 01:28:55 --> Call to a member function where() on null
+#0 E:\xampp\htdocs\mysite\vendor\codeigniter4\framework\system\CodeIgniter.php(914): App\Controllers\ApiAuth->login()
+#1 E:\xampp\htdocs\mysite\vendor\codeigniter4\framework\system\CodeIgniter.php(400): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\ApiAuth))
+#2 E:\xampp\htdocs\mysite\vendor\codeigniter4\framework\system\CodeIgniter.php(308): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 E:\xampp\htdocs\mysite\index.php(45): CodeIgniter\CodeIgniter->run()
+#4 {main}
+CRITICAL - 2020-06-11 01:29:31 --> Call to a member function where() on null
+#0 E:\xampp\htdocs\mysite\vendor\codeigniter4\framework\system\CodeIgniter.php(914): App\Controllers\ApiAuth->login()
+#1 E:\xampp\htdocs\mysite\vendor\codeigniter4\framework\system\CodeIgniter.php(400): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\ApiAuth))
+#2 E:\xampp\htdocs\mysite\vendor\codeigniter4\framework\system\CodeIgniter.php(308): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 E:\xampp\htdocs\mysite\index.php(45): CodeIgniter\CodeIgniter->run()
+#4 {main}
+CRITICAL - 2020-06-11 01:29:38 --> Call to a member function where() on null
+#0 E:\xampp\htdocs\mysite\vendor\codeigniter4\framework\system\CodeIgniter.php(914): App\Controllers\ApiAuth->login()
+#1 E:\xampp\htdocs\mysite\vendor\codeigniter4\framework\system\CodeIgniter.php(400): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\ApiAuth))
+#2 E:\xampp\htdocs\mysite\vendor\codeigniter4\framework\system\CodeIgniter.php(308): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 E:\xampp\htdocs\mysite\index.php(45): CodeIgniter\CodeIgniter->run()
+#4 {main}
+CRITICAL - 2020-06-11 01:29:46 --> Call to a member function where() on null
+#0 E:\xampp\htdocs\mysite\vendor\codeigniter4\framework\system\CodeIgniter.php(914): App\Controllers\ApiAuth->login()
+#1 E:\xampp\htdocs\mysite\vendor\codeigniter4\framework\system\CodeIgniter.php(400): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\ApiAuth))
+#2 E:\xampp\htdocs\mysite\vendor\codeigniter4\framework\system\CodeIgniter.php(308): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 E:\xampp\htdocs\mysite\index.php(45): CodeIgniter\CodeIgniter->run()
+#4 {main}
+CRITICAL - 2020-06-11 01:29:51 --> Call to a member function where() on null
+#0 E:\xampp\htdocs\mysite\vendor\codeigniter4\framework\system\CodeIgniter.php(914): App\Controllers\ApiAuth->login()
+#1 E:\xampp\htdocs\mysite\vendor\codeigniter4\framework\system\CodeIgniter.php(400): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\ApiAuth))
+#2 E:\xampp\htdocs\mysite\vendor\codeigniter4\framework\system\CodeIgniter.php(308): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 E:\xampp\htdocs\mysite\index.php(45): CodeIgniter\CodeIgniter->run()
+#4 {main}
+CRITICAL - 2020-06-11 01:30:39 --> Call to a member function where() on null
+#0 E:\xampp\htdocs\mysite\vendor\codeigniter4\framework\system\CodeIgniter.php(914): App\Controllers\ApiAuth->login()
+#1 E:\xampp\htdocs\mysite\vendor\codeigniter4\framework\system\CodeIgniter.php(400): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\ApiAuth))
+#2 E:\xampp\htdocs\mysite\vendor\codeigniter4\framework\system\CodeIgniter.php(308): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 E:\xampp\htdocs\mysite\index.php(45): CodeIgniter\CodeIgniter->run()
+#4 {main}
+CRITICAL - 2020-06-11 01:31:01 --> Call to a member function where() on null
+#0 E:\xampp\htdocs\mysite\vendor\codeigniter4\framework\system\CodeIgniter.php(914): App\Controllers\ApiAuth->login()
+#1 E:\xampp\htdocs\mysite\vendor\codeigniter4\framework\system\CodeIgniter.php(400): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\ApiAuth))
+#2 E:\xampp\htdocs\mysite\vendor\codeigniter4\framework\system\CodeIgniter.php(308): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 E:\xampp\htdocs\mysite\index.php(45): CodeIgniter\CodeIgniter->run()
+#4 {main}
+CRITICAL - 2020-06-11 01:32:06 --> Call to a member function where() on null
+#0 E:\xampp\htdocs\mysite\vendor\codeigniter4\framework\system\CodeIgniter.php(914): App\Controllers\ApiAuth->login()
+#1 E:\xampp\htdocs\mysite\vendor\codeigniter4\framework\system\CodeIgniter.php(400): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\ApiAuth))
+#2 E:\xampp\htdocs\mysite\vendor\codeigniter4\framework\system\CodeIgniter.php(308): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 E:\xampp\htdocs\mysite\index.php(45): CodeIgniter\CodeIgniter->run()
+#4 {main}
+CRITICAL - 2020-06-11 01:32:11 --> Call to a member function where() on null
+#0 E:\xampp\htdocs\mysite\vendor\codeigniter4\framework\system\CodeIgniter.php(914): App\Controllers\ApiAuth->login()
+#1 E:\xampp\htdocs\mysite\vendor\codeigniter4\framework\system\CodeIgniter.php(400): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\ApiAuth))
+#2 E:\xampp\htdocs\mysite\vendor\codeigniter4\framework\system\CodeIgniter.php(308): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 E:\xampp\htdocs\mysite\index.php(45): CodeIgniter\CodeIgniter->run()
+#4 {main}
+CRITICAL - 2020-06-11 01:32:33 --> Call to a member function where() on null
+#0 E:\xampp\htdocs\mysite\vendor\codeigniter4\framework\system\CodeIgniter.php(914): App\Controllers\ApiAuth->login()
+#1 E:\xampp\htdocs\mysite\vendor\codeigniter4\framework\system\CodeIgniter.php(400): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\ApiAuth))
+#2 E:\xampp\htdocs\mysite\vendor\codeigniter4\framework\system\CodeIgniter.php(308): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 E:\xampp\htdocs\mysite\index.php(45): CodeIgniter\CodeIgniter->run()
+#4 {main}
+CRITICAL - 2020-06-11 01:33:04 --> Call to a member function where() on null
+#0 E:\xampp\htdocs\mysite\vendor\codeigniter4\framework\system\CodeIgniter.php(914): App\Controllers\ApiAuth->login()
+#1 E:\xampp\htdocs\mysite\vendor\codeigniter4\framework\system\CodeIgniter.php(400): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\ApiAuth))
+#2 E:\xampp\htdocs\mysite\vendor\codeigniter4\framework\system\CodeIgniter.php(308): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 E:\xampp\htdocs\mysite\index.php(45): CodeIgniter\CodeIgniter->run()
+#4 {main}
+CRITICAL - 2020-06-11 01:33:21 --> Call to a member function where() on null
+#0 E:\xampp\htdocs\mysite\vendor\codeigniter4\framework\system\CodeIgniter.php(914): App\Controllers\ApiAuth->login()
+#1 E:\xampp\htdocs\mysite\vendor\codeigniter4\framework\system\CodeIgniter.php(400): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\ApiAuth))
+#2 E:\xampp\htdocs\mysite\vendor\codeigniter4\framework\system\CodeIgniter.php(308): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 E:\xampp\htdocs\mysite\index.php(45): CodeIgniter\CodeIgniter->run()
+#4 {main}
+CRITICAL - 2020-06-11 01:33:30 --> Call to a member function where() on null
+#0 E:\xampp\htdocs\mysite\vendor\codeigniter4\framework\system\CodeIgniter.php(914): App\Controllers\ApiAuth->login()
+#1 E:\xampp\htdocs\mysite\vendor\codeigniter4\framework\system\CodeIgniter.php(400): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\ApiAuth))
+#2 E:\xampp\htdocs\mysite\vendor\codeigniter4\framework\system\CodeIgniter.php(308): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 E:\xampp\htdocs\mysite\index.php(45): CodeIgniter\CodeIgniter->run()
+#4 {main}
+CRITICAL - 2020-06-11 01:33:36 --> Call to a member function where() on null
+#0 E:\xampp\htdocs\mysite\vendor\codeigniter4\framework\system\CodeIgniter.php(914): App\Controllers\ApiAuth->login()
+#1 E:\xampp\htdocs\mysite\vendor\codeigniter4\framework\system\CodeIgniter.php(400): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\ApiAuth))
+#2 E:\xampp\htdocs\mysite\vendor\codeigniter4\framework\system\CodeIgniter.php(308): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 E:\xampp\htdocs\mysite\index.php(45): CodeIgniter\CodeIgniter->run()
+#4 {main}
+CRITICAL - 2020-06-11 01:34:39 --> Call to a member function where() on null
+#0 E:\xampp\htdocs\mysite\vendor\codeigniter4\framework\system\CodeIgniter.php(914): App\Controllers\ApiAuth->login()
+#1 E:\xampp\htdocs\mysite\vendor\codeigniter4\framework\system\CodeIgniter.php(400): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\ApiAuth))
+#2 E:\xampp\htdocs\mysite\vendor\codeigniter4\framework\system\CodeIgniter.php(308): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 E:\xampp\htdocs\mysite\index.php(45): CodeIgniter\CodeIgniter->run()
+#4 {main}
+CRITICAL - 2020-06-11 01:35:45 --> Call to a member function where() on null
+#0 E:\xampp\htdocs\mysite\vendor\codeigniter4\framework\system\CodeIgniter.php(914): App\Controllers\ApiAuth->login()
+#1 E:\xampp\htdocs\mysite\vendor\codeigniter4\framework\system\CodeIgniter.php(400): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\ApiAuth))
+#2 E:\xampp\htdocs\mysite\vendor\codeigniter4\framework\system\CodeIgniter.php(308): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 E:\xampp\htdocs\mysite\index.php(45): CodeIgniter\CodeIgniter->run()
+#4 {main}
+CRITICAL - 2020-06-11 01:36:12 --> Call to a member function where() on null
+#0 E:\xampp\htdocs\mysite\vendor\codeigniter4\framework\system\CodeIgniter.php(914): App\Controllers\ApiAuth->login()
+#1 E:\xampp\htdocs\mysite\vendor\codeigniter4\framework\system\CodeIgniter.php(400): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\ApiAuth))
+#2 E:\xampp\htdocs\mysite\vendor\codeigniter4\framework\system\CodeIgniter.php(308): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 E:\xampp\htdocs\mysite\index.php(45): CodeIgniter\CodeIgniter->run()
+#4 {main}
+CRITICAL - 2020-06-11 01:36:38 --> Call to a member function where() on null
+#0 E:\xampp\htdocs\mysite\vendor\codeigniter4\framework\system\CodeIgniter.php(914): App\Controllers\ApiAuth->login()
+#1 E:\xampp\htdocs\mysite\vendor\codeigniter4\framework\system\CodeIgniter.php(400): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\ApiAuth))
+#2 E:\xampp\htdocs\mysite\vendor\codeigniter4\framework\system\CodeIgniter.php(308): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 E:\xampp\htdocs\mysite\index.php(45): CodeIgniter\CodeIgniter->run()
+#4 {main}
+CRITICAL - 2020-06-11 01:37:32 --> Call to a member function where() on null
+#0 E:\xampp\htdocs\mysite\vendor\codeigniter4\framework\system\CodeIgniter.php(914): App\Controllers\ApiAuth->login()
+#1 E:\xampp\htdocs\mysite\vendor\codeigniter4\framework\system\CodeIgniter.php(400): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\ApiAuth))
+#2 E:\xampp\htdocs\mysite\vendor\codeigniter4\framework\system\CodeIgniter.php(308): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 E:\xampp\htdocs\mysite\index.php(45): CodeIgniter\CodeIgniter->run()
+#4 {main}
+CRITICAL - 2020-06-11 01:37:33 --> Call to a member function where() on null
+#0 E:\xampp\htdocs\mysite\vendor\codeigniter4\framework\system\CodeIgniter.php(914): App\Controllers\ApiAuth->login()
+#1 E:\xampp\htdocs\mysite\vendor\codeigniter4\framework\system\CodeIgniter.php(400): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\ApiAuth))
+#2 E:\xampp\htdocs\mysite\vendor\codeigniter4\framework\system\CodeIgniter.php(308): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 E:\xampp\htdocs\mysite\index.php(45): CodeIgniter\CodeIgniter->run()
+#4 {main}
+CRITICAL - 2020-06-11 01:37:46 --> Call to a member function last_query() on null
+#0 E:\xampp\htdocs\mysite\vendor\codeigniter4\framework\system\CodeIgniter.php(914): App\Controllers\ApiAuth->login()
+#1 E:\xampp\htdocs\mysite\vendor\codeigniter4\framework\system\CodeIgniter.php(400): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\ApiAuth))
+#2 E:\xampp\htdocs\mysite\vendor\codeigniter4\framework\system\CodeIgniter.php(308): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 E:\xampp\htdocs\mysite\index.php(45): CodeIgniter\CodeIgniter->run()
+#4 {main}
+CRITICAL - 2020-06-11 01:38:12 --> Call to a member function last_query() on null
+#0 E:\xampp\htdocs\mysite\vendor\codeigniter4\framework\system\CodeIgniter.php(914): App\Controllers\ApiAuth->login()
+#1 E:\xampp\htdocs\mysite\vendor\codeigniter4\framework\system\CodeIgniter.php(400): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\ApiAuth))
+#2 E:\xampp\htdocs\mysite\vendor\codeigniter4\framework\system\CodeIgniter.php(308): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 E:\xampp\htdocs\mysite\index.php(45): CodeIgniter\CodeIgniter->run()
+#4 {main}
+CRITICAL - 2020-06-11 01:47:46 --> Call to a member function last_query() on null
+#0 E:\xampp\htdocs\mysite\vendor\codeigniter4\framework\system\CodeIgniter.php(914): App\Controllers\ApiAuth->login()
+#1 E:\xampp\htdocs\mysite\vendor\codeigniter4\framework\system\CodeIgniter.php(400): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\ApiAuth))
+#2 E:\xampp\htdocs\mysite\vendor\codeigniter4\framework\system\CodeIgniter.php(308): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 E:\xampp\htdocs\mysite\index.php(45): CodeIgniter\CodeIgniter->run()
+#4 {main}
+CRITICAL - 2020-06-11 01:48:19 --> Call to a member function last_query() on null
+#0 E:\xampp\htdocs\mysite\vendor\codeigniter4\framework\system\CodeIgniter.php(914): App\Controllers\ApiAuth->login()
+#1 E:\xampp\htdocs\mysite\vendor\codeigniter4\framework\system\CodeIgniter.php(400): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\ApiAuth))
+#2 E:\xampp\htdocs\mysite\vendor\codeigniter4\framework\system\CodeIgniter.php(308): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 E:\xampp\htdocs\mysite\index.php(45): CodeIgniter\CodeIgniter->run()
+#4 {main}
+CRITICAL - 2020-06-11 01:50:43 --> Call to a member function last_query() on null
+#0 E:\xampp\htdocs\mysite\vendor\codeigniter4\framework\system\CodeIgniter.php(914): App\Controllers\ApiAuth->login()
+#1 E:\xampp\htdocs\mysite\vendor\codeigniter4\framework\system\CodeIgniter.php(400): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\ApiAuth))
+#2 E:\xampp\htdocs\mysite\vendor\codeigniter4\framework\system\CodeIgniter.php(308): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 E:\xampp\htdocs\mysite\index.php(45): CodeIgniter\CodeIgniter->run()
+#4 {main}
+CRITICAL - 2020-06-11 02:24:26 --> Call to a member function where() on null
+#0 E:\xampp\htdocs\mysite\vendor\codeigniter4\framework\system\CodeIgniter.php(914): App\Controllers\ApiAuth->login()
+#1 E:\xampp\htdocs\mysite\vendor\codeigniter4\framework\system\CodeIgniter.php(400): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\ApiAuth))
+#2 E:\xampp\htdocs\mysite\vendor\codeigniter4\framework\system\CodeIgniter.php(308): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 E:\xampp\htdocs\mysite\index.php(45): CodeIgniter\CodeIgniter->run()
+#4 {main}
+CRITICAL - 2020-06-11 02:24:29 --> Call to a member function where() on null
+#0 E:\xampp\htdocs\mysite\vendor\codeigniter4\framework\system\CodeIgniter.php(914): App\Controllers\ApiAuth->login()
+#1 E:\xampp\htdocs\mysite\vendor\codeigniter4\framework\system\CodeIgniter.php(400): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\ApiAuth))
+#2 E:\xampp\htdocs\mysite\vendor\codeigniter4\framework\system\CodeIgniter.php(308): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 E:\xampp\htdocs\mysite\index.php(45): CodeIgniter\CodeIgniter->run()
+#4 {main}
+CRITICAL - 2020-06-11 02:24:30 --> Call to a member function where() on null
+#0 E:\xampp\htdocs\mysite\vendor\codeigniter4\framework\system\CodeIgniter.php(914): App\Controllers\ApiAuth->login()
+#1 E:\xampp\htdocs\mysite\vendor\codeigniter4\framework\system\CodeIgniter.php(400): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\ApiAuth))
+#2 E:\xampp\htdocs\mysite\vendor\codeigniter4\framework\system\CodeIgniter.php(308): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 E:\xampp\htdocs\mysite\index.php(45): CodeIgniter\CodeIgniter->run()
+#4 {main}
+CRITICAL - 2020-06-11 02:24:37 --> Call to a member function where() on null
+#0 E:\xampp\htdocs\mysite\vendor\codeigniter4\framework\system\CodeIgniter.php(914): App\Controllers\ApiAuth->login()
+#1 E:\xampp\htdocs\mysite\vendor\codeigniter4\framework\system\CodeIgniter.php(400): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\ApiAuth))
+#2 E:\xampp\htdocs\mysite\vendor\codeigniter4\framework\system\CodeIgniter.php(308): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 E:\xampp\htdocs\mysite\index.php(45): CodeIgniter\CodeIgniter->run()
+#4 {main}
+CRITICAL - 2020-06-11 02:24:38 --> Call to a member function where() on null
+#0 E:\xampp\htdocs\mysite\vendor\codeigniter4\framework\system\CodeIgniter.php(914): App\Controllers\ApiAuth->login()
+#1 E:\xampp\htdocs\mysite\vendor\codeigniter4\framework\system\CodeIgniter.php(400): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\ApiAuth))
+#2 E:\xampp\htdocs\mysite\vendor\codeigniter4\framework\system\CodeIgniter.php(308): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 E:\xampp\htdocs\mysite\index.php(45): CodeIgniter\CodeIgniter->run()
+#4 {main}
+CRITICAL - 2020-06-11 04:00:09 --> required|min_length is not a valid rule.
+#0 E:\xampp\htdocs\mysite\vendor\codeigniter4\framework\system\Validation\Validation.php(302): CodeIgniter\Validation\Exceptions\ValidationException::forRuleNotFound('required|min_le...')
+#1 E:\xampp\htdocs\mysite\vendor\codeigniter4\framework\system\Validation\Validation.php(189): CodeIgniter\Validation\Validation->processRules('contact', 'contact', '7622989838', Array, Array)
+#2 E:\xampp\htdocs\mysite\vendor\codeigniter4\framework\system\Controller.php(219): CodeIgniter\Validation\Validation->run()
+#3 E:\xampp\htdocs\mysite\app\Controllers\Users.php(37): CodeIgniter\Controller->validate(Array)
+#4 E:\xampp\htdocs\mysite\vendor\codeigniter4\framework\system\CodeIgniter.php(914): App\Controllers\Users->store()
+#5 E:\xampp\htdocs\mysite\vendor\codeigniter4\framework\system\CodeIgniter.php(400): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Users))
+#6 E:\xampp\htdocs\mysite\vendor\codeigniter4\framework\system\CodeIgniter.php(308): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#7 E:\xampp\htdocs\mysite\index.php(45): CodeIgniter\CodeIgniter->run()
+#8 {main}
+CRITICAL - 2020-06-11 04:02:48 --> required|min_length is not a valid rule.
+#0 E:\xampp\htdocs\mysite\vendor\codeigniter4\framework\system\Validation\Validation.php(302): CodeIgniter\Validation\Exceptions\ValidationException::forRuleNotFound('required|min_le...')
+#1 E:\xampp\htdocs\mysite\vendor\codeigniter4\framework\system\Validation\Validation.php(189): CodeIgniter\Validation\Validation->processRules('contact', 'contact', '7622989838', Array, Array)
+#2 E:\xampp\htdocs\mysite\vendor\codeigniter4\framework\system\Controller.php(219): CodeIgniter\Validation\Validation->run()
+#3 E:\xampp\htdocs\mysite\app\Controllers\Users.php(37): CodeIgniter\Controller->validate(Array)
+#4 E:\xampp\htdocs\mysite\vendor\codeigniter4\framework\system\CodeIgniter.php(914): App\Controllers\Users->store()
+#5 E:\xampp\htdocs\mysite\vendor\codeigniter4\framework\system\CodeIgniter.php(400): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Users))
+#6 E:\xampp\htdocs\mysite\vendor\codeigniter4\framework\system\CodeIgniter.php(308): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#7 E:\xampp\htdocs\mysite\index.php(45): CodeIgniter\CodeIgniter->run()
+#8 {main}
+CRITICAL - 2020-06-11 04:03:17 --> required|min_length is not a valid rule.
+#0 E:\xampp\htdocs\mysite\vendor\codeigniter4\framework\system\Validation\Validation.php(302): CodeIgniter\Validation\Exceptions\ValidationException::forRuleNotFound('required|min_le...')
+#1 E:\xampp\htdocs\mysite\vendor\codeigniter4\framework\system\Validation\Validation.php(189): CodeIgniter\Validation\Validation->processRules('contact', 'contact', '8554645698', Array, Array)
+#2 E:\xampp\htdocs\mysite\vendor\codeigniter4\framework\system\Controller.php(219): CodeIgniter\Validation\Validation->run()
+#3 E:\xampp\htdocs\mysite\app\Controllers\Users.php(37): CodeIgniter\Controller->validate(Array)
+#4 E:\xampp\htdocs\mysite\vendor\codeigniter4\framework\system\CodeIgniter.php(914): App\Controllers\Users->store()
+#5 E:\xampp\htdocs\mysite\vendor\codeigniter4\framework\system\CodeIgniter.php(400): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Users))
+#6 E:\xampp\htdocs\mysite\vendor\codeigniter4\framework\system\CodeIgniter.php(308): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#7 E:\xampp\htdocs\mysite\index.php(45): CodeIgniter\CodeIgniter->run()
+#8 {main}
+CRITICAL - 2020-06-11 04:05:36 --> required|min_length is not a valid rule.
+#0 E:\xampp\htdocs\mysite\vendor\codeigniter4\framework\system\Validation\Validation.php(302): CodeIgniter\Validation\Exceptions\ValidationException::forRuleNotFound('required|min_le...')
+#1 E:\xampp\htdocs\mysite\vendor\codeigniter4\framework\system\Validation\Validation.php(189): CodeIgniter\Validation\Validation->processRules('contact', 'contact', NULL, Array, Array)
+#2 E:\xampp\htdocs\mysite\vendor\codeigniter4\framework\system\Controller.php(219): CodeIgniter\Validation\Validation->run()
+#3 E:\xampp\htdocs\mysite\app\Controllers\Users.php(39): CodeIgniter\Controller->validate(Array)
+#4 E:\xampp\htdocs\mysite\vendor\codeigniter4\framework\system\CodeIgniter.php(914): App\Controllers\Users->store()
+#5 E:\xampp\htdocs\mysite\vendor\codeigniter4\framework\system\CodeIgniter.php(400): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Users))
+#6 E:\xampp\htdocs\mysite\vendor\codeigniter4\framework\system\CodeIgniter.php(308): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#7 E:\xampp\htdocs\mysite\index.php(45): CodeIgniter\CodeIgniter->run()
+#8 {main}
+CRITICAL - 2020-06-11 04:05:51 --> required|min_length is not a valid rule.
+#0 E:\xampp\htdocs\mysite\vendor\codeigniter4\framework\system\Validation\Validation.php(302): CodeIgniter\Validation\Exceptions\ValidationException::forRuleNotFound('required|min_le...')
+#1 E:\xampp\htdocs\mysite\vendor\codeigniter4\framework\system\Validation\Validation.php(189): CodeIgniter\Validation\Validation->processRules('contact', 'contact', NULL, Array, Array)
+#2 E:\xampp\htdocs\mysite\vendor\codeigniter4\framework\system\Controller.php(219): CodeIgniter\Validation\Validation->run()
+#3 E:\xampp\htdocs\mysite\app\Controllers\Users.php(39): CodeIgniter\Controller->validate(Array)
+#4 E:\xampp\htdocs\mysite\vendor\codeigniter4\framework\system\CodeIgniter.php(914): App\Controllers\Users->store()
+#5 E:\xampp\htdocs\mysite\vendor\codeigniter4\framework\system\CodeIgniter.php(400): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Users))
+#6 E:\xampp\htdocs\mysite\vendor\codeigniter4\framework\system\CodeIgniter.php(308): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#7 E:\xampp\htdocs\mysite\index.php(45): CodeIgniter\CodeIgniter->run()
+#8 {main}
+CRITICAL - 2020-06-11 04:05:51 --> required|min_length is not a valid rule.
+#0 E:\xampp\htdocs\mysite\vendor\codeigniter4\framework\system\Validation\Validation.php(302): CodeIgniter\Validation\Exceptions\ValidationException::forRuleNotFound('required|min_le...')
+#1 E:\xampp\htdocs\mysite\vendor\codeigniter4\framework\system\Validation\Validation.php(189): CodeIgniter\Validation\Validation->processRules('contact', 'contact', NULL, Array, Array)
+#2 E:\xampp\htdocs\mysite\vendor\codeigniter4\framework\system\Controller.php(219): CodeIgniter\Validation\Validation->run()
+#3 E:\xampp\htdocs\mysite\app\Controllers\Users.php(39): CodeIgniter\Controller->validate(Array)
+#4 E:\xampp\htdocs\mysite\vendor\codeigniter4\framework\system\CodeIgniter.php(914): App\Controllers\Users->store()
+#5 E:\xampp\htdocs\mysite\vendor\codeigniter4\framework\system\CodeIgniter.php(400): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Users))
+#6 E:\xampp\htdocs\mysite\vendor\codeigniter4\framework\system\CodeIgniter.php(308): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#7 E:\xampp\htdocs\mysite\index.php(45): CodeIgniter\CodeIgniter->run()
+#8 {main}
+CRITICAL - 2020-06-11 04:05:52 --> required|min_length is not a valid rule.
+#0 E:\xampp\htdocs\mysite\vendor\codeigniter4\framework\system\Validation\Validation.php(302): CodeIgniter\Validation\Exceptions\ValidationException::forRuleNotFound('required|min_le...')
+#1 E:\xampp\htdocs\mysite\vendor\codeigniter4\framework\system\Validation\Validation.php(189): CodeIgniter\Validation\Validation->processRules('contact', 'contact', NULL, Array, Array)
+#2 E:\xampp\htdocs\mysite\vendor\codeigniter4\framework\system\Controller.php(219): CodeIgniter\Validation\Validation->run()
+#3 E:\xampp\htdocs\mysite\app\Controllers\Users.php(39): CodeIgniter\Controller->validate(Array)
+#4 E:\xampp\htdocs\mysite\vendor\codeigniter4\framework\system\CodeIgniter.php(914): App\Controllers\Users->store()
+#5 E:\xampp\htdocs\mysite\vendor\codeigniter4\framework\system\CodeIgniter.php(400): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Users))
+#6 E:\xampp\htdocs\mysite\vendor\codeigniter4\framework\system\CodeIgniter.php(308): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#7 E:\xampp\htdocs\mysite\index.php(45): CodeIgniter\CodeIgniter->run()
+#8 {main}
+CRITICAL - 2020-06-11 04:08:37 --> required|min_length is not a valid rule.
+#0 E:\xampp\htdocs\mysite\vendor\codeigniter4\framework\system\Validation\Validation.php(302): CodeIgniter\Validation\Exceptions\ValidationException::forRuleNotFound('required|min_le...')
+#1 E:\xampp\htdocs\mysite\vendor\codeigniter4\framework\system\Validation\Validation.php(189): CodeIgniter\Validation\Validation->processRules('contact', 'contact', NULL, Array, Array)
+#2 E:\xampp\htdocs\mysite\vendor\codeigniter4\framework\system\Controller.php(219): CodeIgniter\Validation\Validation->run()
+#3 E:\xampp\htdocs\mysite\app\Controllers\Users.php(39): CodeIgniter\Controller->validate(Array)
+#4 E:\xampp\htdocs\mysite\vendor\codeigniter4\framework\system\CodeIgniter.php(914): App\Controllers\Users->store()
+#5 E:\xampp\htdocs\mysite\vendor\codeigniter4\framework\system\CodeIgniter.php(400): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Users))
+#6 E:\xampp\htdocs\mysite\vendor\codeigniter4\framework\system\CodeIgniter.php(308): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#7 E:\xampp\htdocs\mysite\index.php(45): CodeIgniter\CodeIgniter->run()
+#8 {main}
+CRITICAL - 2020-06-11 04:08:38 --> required|min_length is not a valid rule.
+#0 E:\xampp\htdocs\mysite\vendor\codeigniter4\framework\system\Validation\Validation.php(302): CodeIgniter\Validation\Exceptions\ValidationException::forRuleNotFound('required|min_le...')
+#1 E:\xampp\htdocs\mysite\vendor\codeigniter4\framework\system\Validation\Validation.php(189): CodeIgniter\Validation\Validation->processRules('contact', 'contact', NULL, Array, Array)
+#2 E:\xampp\htdocs\mysite\vendor\codeigniter4\framework\system\Controller.php(219): CodeIgniter\Validation\Validation->run()
+#3 E:\xampp\htdocs\mysite\app\Controllers\Users.php(39): CodeIgniter\Controller->validate(Array)
+#4 E:\xampp\htdocs\mysite\vendor\codeigniter4\framework\system\CodeIgniter.php(914): App\Controllers\Users->store()
+#5 E:\xampp\htdocs\mysite\vendor\codeigniter4\framework\system\CodeIgniter.php(400): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Users))
+#6 E:\xampp\htdocs\mysite\vendor\codeigniter4\framework\system\CodeIgniter.php(308): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#7 E:\xampp\htdocs\mysite\index.php(45): CodeIgniter\CodeIgniter->run()
+#8 {main}
+CRITICAL - 2020-06-11 04:08:38 --> required|min_length is not a valid rule.
+#0 E:\xampp\htdocs\mysite\vendor\codeigniter4\framework\system\Validation\Validation.php(302): CodeIgniter\Validation\Exceptions\ValidationException::forRuleNotFound('required|min_le...')
+#1 E:\xampp\htdocs\mysite\vendor\codeigniter4\framework\system\Validation\Validation.php(189): CodeIgniter\Validation\Validation->processRules('contact', 'contact', NULL, Array, Array)
+#2 E:\xampp\htdocs\mysite\vendor\codeigniter4\framework\system\Controller.php(219): CodeIgniter\Validation\Validation->run()
+#3 E:\xampp\htdocs\mysite\app\Controllers\Users.php(39): CodeIgniter\Controller->validate(Array)
+#4 E:\xampp\htdocs\mysite\vendor\codeigniter4\framework\system\CodeIgniter.php(914): App\Controllers\Users->store()
+#5 E:\xampp\htdocs\mysite\vendor\codeigniter4\framework\system\CodeIgniter.php(400): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Users))
+#6 E:\xampp\htdocs\mysite\vendor\codeigniter4\framework\system\CodeIgniter.php(308): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#7 E:\xampp\htdocs\mysite\index.php(45): CodeIgniter\CodeIgniter->run()
+#8 {main}
+CRITICAL - 2020-06-11 04:09:47 --> required|min_length is not a valid rule.
+#0 E:\xampp\htdocs\mysite\vendor\codeigniter4\framework\system\Validation\Validation.php(302): CodeIgniter\Validation\Exceptions\ValidationException::forRuleNotFound('required|min_le...')
+#1 E:\xampp\htdocs\mysite\vendor\codeigniter4\framework\system\Validation\Validation.php(189): CodeIgniter\Validation\Validation->processRules('contact', 'contact', NULL, Array, Array)
+#2 E:\xampp\htdocs\mysite\vendor\codeigniter4\framework\system\Controller.php(219): CodeIgniter\Validation\Validation->run()
+#3 E:\xampp\htdocs\mysite\app\Controllers\Users.php(39): CodeIgniter\Controller->validate(Array)
+#4 E:\xampp\htdocs\mysite\vendor\codeigniter4\framework\system\CodeIgniter.php(914): App\Controllers\Users->store()
+#5 E:\xampp\htdocs\mysite\vendor\codeigniter4\framework\system\CodeIgniter.php(400): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Users))
+#6 E:\xampp\htdocs\mysite\vendor\codeigniter4\framework\system\CodeIgniter.php(308): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#7 E:\xampp\htdocs\mysite\index.php(45): CodeIgniter\CodeIgniter->run()
+#8 {main}
+CRITICAL - 2020-06-11 04:09:47 --> required|min_length is not a valid rule.
+#0 E:\xampp\htdocs\mysite\vendor\codeigniter4\framework\system\Validation\Validation.php(302): CodeIgniter\Validation\Exceptions\ValidationException::forRuleNotFound('required|min_le...')
+#1 E:\xampp\htdocs\mysite\vendor\codeigniter4\framework\system\Validation\Validation.php(189): CodeIgniter\Validation\Validation->processRules('contact', 'contact', NULL, Array, Array)
+#2 E:\xampp\htdocs\mysite\vendor\codeigniter4\framework\system\Controller.php(219): CodeIgniter\Validation\Validation->run()
+#3 E:\xampp\htdocs\mysite\app\Controllers\Users.php(39): CodeIgniter\Controller->validate(Array)
+#4 E:\xampp\htdocs\mysite\vendor\codeigniter4\framework\system\CodeIgniter.php(914): App\Controllers\Users->store()
+#5 E:\xampp\htdocs\mysite\vendor\codeigniter4\framework\system\CodeIgniter.php(400): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Users))
+#6 E:\xampp\htdocs\mysite\vendor\codeigniter4\framework\system\CodeIgniter.php(308): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#7 E:\xampp\htdocs\mysite\index.php(45): CodeIgniter\CodeIgniter->run()
+#8 {main}
+CRITICAL - 2020-06-11 04:09:48 --> required|min_length is not a valid rule.
+#0 E:\xampp\htdocs\mysite\vendor\codeigniter4\framework\system\Validation\Validation.php(302): CodeIgniter\Validation\Exceptions\ValidationException::forRuleNotFound('required|min_le...')
+#1 E:\xampp\htdocs\mysite\vendor\codeigniter4\framework\system\Validation\Validation.php(189): CodeIgniter\Validation\Validation->processRules('contact', 'contact', NULL, Array, Array)
+#2 E:\xampp\htdocs\mysite\vendor\codeigniter4\framework\system\Controller.php(219): CodeIgniter\Validation\Validation->run()
+#3 E:\xampp\htdocs\mysite\app\Controllers\Users.php(39): CodeIgniter\Controller->validate(Array)
+#4 E:\xampp\htdocs\mysite\vendor\codeigniter4\framework\system\CodeIgniter.php(914): App\Controllers\Users->store()
+#5 E:\xampp\htdocs\mysite\vendor\codeigniter4\framework\system\CodeIgniter.php(400): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Users))
+#6 E:\xampp\htdocs\mysite\vendor\codeigniter4\framework\system\CodeIgniter.php(308): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#7 E:\xampp\htdocs\mysite\index.php(45): CodeIgniter\CodeIgniter->run()
+#8 {main}
+CRITICAL - 2020-06-11 04:09:53 --> required|min_length is not a valid rule.
+#0 E:\xampp\htdocs\mysite\vendor\codeigniter4\framework\system\Validation\Validation.php(302): CodeIgniter\Validation\Exceptions\ValidationException::forRuleNotFound('required|min_le...')
+#1 E:\xampp\htdocs\mysite\vendor\codeigniter4\framework\system\Validation\Validation.php(189): CodeIgniter\Validation\Validation->processRules('contact', 'contact', '', Array, Array)
+#2 E:\xampp\htdocs\mysite\vendor\codeigniter4\framework\system\Controller.php(219): CodeIgniter\Validation\Validation->run()
+#3 E:\xampp\htdocs\mysite\app\Controllers\Users.php(39): CodeIgniter\Controller->validate(Array)
+#4 E:\xampp\htdocs\mysite\vendor\codeigniter4\framework\system\CodeIgniter.php(914): App\Controllers\Users->store()
+#5 E:\xampp\htdocs\mysite\vendor\codeigniter4\framework\system\CodeIgniter.php(400): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Users))
+#6 E:\xampp\htdocs\mysite\vendor\codeigniter4\framework\system\CodeIgniter.php(308): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#7 E:\xampp\htdocs\mysite\index.php(45): CodeIgniter\CodeIgniter->run()
+#8 {main}
+CRITICAL - 2020-06-11 04:46:49 --> required|min_length is not a valid rule.
+#0 E:\xampp\htdocs\mysite\vendor\codeigniter4\framework\system\Validation\Validation.php(302): CodeIgniter\Validation\Exceptions\ValidationException::forRuleNotFound('required|min_le...')
+#1 E:\xampp\htdocs\mysite\vendor\codeigniter4\framework\system\Validation\Validation.php(189): CodeIgniter\Validation\Validation->processRules('contact', 'contact', '7622989838', Array, Array)
+#2 E:\xampp\htdocs\mysite\vendor\codeigniter4\framework\system\Controller.php(219): CodeIgniter\Validation\Validation->run()
+#3 E:\xampp\htdocs\mysite\app\Controllers\Users.php(39): CodeIgniter\Controller->validate(Array)
+#4 E:\xampp\htdocs\mysite\vendor\codeigniter4\framework\system\CodeIgniter.php(914): App\Controllers\Users->store()
+#5 E:\xampp\htdocs\mysite\vendor\codeigniter4\framework\system\CodeIgniter.php(400): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Users))
+#6 E:\xampp\htdocs\mysite\vendor\codeigniter4\framework\system\CodeIgniter.php(308): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#7 E:\xampp\htdocs\mysite\index.php(45): CodeIgniter\CodeIgniter->run()
+#8 {main}
+CRITICAL - 2020-06-11 04:48:04 --> syntax error, unexpected 'else' (T_ELSE)
+#0 E:\xampp\htdocs\mysite\vendor\codeigniter4\framework\system\Router\Router.php(192): CodeIgniter\Router\Router->autoRoute('/users/store')
+#1 E:\xampp\htdocs\mysite\vendor\codeigniter4\framework\system\CodeIgniter.php(789): CodeIgniter\Router\Router->handle('/users/store')
+#2 E:\xampp\htdocs\mysite\vendor\codeigniter4\framework\system\CodeIgniter.php(360): CodeIgniter\CodeIgniter->tryToRouteIt(Object(CodeIgniter\Router\RouteCollection))
+#3 E:\xampp\htdocs\mysite\vendor\codeigniter4\framework\system\CodeIgniter.php(308): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 E:\xampp\htdocs\mysite\index.php(45): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2020-06-11 04:48:38 --> required|min_length is not a valid rule.
+#0 E:\xampp\htdocs\mysite\vendor\codeigniter4\framework\system\Validation\Validation.php(302): CodeIgniter\Validation\Exceptions\ValidationException::forRuleNotFound('required|min_le...')
+#1 E:\xampp\htdocs\mysite\vendor\codeigniter4\framework\system\Validation\Validation.php(189): CodeIgniter\Validation\Validation->processRules('contact', 'contact', '7622989838', Array, Array)
+#2 E:\xampp\htdocs\mysite\vendor\codeigniter4\framework\system\Controller.php(219): CodeIgniter\Validation\Validation->run()
+#3 E:\xampp\htdocs\mysite\app\Controllers\Users.php(39): CodeIgniter\Controller->validate(Array)
+#4 E:\xampp\htdocs\mysite\vendor\codeigniter4\framework\system\CodeIgniter.php(914): App\Controllers\Users->store()
+#5 E:\xampp\htdocs\mysite\vendor\codeigniter4\framework\system\CodeIgniter.php(400): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Users))
+#6 E:\xampp\htdocs\mysite\vendor\codeigniter4\framework\system\CodeIgniter.php(308): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#7 E:\xampp\htdocs\mysite\index.php(45): CodeIgniter\CodeIgniter->run()
+#8 {main}
+CRITICAL - 2020-06-11 04:49:11 --> required|min_length is not a valid rule.
+#0 E:\xampp\htdocs\mysite\vendor\codeigniter4\framework\system\Validation\Validation.php(302): CodeIgniter\Validation\Exceptions\ValidationException::forRuleNotFound('required|min_le...')
+#1 E:\xampp\htdocs\mysite\vendor\codeigniter4\framework\system\Validation\Validation.php(189): CodeIgniter\Validation\Validation->processRules('contact', 'contact', '7622989838', Array, Array)
+#2 E:\xampp\htdocs\mysite\vendor\codeigniter4\framework\system\Controller.php(219): CodeIgniter\Validation\Validation->run()
+#3 E:\xampp\htdocs\mysite\app\Controllers\Users.php(39): CodeIgniter\Controller->validate(Array)
+#4 E:\xampp\htdocs\mysite\vendor\codeigniter4\framework\system\CodeIgniter.php(914): App\Controllers\Users->store()
+#5 E:\xampp\htdocs\mysite\vendor\codeigniter4\framework\system\CodeIgniter.php(400): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Users))
+#6 E:\xampp\htdocs\mysite\vendor\codeigniter4\framework\system\CodeIgniter.php(308): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#7 E:\xampp\htdocs\mysite\index.php(45): CodeIgniter\CodeIgniter->run()
+#8 {main}
+CRITICAL - 2020-06-11 04:58:05 --> required|min_length is not a valid rule.
+#0 E:\xampp\htdocs\mysite\vendor\codeigniter4\framework\system\Validation\Validation.php(302): CodeIgniter\Validation\Exceptions\ValidationException::forRuleNotFound('required|min_le...')
+#1 E:\xampp\htdocs\mysite\vendor\codeigniter4\framework\system\Validation\Validation.php(189): CodeIgniter\Validation\Validation->processRules('contact', 'contact', '7622989838', Array, Array)
+#2 E:\xampp\htdocs\mysite\vendor\codeigniter4\framework\system\Controller.php(219): CodeIgniter\Validation\Validation->run()
+#3 E:\xampp\htdocs\mysite\app\Controllers\Users.php(39): CodeIgniter\Controller->validate(Array)
+#4 E:\xampp\htdocs\mysite\vendor\codeigniter4\framework\system\CodeIgniter.php(914): App\Controllers\Users->store()
+#5 E:\xampp\htdocs\mysite\vendor\codeigniter4\framework\system\CodeIgniter.php(400): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Users))
+#6 E:\xampp\htdocs\mysite\vendor\codeigniter4\framework\system\CodeIgniter.php(308): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#7 E:\xampp\htdocs\mysite\index.php(45): CodeIgniter\CodeIgniter->run()
+#8 {main}
+CRITICAL - 2020-06-11 05:03:00 --> required|min_length is not a valid rule.
+#0 E:\xampp\htdocs\mysite\vendor\codeigniter4\framework\system\Validation\Validation.php(302): CodeIgniter\Validation\Exceptions\ValidationException::forRuleNotFound('required|min_le...')
+#1 E:\xampp\htdocs\mysite\vendor\codeigniter4\framework\system\Validation\Validation.php(189): CodeIgniter\Validation\Validation->processRules('contact', 'contact', '12', Array, Array)
+#2 E:\xampp\htdocs\mysite\vendor\codeigniter4\framework\system\Controller.php(219): CodeIgniter\Validation\Validation->run()
+#3 E:\xampp\htdocs\mysite\app\Controllers\Users.php(39): CodeIgniter\Controller->validate(Array)
+#4 E:\xampp\htdocs\mysite\vendor\codeigniter4\framework\system\CodeIgniter.php(914): App\Controllers\Users->store()
+#5 E:\xampp\htdocs\mysite\vendor\codeigniter4\framework\system\CodeIgniter.php(400): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Users))
+#6 E:\xampp\htdocs\mysite\vendor\codeigniter4\framework\system\CodeIgniter.php(308): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#7 E:\xampp\htdocs\mysite\index.php(45): CodeIgniter\CodeIgniter->run()
+#8 {main}
+CRITICAL - 2020-06-11 05:05:32 --> required|min_length is not a valid rule.
+#0 E:\xampp\htdocs\mysite\vendor\codeigniter4\framework\system\Validation\Validation.php(302): CodeIgniter\Validation\Exceptions\ValidationException::forRuleNotFound('required|min_le...')
+#1 E:\xampp\htdocs\mysite\vendor\codeigniter4\framework\system\Validation\Validation.php(189): CodeIgniter\Validation\Validation->processRules('contact', 'contact', '12', Array, Array)
+#2 E:\xampp\htdocs\mysite\vendor\codeigniter4\framework\system\Controller.php(219): CodeIgniter\Validation\Validation->run()
+#3 E:\xampp\htdocs\mysite\app\Controllers\Users.php(39): CodeIgniter\Controller->validate(Array)
+#4 E:\xampp\htdocs\mysite\vendor\codeigniter4\framework\system\CodeIgniter.php(914): App\Controllers\Users->store()
+#5 E:\xampp\htdocs\mysite\vendor\codeigniter4\framework\system\CodeIgniter.php(400): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Users))
+#6 E:\xampp\htdocs\mysite\vendor\codeigniter4\framework\system\CodeIgniter.php(308): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#7 E:\xampp\htdocs\mysite\index.php(45): CodeIgniter\CodeIgniter->run()
+#8 {main}
+CRITICAL - 2020-06-11 05:05:46 --> required|min_length is not a valid rule.
+#0 E:\xampp\htdocs\mysite\vendor\codeigniter4\framework\system\Validation\Validation.php(302): CodeIgniter\Validation\Exceptions\ValidationException::forRuleNotFound('required|min_le...')
+#1 E:\xampp\htdocs\mysite\vendor\codeigniter4\framework\system\Validation\Validation.php(189): CodeIgniter\Validation\Validation->processRules('contact', 'contact', '12', Array, Array)
+#2 E:\xampp\htdocs\mysite\vendor\codeigniter4\framework\system\Controller.php(219): CodeIgniter\Validation\Validation->run()
+#3 E:\xampp\htdocs\mysite\app\Controllers\Users.php(39): CodeIgniter\Controller->validate(Array)
+#4 E:\xampp\htdocs\mysite\vendor\codeigniter4\framework\system\CodeIgniter.php(914): App\Controllers\Users->store()
+#5 E:\xampp\htdocs\mysite\vendor\codeigniter4\framework\system\CodeIgniter.php(400): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Users))
+#6 E:\xampp\htdocs\mysite\vendor\codeigniter4\framework\system\CodeIgniter.php(308): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#7 E:\xampp\htdocs\mysite\index.php(45): CodeIgniter\CodeIgniter->run()
+#8 {main}
+CRITICAL - 2020-06-11 05:06:47 --> required|min_length is not a valid rule.
+#0 E:\xampp\htdocs\mysite\vendor\codeigniter4\framework\system\Validation\Validation.php(302): CodeIgniter\Validation\Exceptions\ValidationException::forRuleNotFound('required|min_le...')
+#1 E:\xampp\htdocs\mysite\vendor\codeigniter4\framework\system\Validation\Validation.php(189): CodeIgniter\Validation\Validation->processRules('contact', 'contact', '12', Array, Array)
+#2 E:\xampp\htdocs\mysite\vendor\codeigniter4\framework\system\Controller.php(219): CodeIgniter\Validation\Validation->run()
+#3 E:\xampp\htdocs\mysite\app\Controllers\Users.php(39): CodeIgniter\Controller->validate(Array)
+#4 E:\xampp\htdocs\mysite\vendor\codeigniter4\framework\system\CodeIgniter.php(914): App\Controllers\Users->store()
+#5 E:\xampp\htdocs\mysite\vendor\codeigniter4\framework\system\CodeIgniter.php(400): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Users))
+#6 E:\xampp\htdocs\mysite\vendor\codeigniter4\framework\system\CodeIgniter.php(308): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#7 E:\xampp\htdocs\mysite\index.php(45): CodeIgniter\CodeIgniter->run()
+#8 {main}
+CRITICAL - 2020-06-11 05:06:56 --> required|min_length is not a valid rule.
+#0 E:\xampp\htdocs\mysite\vendor\codeigniter4\framework\system\Validation\Validation.php(302): CodeIgniter\Validation\Exceptions\ValidationException::forRuleNotFound('required|min_le...')
+#1 E:\xampp\htdocs\mysite\vendor\codeigniter4\framework\system\Validation\Validation.php(189): CodeIgniter\Validation\Validation->processRules('contact', 'contact', '12', Array, Array)
+#2 E:\xampp\htdocs\mysite\vendor\codeigniter4\framework\system\Controller.php(219): CodeIgniter\Validation\Validation->run()
+#3 E:\xampp\htdocs\mysite\app\Controllers\Users.php(39): CodeIgniter\Controller->validate(Array)
+#4 E:\xampp\htdocs\mysite\vendor\codeigniter4\framework\system\CodeIgniter.php(914): App\Controllers\Users->store()
+#5 E:\xampp\htdocs\mysite\vendor\codeigniter4\framework\system\CodeIgniter.php(400): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Users))
+#6 E:\xampp\htdocs\mysite\vendor\codeigniter4\framework\system\CodeIgniter.php(308): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#7 E:\xampp\htdocs\mysite\index.php(45): CodeIgniter\CodeIgniter->run()
+#8 {main}
+CRITICAL - 2020-06-11 05:07:01 --> required|min_length is not a valid rule.
+#0 E:\xampp\htdocs\mysite\vendor\codeigniter4\framework\system\Validation\Validation.php(302): CodeIgniter\Validation\Exceptions\ValidationException::forRuleNotFound('required|min_le...')
+#1 E:\xampp\htdocs\mysite\vendor\codeigniter4\framework\system\Validation\Validation.php(189): CodeIgniter\Validation\Validation->processRules('contact', 'contact', '12', Array, Array)
+#2 E:\xampp\htdocs\mysite\vendor\codeigniter4\framework\system\Controller.php(219): CodeIgniter\Validation\Validation->run()
+#3 E:\xampp\htdocs\mysite\app\Controllers\Users.php(39): CodeIgniter\Controller->validate(Array)
+#4 E:\xampp\htdocs\mysite\vendor\codeigniter4\framework\system\CodeIgniter.php(914): App\Controllers\Users->store()
+#5 E:\xampp\htdocs\mysite\vendor\codeigniter4\framework\system\CodeIgniter.php(400): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Users))
+#6 E:\xampp\htdocs\mysite\vendor\codeigniter4\framework\system\CodeIgniter.php(308): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#7 E:\xampp\htdocs\mysite\index.php(45): CodeIgniter\CodeIgniter->run()
+#8 {main}
+CRITICAL - 2020-06-11 05:07:08 --> required|min_length is not a valid rule.
+#0 E:\xampp\htdocs\mysite\vendor\codeigniter4\framework\system\Validation\Validation.php(302): CodeIgniter\Validation\Exceptions\ValidationException::forRuleNotFound('required|min_le...')
+#1 E:\xampp\htdocs\mysite\vendor\codeigniter4\framework\system\Validation\Validation.php(189): CodeIgniter\Validation\Validation->processRules('contact', 'contact', '12', Array, Array)
+#2 E:\xampp\htdocs\mysite\vendor\codeigniter4\framework\system\Controller.php(219): CodeIgniter\Validation\Validation->run()
+#3 E:\xampp\htdocs\mysite\app\Controllers\Users.php(39): CodeIgniter\Controller->validate(Array)
+#4 E:\xampp\htdocs\mysite\vendor\codeigniter4\framework\system\CodeIgniter.php(914): App\Controllers\Users->store()
+#5 E:\xampp\htdocs\mysite\vendor\codeigniter4\framework\system\CodeIgniter.php(400): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Users))
+#6 E:\xampp\htdocs\mysite\vendor\codeigniter4\framework\system\CodeIgniter.php(308): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#7 E:\xampp\htdocs\mysite\index.php(45): CodeIgniter\CodeIgniter->run()
+#8 {main}
+CRITICAL - 2020-06-11 05:07:45 --> Argument 2 passed to base_url() must be of the type string or null, array given, called in E:\xampp\htdocs\mysite\app\Controllers\Users.php on line 45
+#0 E:\xampp\htdocs\mysite\app\Controllers\Users.php(45): base_url('users/create-us...', Array)
+#1 E:\xampp\htdocs\mysite\vendor\codeigniter4\framework\system\CodeIgniter.php(914): App\Controllers\Users->store()
+#2 E:\xampp\htdocs\mysite\vendor\codeigniter4\framework\system\CodeIgniter.php(400): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Users))
+#3 E:\xampp\htdocs\mysite\vendor\codeigniter4\framework\system\CodeIgniter.php(308): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 E:\xampp\htdocs\mysite\index.php(45): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2020-06-11 05:07:51 --> Argument 2 passed to base_url() must be of the type string or null, array given, called in E:\xampp\htdocs\mysite\app\Controllers\Users.php on line 45
+#0 E:\xampp\htdocs\mysite\app\Controllers\Users.php(45): base_url('users/create-us...', Array)
+#1 E:\xampp\htdocs\mysite\vendor\codeigniter4\framework\system\CodeIgniter.php(914): App\Controllers\Users->store()
+#2 E:\xampp\htdocs\mysite\vendor\codeigniter4\framework\system\CodeIgniter.php(400): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Users))
+#3 E:\xampp\htdocs\mysite\vendor\codeigniter4\framework\system\CodeIgniter.php(308): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 E:\xampp\htdocs\mysite\index.php(45): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2020-06-11 05:08:07 --> Argument 2 passed to base_url() must be of the type string or null, array given, called in E:\xampp\htdocs\mysite\app\Controllers\Users.php on line 45
+#0 E:\xampp\htdocs\mysite\app\Controllers\Users.php(45): base_url('users/create-us...', Array)
+#1 E:\xampp\htdocs\mysite\vendor\codeigniter4\framework\system\CodeIgniter.php(914): App\Controllers\Users->store()
+#2 E:\xampp\htdocs\mysite\vendor\codeigniter4\framework\system\CodeIgniter.php(400): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Users))
+#3 E:\xampp\htdocs\mysite\vendor\codeigniter4\framework\system\CodeIgniter.php(308): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 E:\xampp\htdocs\mysite\index.php(45): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2020-06-11 05:09:24 --> required|min_length is not a valid rule.
+#0 E:\xampp\htdocs\mysite\vendor\codeigniter4\framework\system\Validation\Validation.php(302): CodeIgniter\Validation\Exceptions\ValidationException::forRuleNotFound('required|min_le...')
+#1 E:\xampp\htdocs\mysite\vendor\codeigniter4\framework\system\Validation\Validation.php(189): CodeIgniter\Validation\Validation->processRules('contact', 'contact', '12231', Array, Array)
+#2 E:\xampp\htdocs\mysite\vendor\codeigniter4\framework\system\Controller.php(219): CodeIgniter\Validation\Validation->run()
+#3 E:\xampp\htdocs\mysite\app\Controllers\Users.php(37): CodeIgniter\Controller->validate(Array)
+#4 E:\xampp\htdocs\mysite\vendor\codeigniter4\framework\system\CodeIgniter.php(914): App\Controllers\Users->store()
+#5 E:\xampp\htdocs\mysite\vendor\codeigniter4\framework\system\CodeIgniter.php(400): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Users))
+#6 E:\xampp\htdocs\mysite\vendor\codeigniter4\framework\system\CodeIgniter.php(308): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#7 E:\xampp\htdocs\mysite\index.php(45): CodeIgniter\CodeIgniter->run()
+#8 {main}
+CRITICAL - 2020-06-11 05:11:38 --> required|min_length is not a valid rule.
+#0 E:\xampp\htdocs\mysite\vendor\codeigniter4\framework\system\Validation\Validation.php(302): CodeIgniter\Validation\Exceptions\ValidationException::forRuleNotFound('required|min_le...')
+#1 E:\xampp\htdocs\mysite\vendor\codeigniter4\framework\system\Validation\Validation.php(189): CodeIgniter\Validation\Validation->processRules('contact', 'contact', '12231', Array, Array)
+#2 E:\xampp\htdocs\mysite\vendor\codeigniter4\framework\system\Controller.php(219): CodeIgniter\Validation\Validation->run()
+#3 E:\xampp\htdocs\mysite\app\Controllers\Users.php(37): CodeIgniter\Controller->validate(Array)
+#4 E:\xampp\htdocs\mysite\vendor\codeigniter4\framework\system\CodeIgniter.php(914): App\Controllers\Users->store()
+#5 E:\xampp\htdocs\mysite\vendor\codeigniter4\framework\system\CodeIgniter.php(400): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Users))
+#6 E:\xampp\htdocs\mysite\vendor\codeigniter4\framework\system\CodeIgniter.php(308): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#7 E:\xampp\htdocs\mysite\index.php(45): CodeIgniter\CodeIgniter->run()
+#8 {main}
+CRITICAL - 2020-06-11 05:11:50 --> required|min_length is not a valid rule.
+#0 E:\xampp\htdocs\mysite\vendor\codeigniter4\framework\system\Validation\Validation.php(302): CodeIgniter\Validation\Exceptions\ValidationException::forRuleNotFound('required|min_le...')
+#1 E:\xampp\htdocs\mysite\vendor\codeigniter4\framework\system\Validation\Validation.php(189): CodeIgniter\Validation\Validation->processRules('contact', 'contact', '123', Array, Array)
+#2 E:\xampp\htdocs\mysite\vendor\codeigniter4\framework\system\Controller.php(219): CodeIgniter\Validation\Validation->run()
+#3 E:\xampp\htdocs\mysite\app\Controllers\Users.php(37): CodeIgniter\Controller->validate(Array)
+#4 E:\xampp\htdocs\mysite\vendor\codeigniter4\framework\system\CodeIgniter.php(914): App\Controllers\Users->store()
+#5 E:\xampp\htdocs\mysite\vendor\codeigniter4\framework\system\CodeIgniter.php(400): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Users))
+#6 E:\xampp\htdocs\mysite\vendor\codeigniter4\framework\system\CodeIgniter.php(308): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#7 E:\xampp\htdocs\mysite\index.php(45): CodeIgniter\CodeIgniter->run()
+#8 {main}
+CRITICAL - 2020-06-11 05:15:06 --> required|min_length is not a valid rule.
+#0 E:\xampp\htdocs\mysite\vendor\codeigniter4\framework\system\Validation\Validation.php(302): CodeIgniter\Validation\Exceptions\ValidationException::forRuleNotFound('required|min_le...')
+#1 E:\xampp\htdocs\mysite\vendor\codeigniter4\framework\system\Validation\Validation.php(189): CodeIgniter\Validation\Validation->processRules('contact', 'contact', '123', Array, Array)
+#2 E:\xampp\htdocs\mysite\vendor\codeigniter4\framework\system\Controller.php(219): CodeIgniter\Validation\Validation->run()
+#3 E:\xampp\htdocs\mysite\app\Controllers\Users.php(37): CodeIgniter\Controller->validate(Array)
+#4 E:\xampp\htdocs\mysite\vendor\codeigniter4\framework\system\CodeIgniter.php(914): App\Controllers\Users->store()
+#5 E:\xampp\htdocs\mysite\vendor\codeigniter4\framework\system\CodeIgniter.php(400): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Users))
+#6 E:\xampp\htdocs\mysite\vendor\codeigniter4\framework\system\CodeIgniter.php(308): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#7 E:\xampp\htdocs\mysite\index.php(84): CodeIgniter\CodeIgniter->run()
+#8 {main}
+CRITICAL - 2020-06-11 05:20:32 --> required|min_length is not a valid rule.
+#0 E:\xampp\htdocs\mysite\vendor\codeigniter4\framework\system\Validation\Validation.php(302): CodeIgniter\Validation\Exceptions\ValidationException::forRuleNotFound('required|min_le...')
+#1 E:\xampp\htdocs\mysite\vendor\codeigniter4\framework\system\Validation\Validation.php(189): CodeIgniter\Validation\Validation->processRules('contact', 'contact', NULL, Array, Array)
+#2 E:\xampp\htdocs\mysite\vendor\codeigniter4\framework\system\Controller.php(219): CodeIgniter\Validation\Validation->run()
+#3 E:\xampp\htdocs\mysite\app\Controllers\Users.php(37): CodeIgniter\Controller->validate(Array)
+#4 E:\xampp\htdocs\mysite\vendor\codeigniter4\framework\system\CodeIgniter.php(914): App\Controllers\Users->store()
+#5 E:\xampp\htdocs\mysite\vendor\codeigniter4\framework\system\CodeIgniter.php(400): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Users))
+#6 E:\xampp\htdocs\mysite\vendor\codeigniter4\framework\system\CodeIgniter.php(308): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#7 E:\xampp\htdocs\mysite\index.php(84): CodeIgniter\CodeIgniter->run()
+#8 {main}
+CRITICAL - 2020-06-11 05:21:25 --> required|min_length is not a valid rule.
+#0 E:\xampp\htdocs\mysite\vendor\codeigniter4\framework\system\Validation\Validation.php(302): CodeIgniter\Validation\Exceptions\ValidationException::forRuleNotFound('required|min_le...')
+#1 E:\xampp\htdocs\mysite\vendor\codeigniter4\framework\system\Validation\Validation.php(189): CodeIgniter\Validation\Validation->processRules('contact', 'contact', '4545454', Array, Array)
+#2 E:\xampp\htdocs\mysite\vendor\codeigniter4\framework\system\Controller.php(219): CodeIgniter\Validation\Validation->run()
+#3 E:\xampp\htdocs\mysite\app\Controllers\Users.php(37): CodeIgniter\Controller->validate(Array)
+#4 E:\xampp\htdocs\mysite\vendor\codeigniter4\framework\system\CodeIgniter.php(914): App\Controllers\Users->store()
+#5 E:\xampp\htdocs\mysite\vendor\codeigniter4\framework\system\CodeIgniter.php(400): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Users))
+#6 E:\xampp\htdocs\mysite\vendor\codeigniter4\framework\system\CodeIgniter.php(308): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#7 E:\xampp\htdocs\mysite\index.php(84): CodeIgniter\CodeIgniter->run()
+#8 {main}
+CRITICAL - 2020-06-11 05:23:30 --> required|min_length is not a valid rule.
+#0 E:\xampp\htdocs\mysite\vendor\codeigniter4\framework\system\Validation\Validation.php(302): CodeIgniter\Validation\Exceptions\ValidationException::forRuleNotFound('required|min_le...')
+#1 E:\xampp\htdocs\mysite\vendor\codeigniter4\framework\system\Validation\Validation.php(189): CodeIgniter\Validation\Validation->processRules('contact', 'contact', '56456454', Array, Array)
+#2 E:\xampp\htdocs\mysite\vendor\codeigniter4\framework\system\Controller.php(219): CodeIgniter\Validation\Validation->run()
+#3 E:\xampp\htdocs\mysite\app\Controllers\Users.php(37): CodeIgniter\Controller->validate(Array)
+#4 E:\xampp\htdocs\mysite\vendor\codeigniter4\framework\system\CodeIgniter.php(914): App\Controllers\Users->store()
+#5 E:\xampp\htdocs\mysite\vendor\codeigniter4\framework\system\CodeIgniter.php(400): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Users))
+#6 E:\xampp\htdocs\mysite\vendor\codeigniter4\framework\system\CodeIgniter.php(308): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#7 E:\xampp\htdocs\mysite\index.php(84): CodeIgniter\CodeIgniter->run()
+#8 {main}
+CRITICAL - 2020-06-11 06:04:05 --> Class 'App\Libraries\Encryption' not found
+#0 E:\xampp\htdocs\mysite\vendor\codeigniter4\framework\system\CodeIgniter.php(914): App\Controllers\ApiAuth->forget_password()
+#1 E:\xampp\htdocs\mysite\vendor\codeigniter4\framework\system\CodeIgniter.php(400): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\ApiAuth))
+#2 E:\xampp\htdocs\mysite\vendor\codeigniter4\framework\system\CodeIgniter.php(308): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 E:\xampp\htdocs\mysite\index.php(84): CodeIgniter\CodeIgniter->run()
+#4 {main}
+CRITICAL - 2020-06-11 06:04:06 --> Class 'App\Libraries\Encryption' not found
+#0 E:\xampp\htdocs\mysite\vendor\codeigniter4\framework\system\CodeIgniter.php(914): App\Controllers\ApiAuth->forget_password()
+#1 E:\xampp\htdocs\mysite\vendor\codeigniter4\framework\system\CodeIgniter.php(400): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\ApiAuth))
+#2 E:\xampp\htdocs\mysite\vendor\codeigniter4\framework\system\CodeIgniter.php(308): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 E:\xampp\htdocs\mysite\index.php(84): CodeIgniter\CodeIgniter->run()
+#4 {main}
+CRITICAL - 2020-06-11 06:04:06 --> Class 'App\Libraries\Encryption' not found
+#0 E:\xampp\htdocs\mysite\vendor\codeigniter4\framework\system\CodeIgniter.php(914): App\Controllers\ApiAuth->forget_password()
+#1 E:\xampp\htdocs\mysite\vendor\codeigniter4\framework\system\CodeIgniter.php(400): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\ApiAuth))
+#2 E:\xampp\htdocs\mysite\vendor\codeigniter4\framework\system\CodeIgniter.php(308): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 E:\xampp\htdocs\mysite\index.php(84): CodeIgniter\CodeIgniter->run()
+#4 {main}
+CRITICAL - 2020-06-11 06:04:12 --> Class 'App\Libraries\Encryption' not found
+#0 E:\xampp\htdocs\mysite\vendor\codeigniter4\framework\system\CodeIgniter.php(914): App\Controllers\ApiAuth->forget_password()
+#1 E:\xampp\htdocs\mysite\vendor\codeigniter4\framework\system\CodeIgniter.php(400): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\ApiAuth))
+#2 E:\xampp\htdocs\mysite\vendor\codeigniter4\framework\system\CodeIgniter.php(308): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 E:\xampp\htdocs\mysite\index.php(84): CodeIgniter\CodeIgniter->run()
+#4 {main}
+CRITICAL - 2020-06-11 06:04:49 --> Class 'App\Libraries\Encryption' not found
+#0 E:\xampp\htdocs\mysite\vendor\codeigniter4\framework\system\CodeIgniter.php(914): App\Controllers\ApiAuth->forget_password()
+#1 E:\xampp\htdocs\mysite\vendor\codeigniter4\framework\system\CodeIgniter.php(400): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\ApiAuth))
+#2 E:\xampp\htdocs\mysite\vendor\codeigniter4\framework\system\CodeIgniter.php(308): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 E:\xampp\htdocs\mysite\index.php(84): CodeIgniter\CodeIgniter->run()
+#4 {main}
+CRITICAL - 2020-06-11 06:04:51 --> Class 'App\Libraries\Encryption' not found
+#0 E:\xampp\htdocs\mysite\vendor\codeigniter4\framework\system\CodeIgniter.php(914): App\Controllers\ApiAuth->forget_password()
+#1 E:\xampp\htdocs\mysite\vendor\codeigniter4\framework\system\CodeIgniter.php(400): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\ApiAuth))
+#2 E:\xampp\htdocs\mysite\vendor\codeigniter4\framework\system\CodeIgniter.php(308): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 E:\xampp\htdocs\mysite\index.php(84): CodeIgniter\CodeIgniter->run()
+#4 {main}
+CRITICAL - 2020-06-11 06:05:55 --> Class 'App\Libraries\Encryption' not found
+#0 E:\xampp\htdocs\mysite\vendor\codeigniter4\framework\system\CodeIgniter.php(914): App\Controllers\ApiAuth->forget_password()
+#1 E:\xampp\htdocs\mysite\vendor\codeigniter4\framework\system\CodeIgniter.php(400): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\ApiAuth))
+#2 E:\xampp\htdocs\mysite\vendor\codeigniter4\framework\system\CodeIgniter.php(308): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 E:\xampp\htdocs\mysite\index.php(84): CodeIgniter\CodeIgniter->run()
+#4 {main}
+CRITICAL - 2020-06-11 06:07:58 --> Class 'App\Libraries\Encryption' not found
+#0 E:\xampp\htdocs\mysite\vendor\codeigniter4\framework\system\CodeIgniter.php(914): App\Controllers\ApiAuth->forget_password()
+#1 E:\xampp\htdocs\mysite\vendor\codeigniter4\framework\system\CodeIgniter.php(400): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\ApiAuth))
+#2 E:\xampp\htdocs\mysite\vendor\codeigniter4\framework\system\CodeIgniter.php(308): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 E:\xampp\htdocs\mysite\index.php(84): CodeIgniter\CodeIgniter->run()
+#4 {main}
+CRITICAL - 2020-06-11 06:08:07 --> Class 'App\Libraries\Encryption' not found
+#0 E:\xampp\htdocs\mysite\vendor\codeigniter4\framework\system\CodeIgniter.php(914): App\Controllers\ApiAuth->forget_password()
+#1 E:\xampp\htdocs\mysite\vendor\codeigniter4\framework\system\CodeIgniter.php(400): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\ApiAuth))
+#2 E:\xampp\htdocs\mysite\vendor\codeigniter4\framework\system\CodeIgniter.php(308): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 E:\xampp\htdocs\mysite\index.php(84): CodeIgniter\CodeIgniter->run()
+#4 {main}
+CRITICAL - 2020-06-11 06:08:15 --> Call to a member function encryptor() on null
+#0 E:\xampp\htdocs\mysite\vendor\codeigniter4\framework\system\CodeIgniter.php(914): App\Controllers\ApiAuth->forget_password()
+#1 E:\xampp\htdocs\mysite\vendor\codeigniter4\framework\system\CodeIgniter.php(400): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\ApiAuth))
+#2 E:\xampp\htdocs\mysite\vendor\codeigniter4\framework\system\CodeIgniter.php(308): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 E:\xampp\htdocs\mysite\index.php(84): CodeIgniter\CodeIgniter->run()
+#4 {main}
+CRITICAL - 2020-06-11 06:11:28 --> Call to a member function encryptor() on null
+#0 E:\xampp\htdocs\mysite\vendor\codeigniter4\framework\system\CodeIgniter.php(914): App\Controllers\ApiAuth->forget_password()
+#1 E:\xampp\htdocs\mysite\vendor\codeigniter4\framework\system\CodeIgniter.php(400): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\ApiAuth))
+#2 E:\xampp\htdocs\mysite\vendor\codeigniter4\framework\system\CodeIgniter.php(308): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 E:\xampp\htdocs\mysite\index.php(84): CodeIgniter\CodeIgniter->run()
+#4 {main}
+CRITICAL - 2020-06-11 06:11:36 --> Call to a member function encryptor() on null
+#0 E:\xampp\htdocs\mysite\vendor\codeigniter4\framework\system\CodeIgniter.php(914): App\Controllers\ApiAuth->forget_password()
+#1 E:\xampp\htdocs\mysite\vendor\codeigniter4\framework\system\CodeIgniter.php(400): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\ApiAuth))
+#2 E:\xampp\htdocs\mysite\vendor\codeigniter4\framework\system\CodeIgniter.php(308): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 E:\xampp\htdocs\mysite\index.php(84): CodeIgniter\CodeIgniter->run()
+#4 {main}
+CRITICAL - 2020-06-11 06:11:53 --> Call to a member function encryptor() on null
+#0 E:\xampp\htdocs\mysite\vendor\codeigniter4\framework\system\CodeIgniter.php(914): App\Controllers\ApiAuth->forget_password()
+#1 E:\xampp\htdocs\mysite\vendor\codeigniter4\framework\system\CodeIgniter.php(400): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\ApiAuth))
+#2 E:\xampp\htdocs\mysite\vendor\codeigniter4\framework\system\CodeIgniter.php(308): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 E:\xampp\htdocs\mysite\index.php(84): CodeIgniter\CodeIgniter->run()
+#4 {main}
+CRITICAL - 2020-06-11 06:12:08 --> Call to a member function encryptor() on null
+#0 E:\xampp\htdocs\mysite\vendor\codeigniter4\framework\system\CodeIgniter.php(914): App\Controllers\ApiAuth->forget_password()
+#1 E:\xampp\htdocs\mysite\vendor\codeigniter4\framework\system\CodeIgniter.php(400): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\ApiAuth))
+#2 E:\xampp\htdocs\mysite\vendor\codeigniter4\framework\system\CodeIgniter.php(308): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 E:\xampp\htdocs\mysite\index.php(84): CodeIgniter\CodeIgniter->run()
+#4 {main}
+CRITICAL - 2020-06-11 06:12:23 --> Call to a member function encryptor() on null
+#0 E:\xampp\htdocs\mysite\vendor\codeigniter4\framework\system\CodeIgniter.php(914): App\Controllers\ApiAuth->forget_password()
+#1 E:\xampp\htdocs\mysite\vendor\codeigniter4\framework\system\CodeIgniter.php(400): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\ApiAuth))
+#2 E:\xampp\htdocs\mysite\vendor\codeigniter4\framework\system\CodeIgniter.php(308): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 E:\xampp\htdocs\mysite\index.php(84): CodeIgniter\CodeIgniter->run()
+#4 {main}
+CRITICAL - 2020-06-11 06:12:34 --> Call to a member function encryptor() on null
+#0 E:\xampp\htdocs\mysite\vendor\codeigniter4\framework\system\CodeIgniter.php(914): App\Controllers\ApiAuth->forget_password()
+#1 E:\xampp\htdocs\mysite\vendor\codeigniter4\framework\system\CodeIgniter.php(400): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\ApiAuth))
+#2 E:\xampp\htdocs\mysite\vendor\codeigniter4\framework\system\CodeIgniter.php(308): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 E:\xampp\htdocs\mysite\index.php(84): CodeIgniter\CodeIgniter->run()
+#4 {main}
+CRITICAL - 2020-06-11 06:13:08 --> Call to a member function encryptor() on null
+#0 E:\xampp\htdocs\mysite\vendor\codeigniter4\framework\system\CodeIgniter.php(914): App\Controllers\ApiAuth->forget_password()
+#1 E:\xampp\htdocs\mysite\vendor\codeigniter4\framework\system\CodeIgniter.php(400): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\ApiAuth))
+#2 E:\xampp\htdocs\mysite\vendor\codeigniter4\framework\system\CodeIgniter.php(308): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 E:\xampp\htdocs\mysite\index.php(84): CodeIgniter\CodeIgniter->run()
+#4 {main}
+CRITICAL - 2020-06-11 07:17:44 --> syntax error, unexpected 'else' (T_ELSE), expecting function (T_FUNCTION) or const (T_CONST)
+#0 E:\xampp\htdocs\mysite\vendor\codeigniter4\framework\system\Autoloader\Autoloader.php(296): CodeIgniter\Autoloader\Autoloader->requireFile('E:\\xampp\\htdocs...')
+#1 E:\xampp\htdocs\mysite\vendor\codeigniter4\framework\system\Autoloader\Autoloader.php(258): CodeIgniter\Autoloader\Autoloader->loadInNamespace('App\\Controllers...')
+#2 [internal function]: CodeIgniter\Autoloader\Autoloader->loadClass('App\\Controllers...')
+#3 [internal function]: spl_autoload_call('App\\Controllers...')
+#4 E:\xampp\htdocs\mysite\vendor\codeigniter4\framework\system\CodeIgniter.php(865): class_exists('\\App\\Controller...', true)
+#5 E:\xampp\htdocs\mysite\vendor\codeigniter4\framework\system\CodeIgniter.php(390): CodeIgniter\CodeIgniter->startController()
+#6 E:\xampp\htdocs\mysite\vendor\codeigniter4\framework\system\CodeIgniter.php(308): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#7 E:\xampp\htdocs\mysite\index.php(84): CodeIgniter\CodeIgniter->run()
+#8 {main}
+CRITICAL - 2020-06-11 07:17:45 --> syntax error, unexpected 'else' (T_ELSE), expecting function (T_FUNCTION) or const (T_CONST)
+#0 E:\xampp\htdocs\mysite\vendor\codeigniter4\framework\system\Autoloader\Autoloader.php(296): CodeIgniter\Autoloader\Autoloader->requireFile('E:\\xampp\\htdocs...')
+#1 E:\xampp\htdocs\mysite\vendor\codeigniter4\framework\system\Autoloader\Autoloader.php(258): CodeIgniter\Autoloader\Autoloader->loadInNamespace('App\\Controllers...')
+#2 [internal function]: CodeIgniter\Autoloader\Autoloader->loadClass('App\\Controllers...')
+#3 [internal function]: spl_autoload_call('App\\Controllers...')
+#4 E:\xampp\htdocs\mysite\vendor\codeigniter4\framework\system\CodeIgniter.php(865): class_exists('\\App\\Controller...', true)
+#5 E:\xampp\htdocs\mysite\vendor\codeigniter4\framework\system\CodeIgniter.php(390): CodeIgniter\CodeIgniter->startController()
+#6 E:\xampp\htdocs\mysite\vendor\codeigniter4\framework\system\CodeIgniter.php(308): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#7 E:\xampp\htdocs\mysite\index.php(84): CodeIgniter\CodeIgniter->run()
+#8 {main}
+CRITICAL - 2020-06-11 07:17:45 --> syntax error, unexpected 'else' (T_ELSE), expecting function (T_FUNCTION) or const (T_CONST)
+#0 E:\xampp\htdocs\mysite\vendor\codeigniter4\framework\system\Autoloader\Autoloader.php(296): CodeIgniter\Autoloader\Autoloader->requireFile('E:\\xampp\\htdocs...')
+#1 E:\xampp\htdocs\mysite\vendor\codeigniter4\framework\system\Autoloader\Autoloader.php(258): CodeIgniter\Autoloader\Autoloader->loadInNamespace('App\\Controllers...')
+#2 [internal function]: CodeIgniter\Autoloader\Autoloader->loadClass('App\\Controllers...')
+#3 [internal function]: spl_autoload_call('App\\Controllers...')
+#4 E:\xampp\htdocs\mysite\vendor\codeigniter4\framework\system\CodeIgniter.php(865): class_exists('\\App\\Controller...', true)
+#5 E:\xampp\htdocs\mysite\vendor\codeigniter4\framework\system\CodeIgniter.php(390): CodeIgniter\CodeIgniter->startController()
+#6 E:\xampp\htdocs\mysite\vendor\codeigniter4\framework\system\CodeIgniter.php(308): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#7 E:\xampp\htdocs\mysite\index.php(84): CodeIgniter\CodeIgniter->run()
+#8 {main}
+CRITICAL - 2020-06-11 07:25:05 --> required|min_length is not a valid rule.
+#0 E:\xampp\htdocs\mysite\vendor\codeigniter4\framework\system\Validation\Validation.php(302): CodeIgniter\Validation\Exceptions\ValidationException::forRuleNotFound('required|min_le...')
+#1 E:\xampp\htdocs\mysite\vendor\codeigniter4\framework\system\Validation\Validation.php(189): CodeIgniter\Validation\Validation->processRules('contact', 'contact', NULL, Array, Array)
+#2 E:\xampp\htdocs\mysite\vendor\codeigniter4\framework\system\Controller.php(219): CodeIgniter\Validation\Validation->run()
+#3 E:\xampp\htdocs\mysite\app\Controllers\Users.php(37): CodeIgniter\Controller->validate(Array)
+#4 E:\xampp\htdocs\mysite\vendor\codeigniter4\framework\system\CodeIgniter.php(914): App\Controllers\Users->store()
+#5 E:\xampp\htdocs\mysite\vendor\codeigniter4\framework\system\CodeIgniter.php(400): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Users))
+#6 E:\xampp\htdocs\mysite\vendor\codeigniter4\framework\system\CodeIgniter.php(308): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#7 E:\xampp\htdocs\mysite\index.php(84): CodeIgniter\CodeIgniter->run()
+#8 {main}
+CRITICAL - 2020-06-11 07:25:07 --> required|min_length is not a valid rule.
+#0 E:\xampp\htdocs\mysite\vendor\codeigniter4\framework\system\Validation\Validation.php(302): CodeIgniter\Validation\Exceptions\ValidationException::forRuleNotFound('required|min_le...')
+#1 E:\xampp\htdocs\mysite\vendor\codeigniter4\framework\system\Validation\Validation.php(189): CodeIgniter\Validation\Validation->processRules('contact', 'contact', NULL, Array, Array)
+#2 E:\xampp\htdocs\mysite\vendor\codeigniter4\framework\system\Controller.php(219): CodeIgniter\Validation\Validation->run()
+#3 E:\xampp\htdocs\mysite\app\Controllers\Users.php(37): CodeIgniter\Controller->validate(Array)
+#4 E:\xampp\htdocs\mysite\vendor\codeigniter4\framework\system\CodeIgniter.php(914): App\Controllers\Users->store()
+#5 E:\xampp\htdocs\mysite\vendor\codeigniter4\framework\system\CodeIgniter.php(400): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Users))
+#6 E:\xampp\htdocs\mysite\vendor\codeigniter4\framework\system\CodeIgniter.php(308): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#7 E:\xampp\htdocs\mysite\index.php(84): CodeIgniter\CodeIgniter->run()
+#8 {main}
